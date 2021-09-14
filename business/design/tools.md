@@ -1,0 +1,44 @@
+
+## Pixel editor
+* https://rx.cloudhead.io/
+
+## Mockups and Flows
+* https://www.figma.com/wireframe-tool/
+* https://balsamiq.com/
+* https://www.adobe.com/products/xd/solutions/wireframe-tool.html
+* https://overflow.io/
+* https://www.flowmapp.com/
+* https://timblee.com/
+* https://wireflow.co/ - open source and pretty clean design for just simple flows
+* https://www.justinmind.com/free-wireframing-tool
+* https://wireframe.cc/
+* https://miro.com/templates/app-wireframe-tool/
+* https://www.invisionapp.com/studio
+* https://www.mockflow.com/
+* https://moqups.com/
+* https://proto.io/
+* https://www.sketch.com/
+* https://www.fluidui.com/
+* https://www.framer.com/
+
+## Diagramming
+* https://www.lucidchart.com/pages/
+* http://draw.io/
+* https://excalidraw.com/ - open source as well, napkin style
+* https://online.visual-paradigm.com/
+* https://www.xmind.net/
+* https://www.visme.co/flowchart-maker/
+* https://www.gliffy.com/
+* https://www.mindmeister.com/
+* https://cacoo.com/
+
+## Hosting / Portfolios
+* https://www.format.com/
+* https://wordpress.com/
+
+## Collaboration
+* https://whimsical.com/
+* https://miro.com/
+* https://creately.com/
+* https://www.mural.co/
+* https://www.abstract.com/

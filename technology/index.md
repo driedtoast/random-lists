@@ -16,6 +16,8 @@
 
 ## Dev resource sites
 * https://www.devglan.com/
+* https://learn.figment.io/  - crypto 
+* https://geekflare.com/
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example

@@ -12,6 +12,8 @@
 
 ## Spring boot
 
+* https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html#application-properties.core
+
 ### Security
 * https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2login-advanced
 * https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2login
@@ -21,7 +23,10 @@
 * https://www.baeldung.com/spring-security-5-oauth2-login
 * https://skryvets.com/blog/2020/04/04/configure-oauth2-spring-authorization-server-with-jwt-support/
 * https://blog.marcosbarbero.com/centralized-authorization-jwt-spring-boot2/
+* https://developer.okta.com/blog/2021/05/05/client-credentials-spring-security#intro-to-spring-security-5-core-classes
 
+### Cache
+* https://auth0.com/blog/spring-boot-caching-101/
 
 ### Testing
 * https://tanzu.vmware.com/content/pivotal-engineering-journal/faking-oauth2-single-sign-on-in-spring-3-ways
@@ -34,3 +39,4 @@
 ## Testing
 * https://karuppiah7890.github.io/blog/posts/testcontainers-part-2-testcontainers-in-java-for-your-tests-with-junit-5/
 * https://dev.to/jhonifaber/building-testing-and-publishing-your-java-project-with-github-actions-3j17
+* https://medium.com/@dzivet/email-integration-in-spring-boot-with-a-fake-smtp-service-ethereal-677937bad4bf - email testing

@@ -7,3 +7,6 @@
 
 ## Video creation
 * https://www.loom.com/
+
+## Research
+* https://www.optimalworkshop.com/

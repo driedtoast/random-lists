@@ -3,6 +3,9 @@
 ## Theories
 * https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money
 
+## Networks
+* https://en.wikipedia.org/wiki/Merchant_Customer_Exchange
+
 
 ## Cashflow process and modeling
 

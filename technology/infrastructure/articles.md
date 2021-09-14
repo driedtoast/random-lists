@@ -1,6 +1,10 @@
 
 # AWS
 
+## EC2
+* https://unix.stackexchange.com/questions/24355/is-there-a-way-to-get-the-public-dns-address-of-an-instance
+* https://medium.com/@radhagayathripatel/retrieving-aws-ec2-instance-metadata-using-metadata-in-scripts-251bf18dbabf
+
 ## DynamoDB
 * https://www.dynamodbguide.com/working-with-multiple-items/
 
@@ -27,6 +31,7 @@
 * https://rjackson.dev/posts/setting-up-dns-for-developers-on-osx/
 * https://passingcuriosity.com/2013/dnsmasq-dev-osx/
 * https://gist.github.com/ogrrd/5831371 
+* https://tailscale.com/blog/2021-09-private-dns-with-magicdns/
 * http://neilsmind.com/2016/11/21/docker-config-on-new-macbook.html
     * https://gist.github.com/eloypnd/5efc3b590e7c738630fdcf0c10b68072
 

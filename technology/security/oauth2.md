@@ -20,6 +20,7 @@
 * https://oidcdebugger.com/
 * http://jwtbuilder.jamiekurtz.com/
 * https://oauth.tools/
+* https://jwt.io/
 
 
 ### Mock servers
