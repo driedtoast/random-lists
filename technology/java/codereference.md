@@ -16,6 +16,9 @@
 
 ## Spring 
 
+* https://github.com/spring-cloud/spring-cloud-connectors
+* https://github.com/spring-cloud-samples/aws-refapp
+
 ### Security
 * https://github.com/mocklab/spring-boot-react-oauth2-social-login-demo/blob/master/spring-social/src/main/java/com/example/springsocial/security/oauth2/OAuth2AuthenticationSuccessHandler.java
 * https://github.com/tobiasflohre/movie-database/blob/master/movie-database-security/src/main/java/de/codecentric/moviedatabase/security/configuration/SecurityConfiguration.java#L35

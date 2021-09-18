@@ -22,3 +22,9 @@
 ## Screen Scraping
 * https://cheerio.js.org/ 
     * https://github.com/cheeriojs/cheerio
+
+
+## Query String processing
+* https://github.com/sindresorhus/query-string
+* https://www.npmjs.com/package/qhistory
+* https://github.com/jerrybendy/url-search-params-polyfill 

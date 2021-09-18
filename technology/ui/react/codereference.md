@@ -1,7 +1,16 @@
 
 
+## State
+* https://kentcdodds.com/blog/application-state-management-with-react
+* https://github.com/amiroff157/movie-lab/blob/main/src/components/Login/index.tsx
+
 ## Routing
 * https://reactrouter.com/web/example/auth-workflow
+
+## Design Kits
+
+### Material UI
+* https://github.com/mui-org/material-ui/tree/master/examples/create-react-app-with-styled-components-typescript
 
 ## AWS 
 

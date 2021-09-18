@@ -27,6 +27,13 @@
 * https://www.uptrends.com/
     * https://www.uptrends.com/products/synthetics/synthetic-monitoring
 
+## CI / Deployment
+* https://harness.io/
+* https://digital.ai/
+* https://begin.com/
 
 ## Search
 * https://www.algolia.com/
+
+## Hosting
+* https://www.bluehost.com/

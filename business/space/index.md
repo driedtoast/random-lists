@@ -9,6 +9,7 @@
 ## Infrastructure
 * https://www.maxar.com/
 * https://www.responsiveaccess.com/
+* https://www.privateer.com/ - could be rockets too 
 
 ## Communication
 * https://ast-science.com/

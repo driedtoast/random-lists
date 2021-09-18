@@ -1,7 +1,8 @@
 
 
 
-
+## State Machines
+* https://stackoverflow.com/questions/13221168/how-to-implement-a-fsm-finite-state-machine-in-java
 
 ## Quarkus
 
@@ -13,6 +14,14 @@
 ## Spring boot
 
 * https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html#application-properties.core
+* https://www.toptal.com/java/spring-boot-rest-api-error-handling
+* https://cloud.spring.io/spring-cloud-aws/1.2.x/multi/multi__cloud_environment.html
+* https://docs.awspring.io/spring-cloud-aws/docs/current/reference/html/index.html#retrieving-instance-metadata
+* https://dzone.com/articles/a-simple-state-machine-for-spring-boot-projects
+
+### Caching
+* https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.caching
+* https://docs.spring.io/spring-framework/docs/5.3.9/reference/html/integration.html#cache
 
 ### Security
 * https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2login-advanced
@@ -24,6 +33,9 @@
 * https://skryvets.com/blog/2020/04/04/configure-oauth2-spring-authorization-server-with-jwt-support/
 * https://blog.marcosbarbero.com/centralized-authorization-jwt-spring-boot2/
 * https://developer.okta.com/blog/2021/05/05/client-credentials-spring-security#intro-to-spring-security-5-core-classes
+* https://www.gitmemory.com/issue/spring-projects/spring-security/7793/572198166
+* https://docs.spring.io/spring-security/site/docs/5.0.x/reference/html/jc.html#jc-oauth2login-override-boot-autoconfig
+
 
 ### Cache
 * https://auth0.com/blog/spring-boot-caching-101/

@@ -9,6 +9,7 @@
 * https://developers.google.com/identity/protocols/oauth2/web-server#creatingcred
 * https://github.com/googleapis/google-oauth-java-client/wiki/OAuth-2.0
 * https://developers.google.com/api-client-library/java/google-api-java-client/oauth2
+* https://cloud.google.com/identity-platform/docs/use-rest-api
 
 
 

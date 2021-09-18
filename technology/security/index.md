@@ -6,6 +6,9 @@
 
 ## Open connect
 * https://openid.net/specs/openid-connect-core-1_0.html
+* https://openid.net/specs/openid-connect-core-1_0-17_orig.html#NonceNotes
+* https://openid.net/specs/openid-connect-core-1_0.html#CodeFlowSteps
+* https://openid.net/specs/openid-connect-core-1_0.html#AuthRequest
 
 ## SCIM 
 * https://i2scim.io/Intro-to-SCIM.html

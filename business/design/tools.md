@@ -32,6 +32,9 @@
 * https://www.mindmeister.com/
 * https://cacoo.com/
 
+## Illustration
+* https://venngage.com/
+
 ## Hosting / Portfolios
 * https://www.format.com/
 * https://wordpress.com/
@@ -42,3 +45,8 @@
 * https://creately.com/
 * https://www.mural.co/
 * https://www.abstract.com/
+
+## 3d Printers
+* https://formlabs.com/3d-printers/form-3/ - resin
+* https://www.anycubic.com/products/photon-mono-x-resin-printer - resin
+* https://glowforge.com/
