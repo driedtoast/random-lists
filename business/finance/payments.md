@@ -34,3 +34,4 @@
 ## Crypto
 * https://www.diem.com/en-us/
 * https://www.novi.com/
+* https://plutus.it/

@@ -6,6 +6,9 @@
 ## Data Storage
 * https://mindsdb.com/
 
+## Embedded Systems
+* https://www.luos.io/
+
 ## Monitoring
 * https://www.rookout.com/
 * https://sentry.io/welcome/
@@ -24,6 +27,7 @@
 * https://www.datadoghq.com/
 * https://assertible.com/
 * https://smartbear.com/product/alertsite/overview/
+* https://www.honeycomb.io/
 * https://www.uptrends.com/
     * https://www.uptrends.com/products/synthetics/synthetic-monitoring
 
@@ -37,3 +41,4 @@
 
 ## Hosting
 * https://www.bluehost.com/
+* https://www.digitalocean.com/

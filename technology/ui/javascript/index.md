@@ -6,6 +6,9 @@
 * https://mitosis.builder.io/?outputTab=vue - write once and port
     * https://github.com/BuilderIO/mitosis
 
+## JQuery
+* https://github.com/techlab/jquery-smartwizard 
+
 ## Site generation
 * https://github.com/segmentio/metalsmith
 
@@ -28,3 +31,6 @@
 * https://github.com/sindresorhus/query-string
 * https://www.npmjs.com/package/qhistory
 * https://github.com/jerrybendy/url-search-params-polyfill 
+
+## Debugging
+* https://github.com/watson/console-log-level

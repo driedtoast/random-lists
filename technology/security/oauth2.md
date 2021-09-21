@@ -11,7 +11,8 @@
 * https://developers.google.com/api-client-library/java/google-api-java-client/oauth2
 * https://cloud.google.com/identity-platform/docs/use-rest-api
 
-
+## Proxy
+* https://oauth2-proxy.github.io/oauth2-proxy/
 
 ## Okta / Auth0
 * https://auth0.com/docs/connections/social/oauth2

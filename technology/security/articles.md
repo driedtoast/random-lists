@@ -10,6 +10,9 @@
 * https://aaronparecki.com/oauth-2-simplified/#web-server-apps
 * https://www.ge.com/digital/documentation/predix-services/IZjYwZTYzYTEtZjllYS00ZTA3LTliZWItZGQ5MDMyMmY1Yzk1.html
 
+## Proxy ideas
+* https://medium.com/codex/api-authentication-using-istio-ingress-gateway-oauth2-proxy-and-keycloak-a980c996c259
+
 ## Open Connect
 * https://darutk.medium.com/understanding-id-token-5f83f50fa02e
 

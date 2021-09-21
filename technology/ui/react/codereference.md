@@ -3,9 +3,11 @@
 ## State
 * https://kentcdodds.com/blog/application-state-management-with-react
 * https://github.com/amiroff157/movie-lab/blob/main/src/components/Login/index.tsx
+* https://github.com/atulmy/crate - store with subs
 
 ## Routing
 * https://reactrouter.com/web/example/auth-workflow
+* https://gist.github.com/yajra/5f5551649b20c8f668aec48549ef5c1f
 
 ## Design Kits
 

@@ -34,3 +34,4 @@
 
 ## Book and publishing
 * https://thebrightagency.com/us
+* https://www.organizedhavoc.com/ - comic syndicate

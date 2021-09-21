@@ -9,3 +9,4 @@
 * https://figment.io/
 * https://tendermint.com/
 * https://www.gooddollar.org/
+* https://tatum.io/

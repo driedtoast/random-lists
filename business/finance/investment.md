@@ -15,6 +15,7 @@
 ## Social Investing
 * https://sweater.gg/
 * https://www.onlyalt.com/
+* https://www.hervest.ng/home
 
 ## Early stage / Equity
 * https://www.startengine.com/

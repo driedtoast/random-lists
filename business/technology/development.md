@@ -10,3 +10,4 @@
 
 ## Testing
 * https://smartmock.io/
+* https://k6.io/ - load

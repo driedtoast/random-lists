@@ -19,6 +19,12 @@
 * https://www.gitmemory.com/
 * https://www.freetimelearning.com/index.php - looks like a scraper approach for resources
 * https://thinkster.io/
+* https://alligator.io/ - front end focused
+* https://plainenglish.io/
+* https://www.webtips.dev/ - react and front end
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example
+
+## Open source management
+* https://issuehunt.io/

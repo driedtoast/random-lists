@@ -4,6 +4,9 @@
 * https://mercury.com/ - business
 * https://www.tide.co/
 * https://www.novi.com/
+* https://www.airwallex.com/us - business
+* https://www.withkoa.com/
+* https://tryjeeves.com/ - business
 
 ## Consumer cards
 * https://www.varomoney.com/
