@@ -10,6 +10,7 @@
 * https://quarkus.io/guides/building-native-image - native executable
 * https://quarkus.io/guides/security-openid-connect
 * https://quarkus.io/guides/security-openid-connect-client
+* https://lordofthejars.github.io/quarkus-cheat-sheet/ 
 
 ## Spring boot
 

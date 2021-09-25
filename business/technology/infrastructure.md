@@ -31,10 +31,26 @@
 * https://www.uptrends.com/
     * https://www.uptrends.com/products/synthetics/synthetic-monitoring
 
+
 ## CI / Deployment
 * https://harness.io/
 * https://digital.ai/
 * https://begin.com/
+* https://bitnami.com/
+* https://www.instaclustr.com/
+* https://www.env0.com/
+
+## Queues / Streams
+* https://strimzi.io/
+* https://aiven.io/kafka
+* https://debezium.io/
+* https://vectorized.io/redpanda/
+* https://axoniq.io/
+
+### Monitoring
+* https://kpow.io/
+* https://lenses.io/
+* https://dashbird.io/
 
 ## Search
 * https://www.algolia.com/
@@ -42,3 +58,4 @@
 ## Hosting
 * https://www.bluehost.com/
 * https://www.digitalocean.com/
+

@@ -8,6 +8,9 @@
 * https://reactjs.org/docs/faq-functions.html
 * https://medium.com/dooboolab/announcing-dooboo-cli-v3-5c9fceeb2ac4
 * https://www.taniarascia.com/getting-started-with-react/
+* https://github.com/damikun/trouble-training
+* https://stackblitz.com/@cornflourblue
+
 
 ## Component 
 * https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/
@@ -16,10 +19,13 @@
 * https://fettblog.eu/typescript-react/components/
 * https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/hooks
 * https://thinkster.io/tutorials/iterating-and-rendering-loops-in-react
+* https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/
+* https://medium.com/@pushplaybang/practical-react-control-render-thrashing-rendering-performance-6a491679e766
 
 ## Routing
 * https://reach.tech/router/api/useLocation
 * https://react-redux.js.org/api/connect#connect-returns
+
 
 ## Style
 * https://react.school/material-ui/grid
@@ -53,6 +59,7 @@
 * https://tkdodo.eu/blog/practical-react-query
 * https://cretezy.com/2020/react-query-axios-authentication
 * https://tkdodo.eu/blog/react-query-as-a-state-manager
+* https://codeworkshop.dev/blog/2020-04-15-fetching-data-with-react-query-and-suspense/
 
 ## State management
 * https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0
@@ -64,7 +71,16 @@
 * https://css-tricks.com/getting-to-know-the-usereducer-react-hook/
 * https://css-tricks.com/digging-into-react-context/
 * https://leewarrick.com/blog/the-problem-with-context/
+* https://thoughtsandstuff.com/intro-to-react-recoil-state-management-library/
+* https://betterprogramming.pub/recoil-a-new-state-management-library-moving-beyond-redux-and-the-context-api-63794c11b3a5
+* https://dev.to/malloc007/migrate-context-to-recoil-40mc
+* https://creact.app/
+* https://medium.com/javascript-essentials/understanding-recoil-the-state-management-system-for-react-6ef75b63f851
 
 ## Feature flags
 * https://www.webtips.dev/feature-flags-in-react
 * https://sergiodxa.com/articles/feature-flags-react
+
+## Mocking
+* https://jasonwatmore.com/post/2020/03/10/react-fetch-fake-backend-example-for-backendless-development
+* https://reactjs.org/docs/thinking-in-react.html

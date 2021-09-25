@@ -17,3 +17,7 @@
 
 ## APIs
 * https://github.com/public-apis/public-apis
+
+## CSS
+* https://tailwindcss.com/
+* https://tailwindcss-glassmorphism.vercel.app/ - tailwindcss

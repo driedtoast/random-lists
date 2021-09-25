@@ -20,3 +20,8 @@
 ## Task Management
 * https://www.donedone.com/
 * https://happybara.io/ - slack integration
+* https://www.workiva.com/
+
+## Insurance
+* https://clearcover.com/
+* https://www.policygenius.com/

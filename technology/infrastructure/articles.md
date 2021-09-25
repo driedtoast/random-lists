@@ -38,3 +38,9 @@
 ## Cert management
 * https://community.letsencrypt.org/t/using-certbot-for-local-certs/76166
 * https://www.digitalocean.com/community/tutorials/how-to-acquire-a-let-s-encrypt-certificate-using-dns-validation-with-acme-dns-certbot-on-ubuntu-18-04
+
+## Kafka
+* https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/
+
+## Architecture 
+* https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#the_modular_monolith

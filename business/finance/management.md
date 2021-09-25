@@ -7,6 +7,12 @@
 * https://www.airwallex.com/us - business
 * https://www.withkoa.com/
 * https://tryjeeves.com/ - business
+* https://beetech.global/
+* https://chippercash.com/
+
+## General 
+* https://boardable.com/ - board management
+
 
 ## Consumer cards
 * https://www.varomoney.com/
@@ -18,6 +24,9 @@
 * https://greenlight.com/
 * https://step.com/
 
+## Lending
+* https://www.figure.com/
+
 ## Cashflow Management
 * https://www.settle.com/ - pay vendors / get money
 * https://runway.com/ - still early
@@ -27,6 +36,9 @@
 * https://www.ivalua.com/ - spend management
 * https://revenuegrid.com/ - revenue intelligence
 * https://www.clari.com/ - forecasting
+* https://flyrlabs.com/ - for airlines
+* https://paddle.com/
+* https://boastcapital.com/
 
 ## Forecasting / Predictions
 * https://www.mosaic.tech/ - financial decisions

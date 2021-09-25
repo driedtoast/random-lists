@@ -5,6 +5,8 @@
 * https://creativemarket.com/
 * https://fontawesome.com/
 * https://designmodo.com/startup/
+* https://appseed.us/
+* https://www.creative-tim.com/
 
 ## Work Management
 * https://kitchen.co/

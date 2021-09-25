@@ -5,3 +5,8 @@
 
 ## Product discovery / news
 * https://www.which.co.uk/
+
+## Social
+* https://zen.ly/
+* https://www.joinpapa.com/
+

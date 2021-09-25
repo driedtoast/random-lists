@@ -10,3 +10,4 @@
 
 ## Graphics
 * https://github.com/RazrFalcon/resvg
+* https://github.com/discord/metal-rs

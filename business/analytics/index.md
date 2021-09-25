@@ -7,6 +7,7 @@
 * https://pirsch.io/
 * https://mixpanel.com/
 * https://raygun.com/
+* https://amplitude.com/ - with journeys
 
 ## Sales tracking
 * https://inaccord.com/
@@ -24,3 +25,11 @@
 * https://www.flagship.io/
 * https://www.abtasty.com/
 * https://www.optimizely.com/
+* https://www.getunleash.io/
+
+## Reporting 
+* https://observablehq.com/
+* https://www.grow.com/
+
+## Manufacturing / Process
+* https://www.seeq.com/

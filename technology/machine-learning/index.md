@@ -8,6 +8,9 @@
 * (https://en.wikipedia.org/wiki/Bloom's_taxonomy)
 * https://canonical-capsules.github.io/
 
+## Platform Approaches
+* https://github.com/fabiopardo/tonic
+
 ## GPT-2
 * https://github.com/NVIDIA/Megatron-LM
 * https://www.deepspeed.ai/

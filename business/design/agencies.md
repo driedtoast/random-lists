@@ -7,6 +7,8 @@
 * https://wearepassport.com/
 * https://www.getcreativefarm.com/
 * https://www.grapevinevillage.com/ - marketing / influencers
+* https://www.blueberry.io/
+* https://www.singlegrain.com/
 
 ## Application and UI Design
 * https://www.bostonux.com/
@@ -17,7 +19,12 @@
 * https://dockyard.com/
 * https://www.thedroidsonroids.com/#welcome -  mobile focus
 * https://augusto.digital/
-
+* https://verygood.ventures/
+* https://www.miquido.com/
+* https://spdload.com/
+* https://clutch.co/ - search for  agency
+* https://rangle.io/
+* https://hellotonic.com/
 
 ## Designers
 * https://dribbble.com/mikekus

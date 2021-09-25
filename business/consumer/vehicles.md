@@ -30,10 +30,12 @@
 * https://www.fcpeuro.com/Volvo-parts/240/
 * https://www.ipdusa.com/
     * https://www.ipdusa.com/products/5847/Billet-HD-VX-Street-Performance-Camshaft-for-Non-Turbos-for-Volvo-Ipd-114938?crumbs=T0,T10078
+    * https://www.ipdusa.com/products/6856/Right-Door-Pocket-Cover-Tan-200-for-Volvo-Ipd-102640?gclid=CjwKCAjwhaaKBhBcEiwA8acsHMvZ1BOtZhUHayL49xlbm5DtaABT9JvdjejXGeOx7-0xW2IOYKI3BRoCj9QQAvD_BwE
 * https://www.davebarton.com/coolvolvoproducts.html
     * https://www.prancingmoose.com/grilloverlays.html#vinylgrills
     * https://www.prancingmoose.com/usedvolvoparts.html
     * https://www.prancingmoose.com/240-odometer-repair.html#1986-93_240
+    * https://www.prancingmoose.com/doorvinyl.html - need this 
 * https://www.bneshop.com/collections/240
 * https://yoshifab.com/store/240-chassis/suspension.html
 * https://www.wagonmeister.com/instrument-clusters-for-240
@@ -58,6 +60,9 @@
 * https://www.classicswede.org/shop/240-260-series
     * https://www.classicswede.org/shop/headlight-right-hand-side-genuine-volvo-240-1981-1993-right-hand-drive
 * https://www.eeuroparts.com/Parts/64408/Twin-Horn-Kit-Supertone-003399801/ - horn
+* https://www.usapartsonline.com/product-page/1992-volvo-volvo-240-series-engine-2-3l-vin-82-83-or-88-6th-7th-dig-b23
+* https://www.etsfbc.top/index.php?main_page=product_info&products_id=133050
+* https://www.tradera.com/en/category/302204
 
 
 ### Articles
@@ -68,9 +73,12 @@
 * https://www.motortrend.com/features/lets-talk-volvo-engines/
 * https://www.swedespeed.com/threads/just-a-little-more-power-240-dl.181550/
 * http://forums.turbobricks.com/showthread.php?t=26609
-* https://www.240turbo.com/volvo240mods.html
+* https://www.240turbo.com/volvo240mods.html - keeper
 * https://www.matthewsvolvosite.com/
 * https://www.prancingmoose.com/240-odometer-repair.html#1992-93_240
 * https://www.davebarton.com/pdf/240faceinstall81-93.pdf
 * https://www.auslandervlv.com/identify-a-240
 * http://smclassiccars.com/volvo/403692-1984-volvo-240-rally-wagon-ipd-sway-bar-bilstein-shocks-r-sport-wheel-etc.html
+* http://forums.turbobricks.com/showthread.php?t=294116
+* https://www.ifixit.com/Device/1986-1993_Volvo_240
+* https://www.prancingmoose.com/doorvinyl.html#installation

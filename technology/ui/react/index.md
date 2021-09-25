@@ -6,6 +6,8 @@
 * https://divjoy.com/
 * https://docs.rmuif.com/getting-started
 * https://github.com/dooboolab/dooboo-cli
+* https://github.com/kevinomyonga/R3F-CRA-Starter
+* https://www.copycat.dev/ - from figma
 
 ## General
 * https://usehooks-typescript.com/react-hook/use-on-click-outsidesear{}
@@ -24,10 +26,18 @@
 * https://atlassian.design/components
 * https://v2.grommet.io/
 * https://blueprintjs.com/
+* http://bluekit.blueberry.io/
 * https://mui.com/ 
     * https://mui.com/api/svg-icon/
 * https://marmelab.com/react-admin/ 
     * https://github.com/henvo/ra-jsonapi-client
+* https://react-rainbow.io/
+* https://github.com/intercaetera/formuj
+* https://github.com/eBay/nice-modal-react
+
+## Documentation
+* https://github.com/pocotan001/react-styleguide-generator 
+* https://www.docz.site/
 
 ## Social Buttons
 * https://www.npmjs.com/package/react-social-login-buttons
@@ -35,18 +45,31 @@
 ## Drag and Drop
 * https://react-dnd.github.io/react-dnd/about
 
-## Charting Libs
+## Charting Libs / Dashboards
 * https://recharts.org/en-US
+* https://www.admin-dashboards.com/react-berry-dashboard-complete-review/
 
 ## Style
 * https://styled-components.com/
 
+## Animation 
+* https://react-spring.io/
+    * https://github.com/pmndrs/react-spring
+* https://github.com/knowankit/react-bubbly-effect-button
+* https://reactpixi.org/
+* https://github.com/facebook/react/tree/main/packages/react-art
+* https://github.com/pmndrs/react-three-fiber
+
 ## State
 * https://recoiljs.org/
 * https://github.com/kenneth1003/react-render-ctrl
+* https://github.com/reduxjs/reselect
+* https://redux-toolkit.js.org/
 
 ## Text editor
 * https://docs.slatejs.org/
+* https://draftjs.org/
+
 
 ## Labels and Text
 * https://github.com/i18next/react-i18next/tree/master/example/v9.x.x/react-fluent
@@ -61,6 +84,7 @@
 * https://crazyfactory.github.io/tinka/
 * https://emileber.github.io/axios-middleware/#/
 * https://github.com/svrcekmichal/redux-axios-middleware
+* https://relay.dev/
 
 ## Security
 * https://www.npmjs.com/package/react-query-auth
@@ -83,3 +107,8 @@
 ## Feature flags
 * https://www.npmjs.com/package/react-feature-flags
 * https://github.com/sergiodxa/flagged
+
+## Testing
+* https://github.com/carteb/carte-blanche
+* https://reactcosmos.org/
+* https://scup.github.io/atellier/

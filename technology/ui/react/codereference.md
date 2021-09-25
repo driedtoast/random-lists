@@ -1,4 +1,5 @@
-
+## General app
+* https://github.com/securingsincity/react-ace-create-react-app-example
 
 ## State
 * https://kentcdodds.com/blog/application-state-management-with-react

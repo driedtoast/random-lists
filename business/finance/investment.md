@@ -11,11 +11,17 @@
 
 ## Management
 * https://www.getcoconut.com/ - for sole traders
+* https://humaninterest.com/ - 401k
+* https://www.fireblocks.com/
+
+## Trading Apps
+* https://www.m1finance.com/
 
 ## Social Investing
 * https://sweater.gg/
 * https://www.onlyalt.com/
 * https://www.hervest.ng/home
+* https://public.com/
 
 ## Early stage / Equity
 * https://www.startengine.com/
