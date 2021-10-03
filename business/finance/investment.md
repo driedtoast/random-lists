@@ -13,8 +13,6 @@
 * https://www.getcoconut.com/ - for sole traders
 * https://humaninterest.com/ - 401k
 * https://www.fireblocks.com/
-
-## Trading Apps
 * https://www.m1finance.com/
 
 ## Social Investing
@@ -23,18 +21,31 @@
 * https://www.hervest.ng/home
 * https://public.com/
 
+## Crypto
+* https://www.ambergroup.io/
+* https://www.maven11.com/
+* https://orthogonal.trading/
+* https://folkvang.io/
+
 ## Early stage / Equity
 * https://www.startengine.com/
 * https://www.equi.com/
 * https://republic.co/ - kickstarter like for investing in startups
+* https://beehivevp.com/
+* https://www.ourcrowd.com/
+* https://forgeglobal.com/
 
 ## Investment data
 * https://plaid.com/products/investments/
+* https://www.privco.com/
+* https://www.dnb.com/
+* https://datafiniti.co/ - really general data
 
 ## Equity Capital / VC
 * https://airspeedequity.com/
 * https://www.lev.vc/
 * https://www.w3cap.com/
+
 
 ### Micro PE / Company Acquirers
 * https://www.tinycapital.com/

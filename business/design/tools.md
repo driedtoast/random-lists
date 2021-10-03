@@ -54,3 +54,5 @@
 * https://www.anycubic.com/products/photon-mono-x-resin-printer - resin
 * https://glowforge.com/
 
+## Video editing
+* https://shotcut.org/

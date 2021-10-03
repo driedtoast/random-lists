@@ -21,6 +21,8 @@
 * https://jumpcrew.com/ - outsourced sales
 * https://www.cognism.com/
 * https://www.chilipiper.com/
+* https://awario.com/
+* https://leadformly.com/
 
 ### Ad Management
 * https://gumgum.com/
@@ -31,6 +33,27 @@
     * https://getlatka.com/companies/countries/united-states
 * https://supermetrics.com/
 * https://growjo.com/
+* https://www.netwisedata.com/
+* https://go.seamless.ai/
+* https://www.peopledatalabs.com/ - enrichment data
+* https://www.dowjones.com/professional/factiva/
+    * https://www.dowjones.com/professional/developer-platform/
+* https://salesintel.io/
+* https://www.salesflower.com/
+* https://coresignal.com/
+* https://index.okfn.org/dataset/companies/
+* https://powrbot.com/
+* http://api.opencorporates.com/documentation/API-Reference
+* https://libguides.mit.edu/bizcat/companies
+* https://www.sourcescrub.com/
+* https://www.spglobal.com/marketintelligence/en/
+* https://www.pitchbook.com/
+* https://www.fundoodata.com/
+* https://spyse.com/
+
+## Decisioning
+* https://peak.ai/us/
+* https://people.ai/
 
 ## PR
 * https://prowly.com/
@@ -41,6 +64,7 @@
 * https://www.rutterapi.com/ 
 * https://www.podium.com/v8/ - with communication aspects
 * https://www.viacustomers.com/ - commerce platform as well
+* https://www.bigcommerce.com/product/api/ - checkout 
 
 ### Shipping
 * https://www.sendle.com/
@@ -52,6 +76,7 @@
 * https://www.revops.io/
 * https://www.clio.com/ - with legal features
 * https://ironcladapp.com/
+* https://www.captego.com/
 
 ## Integration Tooling
 * https://www.odoo.com/
@@ -64,6 +89,9 @@
 * https://confect.io/
 * https://fameswap.com/ - buy instagram accounts with followers
 * https://ahrefs.com/ - seo growth
+* https://jellop.com/ - for kickstarter projects
+* https://www.wishpond.com/
+* https://truenorth.io/
 
 ### Videos / Demos
 * https://biteable.com/

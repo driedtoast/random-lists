@@ -45,6 +45,10 @@
 ## Drag and Drop
 * https://react-dnd.github.io/react-dnd/about
 
+## Diagramming
+* https://github.com/projectstorm/react-diagrams
+* https://reactflow.dev/
+
 ## Charting Libs / Dashboards
 * https://recharts.org/en-US
 * https://www.admin-dashboards.com/react-berry-dashboard-complete-review/
@@ -94,6 +98,9 @@
 * https://crazyfactory.github.io/tinka/docs/middlewares/mock
 * https://jsonplaceholder.typicode.com/
 * https://github.com/tannerlinsley/react-query-devtools
+
+## Resources
+* https://react.christmas/2020
 
 ## Conferences 
 * https://reactadvanced.com/

@@ -5,6 +5,7 @@
 * https://www.namecheap.com/
 
 ## Dns providers
+* https://github.com/kubernetes-sigs/external-dns
 * https://porkbun.com/products/dns_management
     * https://github.com/infinityofspace/certbot_dns_porkbun - certbot for porkbun
 

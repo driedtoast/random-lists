@@ -16,6 +16,9 @@
 * https://nbt.substack.com/p/all-wedges-are-not-created-equal
 * https://thegeneralist.substack.com/p/affirm-the-morality-of-money
 
+## Verification
+* https://www.thalesgroup.com/en/markets/digital-identity-and-security/banking-payment/issuance/id-verification/know-your-customer
+
 ## Cashflow process and modeling
 * https://www.cfoselections.com/perspective/5-keys-to-accurate-cash-flow-forecasting
 * https://courses.corporatefinanceinstitute.com/courses/financial-models-templates

@@ -10,7 +10,8 @@
 * https://tendermint.com/
 * https://www.gooddollar.org/
 * https://tatum.io/
-
+* https://www.coinvise.co/
+* https://framework.ventures/
 
 ## Ethereum
 * https://etherscan.io/

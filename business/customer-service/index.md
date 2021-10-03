@@ -8,3 +8,7 @@
     * https://github.com/chatwoot/chatwoot
 * https://getstream.io/
 * https://www.servicetitan.com/
+* https://www.gladly.com/
+
+## Chatbots
+* https://botfront.io/

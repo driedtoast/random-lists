@@ -1,6 +1,10 @@
 
 
-# W3Specs
+## General
+* https://duo-labs.github.io/detail.html?secret-bridge
+* https://duo-labs.github.io/detail.html?cloudtracker
+
+## W3Specs
 * https://w3c.github.io/webappsec-cspee/
 
 
@@ -19,3 +23,7 @@
 
 ## SSH
 * https://github.com/google/hiba 
+
+## WebAuthn
+* https://duo-labs.github.io/detail.html?webauthn.io
+* https://webauthn.io/

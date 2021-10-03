@@ -11,6 +11,8 @@
 * https://quarkus.io/guides/security-openid-connect
 * https://quarkus.io/guides/security-openid-connect-client
 * https://lordofthejars.github.io/quarkus-cheat-sheet/ 
+* https://quarkus.io/quarkus-workshops/super-heroes/
+* https://quarkus.io/guides/cdi
 
 ## Spring boot
 
@@ -37,6 +39,9 @@
 * https://www.gitmemory.com/issue/spring-projects/spring-security/7793/572198166
 * https://docs.spring.io/spring-security/site/docs/5.0.x/reference/html/jc.html#jc-oauth2login-override-boot-autoconfig
 
+
+### Database 
+* https://reflectoring.io/zero-downtime-deployments-with-feature-flags/
 
 ### Cache
 * https://auth0.com/blog/spring-boot-caching-101/

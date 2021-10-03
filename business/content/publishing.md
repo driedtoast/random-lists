@@ -19,3 +19,7 @@
 
 ## CSS and design
 * https://cssninja.io/
+
+## Comics
+* https://platformcomics.com/ - competition
+* https://www.upstartcomics.com/

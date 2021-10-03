@@ -12,7 +12,8 @@
 ## Jaxrs
 * https://github.com/authlete/authlete-java-jaxrs/blob/master/src/main/java/com/authlete/jaxrs/BaseTokenEndpoint.java
 
-
+## Feature flags
+* https://github.com/togglz/togglz
 
 ## Spring 
 
@@ -31,6 +32,7 @@
 * https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/client/web/AuthorizationRequestRepository.html
 * https://github.com/spring-projects/spring-security/blob/main/oauth2/oauth2-client/src/main/java/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java#L83
 * https://github.com/spring-projects/spring-security/tree/5.1.3.RELEASE/samples/boot/oauth2login
+* https://stackoverflow.com/questions/68735859/how-to-authenticate-users-with-social-login-facebook-google-in-a-rest-api-bac
 
 ### Session
 * https://github.com/spring-projects/spring-session/tree/2.5.2/spring-session-samples/spring-session-sample-boot-findbyusername

@@ -9,3 +9,7 @@
 
 ## Skill training
 * https://degreed.com/
+* https://passion.io/
+* https://www.townscript.com/
+* https://www.jove.com/ - science / biotech
+* https://testdriven.io/

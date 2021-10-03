@@ -9,6 +9,7 @@
 * https://www.grapevinevillage.com/ - marketing / influencers
 * https://www.blueberry.io/
 * https://www.singlegrain.com/
+* https://augurian.com/
 
 ## Application and UI Design
 * https://www.bostonux.com/
@@ -25,6 +26,7 @@
 * https://clutch.co/ - search for  agency
 * https://rangle.io/
 * https://hellotonic.com/
+* https://tigerspike.com/
 
 ## Designers
 * https://dribbble.com/mikekus

@@ -6,3 +6,6 @@
 * https://github.com/gary-archer/oauth.websample.final
     * https://github.com/gary-archer/oauth.apisample.javaspringboot
 * https://github.com/gary-archer/oauth.webproxyapi
+
+## Aws build
+* https://github.com/nathanpeck/string-reverse

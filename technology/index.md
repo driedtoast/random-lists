@@ -21,6 +21,17 @@
 * https://unicode-org.github.io/icu/userguide/format_parse/messages/ - i18n format / icu
 * https://icu.unicode.org/
 * https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/overview.md - monitoring
+* https://www.iso.org/standard/54534.html - security in it
+* https://jsonnet.org/ref/spec.html
+* https://www.w3.org/TR/json-ld11/ - data linking in json
+* https://www.w3.org/TR/turtle/
+* http://specification.sifassociation.org/Implementation/Infrastructure/3.3/infrastructures/
+
+
+### Domains
+* https://publicsuffix.org/
+* http://www.ietf.org/rfc/rfc2109.txt
+* http://en.wikipedia.org/wiki/Internationalized_domain_name
 
 ## Dev resource sites
 * https://www.devglan.com/
@@ -36,12 +47,16 @@
 * https://thepracticaldeveloper.com/home/
 * https://www.positronx.io/
 * https://docs.appseed.us/content/tutorials/minimal-programming-kit
+* https://reflectoring.io/
+* https://css-for-js.dev/
+* https://cloudonaut.io/ - infrastructure related
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example
 
 ## Open source management
 * https://issuehunt.io/
+* https://libraries.io/ - package search
 
 ## Bots
 

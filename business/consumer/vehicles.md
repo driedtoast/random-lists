@@ -14,12 +14,26 @@
 ### Conversion
 * https://cascadiamotion.com/
 
+
 ## Apps
 * https://www.eyegage.com/
 * https://keep.tech/
 
 ## Bikes
 * https://us.privateerbikes.com/
+
+## Vehicle upgrades
+* https://www.theretrofitsource.com/universal-70mm-morimoto-xb-led-LF-UNIV?quantity=1
+* https://www.proturbo.us/
+* https://throtl.com/
+    * https://throtl.com/products/rad-fuel-surge-tanks-rad20-0133-00
+* https://www.summitracing.com/
+* https://www.motionraceworks.com/
+* https://www.ecstuning.com/
+* http://www.grantproducts.com/
+* https://www.bneshop.com/
+* https://fpautoparts.com/
+* https://www.crutchfield.com/S-gYkJYmxMqxd/p_15410435/Dynamat-10435-Xtreme-Door-Kit.html
 
 ## Volvo 240
 * https://www.auslandervlv.com/accessory-shop
@@ -28,6 +42,7 @@
     * https://store.voluparts.com/volvo-240-bumper-molding-clips/
 * https://www.erievovo.com/#stocat
 * https://www.fcpeuro.com/Volvo-parts/240/
+    * https://www.fcpeuro.com/Volvo-parts/240/?stype=on_sale&year=1992&m=20&e=914&t=5,6&b=6&d=34&v=11
 * https://www.ipdusa.com/
     * https://www.ipdusa.com/products/5847/Billet-HD-VX-Street-Performance-Camshaft-for-Non-Turbos-for-Volvo-Ipd-114938?crumbs=T0,T10078
     * https://www.ipdusa.com/products/6856/Right-Door-Pocket-Cover-Tan-200-for-Volvo-Ipd-102640?gclid=CjwKCAjwhaaKBhBcEiwA8acsHMvZ1BOtZhUHayL49xlbm5DtaABT9JvdjejXGeOx7-0xW2IOYKI3BRoCj9QQAvD_BwE
@@ -57,12 +72,17 @@
 * https://shop.klracing.se/sv/artiklar/modellanpassat/reservdelar/200-serien/belysning-4/index.html
 * http://www.aaaupholster.com/vo200se19.html
 * https://www.nukeperformance.com/product.html/adjustable-cam-pulley-volvo-8v-/-16v - engine performance
+    * https://www.nukeperformance.com/product.html/deatschwerks-dw200
 * https://www.classicswede.org/shop/240-260-series
     * https://www.classicswede.org/shop/headlight-right-hand-side-genuine-volvo-240-1981-1993-right-hand-drive
 * https://www.eeuroparts.com/Parts/64408/Twin-Horn-Kit-Supertone-003399801/ - horn
 * https://www.usapartsonline.com/product-page/1992-volvo-volvo-240-series-engine-2-3l-vin-82-83-or-88-6th-7th-dig-b23
 * https://www.etsfbc.top/index.php?main_page=product_info&products_id=133050
 * https://www.tradera.com/en/category/302204
+* https://aeromotiveinc.com/product/eliminator-fuel-pump/
+* https://www.weldonracing.com/store/D2035-A-p56104047
+* https://www.protuninglab.com/89vo24074094.html
+* http://www.slickcar.com/accessories/240_accessories.asp
 
 
 ### Articles
@@ -82,3 +102,4 @@
 * http://forums.turbobricks.com/showthread.php?t=294116
 * https://www.ifixit.com/Device/1986-1993_Volvo_240
 * https://www.prancingmoose.com/doorvinyl.html#installation
+* http://forums.turbobricks.com/showthread.php?t=324191 - racing upgrades

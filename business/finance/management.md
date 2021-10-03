@@ -12,6 +12,7 @@
 
 ## General 
 * https://boardable.com/ - board management
+* https://www.fincen.gov/ - verification
 
 
 ## Consumer cards
@@ -26,6 +27,8 @@
 
 ## Lending
 * https://www.figure.com/
+* https://kanmonhq.com/ - commercial
+* https://koodoo.io/
 
 ## Cashflow Management
 * https://www.settle.com/ - pay vendors / get money
@@ -39,12 +42,16 @@
 * https://flyrlabs.com/ - for airlines
 * https://paddle.com/
 * https://boastcapital.com/
+* https://www.recko.io/
+* https://www.brex.com/
 
-## Forecasting / Predictions
+## Forecasting / Predictions / Decision
 * https://www.mosaic.tech/ - financial decisions
 * https://gtmhub.com/
+* https://www.pecan.ai/
 
 ## Accounting / Bookkeeping
+* https://bench.co/
 * https://pilot.com/
     * https://pilot.com/rd-credit
 

@@ -7,6 +7,7 @@
 * https://www.vendr.com/
 * https://www.cardknox.com/
 * https://paysimple.com/
+* https://gospence.com/
 
 ## Subscription management
 * https://www.revenuecat.com/ - for mobile apps
@@ -18,8 +19,9 @@
 * https://www.fast.co/
 * https://www.checkout.com/
 
-## Collections
+## Collections / Dunning
 * https://www.gravysolutions.io/
+* https://stunning.co/
 
 ## Commerce
 * https://www.viacustomers.com/
@@ -39,16 +41,23 @@
 * https://www.capchase.com/
 * https://www.slope.so/
 * https://www.hokodo.co/
+* https://maple.finance/ - with crypto bent
 
 ## Infrastructure
 * https://orum.io/
 * https://www.highradius.com/ - treasury management
+* https://www.galileo-ft.com/ - issuance
+* https://www.treasuryprime.com/ - banking management
+* https://silamoney.com/ - plaid competitor
+* https://www.circle.com/en/
 
-## Crypto
+## Crypto / Ledgers
 * https://www.diem.com/en-us/
 * https://www.novi.com/
 * https://plutus.it/
 * https://rainbow.me/
+* https://pointchain.io/ 
+* https://flare.xyz/
 
 ### DAO
 * https://sharkdao.community/

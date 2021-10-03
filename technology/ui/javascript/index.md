@@ -29,9 +29,11 @@
 
 ## Utilities
 * https://immutable-js.com/
+* https://github.com/yosuke-furukawa/node-jsonnet - parses jsonnet
 
 ## Music
 * https://github.com/ghaiklor/icecast-parser
+* https://tonejs.github.io/
 
 ## Labels and Translations
 * https://projectfluent.org/
@@ -71,3 +73,4 @@
 
 ## Storage
 * https://localforage.github.io/localForage/
+

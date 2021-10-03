@@ -8,6 +8,7 @@
 * https://mixpanel.com/
 * https://raygun.com/
 * https://amplitude.com/ - with journeys
+* https://nozzle.io/
 
 ## Sales tracking
 * https://inaccord.com/
@@ -17,6 +18,7 @@
 * https://www.junglescout.com/
 * https://baremetrics.com/ - saas metrics
 * https://www.subscript.com/ - subscription metrics
+
 
 ## AB testing / feature flags
 * https://www.split.io/
@@ -30,6 +32,9 @@
 ## Reporting 
 * https://observablehq.com/
 * https://www.grow.com/
+* https://www.starburst.io/
+* https://www.widenarrow.com/
+* https://www.startree.ai/
 
 ## Manufacturing / Process
 * https://www.seeq.com/
