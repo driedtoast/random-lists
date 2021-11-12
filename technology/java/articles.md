@@ -21,10 +21,13 @@
 * https://cloud.spring.io/spring-cloud-aws/1.2.x/multi/multi__cloud_environment.html
 * https://docs.awspring.io/spring-cloud-aws/docs/current/reference/html/index.html#retrieving-instance-metadata
 * https://dzone.com/articles/a-simple-state-machine-for-spring-boot-projects
+* https://reflectoring.io/spring-boot-conditionals/
+* https://codingfullstack.com/java/spring-boot/docker-spring-boot-guide/
 
 ### Caching
 * https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.caching
 * https://docs.spring.io/spring-framework/docs/5.3.9/reference/html/integration.html#cache
+* https://codingfullstack.com/java/spring-boot/spring-boot-redis-cluster/
 
 ### Security
 * https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2login-advanced
@@ -42,6 +45,8 @@
 
 ### Database 
 * https://reflectoring.io/zero-downtime-deployments-with-feature-flags/
+* https://spring.io/blog/2011/08/15/configuring-spring-and-jta-without-full-java-ee/
+* https://www.fabiomaffioletti.me/blog/2014/04/15/distributed-transactions-multiple-databases-spring-boot-spring-data-jpa-atomikos/
 
 ### Cache
 * https://auth0.com/blog/spring-boot-caching-101/
@@ -52,6 +57,10 @@
 ## OAuth2 How to
 * https://connect2id.com/products/nimbus-oauth-openid-connect-sdk/guides/java-cookbook-for-openid-connect-public-clients
 * https://www.baeldung.com/java-ee-oauth2-implementation
+
+
+## Github Actions / Builds
+* https://dev.to/jakub_zalas/how-to-publish-maven-packages-to-a-single-github-repository-3lkc
 
 
 ## Testing

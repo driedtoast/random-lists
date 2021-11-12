@@ -18,6 +18,7 @@
 * https://www.junglescout.com/
 * https://baremetrics.com/ - saas metrics
 * https://www.subscript.com/ - subscription metrics
+* https://www.is.com/ - also mobile monetization
 
 
 ## AB testing / feature flags

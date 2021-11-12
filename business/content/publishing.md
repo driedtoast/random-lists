@@ -2,6 +2,11 @@
 ## Publishing platform
 * https://ghost.org/
 * https://unfold.com/ - mobile story telling in pictures
+* https://neatlypressed.com/ - wordpress hosting
+
+## NFTs
+* https://moopay.live/
+* https://royal.io/
 
 ## Video publishing
 * https://www.happaning.com/
@@ -23,3 +28,9 @@
 ## Comics
 * https://platformcomics.com/ - competition
 * https://www.upstartcomics.com/
+* https://www.comichron.com/
+* https://crimsonfablestudios.com/ - independant publisher
+
+### PR
+* https://donthidepr.wixsite.com/home
+* https://doomrocket.com/ - comic reviews

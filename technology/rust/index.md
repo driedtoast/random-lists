@@ -11,3 +11,7 @@
 ## Graphics
 * https://github.com/RazrFalcon/resvg
 * https://github.com/discord/metal-rs
+* https://rx.cloudhead.io/
+
+## Events
+* https://www.tremor.rs/

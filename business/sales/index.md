@@ -2,6 +2,7 @@
 * https://quickcard.com/
 * https://www.zoominfo.com/
 * https://www.yesware.com/
+* https://www.endgame.io/ - data integration
 
 ## Lead gen / Deal management
 * https://www.drift.com/ - through bots
@@ -23,6 +24,7 @@
 * https://www.chilipiper.com/
 * https://awario.com/
 * https://leadformly.com/
+* https://www.koncert.com/
 
 ### Ad Management
 * https://gumgum.com/
@@ -50,6 +52,8 @@
 * https://www.pitchbook.com/
 * https://www.fundoodata.com/
 * https://spyse.com/
+* https://www.middesk.com/
+* https://www.stackline.com/
 
 ## Decisioning
 * https://peak.ai/us/
@@ -65,10 +69,12 @@
 * https://www.podium.com/v8/ - with communication aspects
 * https://www.viacustomers.com/ - commerce platform as well
 * https://www.bigcommerce.com/product/api/ - checkout 
+* https://www.bluecore.com/ - targeted marketing and commerce
 
-### Shipping
+### Shipping / Warehouse management
 * https://www.sendle.com/
 * https://www.ketchcommerce.com/ 
+* https://getfabric.com/ - automation
 
 ## Contract Management
 * https://www.buyer.co/ - price negotiation 
@@ -77,6 +83,7 @@
 * https://www.clio.com/ - with legal features
 * https://ironcladapp.com/
 * https://www.captego.com/
+* https://www.monetizenow.io/
 
 ## Integration Tooling
 * https://www.odoo.com/
@@ -92,6 +99,15 @@
 * https://jellop.com/ - for kickstarter projects
 * https://www.wishpond.com/
 * https://truenorth.io/
+* https://rockcontent.com/ - content
+* https://www.productwind.com/
+
+### Content
+* https://writersperhour.com/
+* https://gumgum.com/
+
+### Social Media - followers
+* https://goread.io/ - buying likes and followers
 
 ### Videos / Demos
 * https://biteable.com/

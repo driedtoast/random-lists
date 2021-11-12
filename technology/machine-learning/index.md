@@ -10,6 +10,11 @@
 
 ## Platform Approaches
 * https://github.com/fabiopardo/tonic
+* https://mlflow.org/ - mlops
+* https://www.kubeflow.org/
+
+## Regression and Classification 
+* https://docs.seldon.io/projects/alibi/en/latest/
 
 ## GPT-2
 * https://github.com/NVIDIA/Megatron-LM

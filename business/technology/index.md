@@ -6,6 +6,10 @@
 
 ## Hardware
 * https://groq.com/ - gpu processors
+* https://mikrotik.com/ - routers
 
 ## Conferences
 * https://siliconslopes.com/
+
+## Internet Services
+* https://nomadinternet.com/

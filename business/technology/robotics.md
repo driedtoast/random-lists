@@ -1,4 +1,0 @@
-
-
-## AI
-* https://covariant.ai/

@@ -28,9 +28,11 @@
 
 ## Equity markets
 * https://thegeneralist.substack.com/p/the-state-of-micro-private-equity
+* https://theirrelevantinvestor.com/2021/10/30/the-state-of-venture-capital/
 
 ## Financial News
 * https://www.crowdfundinsider.com/
 * https://www.notboring.co/
 * https://thegeneralist.substack.com/
-
+* https://sifted.eu/
+* https://www.morningbrew.com/search?tag=Venture+capital

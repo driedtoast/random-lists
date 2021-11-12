@@ -11,7 +11,7 @@
 * https://github.com/damikun/trouble-training
 * https://stackblitz.com/@cornflourblue
 * https://reactjsexample.com/
-
+* https://stackoverflow.com/questions/51218979/react-router-doesnt-work-in-aws-s3-bucket 
 
 ## Component 
 * https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/
@@ -29,6 +29,7 @@
 
 ## Events
 * https://fettblog.eu/typescript-react/events/
+* https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e
 
 ## Style
 * https://react.school/material-ui/grid
@@ -56,6 +57,7 @@
 
 ## Animation
 * https://dev.to/elvis2280/scroll-reveal-with-framer-motion-224
+* https://dev.to/thatanjan/top-animation-libraries-for-react-2elh
 
 ## React Query
 * https://github.com/tannerlinsley/react-query-cached-in-60-minutes

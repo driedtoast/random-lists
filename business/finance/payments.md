@@ -8,16 +8,31 @@
 * https://www.cardknox.com/
 * https://paysimple.com/
 * https://gospence.com/
+* https://www.stampli.com/
+* https://tipalti.com/
+* https://www.forte.net/
+* https://usa.pingpongx.com/index
+* https://www.heartland.us/
+* https://www.velopayments.com/
+* https://www.relaypayments.com/ - for transportation
+* https://www.finixpayments.com/
+* https://www.trustly.net/
+
 
 ## Subscription management
 * https://www.revenuecat.com/ - for mobile apps
 * https://www.getoptimizer.com/
 * https://www.profitwell.com/
+* https://rev.io/
+* https://mrr.io/
+
 
 ### Checkout flow
 * https://heyflow.app/
 * https://www.fast.co/
 * https://www.checkout.com/
+* https://paddle.com/
+* https://primer.io/
 
 ## Collections / Dunning
 * https://www.gravysolutions.io/
@@ -42,6 +57,8 @@
 * https://www.slope.so/
 * https://www.hokodo.co/
 * https://maple.finance/ - with crypto bent
+* https://higo.io/
+* https://www.billie.io/
 
 ## Infrastructure
 * https://orum.io/
@@ -50,6 +67,10 @@
 * https://www.treasuryprime.com/ - banking management
 * https://silamoney.com/ - plaid competitor
 * https://www.circle.com/en/
+* https://rizefs.com/ - across account types
+* https://astra.finance/ - ach as a service
+* https://www.moderntreasury.com/
+
 
 ## Crypto / Ledgers
 * https://www.diem.com/en-us/

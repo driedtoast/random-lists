@@ -26,6 +26,7 @@
 * https://earthwave.co.uk/
 * https://www.surfaceintelligence.com/
 * https://www.space-intelligence.com/
+* https://spire.com/
 
 ### Satellite
 * https://brightascension.com/

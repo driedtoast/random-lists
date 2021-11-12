@@ -7,3 +7,7 @@
 
 ## AWS
 * https://localstack.cloud/
+
+## Mocking API
+* https://hoverfly.io/
+* http://wiremock.org/

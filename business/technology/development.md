@@ -13,22 +13,40 @@
 * https://www.goodbarber.com/
 * https://www.stackbit.com/
 * https://bymason.com/
+* https://appwrite.io/ - mobile 
+
+## Learning 
+* https://www.educative.io/
+
+## Productivity 
+* https://www.software.com/
 
 ## Workflow / Automation
 * https://go.decisions.com/
 * https://www.nylas.com/
+* https://tonkean.com/
+* https://kaholo.io/ - deploy automation
+* https://camunda.com/
+* https://pipedream.com/
+* https://reflector.io/
 
 ## Microservices 
 * https://temporal.io/
 * https://camunda.com/
 * https://particular.net/
 
+## Package mgmt
+* https://repsy.io/
+* https://jitpack.io/private
+
 ## Load testing
 * https://k6.io/
+* https://loader.io/
 
 ## Testing
 * https://smartmock.io/
 * https://k6.io/ - load
+* https://www.blazemeter.com/
 * https://www.tonic.ai/ - production cloning 
 
 
@@ -37,7 +55,11 @@
 * https://aiven.io/ - time series
 * https://min.io/ - object
 
+* https://pganalyze.com/ - postgres analysis
 
 ## Data processing
 * https://openrefine.org/
+* https://www.druva.com/
 
+## Machine Learning
+* https://www.spotml.io/

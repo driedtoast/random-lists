@@ -8,9 +8,11 @@
 * https://github.com/dooboolab/dooboo-cli
 * https://github.com/kevinomyonga/R3F-CRA-Starter
 * https://www.copycat.dev/ - from figma
+* https://github.com/NitzanHen/agrippa - cli for creating components
 
 ## General
 * https://usehooks-typescript.com/react-hook/use-on-click-outsidesear{}
+
 
 ## UI Component Lib
 * https://alexanmtz.github.io/material-sense/#/
@@ -34,6 +36,7 @@
 * https://react-rainbow.io/
 * https://github.com/intercaetera/formuj
 * https://github.com/eBay/nice-modal-react
+* https://react-grid.ag-grid.com/ - paid i think
 
 ## Documentation
 * https://github.com/pocotan001/react-styleguide-generator 
@@ -63,6 +66,9 @@
 * https://reactpixi.org/
 * https://github.com/facebook/react/tree/main/packages/react-art
 * https://github.com/pmndrs/react-three-fiber
+* https://www.framer.com/docs/
+* https://reactcommunity.org/react-transition-group/
+* https://react-move.js.org/#/
 
 ## State
 * https://recoiljs.org/

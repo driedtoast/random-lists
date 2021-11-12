@@ -2,12 +2,14 @@
 
 ## Redis integration
 * https://lettuce.io/
+* https://redisson.org/
 
 ## Frameworks
 * https://microprofile.io/
 * https://quarkus.io/
 * https://github.com/eclipse/microprofile-lra
 * https://linkedin.github.io/rest.li/
+* https://www.payara.fish/
 
 ## Labels and text
 * https://unicode-org.github.io/icu/userguide/icu4j/
@@ -20,21 +22,41 @@
 
 ## Monitoring
 * https://micrometer.io/
-* https://github.com/open-telemetry/opentelemetry-js
+
+
+## Builds
+* https://saker.build/index.html
 
 ## State Machines
 * http://www.statefulj.io/fsm/
 * https://github.com/j-easy/easy-states
 * https://github.com/Beh01der/EasyFlow
 
+## Json
+* https://github.com/FasterXML/jackson-datatype-hibernate
+
 ## Feature flags
 * https://github.com/Unleash/unleash
 
-## Transactions
+## Transactions / Database
 * https://github.com/snowdrop/narayana-spring-boot
 * https://narayana.io/
+* https://javalite.io/activejdbc/
+* http://www.sormula.org/
+* http://empire-db.apache.org/
+* http://cayenne.apache.org/
+* https://www.datanucleus.org/
+* https://openjpa.apache.org/
+* https://www.atomikos.com/ 
+* https://www.jooq.org/
+* https://ormlite.com/
+* https://querydsl.com/
 
 ## Event processing
 * https://eventuate.io/
     * https://eventuate.io/post/eventuate/2020/02/24/why-eventuate.html
 * https://github.com/linkedin/Brooklin/
+* https://smallrye.io/smallrye-mutiny/getting-started/creating-unis
+
+## Utilities
+* https://projectlombok.org/

@@ -9,6 +9,12 @@
 * https://tryjeeves.com/ - business
 * https://beetech.global/
 * https://chippercash.com/
+* https://www.bluebird.com/
+* https://www.zeta.tech/us/
+* https://www.hydrogenplatform.com/
+* https://happymoney.com/ - novel card / debt management
+* https://www.plastiq.com/
+* https://www.atob.us/ - transportation card
 
 ## General 
 * https://boardable.com/ - board management
@@ -44,11 +50,13 @@
 * https://boastcapital.com/
 * https://www.recko.io/
 * https://www.brex.com/
+* https://www.tesorio.com/
 
 ## Forecasting / Predictions / Decision
 * https://www.mosaic.tech/ - financial decisions
 * https://gtmhub.com/
 * https://www.pecan.ai/
+* https://www.alloy.com/
 
 ## Accounting / Bookkeeping
 * https://bench.co/

@@ -9,8 +9,13 @@
 * https://github.com/slatedocs/slate
 * https://docusaurus.io/
 
+## Collaboration
+* https://code.visualstudio.com/learn/collaboration/live-share
+
 ## Algorithms 
 * https://www.makeuseof.com/algorithms-every-programmer-should-know/
+* https://en.wikipedia.org/wiki/L'H%C3%B4pital's_rule
+* https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 
 ## Protocols / Design Patterns
 * https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/ 
@@ -50,6 +55,8 @@
 * https://reflectoring.io/
 * https://css-for-js.dev/
 * https://cloudonaut.io/ - infrastructure related
+* https://newbedev.com/t/cheat-sheet
+* https://egghead.io/
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example
@@ -64,3 +71,9 @@
 * https://airhorn.solutions/
     * https://github.com/discord/airhornbot
 * https://github.com/Cog-Creators/Red-DiscordBot
+
+## Feature flags
+* https://flipt.io/
+* https://flagsmith.com/
+* https://featureflags.io/resources/
+* https://www.featurehub.io/

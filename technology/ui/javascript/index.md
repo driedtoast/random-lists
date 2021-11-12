@@ -3,6 +3,7 @@
 * https://www.snowpack.dev/
 * https://danger.systems/js/
 
+
 ## Components / Frameworks
 * https://mitosis.builder.io/?outputTab=vue - write once and port
     * https://github.com/BuilderIO/mitosis
@@ -30,6 +31,11 @@
 ## Utilities
 * https://immutable-js.com/
 * https://github.com/yosuke-furukawa/node-jsonnet - parses jsonnet
+* https://cnpmjs.org/package/dotenv
+* https://github.com/nippur72/ifdef-loader - build time instructions
+* https://www.skypack.dev/view/git-oneflow - one flow
+* http://bluebirdjs.com/ - promise lib
+* https://date-fns.org/ - date utility
 
 ## Music
 * https://github.com/ghaiklor/icecast-parser
@@ -74,3 +80,7 @@
 ## Storage
 * https://localforage.github.io/localForage/
 
+
+## Database 
+* https://www.prisma.io/
+* https://sequelize.org/

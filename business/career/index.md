@@ -11,10 +11,12 @@
 * https://www.ease.com/
 * https://www.getchallenger.com/
 * https://www.trajector.com/
+* https://www.meetcocoon.com/
 
 ## Recruiting
 * https://breezy.hr/
 * https://joinhandshake.com/
+* https://www.mya.com/
 
 ## HR management
 * https://kinhr.com/
@@ -23,6 +25,7 @@
 * https://www.medallia.com/
 * https://www.namely.com/
 * https://www.crosschq.com/
+* https://eightfold.ai/
 
 ## HR News
 * https://www.hrgrapevine.com/
@@ -31,6 +34,8 @@
 * https://www.deputy.com/
 * https://www.crewapp.com/
 * https://joinhomebase.com/
+* https://www.beekeeper.io/
+* https://socialchorus.com/
 
 ## Company Research
 * https://builtin.com/

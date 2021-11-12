@@ -12,6 +12,7 @@
 * https://www.prenome.com/
 * https://www.thebluebox.tech/
 * https://tonicapp.io/
+* https://luminopia.com/ - for lazy eye
 
 ## Air tech
 * https://www.flite.tech/

@@ -8,12 +8,17 @@
 * https://www.tradespoon.com/
 * https://sentieo.com/
 * https://www.koyfin.com/
+* https://forgeglobal.com/
+* https://wallmine.com/ - and data, clean
+* https://revogain.com/
 
 ## Management
 * https://www.getcoconut.com/ - for sole traders
 * https://humaninterest.com/ - 401k
 * https://www.fireblocks.com/
 * https://www.m1finance.com/
+* https://www.treasurefi.com/
+* https://www.rocketdollar.com/ - 401k with alternatives
 
 ## Social Investing
 * https://sweater.gg/
@@ -26,6 +31,9 @@
 * https://www.maven11.com/
 * https://orthogonal.trading/
 * https://folkvang.io/
+* https://www.utopialabs.io/
+* https://celsius.network/
+* https://www.paradigm.xyz/
 
 ## Early stage / Equity
 * https://www.startengine.com/
@@ -34,6 +42,8 @@
 * https://beehivevp.com/
 * https://www.ourcrowd.com/
 * https://forgeglobal.com/
+* https://us.weareuncapped.com/
+* https://www.mosaicventures.com/
 
 ## Investment data
 * https://plaid.com/products/investments/
@@ -45,6 +55,8 @@
 * https://airspeedequity.com/
 * https://www.lev.vc/
 * https://www.w3cap.com/
+* https://altvia.com/
+* https://foundationcapital.com/
 
 
 ### Micro PE / Company Acquirers

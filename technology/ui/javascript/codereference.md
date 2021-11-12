@@ -9,3 +9,6 @@
 
 ## Aws build
 * https://github.com/nathanpeck/string-reverse
+
+## Various
+* https://dested.com/

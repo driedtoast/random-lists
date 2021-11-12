@@ -1,6 +1,8 @@
 
 ## Pixel editor
 * https://rx.cloudhead.io/
+* https://www.kaleido.ai/
+  * https://www.remove.bg/
 
 ## Mockups and Flows
 * https://www.figma.com/wireframe-tool/
@@ -22,7 +24,10 @@
 * https://www.framer.com/
 
 ### With code
+* https://www.knapsack.cloud/ - design systems
 * https://designcode.io/
+* https://www.animaapp.com/
+* https://vercel.com/
 
 ## Diagramming
 * https://www.lucidchart.com/pages/

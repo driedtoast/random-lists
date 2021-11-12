@@ -10,6 +10,10 @@
 * https://www.blueberry.io/
 * https://www.singlegrain.com/
 * https://augurian.com/
+* https://mutesix.com/
+* https://tuffgrowth.com/ - marketing
+* https://www.superside.com/
+* https://www.brud.fyi/
 
 ## Application and UI Design
 * https://www.bostonux.com/

@@ -4,6 +4,8 @@
 * https://otter.ai/
 * https://www.stork.ai/
 * https://www.range.co/ - slack  integration
+* https://www.notion.so/
+* http://literallycanvas.com/ - whiteboarding
 
 ## Property Management
 * https://www.hemlane.com/
@@ -12,10 +14,18 @@
 * https://goodbetterbest.substack.com/
 * https://www.firehose.vc/
 * https://nbt.substack.com/
+* https://unicorner.news/
+* https://www.todayintabs.com/ - more for humor
 
 ## Startup collaboration
 * https://www.indiehackers.com/
 * https://indieworldwide.co/
+* https://microsaas.one/
+* https://www.prodmgmt.world/
+
+## Franchises
+* https://americasbestfranchises.com/
+
 
 ## Task Management
 * https://www.donedone.com/
@@ -23,6 +33,10 @@
 * https://www.workiva.com/
 * https://sereneapp.com/
 * https://www.wrangle.io/
+* https://www.myleon.co/ - management based
+* https://www.smarty.ai/
+* https://www.getinflow.io/
+
 
 ## Insurance
 * https://clearcover.com/
@@ -33,6 +47,7 @@
 
 ## Transportation
 * https://keeptruckin.com/
+* https://gravitysupplychain.com/
 
 ## Data
 * https://www.census.gov/naics/ - naics

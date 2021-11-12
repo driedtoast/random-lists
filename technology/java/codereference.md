@@ -15,10 +15,14 @@
 ## Feature flags
 * https://github.com/togglz/togglz
 
+## Security 
+* https://github.com/eugenp/tutorials/tree/master/libraries-security
+
 ## Spring 
 
 * https://github.com/spring-cloud/spring-cloud-connectors
 * https://github.com/spring-cloud-samples/aws-refapp
+* https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-1.3.0-M1-Configuration-Changelog
 
 ### Transactions
 * https://github.com/snowdrop/narayana-spring-boot/tree/main/openshift/recovery-controller

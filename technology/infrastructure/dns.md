@@ -3,6 +3,7 @@
 ## Domain registration
 * https://porkbun.com/
 * https://www.namecheap.com/
+* https://dan.com/ - really they have to take my name
 
 ## Dns providers
 * https://github.com/kubernetes-sigs/external-dns

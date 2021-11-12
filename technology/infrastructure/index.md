@@ -11,6 +11,7 @@
 ## AWS
 * https://duo-labs.github.io/detail.html?parliament
 * https://github.com/z0ph/MAMIP
+* https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-authoring-runbooks-scripted-example.html
 
 ## Diagramming
 * https://github.com/lyft/cartography
@@ -27,6 +28,11 @@
 * https://janusgraph.org/ - graph
 * https://www.eventstore.com/eventstoredb - events
 
+### Migrations
+* https://www.skeema.io/
+* https://sqitch.org/
+* https://github.com/SplitmediaLabsLimited/supermigration - big table 
+
 ## Streams / Queues / Events
 * https://camel.apache.org/
 * https://www.tremor.rs/
@@ -36,6 +42,7 @@
     * https://github.com/zendesk/maxwell
 * https://axoniq.io/
 * https://github.com/obsidiandynamics/kafdrop - kafka ui
+* https://devshawn.github.io/kafka-gitops/#/ - gitops for kafka
 
 ## Kubernetes
 * https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/
@@ -96,8 +103,11 @@
 * https://modules.tf/ - export diagrams to terraform
 * https://infrablocks.io/
 * https://registry.terraform.io/modules/joshuamkite/ssh-bastion-service/aws/latest - bastion host
+* https://jq1.io/posts/tiered_subnet_calculator/ - subnet
+
 
 ### AWS
+* https://www.oss-group.co.nz/blog/automated-certificates-aws
 * https://registry.terraform.io/modules/terraform-aws-modules/alb/aws/latest
 * https://github.com/99designs/aws-vault
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lb_listener_certificate

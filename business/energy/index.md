@@ -4,3 +4,4 @@
 
 ## Carbon management
 * https://www.cloverly.com/
+* https://octopusenergy.group/

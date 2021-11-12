@@ -14,8 +14,9 @@
 * https://www.totalcloud.io/
 * https://duo-labs.github.io/cloudmapper/
 
-## Data Storage
+## Data Storage / Management
 * https://mindsdb.com/
+* https://hyperscience.com/
 
 ## Embedded Systems
 * https://www.luos.io/
@@ -63,6 +64,8 @@
 * https://terraboard.io/ - terraform
 * https://www.armory.io/ - dev ops sec
 * https://octopus.com/
+* https://www.runx.dev/ 
+* https://aiven.io/ - db / kafka / etc...
 
 ## Queues / Streams
 * https://strimzi.io/
