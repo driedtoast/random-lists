@@ -1,0 +1,11 @@
+## crypto 
+* https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd078
+* https://danromero.org/
+* https://consensys.github.io/smart-contract-best-practices/recommendations/
+* https://docs.soliditylang.org/en/v0.8.10/introduction-to-smart-contracts.html
+* https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2373233
+* https://twitter.com/dabit3/status/1456399715646513153
+* https://medium.com/coinmonks/web3-react-connect-users-to-metamask-or-any-wallet-from-your-frontend-241fd538ed39
+* https://medium.com/northwest-nfts/bored-ape-yacht-club-contract-review-80dce503308e
+* https://medium.com/lightspeedindia/lightspeeds-india-sea-crypto-landscape-7038eaa473e
+* https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application

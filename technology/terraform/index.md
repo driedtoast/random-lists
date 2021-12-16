@@ -6,3 +6,4 @@
 
 ## Modules
 * https://registry.terraform.io/modules/cn-terraform/ecs-fargate-scheduled-task/aws/latest
+* https://tfsec.dev/ - module settings

@@ -14,6 +14,8 @@
 * https://www.stackbit.com/
 * https://bymason.com/
 * https://appwrite.io/ - mobile 
+* https://backendless.com/
+* https://pory.io/
 
 ## Learning 
 * https://www.educative.io/
@@ -48,12 +50,14 @@
 * https://k6.io/ - load
 * https://www.blazemeter.com/
 * https://www.tonic.ai/ - production cloning 
+* https://httptoolkit.tech/java/ - http scanning
 
 
 ## Databases
 * https://crate.io/ - machine learning bent
 * https://aiven.io/ - time series
 * https://min.io/ - object
+* https://firebase.google.com/ 
 
 * https://pganalyze.com/ - postgres analysis
 

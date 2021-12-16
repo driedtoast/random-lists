@@ -18,6 +18,19 @@
 * https://cardano.org/
 * https://messari.io/enterprise
 
+## Contract nodes
+* https://infura.io/
+* https://www.alchemy.com/
+* https://ipfs.io/
+* https://www.ethswarm.org/
+* https://js.ipfs.io/
+
+## Wallets
+* https://lobstr.co/
+* https://tor.us/
+* https://celsius.network/
+* https://www.blockfi.com/
+
 ## Ethereum
 * https://etherscan.io/
 * https://app.ens.domains/
@@ -39,6 +52,7 @@
 * https://www.openlaw.io/
 * https://www.thelao.io/
 * https://tributedao.com/
+* https://www.alicedapp.com/
 
 ## Outsource development
 * https://edgeandnode.com/ 

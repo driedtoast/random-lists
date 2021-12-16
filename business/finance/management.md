@@ -15,10 +15,15 @@
 * https://happymoney.com/ - novel card / debt management
 * https://www.plastiq.com/
 * https://www.atob.us/ - transportation card
+* https://www.routenow.io/ - with okr
+* https://trygrain.com/ - digital cards
+* https://mono.co/
+* https://www.qapital.com/
 
 ## General 
 * https://boardable.com/ - board management
 * https://www.fincen.gov/ - verification
+* https://ofac-api.com/ - verification
 
 
 ## Consumer cards
@@ -30,6 +35,7 @@
 * https://current.com/
 * https://greenlight.com/
 * https://step.com/
+* https://cred.club/
 
 ## Lending
 * https://www.figure.com/
@@ -51,12 +57,14 @@
 * https://www.recko.io/
 * https://www.brex.com/
 * https://www.tesorio.com/
+* https://productiv.com/ - saas spend
 
 ## Forecasting / Predictions / Decision
 * https://www.mosaic.tech/ - financial decisions
 * https://gtmhub.com/
 * https://www.pecan.ai/
 * https://www.alloy.com/
+* https://www.abacum.io/
 
 ## Accounting / Bookkeeping
 * https://bench.co/

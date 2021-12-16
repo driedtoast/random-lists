@@ -14,6 +14,7 @@
 * https://jojozhuang.github.io/cloud/aws-vpc-bastion-hosts-direct-connect-and-end-points/
 * https://medium.com/the-curve-tech-blog/securing-your-cloud-with-a-bastion-host-cd6405a38501
 * https://gist.github.com/kshailen/0d4f78596b0ab12659be908163ed1fc2
+* https://aws.amazon.com/blogs/devops/building-end-to-end-aws-devsecops-ci-cd-pipeline-with-open-source-sca-sast-and-dast-tools/
 
 ## SSM / Keys
 * https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-manager-securely-store-rotate-ssh-key-pairs/
@@ -96,7 +97,10 @@
 * https://www.scavasoft.com/terraform-aws-ecs-cluster-provision/
 * https://dev.to/kieranjen/ecs-fargate-service-auto-scaling-with-terraform-2ld
 * https://harshitdawar.medium.com/launching-a-vpc-with-public-private-subnet-in-aws-using-terraform-191188e6cad4
-
+* https://medium.com/wonder-engineering/on-demand-qa-environments-with-aws-fargate-c23b41f15a0c
+* https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon-ecs.html
+* https://floqast.com/engineering-blog/post/using-aws-x-ray/
+* https://medium.com/@avijitsarkar123/so-what-is-distributed-tracing-and-why-its-so-relevant-in-the-current-world-e496a1e1a75c
 
 ## MKS
 * https://medium.com/memsource-engineering/deploying-your-own-kafka-cluster-in-aws-via-terraform-and-ansible-e753f59fab97
@@ -136,12 +140,3 @@
 * https://tsuyoshiushio.medium.com/kubernetes-in-three-diagrams-6aba8432541c
 * https://thecloud.christmas/2020/1
 
-## crypto 
-* https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd078
-* https://danromero.org/
-* https://consensys.github.io/smart-contract-best-practices/recommendations/
-* https://docs.soliditylang.org/en/v0.8.10/introduction-to-smart-contracts.html
-* https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2373233
-* https://twitter.com/dabit3/status/1456399715646513153
-* https://medium.com/coinmonks/web3-react-connect-users-to-metamask-or-any-wallet-from-your-frontend-241fd538ed39
-* https://medium.com/northwest-nfts/bored-ape-yacht-club-contract-review-80dce503308e

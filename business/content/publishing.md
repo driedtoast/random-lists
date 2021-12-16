@@ -18,6 +18,7 @@
 * https://substack.com/
 * https://opensubscriptionplatforms.com/
 * https://www.getrevue.co/
+* https://get.independly.io/
 
 ## Printing
 * https://sinalite.com/en_us

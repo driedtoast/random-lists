@@ -12,6 +12,11 @@
 * https://duo-labs.github.io/detail.html?parliament
 * https://github.com/z0ph/MAMIP
 * https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-authoring-runbooks-scripted-example.html
+* https://hub.docker.com/r/amazon/amazon-ecs-network-sidecar - ecs debugging
+* https://github.com/aws/amazon-ecs-cli
+* https://github.com/bottlerocket-os/bottlerocket
+* https://github.com/stelligent/mu
+* https://github.com/askwonder/wonqa
 
 ## Diagramming
 * https://github.com/lyft/cartography
@@ -19,6 +24,12 @@
 
 ## Utils
 * https://duo-labs.github.io/
+
+
+## Networking
+* https://cidr.xyz/
+* https://account.arin.net/public/cidrCalculator
+* https://www.subnet-calculator.com/cidr.php
 
 ## Database 
 * https://redis.io/topics/quickstart
@@ -43,6 +54,7 @@
 * https://axoniq.io/
 * https://github.com/obsidiandynamics/kafdrop - kafka ui
 * https://devshawn.github.io/kafka-gitops/#/ - gitops for kafka
+* https://nats.io/
 
 ## Kubernetes
 * https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/
@@ -55,6 +67,7 @@
 * https://cri-o.io/ - lightweight container runtime
 * https://k8syaml.com/ - yaml generator
 * https://rancher.com/products/longhorn/
+* https://karpenter.sh/
 
 ## Storage
 * https://github.com/features/packages
@@ -123,6 +136,7 @@
 ## CI / Git Actions
 * https://github.com/aws-actions/setup-sam
 * https://github.com/aws-actions/amazon-ecs-deploy-task-definition
+* https://tekton.dev/
 
 ### MKS
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/msk_cluster

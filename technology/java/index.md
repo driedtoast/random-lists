@@ -10,6 +10,7 @@
 * https://github.com/eclipse/microprofile-lra
 * https://linkedin.github.io/rest.li/
 * https://www.payara.fish/
+* https://www.kivakit.org/
 
 ## Labels and text
 * https://unicode-org.github.io/icu/userguide/icu4j/
@@ -60,3 +61,10 @@
 
 ## Utilities
 * https://projectlombok.org/
+
+## Templates 
+* https://dandelion.github.io/
+* https://www.thymeleaf.org/
+
+## Graphics
+* http://quil.info/ - well clojure but still

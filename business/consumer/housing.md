@@ -5,6 +5,11 @@
 * https://www.carbixcorp.com/
 * https://www.openkey.co/
 * https://zenernet.com/
+* https://www.foyr.com/ - interior design
+
+## General
+* https://www.ankorstore.com/
+* https://www.requipd.com/ - bbq tools
 
 ## Prefab
 * https://www.dwellito.com/browse/backyard-offices
@@ -14,3 +19,4 @@
 
 ## Gardening
 * https://www.plantsmap.com/
+* https://www.georgiatreefarm.com/product/tea-olive-3-gallon-shrub/

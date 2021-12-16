@@ -12,6 +12,7 @@
 ## AI / Predictions
 * https://www.pecan.ai/
 * https://www.mage.ai/ - api based
+* https://askwonder.com/ - with analysts as well mechanical turk like
 
 ## Machine learning 
 * https://www.seldon.io/

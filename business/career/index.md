@@ -17,6 +17,8 @@
 * https://breezy.hr/
 * https://joinhandshake.com/
 * https://www.mya.com/
+* https://www.competewith.com/
+* https://www.hirehornet.com/
 
 ## HR management
 * https://kinhr.com/
@@ -26,6 +28,7 @@
 * https://www.namely.com/
 * https://www.crosschq.com/
 * https://eightfold.ai/
+* https://symmetrical.ai/ - payroll
 
 ## HR News
 * https://www.hrgrapevine.com/

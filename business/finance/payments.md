@@ -17,7 +17,8 @@
 * https://www.relaypayments.com/ - for transportation
 * https://www.finixpayments.com/
 * https://www.trustly.net/
-
+* https://www.mangopay.com/
+* https://www.tillpayments.com/
 
 ## Subscription management
 * https://www.revenuecat.com/ - for mobile apps
@@ -33,6 +34,8 @@
 * https://www.checkout.com/
 * https://paddle.com/
 * https://primer.io/
+* https://rumbleship.com/ - payment terms
+* https://www.sprinque.com/ - a/r
 
 ## Collections / Dunning
 * https://www.gravysolutions.io/
@@ -40,6 +43,8 @@
 
 ## Commerce
 * https://www.viacustomers.com/
+* https://briqpay.com/
+* https://www.faire.com/ - wholesaling
 
 ## Invoicing
 * https://craterapp.com/ - open source and mobile app
@@ -59,6 +64,7 @@
 * https://maple.finance/ - with crypto bent
 * https://higo.io/
 * https://www.billie.io/
+* https://www.splitit.com/
 
 ## Infrastructure
 * https://orum.io/
@@ -70,7 +76,11 @@
 * https://rizefs.com/ - across account types
 * https://astra.finance/ - ach as a service
 * https://www.moderntreasury.com/
-
+* https://thoughtmachine.net/ - banking as a service
+* https://onepipe.com/
+* https://okra.ng/
+* https://pngme.com/ - with ml / data management
+* https://truelayer.com/ - open banking
 
 ## Crypto / Ledgers
 * https://www.diem.com/en-us/
@@ -79,6 +89,8 @@
 * https://rainbow.me/
 * https://pointchain.io/ 
 * https://flare.xyz/
+* https://www.sequoir.com/
+* https://www.moonpay.com/
 
 ### DAO
 * https://sharkdao.community/

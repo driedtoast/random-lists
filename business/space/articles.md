@@ -8,3 +8,6 @@
 
 ## Laws
 * https://www.thomasnet.com/insights/is-the-outer-space-treaty-outdated/
+
+## General
+* https://bigthink.com/the-future/spinlaunch-company-hurls-satellites-into-space-using-giant-spinning-machine/

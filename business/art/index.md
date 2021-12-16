@@ -2,6 +2,10 @@
 ## Artists
 * https://www.noguchi.org/
 * http://www.katrinehildebrandt.com/
+* https://www.charleslushear.com/ - furniture
+* https://www.andrewkaysculpture.co.uk/product/watchful-stag/
+* https://orlincultureshop.com/ - illustration
+* https://hicetnunc.art/random_combo
 
 ## Art auctions
 * https://www.invaluable.com/
@@ -21,8 +25,18 @@
 * https://www.artblocks.io/ - generative art 
 
 ## Generative
+* https://www.artxcode.io/
 * https://www.playform.io/
-
+* https://bendotk.com/writing/edifice
+* https://louis-andre.net/generative-art
+* https://shiffman.net/
+* https://zenerative.com/
+* http://ofir-liberman.com/
+* https://www.fxhash.xyz/generative/3343
+* https://piterpasma.nl/
+* https://tylerxhobbs.com/essays/2021/the-rise-of-long-form-generative-art
+    * https://tylerxhobbs.com/essays/2019/code-goes-in-art-comes-out
+    * https://tylerxhobbs.com/essays/2017/a-generative-approach-to-simulating-watercolor-paints
 
 ## Architecture
 * http://komainc.com/

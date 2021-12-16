@@ -11,6 +11,7 @@
 * https://forgeglobal.com/
 * https://wallmine.com/ - and data, clean
 * https://revogain.com/
+* https://wealthie.app/
 
 ## Management
 * https://www.getcoconut.com/ - for sole traders
@@ -34,6 +35,7 @@
 * https://www.utopialabs.io/
 * https://celsius.network/
 * https://www.paradigm.xyz/
+* https://ratatosk.global/
 
 ## Early stage / Equity
 * https://www.startengine.com/
@@ -44,12 +46,14 @@
 * https://forgeglobal.com/
 * https://us.weareuncapped.com/
 * https://www.mosaicventures.com/
+* https://www.avenirgrowth.com/
 
 ## Investment data
 * https://plaid.com/products/investments/
 * https://www.privco.com/
 * https://www.dnb.com/
 * https://datafiniti.co/ - really general data
+* https://www.fiscally.io/ - fiscal calendars
 
 ## Equity Capital / VC
 * https://airspeedequity.com/
@@ -57,6 +61,7 @@
 * https://www.w3cap.com/
 * https://altvia.com/
 * https://foundationcapital.com/
+* https://moc.vc/
 
 
 ### Micro PE / Company Acquirers

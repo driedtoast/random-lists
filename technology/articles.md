@@ -3,6 +3,7 @@
 * https://en.wikipedia.org/wiki/Flyweight_pattern
 * https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 * https://en.wikipedia.org/wiki/Event-driven_finite-state_machine
+* https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
 
 ## Algorithms
 * https://www.youtube.com/c/Nemean/videos

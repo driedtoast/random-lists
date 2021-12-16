@@ -13,6 +13,7 @@
 * https://lordofthejars.github.io/quarkus-cheat-sheet/ 
 * https://quarkus.io/quarkus-workshops/super-heroes/
 * https://quarkus.io/guides/cdi
+* https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#the_modular_monolith
 
 ## Spring boot
 

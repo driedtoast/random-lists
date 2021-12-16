@@ -3,6 +3,7 @@
 ## k12
 * https://freckle.com/en-us/
 * https://www.enlightapp.co/
+* https://mychalkboard.app/
 
 ## Sports
 * https://www.teambuildr.com/en/
@@ -16,3 +17,6 @@
 
 ## Tutoring
 * https://papersowl.com/
+
+## Event management
+* https://bettercast.io/

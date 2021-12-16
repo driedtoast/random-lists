@@ -6,6 +6,7 @@
 * https://www.range.co/ - slack  integration
 * https://www.notion.so/
 * http://literallycanvas.com/ - whiteboarding
+* https://www.vimcal.com/
 
 ## Property Management
 * https://www.hemlane.com/
@@ -22,6 +23,7 @@
 * https://indieworldwide.co/
 * https://microsaas.one/
 * https://www.prodmgmt.world/
+* https://www.astramind.io/ - #buildinpublic
 
 ## Franchises
 * https://americasbestfranchises.com/
@@ -36,7 +38,12 @@
 * https://www.myleon.co/ - management based
 * https://www.smarty.ai/
 * https://www.getinflow.io/
+* https://craft.io/
 
+## Feature priortizing
+* https://storiesonboard.com/
+* https://www.savio.io/
+* https://canny.io/
 
 ## Insurance
 * https://clearcover.com/

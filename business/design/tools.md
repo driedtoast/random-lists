@@ -28,6 +28,10 @@
 * https://designcode.io/
 * https://www.animaapp.com/
 * https://vercel.com/
+* https://dorik.com/
+* https://backendless.com/
+* https://bubble.io/
+
 
 ## Diagramming
 * https://www.lucidchart.com/pages/

@@ -6,6 +6,7 @@
 ## Investing
 * https://thegeneralist.substack.com/p/cream-part-i-c80
 * https://www.morganstanley.com/im/publication/insights/investment-insights/ii_if_en_april2015_equitycompounders.pdf
+* https://school.stockcharts.com/doku.php?id=chart_analysis:pnf_charts:pnf_basics
 
 ## Networks
 * https://en.wikipedia.org/wiki/Merchant_Customer_Exchange
@@ -15,6 +16,7 @@
 * https://goodbetterbest.substack.com/p/vendr-the-buy-button-for-saas
 * https://nbt.substack.com/p/all-wedges-are-not-created-equal
 * https://thegeneralist.substack.com/p/affirm-the-morality-of-money
+* https://techcrunch.com/2021/10/10/baas-served-three-ways-a-closer-look-at-a-rapidly-evolving-market/
 
 ## Verification
 * https://www.thalesgroup.com/en/markets/digital-identity-and-security/banking-payment/issuance/id-verification/know-your-customer
@@ -36,3 +38,6 @@
 * https://thegeneralist.substack.com/
 * https://sifted.eu/
 * https://www.morningbrew.com/search?tag=Venture+capital
+
+## Crypto
+* https://bitcoinist.com/four-venture-capitalists-just-over-subscribed-erthas-seed-funding-round-in-one-day/

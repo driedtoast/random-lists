@@ -21,3 +21,14 @@
 * https://land-book.com/
 * https://pttrns.com/ - mobile flow patterns
 
+
+## Generative Art
+* https://github.com/gengeomergence/GenArt
+* https://github.com/samaaron/gen-art
+* https://github.com/rodrigo-picanco/genart
+* https://github.com/herrmannrobert/GenArt
+* https://magenta.tensorflow.org/ 
+    * https://github.com/magenta/magenta
+    * https://github.com/magenta/magenta-js/tree/master/sketch
+* https://github.com/rkjones4/GANGogh
+* https://github.com/neelts/nft-tiny-device-01 - nft

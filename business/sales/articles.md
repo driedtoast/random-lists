@@ -7,6 +7,7 @@
 * https://spdload.com/blog/what-is-saas-sales/
 * https://www.saasmag.com/ 
 * https://www.saastr.com/your-product-has-to-be-easier-to-buy-than-to-use/
+* https://ironcladapp.com/journal/contract-management/what-is-a-clickwrap-agreement/ - contracts
 
 ## Data
 * https://medium.com/powrbot/the-ultimate-list-of-company-databases-registers-bfd779b4600f

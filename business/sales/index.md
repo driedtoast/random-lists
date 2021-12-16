@@ -3,6 +3,7 @@
 * https://www.zoominfo.com/
 * https://www.yesware.com/
 * https://www.endgame.io/ - data integration
+* https://attio.com/ - new approach 
 
 ## Lead gen / Deal management
 * https://www.drift.com/ - through bots
@@ -25,6 +26,8 @@
 * https://awario.com/
 * https://leadformly.com/
 * https://www.koncert.com/
+* https://www.leadinfo.com/en/
+* https://dealhub.io/
 
 ### Ad Management
 * https://gumgum.com/
@@ -54,10 +57,13 @@
 * https://spyse.com/
 * https://www.middesk.com/
 * https://www.stackline.com/
+* https://www.whoworksthere.com/ - contact finding
+* https://cloudindex.bvp.com/companies
 
 ## Decisioning
 * https://peak.ai/us/
 * https://people.ai/
+* https://nostradamus.cloud/
 
 ## PR
 * https://prowly.com/
@@ -70,6 +76,8 @@
 * https://www.viacustomers.com/ - commerce platform as well
 * https://www.bigcommerce.com/product/api/ - checkout 
 * https://www.bluecore.com/ - targeted marketing and commerce
+* https://www.forest-inc.jp/
+* https://pattern.com/
 
 ### Shipping / Warehouse management
 * https://www.sendle.com/
@@ -101,6 +109,7 @@
 * https://truenorth.io/
 * https://rockcontent.com/ - content
 * https://www.productwind.com/
+* https://www.ninjacat.io/
 
 ### Content
 * https://writersperhour.com/
@@ -121,3 +130,6 @@
 * https://www.varicent.com/
 * https://www.captivateiq.com/
 
+
+## App Store / Private Labeling
+* https://openchannel.io/

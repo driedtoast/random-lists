@@ -19,3 +19,8 @@
 
 ## Design
 * http://komakoma.org/en/
+
+## Chat and Communication
+* https://fluffychat.im/
+* https://element.io/
+* https://matrix.org/ - open source tooling

@@ -57,12 +57,14 @@
 * https://cloudonaut.io/ - infrastructure related
 * https://newbedev.com/t/cheat-sheet
 * https://egghead.io/
+* https://stackabuse.com/
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example
 
 ## Open source management
 * https://issuehunt.io/
+* https://openbase.com/
 * https://libraries.io/ - package search
 
 ## Bots
@@ -77,3 +79,7 @@
 * https://flagsmith.com/
 * https://featureflags.io/resources/
 * https://www.featurehub.io/
+
+## Open APIs 
+* https://programming-quotes-api.herokuapp.com/
+* https://api.chucknorris.io/

@@ -30,6 +30,7 @@
 * https://jumpcloud.com/
 * https://goauthentik.io/ - also open source
 * https://www.adaptive-shield.com/ - malware protection
+* https://frontegg.com/
 
 ## Identity verification / Know your customer (kyc)
 * https://withpersona.com/
@@ -55,4 +56,5 @@
 * https://drata.com/
 * https://canary.tools/
 * https://www.lacework.com/
+* https://www.intruder.io/
 

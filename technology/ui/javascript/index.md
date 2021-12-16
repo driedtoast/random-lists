@@ -9,9 +9,12 @@
     * https://github.com/BuilderIO/mitosis
 * https://github.com/zhmushan/abc
 * https://www.electrode.io/
+* https://datatables.net/
+* https://hdivsecurity.com/
 
 ## JQuery
 * https://github.com/techlab/jquery-smartwizard 
+* https://kenwheeler.github.io/cash/
 
 ## Site generation
 * https://github.com/segmentio/metalsmith
@@ -23,10 +26,15 @@
 ## Charts
 * https://apexcharts.com/
 
+## CLI
+* https://oclif.io/
+
 ## Security
 * https://github.com/jaredhanson/oauth2orize
 * https://www.passportjs.org/docs/login/
 * https://github.com/discord/qrcodejs - qr codes
+* https://www.sniptt.com/ - secret management / cli 
+
 
 ## Utilities
 * https://immutable-js.com/

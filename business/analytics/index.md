@@ -2,6 +2,7 @@
 
 ## Event tracking
 * https://plausible.io/
+* https://snowplowanalytics.com/
 
 ## Tracking / Site
 * https://pirsch.io/
@@ -36,6 +37,7 @@
 * https://www.starburst.io/
 * https://www.widenarrow.com/
 * https://www.startree.ai/
+* https://chronosphere.io/
 
 ## Manufacturing / Process
 * https://www.seeq.com/

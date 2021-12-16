@@ -8,3 +8,7 @@
 
 ## Libraries
 * https://pub.dev/ - flutter / dart packages
+* https://flame-engine.org/
+
+## Distributed server support
+* https://github.com/heroiclabs/nakama

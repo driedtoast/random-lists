@@ -1,6 +1,7 @@
 
 
 * https://checkmarx.com/blog/javascript-history-infographic/
+* https://css-tricks.com/cash-tiny-jquery-alternative/
 
 ## Security
 * https://nordicapis.com/assisted-token-flow-the-answer-to-oauth-integration-in-single-page-applications/
