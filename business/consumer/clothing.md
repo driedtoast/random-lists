@@ -12,6 +12,9 @@
 
 ## Artistic merchandise
 * https://pretty-useful.co/
+* https://prtwd.com/
+* http://www.happyworker.com/custom-toys
+* https://endertoys.com/
 
 ## Print on demand
 * https://launchcart.com/ - commerce setup with printflu

@@ -8,6 +8,7 @@
 
 ## Product discovery / news
 * https://www.which.co.uk/
+* https://shortboxed.com/ - graded comics
 
 ## Social
 * https://zen.ly/

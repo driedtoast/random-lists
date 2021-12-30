@@ -17,6 +17,7 @@
 * https://catena.one/
 * https://cardano.org/
 * https://messari.io/enterprise
+* https://www.alteredstatemachine.xyz/
 
 ## Contract nodes
 * https://infura.io/
@@ -53,6 +54,7 @@
 * https://www.thelao.io/
 * https://tributedao.com/
 * https://www.alicedapp.com/
+* https://coordinape.com/
 
 ## Outsource development
 * https://edgeandnode.com/ 

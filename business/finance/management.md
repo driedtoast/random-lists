@@ -65,6 +65,7 @@
 * https://www.pecan.ai/
 * https://www.alloy.com/
 * https://www.abacum.io/
+* https://www.thescienceofrevenue.com/
 
 ## Accounting / Bookkeeping
 * https://bench.co/

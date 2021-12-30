@@ -58,6 +58,7 @@
 * https://newbedev.com/t/cheat-sheet
 * https://egghead.io/
 * https://stackabuse.com/
+* https://docs.dennisokeeffe.com/ - nice layout interesting stuff
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example

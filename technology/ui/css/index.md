@@ -14,6 +14,7 @@
 
 ## SVG Icons
 * https://heroicons.com/
+* https://remixicon.com/
 
 ## CSS Specs
 * https://www.w3.org/TR/css-flexbox-1/

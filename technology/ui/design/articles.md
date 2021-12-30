@@ -14,3 +14,8 @@
 
 ## Tooling
 * https://uxdesign.cc/trying-no-code-tools-as-a-designer-116c991eb683
+
+## Generative art
+* https://tylerxhobbs.com/essays/2017/a-generative-approach-to-simulating-watercolor-paints
+* https://tylerxhobbs.com/essays/2019/code-goes-in-art-comes-out
+* https://www.youtube.com/watch?v=Ml6tpyTyXhM

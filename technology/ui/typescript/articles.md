@@ -8,3 +8,6 @@
 
 ## Linting
 * https://newbedev.com/tslint-says-calls-to-console-log-are-not-allowed-how-do-i-allow-this
+
+## Docs
+* https://docs.dennisokeeffe.com/

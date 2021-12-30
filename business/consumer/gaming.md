@@ -5,6 +5,7 @@
 
 ## Studios
 * https://goodgamestudios.com/
+* https://www.smallgiantgames.com/
 
 ## Keyboards
 * https://www.zsa.io/planck

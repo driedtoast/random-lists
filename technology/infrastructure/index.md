@@ -38,6 +38,7 @@
 * https://victoriametrics.com/
 * https://janusgraph.org/ - graph
 * https://www.eventstore.com/eventstoredb - events
+* http://seastar.io/
 
 ### Migrations
 * https://www.skeema.io/
@@ -55,6 +56,7 @@
 * https://github.com/obsidiandynamics/kafdrop - kafka ui
 * https://devshawn.github.io/kafka-gitops/#/ - gitops for kafka
 * https://nats.io/
+* https://kesque.com/
 
 ## Kubernetes
 * https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/

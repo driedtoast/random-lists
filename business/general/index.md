@@ -24,6 +24,7 @@
 * https://microsaas.one/
 * https://www.prodmgmt.world/
 * https://www.astramind.io/ - #buildinpublic
+* https://bip.so/ - build in public
 
 ## Franchises
 * https://americasbestfranchises.com/

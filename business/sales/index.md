@@ -78,6 +78,8 @@
 * https://www.bluecore.com/ - targeted marketing and commerce
 * https://www.forest-inc.jp/
 * https://pattern.com/
+* https://saleor.io/ 
+    * https://github.com/saleor/saleor 
 
 ### Shipping / Warehouse management
 * https://www.sendle.com/

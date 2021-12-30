@@ -12,6 +12,7 @@
 * https://wallmine.com/ - and data, clean
 * https://revogain.com/
 * https://wealthie.app/
+* https://www.oliveinvest.com/ - option data
 
 ## Management
 * https://www.getcoconut.com/ - for sole traders
@@ -20,6 +21,7 @@
 * https://www.m1finance.com/
 * https://www.treasurefi.com/
 * https://www.rocketdollar.com/ - 401k with alternatives
+
 
 ## Social Investing
 * https://sweater.gg/
@@ -36,6 +38,7 @@
 * https://celsius.network/
 * https://www.paradigm.xyz/
 * https://ratatosk.global/
+* https://www.argent.xyz/
 
 ## Early stage / Equity
 * https://www.startengine.com/
@@ -62,7 +65,7 @@
 * https://altvia.com/
 * https://foundationcapital.com/
 * https://moc.vc/
-
+* https://www.creandum.com/
 
 ### Micro PE / Company Acquirers
 * https://www.tinycapital.com/

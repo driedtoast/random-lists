@@ -32,3 +32,4 @@
     * https://github.com/magenta/magenta-js/tree/master/sketch
 * https://github.com/rkjones4/GANGogh
 * https://github.com/neelts/nft-tiny-device-01 - nft
+* https://www.shadertoy.com/
