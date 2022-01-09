@@ -33,3 +33,7 @@
 * https://github.com/rkjones4/GANGogh
 * https://github.com/neelts/nft-tiny-device-01 - nft
 * https://www.shadertoy.com/
+
+## Game development
+* https://spicyyoghurt.com/
+* https://www.codeandweb.com/texturepacker

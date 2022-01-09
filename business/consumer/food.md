@@ -7,6 +7,8 @@
 * https://shef.com/ - from local people
 * https://www.jokr.com/
 * https://getir.com/us/
+* https://www.flytrex.com/
+* https://www.hungryroot.com/
 
 ## Order / Supplies management
 * https://choco.com/

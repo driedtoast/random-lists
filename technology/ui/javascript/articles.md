@@ -30,3 +30,11 @@
 
 ## Api integration
 * https://dev.to/j471n/how-to-share-anything-from-your-website-by-web-share-api-1h5g - sharing buttons
+
+## Graphics 
+* https://spicyyoghurt.com/tutorials/html5-javascript-game-development/create-a-smooth-canvas-animation
+* https://spicyyoghurt.com/tutorials/html5-javascript-game-development/images-and-sprite-animations
+* https://www.codeandweb.com/texturepacker/tutorials/how-to-create-a-sprite-sheet
+* https://tnodes.medium.com/integrating-react-and-phaser-3-tutorial-eb96717d4a9d
+* https://github.com/ArcQ/phaser-react-starter/blob/develop/package.json
+* https://github.com/CodeAndWeb/TexturePacker-Phaser/blob/master/texturepacker-demo/index.html

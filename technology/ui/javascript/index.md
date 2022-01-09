@@ -70,6 +70,16 @@
 
 ## Graphics
 * https://github.com/sebmarkbage/art/
+* https://christmasexperiments.com/
+* https://easings.net/
+* https://spicyyoghurt.com/tools/easing-functions
+* https://piqnt.com/stage.js/
+* https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
+* https://github.com/photonstorm/phaser3-docs
+
+
+## Physics
+* https://github.com/schteppe/p2.js
 
 ## Query String processing
 * https://github.com/sindresorhus/query-string
