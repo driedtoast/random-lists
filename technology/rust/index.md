@@ -15,3 +15,6 @@
 
 ## Events
 * https://www.tremor.rs/
+
+## CLI
+* https://github.com/warpdotdev/Warp

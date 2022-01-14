@@ -76,6 +76,7 @@
 * https://piqnt.com/stage.js/
 * https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
 * https://github.com/photonstorm/phaser3-docs
+* https://phasereditor2d.com/ - phaser editor
 
 
 ## Physics
