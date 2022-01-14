@@ -74,10 +74,12 @@
 * https://easings.net/
 * https://spicyyoghurt.com/tools/easing-functions
 * https://piqnt.com/stage.js/
+
+## Phaser
 * https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
 * https://github.com/photonstorm/phaser3-docs
 * https://phasereditor2d.com/ - phaser editor
-
+* https://github.com/samme/phaser-parcel
 
 ## Physics
 * https://github.com/schteppe/p2.js
