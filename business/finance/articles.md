@@ -8,6 +8,7 @@
 * https://www.morganstanley.com/im/publication/insights/investment-insights/ii_if_en_april2015_equitycompounders.pdf
 * https://school.stockcharts.com/doku.php?id=chart_analysis:pnf_charts:pnf_basics
 
+
 ## Networks
 * https://en.wikipedia.org/wiki/Merchant_Customer_Exchange
 
@@ -41,3 +42,4 @@
 
 ## Crypto
 * https://bitcoinist.com/four-venture-capitalists-just-over-subscribed-erthas-seed-funding-round-in-one-day/
+* https://alts.co/a-look-at-nouns-dao/

@@ -10,6 +10,8 @@
 * https://raygun.com/
 * https://amplitude.com/ - with journeys
 * https://nozzle.io/
+* https://www.hotjar.com/
+* https://www.funnelbranch.com/ - funnel based
 
 ## Sales tracking
 * https://inaccord.com/
@@ -20,6 +22,7 @@
 * https://baremetrics.com/ - saas metrics
 * https://www.subscript.com/ - subscription metrics
 * https://www.is.com/ - also mobile monetization
+* https://www.woopra.com/solutions/saas-analytics
 
 
 ## AB testing / feature flags
@@ -38,6 +41,10 @@
 * https://www.widenarrow.com/
 * https://www.startree.ai/
 * https://chronosphere.io/
+* https://www.grow.com/
+* https://supermetrics.com/
+* https://www.knowi.com/
+
 
 ## Manufacturing / Process
 * https://www.seeq.com/

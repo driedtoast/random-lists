@@ -28,6 +28,11 @@
 * https://www.koncert.com/
 * https://www.leadinfo.com/en/
 * https://dealhub.io/
+* https://revenuegrid.com/
+* https://www.kluster.com/ - some forecasting
+* https://www.pocus.com/ - product led sales
+* https://www.revgenius.com/
+* https://www.gopinata.com/
 
 ### Ad Management
 * https://gumgum.com/
@@ -59,11 +64,14 @@
 * https://www.stackline.com/
 * https://www.whoworksthere.com/ - contact finding
 * https://cloudindex.bvp.com/companies
+* https://peersignal.org/b2b-growth - example pricing pages
+* https://www.swantide.com/ - salesforce setup
 
 ## Decisioning
 * https://peak.ai/us/
 * https://people.ai/
 * https://nostradamus.cloud/
+* https://delighted.com/ - customer feedback
 
 ## PR
 * https://prowly.com/
@@ -94,6 +102,8 @@
 * https://ironcladapp.com/
 * https://www.captego.com/
 * https://www.monetizenow.io/
+* https://www.salesbricks.com/
+* https://termly.io/ - terms generator
 
 ## Integration Tooling
 * https://www.odoo.com/
@@ -112,6 +122,7 @@
 * https://rockcontent.com/ - content
 * https://www.productwind.com/
 * https://www.ninjacat.io/
+* https://www.ubiquitousinfluence.com/
 
 ### Content
 * https://writersperhour.com/

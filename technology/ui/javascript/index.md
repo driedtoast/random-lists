@@ -2,7 +2,7 @@
 ## Build Tools
 * https://www.snowpack.dev/
 * https://danger.systems/js/
-
+* https://nx.dev/
 
 ## Components / Frameworks
 * https://mitosis.builder.io/?outputTab=vue - write once and port
@@ -22,6 +22,8 @@
 ## Analytic Library
 * https://github.com/segmentio/analytics.js
 * https://github.com/discord/focus-rings - focus areas
+* https://getanalytics.io/ - tracking 
+* https://zizzamia.github.io/perfume/ - page speed
 
 ## Charts
 * https://apexcharts.com/
@@ -44,6 +46,8 @@
 * https://www.skypack.dev/view/git-oneflow - one flow
 * http://bluebirdjs.com/ - promise lib
 * https://date-fns.org/ - date utility
+* https://github.com/jessym/react-seo-tools
+* https://www.w3.org/2002/09/tests/keys.html - key codes in javascript
 
 ## Music
 * https://github.com/ghaiklor/icecast-parser
@@ -59,6 +63,7 @@
 
 ## Rich text editor
 * https://prosemirror.net/
+* https://tiptap.dev/ - nice editor for embedded changes
 * https://quilljs.com/ - lots of support
 
 ## Code quality
@@ -74,6 +79,17 @@
 * https://easings.net/
 * https://spicyyoghurt.com/tools/easing-functions
 * https://piqnt.com/stage.js/
+* https://pixijs.com/
+* https://popmotion.io/
+* http://pablojs.com/api/
+* https://github.com/schteppe/p2.js/ - physics
+* https://popmotion.io/ - animation
+* https://mojs.github.io/ - animation
+* https://barba.js.org/ - animation
+* https://sarcadass.github.io/granim.js/ - gradient
+* https://shelly.dev/
+* https://www.babylonjs.com/ - 3d
+* https://github.com/sebmarkbage/art/
 
 ## Phaser
 * https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
@@ -83,6 +99,7 @@
 
 ## Physics
 * https://github.com/schteppe/p2.js
+
 
 ## Query String processing
 * https://github.com/sindresorhus/query-string

@@ -87,7 +87,10 @@
 * https://www.weldonracing.com/store/D2035-A-p56104047
 * https://www.protuninglab.com/89vo24074094.html
 * http://www.slickcar.com/accessories/240_accessories.asp
-
+* https://www.volvopartswebstore.com/products/Volvo/240/Headlamp-housing--right-Genuine-Classic-Part/1108259/1214843.html
+* https://www.volvopartswebstore.com/products/Volvo/240/Headlamp-housing--left-Genuine-Classic-Part/1116936/1234093.html
+* http://cleanflametrap.com/doorHandle.html
+* https://www.volvopartswebstore.com/images/parts/volvo/fullsize/GR-65479.jpg
 
 ### Articles
 * https://www.gearpatrol.com/cars/a92218/the-volvo-240-glt-turbo-wagon-coolest-wagon-ever-made/

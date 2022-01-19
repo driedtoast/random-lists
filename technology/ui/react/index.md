@@ -12,9 +12,16 @@
 
 ## General
 * https://usehooks-typescript.com/react-hook/use-on-click-outsidesear{}
+* https://github.com/typescript-cheatsheets/react
+
+
+## Random
+* https://github.com/vmarchesin/react-konami-code
+
 
 
 ## UI Component Lib
+* https://headlessui.dev/
 * https://alexanmtz.github.io/material-sense/#/
     * Source: https://github.com/alexanmtz/material-sense
 * https://evergreen.segment.com/ - made by segment
@@ -37,6 +44,9 @@
 * https://github.com/intercaetera/formuj
 * https://github.com/eBay/nice-modal-react
 * https://react-grid.ag-grid.com/ - paid i think
+* https://refine.dev/
+* https://baseweb.design/
+* https://ebay.github.io/nice-modal-react
 
 ## Documentation
 * https://github.com/pocotan001/react-styleguide-generator 
@@ -58,8 +68,10 @@
 
 ## Style
 * https://styled-components.com/
+* https://vanilla-extract.style/
+* https://vanilla-extract.style/documentation/sprinkles-api/
 
-## Animation 
+## Animation / Graphics
 * https://react-spring.io/
     * https://github.com/pmndrs/react-spring
 * https://github.com/knowankit/react-bubbly-effect-button
@@ -69,6 +81,9 @@
 * https://www.framer.com/docs/
 * https://reactcommunity.org/react-transition-group/
 * https://react-move.js.org/#/
+* https://github.com/reactjs/react-art
+* https://konvajs.org/docs/react/
+    * https://github.com/konvajs/react-konva
 
 ## State
 * https://recoiljs.org/
@@ -104,6 +119,9 @@
 * https://crazyfactory.github.io/tinka/docs/middlewares/mock
 * https://jsonplaceholder.typicode.com/
 * https://github.com/tannerlinsley/react-query-devtools
+* https://github.com/carteb/carte-blanche
+* https://reactcosmos.org/
+* https://scup.github.io/atellier/
 
 ## Resources
 * https://react.christmas/2020
@@ -121,7 +139,5 @@
 * https://www.npmjs.com/package/react-feature-flags
 * https://github.com/sergiodxa/flagged
 
-## Testing
-* https://github.com/carteb/carte-blanche
-* https://reactcosmos.org/
-* https://scup.github.io/atellier/
+## Tracking
+* https://github.com/NYTimes/react-tracking

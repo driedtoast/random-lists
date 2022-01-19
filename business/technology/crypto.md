@@ -18,6 +18,9 @@
 * https://cardano.org/
 * https://messari.io/enterprise
 * https://www.alteredstatemachine.xyz/
+* https://zebec.io/ - solara protocol for money movement
+* https://www.wonder.fi/
+* https://gnosis-safe.io/
 
 ## Contract nodes
 * https://infura.io/
@@ -36,6 +39,8 @@
 * https://etherscan.io/
 * https://app.ens.domains/
 
+## Alt coins
+* https://angel.ichi.org/
 
 ## DAOs
 * https://nouns.wtf/
@@ -55,6 +60,8 @@
 * https://tributedao.com/
 * https://www.alicedapp.com/
 * https://coordinape.com/
+* https://commonwealth.im/ - platformy
+* https://linksdao.io/
 
 ## Outsource development
 * https://edgeandnode.com/ 

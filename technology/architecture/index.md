@@ -1,5 +1,7 @@
 
-
+## General / Patterns
+* https://decentpatterns.xyz/library/
+* https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/
 
 ## Icons and Diagramming
 * https://aws.amazon.com/architecture/icons/

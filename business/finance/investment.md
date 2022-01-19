@@ -21,6 +21,7 @@
 * https://www.m1finance.com/
 * https://www.treasurefi.com/
 * https://www.rocketdollar.com/ - 401k with alternatives
+* https://www.optionsai.com/
 
 
 ## Social Investing
@@ -39,6 +40,26 @@
 * https://www.paradigm.xyz/
 * https://ratatosk.global/
 * https://www.argent.xyz/
+* https://www.theplayerslounge.io/ - for college football
+* https://linksdao.io/ - golf
+
+
+## NFT
+* https://www.samuraicats.io/
+* https://crazy-bears-nft.notion.site/crazy-bears-nft/Welcome-to-CRAZY-BEARS-814e41e173b14ddc9f64f547f2d02fcc
+* https://www.cardogenft.io/
+* https://www.pentas.io/
+* https://www.nft-stats.com/ - stats
+* https://neolastics.com/
+* https://soldudes.net/  - solano based
+* https://www.zenape.io/
+* https://news.feltzine.us/
+* https://commonwealth.im/ - dao'ish
+* https://cryptoslam.io/ - metrics and stats
+* https://www.boredbunny.io/
+* https://spacerunners.com/
+* https://nftx.io/
+* https://nftfi.com/
 
 ## Early stage / Equity
 * https://www.startengine.com/
@@ -66,6 +87,7 @@
 * https://foundationcapital.com/
 * https://moc.vc/
 * https://www.creandum.com/
+* https://www.clocktowerventures.com/
 
 ### Micro PE / Company Acquirers
 * https://www.tinycapital.com/

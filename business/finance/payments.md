@@ -19,6 +19,10 @@
 * https://www.trustly.net/
 * https://www.mangopay.com/
 * https://www.tillpayments.com/
+* https://usesummit.com/
+
+## Mobile
+* https://www.usebutton.com/
 
 ## Subscription management
 * https://www.revenuecat.com/ - for mobile apps
@@ -26,7 +30,6 @@
 * https://www.profitwell.com/
 * https://rev.io/
 * https://mrr.io/
-
 
 ### Checkout flow
 * https://heyflow.app/
@@ -37,6 +40,8 @@
 * https://rumbleship.com/ - payment terms
 * https://www.sprinque.com/ - a/r
 * https://www.topi.eu/
+* https://glossgenius.com/ - for beauty service industry
+* https://www.bolt.com/platform/
 
 ## Collections / Dunning
 * https://www.gravysolutions.io/
@@ -82,6 +87,8 @@
 * https://okra.ng/
 * https://pngme.com/ - with ml / data management
 * https://truelayer.com/ - open banking
+* https://flinks.com/ - plaid competitor
+* https://www.strac.io/
 
 ## Crypto / Ledgers
 * https://www.diem.com/en-us/
@@ -92,6 +99,7 @@
 * https://flare.xyz/
 * https://www.sequoir.com/
 * https://www.moonpay.com/
+* https://groundhog.network/ - subscription support
 
 ### DAO
 * https://sharkdao.community/

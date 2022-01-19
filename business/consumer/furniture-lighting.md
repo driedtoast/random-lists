@@ -9,8 +9,15 @@
 * https://store.moma.org/only-at-moma/top-rated/setago-portable-table-lamp
 * https://usa.flos.com/
 
+## Houseware
+* https://www.arc-intl.com/en/
+
 ## Furniture
 * https://www.kathykuohome.com/
 * https://www.burkedecor.com/
 * https://www.tomraffield.com/ - and lighting
+
+
+## Furniture supplies
+* https://fagasstraps.com/
 

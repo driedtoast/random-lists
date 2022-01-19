@@ -3,9 +3,11 @@
 ## Networking
 * https://tailscale.com/ - vpn alternative
 * https://www.cloudcraft.co/ - visualization
+* https://www.section.io/
 
 ## API management
 * https://konghq.com/
+* https://www.plasmic.app/
 
 ## Diagramming
 * https://www.hava.io/
@@ -88,6 +90,7 @@
 * https://www.digitalocean.com/
 * https://www.sunlight.io/
 * https://www.stellarhosting.com/
+* https://www.deta.sh/ - paas / free
 
 ## Kubernetes
 * https://jaas.ai/

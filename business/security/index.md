@@ -31,6 +31,8 @@
 * https://goauthentik.io/ - also open source
 * https://www.adaptive-shield.com/ - malware protection
 * https://frontegg.com/
+* https://www.propelauth.com/
+* https://sgnl.ai/
 
 ## Identity verification / Know your customer (kyc)
 * https://withpersona.com/
@@ -39,6 +41,7 @@
 * https://www.keyfactor.com/ - machine based PKI
 * https://www.alloy.com/
 * https://www.middesk.com/
+* https://www.onespan.com/
 
 ## Compliance / Auditing / SEIM
 * https://www.compliancepoint.com/

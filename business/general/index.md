@@ -7,6 +7,15 @@
 * https://www.notion.so/
 * http://literallycanvas.com/ - whiteboarding
 * https://www.vimcal.com/
+* https://mymind.com/
+* https://setapp.com/ 
+
+
+## Annotating
+* https://markuphero.com/
+* https://www.annotate.com/
+* https://labelbox.com/
+* https://szoter.com/#intro
 
 ## Property Management
 * https://www.hemlane.com/
@@ -25,6 +34,9 @@
 * https://www.prodmgmt.world/
 * https://www.astramind.io/ - #buildinpublic
 * https://bip.so/ - build in public
+* https://pioneer.app/
+* https://crowd.inc/
+* https://kern.al/
 
 ## Franchises
 * https://americasbestfranchises.com/
@@ -40,6 +52,9 @@
 * https://www.smarty.ai/
 * https://www.getinflow.io/
 * https://craft.io/
+* https://www.usemotion.com/
+* https://fibery.io/
+* https://poap.xyz/ - bookmark management
 
 ## Feature priortizing
 * https://storiesonboard.com/

@@ -20,7 +20,8 @@
 * https://dribbble.com/tags/invite_flow - invite flows / design mockups
 * https://land-book.com/
 * https://pttrns.com/ - mobile flow patterns
-
+* https://deepwork.studio/case-studies - web3 bent
+* https://ui8.net/
 
 ## Generative Art
 * https://github.com/gengeomergence/GenArt
@@ -37,3 +38,6 @@
 ## Game development
 * https://spicyyoghurt.com/
 * https://www.codeandweb.com/texturepacker
+
+## Tools
+* https://github.com/goabstract/Awesome-Design-Tools

@@ -16,6 +16,9 @@
 * https://appwrite.io/ - mobile 
 * https://backendless.com/
 * https://pory.io/
+* https://remix.run/
+* https://www.minimum.run/
+    * https://www.indiehackers.com/post/how-we-scaled-a-no-code-agency-from-50k-to-500k-in-revenue-in-1-year-fa4ad56d56
 
 ## Learning 
 * https://www.educative.io/
@@ -37,6 +40,10 @@
 * https://temporal.io/
 * https://camunda.com/
 * https://particular.net/
+* https://workers.cloudflare.com/
+* https://astro.build/ - jam stack
+* https://webcode.run/
+* https://fly.io/
 
 ## Package mgmt
 * https://repsy.io/
@@ -52,6 +59,7 @@
 * https://www.blazemeter.com/
 * https://www.tonic.ai/ - production cloning 
 * https://httptoolkit.tech/java/ - http scanning
+* https://www.rainforestqa.com/
 
 
 ## Databases

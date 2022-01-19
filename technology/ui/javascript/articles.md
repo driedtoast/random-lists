@@ -2,6 +2,7 @@
 
 * https://checkmarx.com/blog/javascript-history-infographic/
 * https://css-tricks.com/cash-tiny-jquery-alternative/
+* https://www.infoworld.com/article/3646195/a-simple-automated-build-pipeline-for-nodejs.html
 
 ## Security
 * https://nordicapis.com/assisted-token-flow-the-answer-to-oauth-integration-in-single-page-applications/
@@ -38,3 +39,23 @@
 * https://tnodes.medium.com/integrating-react-and-phaser-3-tutorial-eb96717d4a9d
 * https://github.com/ArcQ/phaser-react-starter/blob/develop/package.json
 * https://github.com/CodeAndWeb/TexturePacker-Phaser/blob/master/texturepacker-demo/index.html
+* https://www.joshmorony.com/how-to-create-a-parallax-background-in-phaser/
+* https://github.com/joshuamorony/phaser-es6-boilerplate
+* https://blog.ourcade.co/posts/2020/add-pizazz-parallax-scrolling-phaser-3/
+* https://stackoverflow.com/questions/45836416/horizontal-css-only-parallax-effect-with-layers-greater-than-100vw
+* https://gamedev.stackexchange.com/questions/165902/parallax-background-in-with-depth-in-phaser-3
+* https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-for-phaser3
+* https://dev.to/ablydev/building-a-realtime-multiplayer-browser-game-in-less-than-a-day-part-1-4-14pm
+* https://labs.phaser.io/edit.html?src=src\camera\set%20scroll%20factor.js
+* https://blog.logrocket.com/building-svgs-javascript-pablo/
+* https://gamedevelopment.tutsplus.com/tutorials/adding-turbulence-to-a-particle-system--gamedev-13332 - particles and turbulence
+* http://georgiee.github.io/phaser+box2d/ - phaser and box2d
+* https://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c
+    * https://madebyevan.com/webgl-water/water.js - water
+* https://gamemechanicexplorer.com/#fluid-1
+* https://github.com/kittykatattack/learningPixi - pixijs 
+* https://www.codeandweb.com/physicseditor/tutorials/phaser-p2-physics-example-tutorial 
+* https://blog.logrocket.com/processing-images-sharp-node-js/
+
+### Unity
+* https://gamedevelopment.tutsplus.com/tutorials/creating-dynamic-2d-water-effects-in-unity--gamedev-14143

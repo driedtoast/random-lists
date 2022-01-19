@@ -11,3 +11,5 @@
 ## Mocking API
 * https://hoverfly.io/
 * http://wiremock.org/
+* https://github.com/ovh/venom
+* https://github.com/adrienverge/localstripe

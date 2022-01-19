@@ -47,3 +47,4 @@
 * https://en.wikipedia.org/wiki/XOR_cipher
 * https://datatracker.ietf.org/doc/html/rfc2104
 * https://www.freeformatter.com/hmac-generator.html
+* https://github.com/coinbase/kryptology - lib

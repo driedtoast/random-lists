@@ -36,11 +36,23 @@
 * https://greenlight.com/
 * https://step.com/
 * https://cred.club/
+* https://www.tomocredit.com/
+* https://www.petalcard.com/
+* https://www.redcarpetup.com/
+
+## Rewards
+* https://www.getkard.com/
 
 ## Lending
 * https://www.figure.com/
 * https://kanmonhq.com/ - commercial
 * https://koodoo.io/
+
+### Crypto
+* https://drops.co/
+* https://nexo.io/nft-lending
+* https://nftfi.com/
+* https://guarda.com/
 
 ## Cashflow Management
 * https://www.settle.com/ - pay vendors / get money
@@ -58,6 +70,10 @@
 * https://www.brex.com/
 * https://www.tesorio.com/
 * https://productiv.com/ - saas spend
+* https://humcapital.com/ - capital funding
+
+## Expense mgmt
+* https://www.fylehq.com/
 
 ## Forecasting / Predictions / Decision
 * https://www.mosaic.tech/ - financial decisions
@@ -73,3 +89,5 @@
     * https://pilot.com/rd-credit
 
 
+## Real Estate
+* https://azibo.com/

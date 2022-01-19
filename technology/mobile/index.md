@@ -12,3 +12,6 @@
 
 ## Distributed server support
 * https://github.com/heroiclabs/nakama
+
+## Icons
+* https://phosphoricons.com/

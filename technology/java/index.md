@@ -11,6 +11,7 @@
 * https://linkedin.github.io/rest.li/
 * https://www.payara.fish/
 * https://www.kivakit.org/
+* https://sparkjava.com/
 
 ## Labels and text
 * https://unicode-org.github.io/icu/userguide/icu4j/

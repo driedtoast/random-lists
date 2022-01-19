@@ -6,6 +6,8 @@
 * https://www.fishbowlapp.com/
 * https://chief.com/
 * https://beondeck.com/
+* https://www.planted.com/
+* https://resilientcoders.org/
 
 ## Benefits
 * https://www.ease.com/
@@ -19,6 +21,9 @@
 * https://www.mya.com/
 * https://www.competewith.com/
 * https://www.hirehornet.com/
+* https://arc.dev/
+* https://chatkick.com/
+* https://laskie.com
 
 ## HR management
 * https://kinhr.com/
@@ -29,6 +34,8 @@
 * https://www.crosschq.com/
 * https://eightfold.ai/
 * https://symmetrical.ai/ - payroll
+* https://www.mathison.io/
+* https://www.merge.dev/ - payroll integration and such
 
 ## HR News
 * https://www.hrgrapevine.com/

@@ -11,3 +11,6 @@
 
 ## General
 * https://bigthink.com/the-future/spinlaunch-company-hurls-satellites-into-space-using-giant-spinning-machine/
+
+## Mars
+* https://www.inverse.com/innovation/spacex-mars-city-codex/amp

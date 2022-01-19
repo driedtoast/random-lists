@@ -4,6 +4,8 @@
 * https://www.cloudassembler.com/post/podman-machine-mac-m1/
 * https://www.redhat.com/sysadmin/container-image-short-names
 * https://iximiuz.com/en/
+* https://forums.docker.com/t/restart-docker-from-command-line/9420/8
+
 
 ## GIT
 * https://gitea.io/en-us/
@@ -83,6 +85,7 @@
 * https://www.davidbegin.com/creating-an-aws-bastion-host-with-terraform/
 * https://minhajuddin.com/2020/05/06/how-to-create-temporary-bastion-ec2-instances-using-terraform/
 * https://www.phillipsj.net/posts/random-things-with-terraform/ 
+* https://medium.com/hashicorp-engineering/how-to-implement-a-zero-trust-lab-with-hashicorp-in-an-hour-5934f5697d24
 
 ## DB migrations
 * https://engineering.instawork.com/elegant-database-migrations-on-ecs-74f3487da99f
@@ -134,10 +137,11 @@
 ## Architecture 
 * https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#the_modular_monolith
 * https://blog.nelhage.com/post/declarative-configuration-management/
-
+* https://github.com/damikun/trouble-training/blob/main/Doc/OpenTelemetry.md
 
 ## Kubernetes
 * https://github.com/cloudogu/k8s-diagrams
 * https://tsuyoshiushio.medium.com/kubernetes-in-three-diagrams-6aba8432541c
 * https://thecloud.christmas/2020/1
+* https://thenewstack.io/testkube-a-new-approach-to-cloud-native-testing/
 

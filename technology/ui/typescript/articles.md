@@ -11,3 +11,7 @@
 
 ## Docs
 * https://docs.dennisokeeffe.com/
+
+## General
+* https://thenewstack.io/how-typescript-can-speed-up-your-adoption-of-webassembly/
+* https://adrianhall.github.io/javascript/react/2020/03/29/parcel-typescript-react/

@@ -25,3 +25,7 @@
 * https://fluffychat.im/
 * https://element.io/
 * https://matrix.org/ - open source tooling
+
+## Metaversy
+* https://emerge.io/ - virtual touch / AR
+

@@ -13,8 +13,14 @@
 * https://github.com/discord/metal-rs
 * https://rx.cloudhead.io/
 
+## UI 
+* https://tauri.studio/
+
 ## Events
 * https://www.tremor.rs/
 
 ## CLI
 * https://github.com/warpdotdev/Warp
+
+## Crypto
+* https://github.com/openethereum/parity-ethereum

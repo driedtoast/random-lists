@@ -1,3 +1,7 @@
+## News
+* https://www.theblockcrypto.com/
+* https://medium.com/1kxnetwork
+
 ## crypto 
 * https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd078
 * https://danromero.org/
@@ -14,6 +18,24 @@
 * https://www.notboring.co/p/infinity-revenue-infinity-possibilities
 * https://brandoncp.medium.com/why-we-need-web3-8e60c42aab37
 * https://unenumerated.blogspot.com/
+* https://www.notboring.co/p/the-laboratory-for-complex-problems
+* https://twitter.com/matteo_titta/status/1477997553312362498
+* https://newday.substack.com/p/nouns-dao-meta-daos
+* https://uxdesign.cc/designing-for-web-3-0-53ea939ac66
+* https://decentpatterns.xyz/report/#2.-design.-new-user-experience-patterns
+
+
+## Daos
+* https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8
+* https://hackmd.io/@noun22/nounweekly
+* https://coopahtroopa.mirror.xyz/7bfK9st2mvhxlla4XKotRjetq5-YhaiwqRwS8DhkD-o
+
+## Blockchain
+* https://medium.com/design-ibm/blockchain-design-principles-599c5c067b6e
+* https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1
+* https://thenewstack.io/how-blockchain-startups-think-about-databases-and-dapp-efficiency/
+* https://blog.logrocket.com/substrate-blockchain-framework-core-concepts/
+* https://blog.logrocket.com/polkadot-blockchain-app-development-deployment/ 
 
 ## How to 
 * https://docs.substrate.io/tutorials/v3/cumulus/start-relay/
@@ -28,8 +50,22 @@
 * https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955
 * https://blog.scottlogic.com/2019/11/26/webassembly-on-the-blockchain.html- wasm
 * https://trufflesuite.com/guides/ethereum-overview/
+* https://forum.openzeppelin.com/t/ownable-contract-owner-is-always-the-0-address/1646
+* https://xtremetom.medium.com/solidity-random-numbers-f54e1272c7dd
+* https://dev.to/propelauth/rapid-prototyping-a-gpt-3-app-with-flask-and-propelauth-2jne
+* https://medium.com/coinmonks/solidity-programming-for-javascript-and-typescript-developers-45ae7a6c689d 
+* https://hackernoon.com/how-to-build-an-ethereum-transaction-app-with-react-and-solidity-part-2
 
 ## Nft how to
 * https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum
 * https://nftschool.dev/
 * https://nouns.notion.site/Generate-a-random-Noun-on-chain-4235479b512741289ede4cd22954cffc
+* https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana - solana
+* https://hackmd.io/@levicook/HJcDneEWF - uses candy machine and solana
+* https://docs.metaplex.com/nft-standard 
+* https://docs.x.immutable.com/docs/partner-nft-minting-setup
+
+### Solara
+* https://hackmd.io/@levicook/HJcDneEWF
+* https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana-using-candy-machine
+* https://docs.metaplex.com/fair-launch/introduction

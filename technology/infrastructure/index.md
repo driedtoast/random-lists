@@ -84,11 +84,13 @@
 * https://github.com/grafana/synthetic-monitoring-agent
 * https://github.com/simonschwartz/cloudwatch-synthetics-boilerplate
 * https://cloudcustodian.io/ - security / policy auditing
+* https://riemann.io/
 
 
 ## Local Dev
 * https://github.com/jsha/minica - key gen
 * https://github.com/FiloSottile/mkcert - key gen
+* https://github.com/pantsbuild/pants - build system
 
 ## Docker / Containers
 * https://podman.io/getting-started/ 

@@ -8,6 +8,7 @@
 * https://backstage.io/docs/features/techdocs/techdocs-overview
 * https://github.com/slatedocs/slate
 * https://docusaurus.io/
+* https://hoppscotch.io/ - and building
 
 ## Collaboration
 * https://code.visualstudio.com/learn/collaboration/live-share
@@ -59,14 +60,18 @@
 * https://egghead.io/
 * https://stackabuse.com/
 * https://docs.dennisokeeffe.com/ - nice layout interesting stuff
+* https://awesomeopensource.com/ - lots of links to libs and such
+* https://www.samanthaming.com/ - front end tips
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example
 
 ## Open source management
 * https://issuehunt.io/
+* https://newreleases.io/
 * https://openbase.com/
 * https://libraries.io/ - package search
+* https://www.libhunt.com/
 
 ## Bots
 
@@ -84,3 +89,8 @@
 ## Open APIs 
 * https://programming-quotes-api.herokuapp.com/
 * https://api.chucknorris.io/
+* https://webhook.site/ - for testing webhook logic
+
+
+## Challenges
+* https://github.com/samanthaming/awesome-notfancyappchallenge

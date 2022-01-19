@@ -14,6 +14,7 @@
 * https://tuffgrowth.com/ - marketing
 * https://www.superside.com/
 * https://www.brud.fyi/
+* https://www.thrasio.com/
 
 ## Application and UI Design
 * https://www.bostonux.com/
@@ -44,6 +45,7 @@
 * https://dribbble.com/alexeiman
 * https://dribbble.com/fhlcreative - in athens area?
 * https://dribbble.com/venncollective/ - in athens area?
+* https://www.mcwhortercreative.com/ - in athens area?
 
 ## Book and publishing
 * https://thebrightagency.com/us

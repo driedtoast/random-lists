@@ -1,8 +1,9 @@
 
-## Publishing platform
+## Publishing platform / CMS
 * https://ghost.org/
 * https://unfold.com/ - mobile story telling in pictures
 * https://neatlypressed.com/ - wordpress hosting
+* https://www.storyblok.com/
 
 ## NFTs
 * https://moopay.live/
@@ -20,8 +21,10 @@
 * https://www.getrevue.co/
 * https://get.independly.io/
 
+
 ## Printing
 * https://sinalite.com/en_us
+
 
 ## CSS and design
 * https://cssninja.io/
