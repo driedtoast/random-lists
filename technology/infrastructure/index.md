@@ -86,6 +86,11 @@
 * https://cloudcustodian.io/ - security / policy auditing
 * https://riemann.io/
 
+### Open telemetry
+* https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/overview.md#baggage-signal
+* https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/logs/data-model.md
+* https://github.com/gliderlabs/logspout
+
 
 ## Local Dev
 * https://github.com/jsha/minica - key gen

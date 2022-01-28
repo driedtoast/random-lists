@@ -10,6 +10,8 @@
 
 ## AWS Offerings
 * https://pages.awscloud.com/rs/112-TZM-766/images/Session%201%20-%20ElastiCache-DeepDive_v2_rev.pdf
+* https://states-language.net/spec.html - state spec
 
 ## Infrastructure
 * https://openinfra.dev/
+

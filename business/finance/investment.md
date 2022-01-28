@@ -29,6 +29,7 @@
 * https://www.onlyalt.com/
 * https://www.hervest.ng/home
 * https://public.com/
+* https://app.capitoltrades.com/ - political trades
 
 ## Crypto
 * https://www.ambergroup.io/
@@ -42,7 +43,8 @@
 * https://www.argent.xyz/
 * https://www.theplayerslounge.io/ - for college football
 * https://linksdao.io/ - golf
-
+* https://88mph.app/
+* https://balancer.fi/
 
 ## NFT
 * https://www.samuraicats.io/
@@ -60,6 +62,8 @@
 * https://spacerunners.com/
 * https://nftx.io/
 * https://nftfi.com/
+* https://www.azuki.com/
+* https://www.cerealclub.io/ - hmm ideas
 
 ## Early stage / Equity
 * https://www.startengine.com/
@@ -71,6 +75,8 @@
 * https://us.weareuncapped.com/
 * https://www.mosaicventures.com/
 * https://www.avenirgrowth.com/
+* https://govclab.com/
+* https://www.coughdropcapital.com/
 
 ## Investment data
 * https://plaid.com/products/investments/

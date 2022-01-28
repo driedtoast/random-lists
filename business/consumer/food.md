@@ -19,6 +19,7 @@
 
 ## Producers
 * https://www.animalalternativetechnologies.com/ - cultured meat
+* https://huel.com/ - drink meals
 
 ## Coffee
 * https://cometeer.com/

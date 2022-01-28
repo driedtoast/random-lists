@@ -3,6 +3,8 @@
 * https://www.snowpack.dev/
 * https://danger.systems/js/
 * https://nx.dev/
+* https://rushjs.io/
+* https://github.com/scurker/quilted - style coverage
 
 ## Components / Frameworks
 * https://mitosis.builder.io/?outputTab=vue - write once and port
@@ -11,6 +13,10 @@
 * https://www.electrode.io/
 * https://datatables.net/
 * https://hdivsecurity.com/
+* https://gridsome.org/
+* https://nextjs.org/
+* https://www.meteor.com/
+* http://perkframework.com/
 
 ## JQuery
 * https://github.com/techlab/jquery-smartwizard 
@@ -48,6 +54,11 @@
 * https://date-fns.org/ - date utility
 * https://github.com/jessym/react-seo-tools
 * https://www.w3.org/2002/09/tests/keys.html - key codes in javascript
+* https://currency.js.org/ - number formatting
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
+* http://numeraljs.com/ - number formatting
+* http://mikemcl.github.io/big.js/
+
 
 ## Music
 * https://github.com/ghaiklor/icecast-parser
@@ -90,6 +101,7 @@
 * https://shelly.dev/
 * https://www.babylonjs.com/ - 3d
 * https://github.com/sebmarkbage/art/
+* https://github.com/aheckmann/gm
 
 ## Phaser
 * https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
@@ -114,6 +126,7 @@
 * https://servestjs.org/
 * https://www.fastify.io/
     * https://github.com/fastify/aws-lambda-fastify
+* https://cheerio.js.org/ 
 
 ## Storage
 * https://localforage.github.io/localForage/
@@ -122,3 +135,28 @@
 ## Database 
 * https://www.prisma.io/
 * https://sequelize.org/
+
+## Testing
+* https://github.com/avajs/ava
+* https://github.com/substack/tape
+* https://github.com/substack/faucet
+* https://github.com/sharkdp/hyperfine
+* https://slimerjs.org/
+* https://www.casperjs.org/
+* https://github.com/postmanlabs/newman
+    * https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
+
+## Crypto 
+* https://docs.moralis.io/
+* https://webdollar.io/
+* https://github.com/dogecoin/dogecoin
+
+### Daos
+* https://github.com/makerdao
+
+## Finance
+* https://github.com/euforic/banking.js
+* https://github.com/openexchangerates/accounting.js
+* http://openexchangerates.github.io/money.js/
+* https://dinerojs.com/ - most updated
+* https://nashdot.github.io/accounting-js/

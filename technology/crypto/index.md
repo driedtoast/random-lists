@@ -8,10 +8,14 @@
 * https://gitcoin.co/
 * https://juicebox.money/#/
 * https://daocentral.com/
+* https://www.azuki.com/updates
+* https://aragon.org/
+* https://www.breederdao.io/ 
 
 ## Wallets
 * https://walletconnect.com/
 * https://guarda.com/
+* https://www.starname.me/ - name to wallet
 
 ## NFT
 * https://tokenspy.org/
@@ -31,6 +35,12 @@
 * https://dab.ooo/ - listing 
 * https://mint.floornfts.io/ - portfolio
 * https://noun.pics/
+* https://github.com/ExistentialEnso/duck-genesis-generator - generator
+    * https://existentialenso.substack.com/p/web3-magic-and-efficiency
+    * https://github.com/ExistentialEnso/dasduk-contract
+    * https://github.com/ExistentialEnso/dasduk-contract/blob/master/ERC721A.sol
+    * https://etherscan.io/address/0x5472896e283ebcb13924c659c9db594aa9dc05a4#code
+
 
 ## ML
 * https://github.com/bcjgit/nounsanalytics/blob/main/nouns_voting.ipynb
@@ -41,6 +51,11 @@
 * https://github.com/fairDataSociety
 * https://github.com/OutlierVentures
 * https://near.org/
+* https://github.com/lition-blockchain
+* https://zine.zora.co/zora-v3 - new protocol approaches for royalty
+    * https://royaltyregistry.xyz/
+* https://aragon.org/blog/snapshot - off chain sync
+* https://aleph.im/
 
 ## Gas monitoring
 * https://ethgasstation.info/
@@ -104,6 +119,8 @@
 * https://docs.soliditylang.org/en/v0.8.11/yul.html
 * https://yulp.fuel.sh/ - low level langauge ethereum
 * https://www.bigchaindb.com/ - db
+* https://github.com/ZeframLou/foundry-template
+* https://github.com/gakonst/foundry - rust based
 
 ## Examples
 * https://github.com/hicetnunc2000/wuwei/tree/16d9a33624ae12e92be30b6d802ef7192f98609c
@@ -137,6 +154,7 @@
 * https://github.com/tarun-soni/web3-resources
 * https://github.com/SHAKOTN/awesome-web3
 * https://snapshot.org/#/
+
 
 
 ### Solara

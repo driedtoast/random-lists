@@ -6,9 +6,11 @@
 
 ## Investigations
 * https://github.com/Netflix-Skunkworks/diffy
+* https://github.com/AppThreat/dep-scan
 
-## W3Specs
+## W3Specs / Specs
 * https://w3c.github.io/webappsec-cspee/
+* https://www.cisa.gov/uscert/bsi/articles/best-practices/requirements-engineering/the-common-criteria
 
 
 ## Open connect

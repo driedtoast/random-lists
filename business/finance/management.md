@@ -39,6 +39,7 @@
 * https://www.tomocredit.com/
 * https://www.petalcard.com/
 * https://www.redcarpetup.com/
+* https://www.eco.com/
 
 ## Rewards
 * https://www.getkard.com/
@@ -87,6 +88,8 @@
 * https://bench.co/
 * https://pilot.com/
     * https://pilot.com/rd-credit
+
+* https://www.taxaroo.com/ - virtual tax 
 
 
 ## Real Estate

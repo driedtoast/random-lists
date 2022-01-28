@@ -4,3 +4,6 @@
 
 ## Cryptology 
 * https://github.com/coinbase/kryptology
+
+## State machines
+* https://github.com/checkr/states-language-cadence

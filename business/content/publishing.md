@@ -14,6 +14,8 @@
 * https://adventr.io/
 * https://www.descript.com/ - development like video production
 * https://www.qiwio.io/
+* https://toch.ai/
+* https://milkvideo.com/ - repurposing
 
 ## Content Subscription Management
 * https://substack.com/

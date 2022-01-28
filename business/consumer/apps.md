@@ -14,6 +14,7 @@
 * https://zen.ly/
 * https://www.joinpapa.com/
 * https://www.manyver.se/
+* https://racket.com/ - story telling
 
 ## Salon booking
 * https://www.getshortcut.co/

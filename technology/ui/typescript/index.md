@@ -9,3 +9,7 @@
 
 ## Shell projects
 * https://github.com/umstek/parcel-typescript-react-tailwind
+
+## Slack
+* https://github.com/slackapi/node-tasks-app
+* https://slack.dev/java-slack-sdk/guides/getting-started-with-bolt

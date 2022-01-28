@@ -12,6 +12,9 @@
 * https://github.com/NewThingsCo/hands-on-design-system
 * https://atlassian.design/
 
+## Color
+* https://usbrandcolors.com/
+
 ## Resources
 * https://moon.ly/
 * https://saaslandingpage.com/ - landing page ideas

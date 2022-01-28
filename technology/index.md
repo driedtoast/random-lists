@@ -13,10 +13,11 @@
 ## Collaboration
 * https://code.visualstudio.com/learn/collaboration/live-share
 
-## Algorithms 
+## Algorithms / Math
 * https://www.makeuseof.com/algorithms-every-programmer-should-know/
 * https://en.wikipedia.org/wiki/L'H%C3%B4pital's_rule
 * https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+* https://0a.io/chapter1/calculus-explained.html
 
 ## Protocols / Design Patterns
 * https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/ 
@@ -32,6 +33,9 @@
 * https://www.w3.org/TR/json-ld11/ - data linking in json
 * https://www.w3.org/TR/turtle/
 * http://specification.sifassociation.org/Implementation/Infrastructure/3.3/infrastructures/
+
+### Finance
+* https://financialdataexchange.org//ofx
 
 
 ### Domains
@@ -62,6 +66,13 @@
 * https://docs.dennisokeeffe.com/ - nice layout interesting stuff
 * https://awesomeopensource.com/ - lots of links to libs and such
 * https://www.samanthaming.com/ - front end tips
+* https://www.thiscodeworks.com/ - code ref with nice design
+* https://devhints.io/ - code reference
+
+## Odd languages
+* https://esolangs.org/wiki/Main_Page
+    * https://bigzaphod.github.io/COW/
+* https://cfwheels.org/ - cold fusion rails like framework, right?
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example

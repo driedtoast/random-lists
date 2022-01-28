@@ -8,12 +8,16 @@
 * https://beondeck.com/
 * https://www.planted.com/
 * https://resilientcoders.org/
+* https://www.joincontinuum.com/how-it-works
+* https://www.strive.co/ - training
+* https://practice.do/ - coach management app
 
 ## Benefits
 * https://www.ease.com/
 * https://www.getchallenger.com/
 * https://www.trajector.com/
 * https://www.meetcocoon.com/
+* https://catch.co/ - for small biz / non-insured
 
 ## Recruiting
 * https://breezy.hr/
@@ -24,6 +28,7 @@
 * https://arc.dev/
 * https://chatkick.com/
 * https://laskie.com
+* https://www.wonolo.com/
 
 ## HR management
 * https://kinhr.com/

@@ -108,6 +108,7 @@
 ## Integration Tooling
 * https://www.odoo.com/
 * https://www.smartkarrot.com/
+* https://www.rudderstack.com/
 
 ## Product Discovery Hubs
 * https://www.saashub.com/
@@ -142,6 +143,7 @@
 * https://www.blueboard.com/
 * https://www.varicent.com/
 * https://www.captivateiq.com/
+* http://profit.co/ - okr
 
 
 ## App Store / Private Labeling

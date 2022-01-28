@@ -20,6 +20,8 @@
 * https://www.mangopay.com/
 * https://www.tillpayments.com/
 * https://usesummit.com/
+* https://fidel.uk/
+* https://fragment.dev/
 
 ## Mobile
 * https://www.usebutton.com/
@@ -71,6 +73,7 @@
 * https://higo.io/
 * https://www.billie.io/
 * https://www.splitit.com/
+* https://www.milocredit.com/ - crypto
 
 ## Infrastructure
 * https://orum.io/
@@ -89,6 +92,8 @@
 * https://truelayer.com/ - open banking
 * https://flinks.com/ - plaid competitor
 * https://www.strac.io/
+* https://pagos.ai/ - infrastructure for cards
+* https://griffin.sh/ - banking as a service
 
 ## Crypto / Ledgers
 * https://www.diem.com/en-us/

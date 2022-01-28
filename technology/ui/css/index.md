@@ -12,6 +12,7 @@
 * https://tailwindui.com/
 * https://www.pollen.style/
 * https://unocss.antfu.me/
+* https://windicss.org/
 
 ## SVG Icons
 * https://heroicons.com/
@@ -34,7 +35,12 @@
 
 ## CSS Specs
 * https://www.w3.org/TR/css-flexbox-1/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
 
 
 ## Resources
 * https://www.samanthaming.com/
+
+## Graphics / Animation 
+* https://css-homer-sprites.netlify.app/styles.css
+* https://animate.style/

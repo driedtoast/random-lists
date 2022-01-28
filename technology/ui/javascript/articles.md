@@ -3,6 +3,7 @@
 * https://checkmarx.com/blog/javascript-history-infographic/
 * https://css-tricks.com/cash-tiny-jquery-alternative/
 * https://www.infoworld.com/article/3646195/a-simple-automated-build-pipeline-for-nodejs.html
+* https://dev.to/luccadumas/building-a-full-api-with-nodejs-strapi-in-5-minutes-or-less-amazing-5dfk
 
 ## Security
 * https://nordicapis.com/assisted-token-flow-the-answer-to-oauth-integration-in-single-page-applications/
@@ -31,6 +32,7 @@
 
 ## Api integration
 * https://dev.to/j471n/how-to-share-anything-from-your-website-by-web-share-api-1h5g - sharing buttons
+* https://wpforms.com/docs/how-to-test-stripe-payments-on-your-site/
 
 ## Graphics 
 * https://spicyyoghurt.com/tutorials/html5-javascript-game-development/create-a-smooth-canvas-animation
@@ -56,6 +58,14 @@
 * https://github.com/kittykatattack/learningPixi - pixijs 
 * https://www.codeandweb.com/physicseditor/tutorials/phaser-p2-physics-example-tutorial 
 * https://blog.logrocket.com/processing-images-sharp-node-js/
+
+## Video processing
+* https://redstapler.co/realtime-video-processing-javascript-tutorial/
+* https://github.com/jsgilberto/youtube-frames
+* https://www.npmjs.com/package/youtube-video-to-frames
+* https://www.kapwing.com/tools/convert-video
+* http://www.watchframebyframe.com/
+* https://blog.logrocket.com/build-video-streaming-server-node/
 
 ### Unity
 * https://gamedevelopment.tutsplus.com/tutorials/creating-dynamic-2d-water-effects-in-unity--gamedev-14143

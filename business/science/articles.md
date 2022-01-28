@@ -4,3 +4,6 @@
 
 ## Animals
 * https://www.sciencealert.com/birds-have-a-mysterious-quantum-sense-and-scientists-have-seen-it-in-action/amp
+
+## Health
+* https://scitechdaily.com/not-science-fiction-german-scientists-harness-the-power-of-photosynthesis-for-new-way-to-breathe/amp/

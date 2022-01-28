@@ -18,6 +18,7 @@
 * https://medium.com/the-curve-tech-blog/securing-your-cloud-with-a-bastion-host-cd6405a38501
 * https://gist.github.com/kshailen/0d4f78596b0ab12659be908163ed1fc2
 * https://aws.amazon.com/blogs/devops/building-end-to-end-aws-devsecops-ci-cd-pipeline-with-open-source-sca-sast-and-dast-tools/
+* https://github.com/amazon-archives/deploy-manage-microservices-on-ecs-and-fargate/blob/master/lab-guides/cleanup.md
 
 ## SSM / Keys
 * https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-manager-securely-store-rotate-ssh-key-pairs/

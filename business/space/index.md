@@ -10,6 +10,7 @@
 * https://www.maxar.com/
 * https://www.responsiveaccess.com/
 * https://www.privateer.com/ - could be rockets too 
+* https://varda.com/ - factories in space?
 
 ## Communication
 * https://ast-science.com/

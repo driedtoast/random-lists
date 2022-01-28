@@ -6,3 +6,4 @@
 * https://developers.google.com/learn/pathways/intro-to-flutter
 * https://medium.com/@ozgurmacit/injecting-force-update-mechanism-to-a-flutter-app-e9d9561923c3
 * https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/
+* https://blog.gskinner.com/archives/2022/01/flutter-easily-add-ci-testing-with-github-actions.html

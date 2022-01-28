@@ -21,6 +21,7 @@
 * https://zebec.io/ - solara protocol for money movement
 * https://www.wonder.fi/
 * https://gnosis-safe.io/
+* https://moralis.io/ - free to start blockchain dev
 
 ## Contract nodes
 * https://infura.io/
@@ -62,6 +63,7 @@
 * https://coordinape.com/
 * https://commonwealth.im/ - platformy
 * https://linksdao.io/
+* https://edgeandnode.com/ - vc ish
 
 ## Outsource development
 * https://edgeandnode.com/ 

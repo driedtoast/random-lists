@@ -14,3 +14,6 @@
 
 ## Mars
 * https://www.inverse.com/innovation/spacex-mars-city-codex/amp
+
+## Space junk
+* https://www.projectpluto.com/temp/dscovr.htm

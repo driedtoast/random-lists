@@ -14,3 +14,6 @@
 ## Sizing
 * https://zellwk.com/blog/rem-vs-em/ - rem vs em
 * https://www.w3.org/Style/Examples/007/units.en.html
+
+## Animation
+* https://cssanimation.rocks/

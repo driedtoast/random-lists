@@ -17,8 +17,12 @@
 * https://backendless.com/
 * https://pory.io/
 * https://remix.run/
+* https://debuild.co/ - through just english wording
 * https://www.minimum.run/
     * https://www.indiehackers.com/post/how-we-scaled-a-no-code-agency-from-50k-to-500k-in-revenue-in-1-year-fa4ad56d56
+
+## Components 
+* https://www.tiny.cloud/ - rich text editor
 
 ## Learning 
 * https://www.educative.io/

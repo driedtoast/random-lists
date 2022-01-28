@@ -23,6 +23,7 @@
 ## GPT-3
 * https://github.com/EleutherAI/gpt-neox
 * https://www.eleuther.ai/
+* https://github.com/allenai/macaw - q & a based
 
 ## Langauge Modeling
 * https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/

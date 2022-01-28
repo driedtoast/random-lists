@@ -12,6 +12,9 @@
 * https://www.notboring.co/p/the-laboratory-for-complex-problems
 * https://rfs100.substack.com/p/100-startup-ideas - ideas that are interesting
 * https://www.entrepreneur.com/article/400056
+* https://govclab.com/2021/09/27/cornerstone-limited-partner-agreement/ - docs for vc funding
+* https://www.tiny.cloud/blog/saas-iterative-testing/ - onboarding tips
+* https://www.conversion-uplift.co.uk/glossary-of-conversion-marketing/iterative-testing/
 
 ## Bootstrap tips
 * https://www.indiehackers.com/post/how-do-you-market-a-non-sexy-saas-fd497b10c9
@@ -22,3 +25,4 @@
 * https://www.indiehackers.com/post/how-we-scaled-a-no-code-agency-from-50k-to-500k-in-revenue-in-1-year-fa4ad56d56
 * https://www.indiehackers.com/post/everything-i-ve-learned-from-growing-my-product-to-10-million-users-with-0-in-funding-925777ba88
 * https://www.indiehackers.com/post/bootstrapping-a-personal-productivity-saas-to-10k-mrr-cac5dfe318
+* https://www.indiehackers.com/post/how-we-got-267-beta-users-in-4-hours-for-our-saas-9f6e0c6043

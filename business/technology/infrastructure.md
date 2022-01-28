@@ -8,6 +8,7 @@
 ## API management
 * https://konghq.com/
 * https://www.plasmic.app/
+* https://crossplane.io/
 
 ## Diagramming
 * https://www.hava.io/
@@ -47,6 +48,8 @@
 * https://logiq.ai/monitoring/
 * https://www.alyvix.com/
 * https://qumulo.com/
+* https://www.montecarlodata.com/ - data analysis
+* https://stackify.com/
 
 
 ## CI / Deployment
@@ -68,6 +71,7 @@
 * https://octopus.com/
 * https://www.runx.dev/ 
 * https://aiven.io/ - db / kafka / etc...
+* https://spacelift.io/
 
 ## Queues / Streams
 * https://strimzi.io/

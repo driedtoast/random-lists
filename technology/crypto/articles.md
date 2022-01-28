@@ -1,6 +1,7 @@
 ## News
 * https://www.theblockcrypto.com/
 * https://medium.com/1kxnetwork
+* https://jacob.energy/hyperstructures.html - hyperstructures
 
 ## crypto 
 * https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd078
@@ -23,12 +24,15 @@
 * https://newday.substack.com/p/nouns-dao-meta-daos
 * https://uxdesign.cc/designing-for-web-3-0-53ea939ac66
 * https://decentpatterns.xyz/report/#2.-design.-new-user-experience-patterns
+* https://blog.colony.io/clny-supply/ - coin supply
 
 
 ## Daos
 * https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8
 * https://hackmd.io/@noun22/nounweekly
 * https://coopahtroopa.mirror.xyz/7bfK9st2mvhxlla4XKotRjetq5-YhaiwqRwS8DhkD-o
+* https://medium.com/metacartel
+* https://whitepaper.axieinfinity.com/ - game concept
 
 ## Blockchain
 * https://medium.com/design-ibm/blockchain-design-principles-599c5c067b6e
@@ -36,6 +40,7 @@
 * https://thenewstack.io/how-blockchain-startups-think-about-databases-and-dapp-efficiency/
 * https://blog.logrocket.com/substrate-blockchain-framework-core-concepts/
 * https://blog.logrocket.com/polkadot-blockchain-app-development-deployment/ 
+
 
 ## How to 
 * https://docs.substrate.io/tutorials/v3/cumulus/start-relay/
@@ -55,6 +60,8 @@
 * https://dev.to/propelauth/rapid-prototyping-a-gpt-3-app-with-flask-and-propelauth-2jne
 * https://medium.com/coinmonks/solidity-programming-for-javascript-and-typescript-developers-45ae7a6c689d 
 * https://hackernoon.com/how-to-build-an-ethereum-transaction-app-with-react-and-solidity-part-2
+* https://hackernoon.com/how-to-hack-smart-contracts-self-destruct-and-solidity
+* https://blog.logrocket.com/using-moralis-nextjs/
 
 ## Nft how to
 * https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum
@@ -64,8 +71,11 @@
 * https://hackmd.io/@levicook/HJcDneEWF - uses candy machine and solana
 * https://docs.metaplex.com/nft-standard 
 * https://docs.x.immutable.com/docs/partner-nft-minting-setup
+* https://www.azuki.com/erc721a - gas saving 
+* https://blog.colony.io/token-sale-guide/ - token launching
 
 ### Solara
 * https://hackmd.io/@levicook/HJcDneEWF
 * https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana-using-candy-machine
 * https://docs.metaplex.com/fair-launch/introduction
+

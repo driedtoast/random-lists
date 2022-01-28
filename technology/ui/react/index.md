@@ -13,7 +13,7 @@
 ## General
 * https://usehooks-typescript.com/react-hook/use-on-click-outsidesear{}
 * https://github.com/typescript-cheatsheets/react
-
+* https://refine.dev/ - framework
 
 ## Random
 * https://github.com/vmarchesin/react-konami-code
@@ -121,6 +121,7 @@
 * https://github.com/tannerlinsley/react-query-devtools
 * https://github.com/carteb/carte-blanche
 * https://reactcosmos.org/
+* https://jestjs.io/
 * https://scup.github.io/atellier/
 
 ## Resources

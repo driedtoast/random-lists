@@ -13,6 +13,8 @@
 * https://reactjsexample.com/
 * https://stackoverflow.com/questions/51218979/react-router-doesnt-work-in-aws-s3-bucket 
 * https://dev.to/localpathcomp/opinionated-project-structures-in-react-js-without-a-framework-13m
+* https://reactjsexample.com/a-simple-todo-app-with-react/amp/
+* https://reactjsexample.com/a-simple-mock-up-of-square-dashboard-using-react-and-firebase/amp/  - with firebase
 
 ## Component 
 * https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/

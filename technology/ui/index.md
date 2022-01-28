@@ -14,4 +14,5 @@
 
 ## APIs
 * https://github.com/public-apis/public-apis
+* https://github.com/forcedotcom/postman-salesforce-apis
 

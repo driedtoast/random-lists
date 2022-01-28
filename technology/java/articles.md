@@ -48,6 +48,7 @@
 * https://reflectoring.io/zero-downtime-deployments-with-feature-flags/
 * https://spring.io/blog/2011/08/15/configuring-spring-and-jta-without-full-java-ee/
 * https://www.fabiomaffioletti.me/blog/2014/04/15/distributed-transactions-multiple-databases-spring-boot-spring-data-jpa-atomikos/
+* https://www.jpa-buddy.com/blog/soft-deletion-in-hibernate-things-you-may-miss/
 
 ### Cache
 * https://auth0.com/blog/spring-boot-caching-101/

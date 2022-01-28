@@ -23,6 +23,9 @@
 * https://www.ore-system.com/
 * https://moonknightlabs.com/
 * https://www.blackeyegalaxy.space/
+* https://axieinfinity.com/
+* https://www.crabada.com/
+* https://pegaxy.io/
 
 ## Indie titles
 * https://en.m.wikipedia.org/wiki/Psychonauts

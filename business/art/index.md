@@ -26,6 +26,7 @@
     * https://observablehq.com/@gitblamecarrot/the-noun-crystal-ball
 * https://www.deafbeef.com/first.htm - dadaism
 * https://www.artblocks.io/ - generative art 
+* https://www.tboa.club/ - generative art
 * https://make8bitart.com/
 * https://www.larvalabs.com/
 * https://discourse.nouns.wtf/t/100-days-of-nouns-coloring-book/468
