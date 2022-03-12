@@ -12,3 +12,4 @@
 
 ## Various
 * https://dested.com/
+* https://github.com/trekhleb/javascript-algorithms

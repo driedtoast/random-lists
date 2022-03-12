@@ -14,6 +14,7 @@
 * https://www.mosaicventures.com/patterns/mlops-the-end-of-end-to-end
 * https://venturebeat.com/2021/12/23/open-source-nlp-is-fueling-a-new-wave-of-startups/
 * https://lukasbiewald.com/
+* https://towardsdatascience.com/the-new-version-of-gpt-3-is-much-much-better-53ac95f21cfb
 
 ## Content Generation
 * https://www.wired.com/story/ai-generate-convincing-text-anyone-use-it/
@@ -26,3 +27,6 @@
 * https://towardsdatascience.com/a-full-end-to-end-deployment-of-a-machine-learning-algorithm-into-a-live-production-environment-3d9971ade188
 * https://beta.openai.com/docs/guides/completion
 * https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437
+* https://eng.uber.com/mastermind/ - rules engine
+* https://blog.streamlit.io/rasalit/
+* https://blog.streamlit.io/forecasting-with-streamlit-prophet/

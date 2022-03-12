@@ -8,9 +8,17 @@
 ## Quarkus
 * https://github.com/quarkusio/quarkus-quickstarts/tree/main/amazon-ssm-quickstart
 * https://github.com/quarkusio/quarkus-quickstarts/blob/main/security-openid-connect-web-authentication-quickstart/pom.xml
+* https://github.com/eclipse-vertx/vert.x/blob/master/src/test/java/io/vertx/core/eventbus/EventBusInterceptorTest.java#L278
+* https://github.com/smallrye/smallrye-reactive-messaging
+
+## Reactive streams
+* https://github.com/gregwhitaker/reactive-sqs-client/blob/7f46eef74fb3385aa01169c314dfdd62a1423900/src/examples/java/com/github/gregwhitaker/rxsqs/examples/Consumer.java#L52
+* https://github.com/gregwhitaker/reactive-sqs-client/tree/master/src/examples/java/com/github/gregwhitaker/rxsqs/examples
+* https://github.com/basestar/basestar/blob/master/basestar-event-sqs/src/main/java/io/basestar/event/sqs/SQSReceiver.java
 
 ## Jaxrs
 * https://github.com/authlete/authlete-java-jaxrs/blob/master/src/main/java/com/authlete/jaxrs/BaseTokenEndpoint.java
+* https://gist.github.com/bernardolopes8/cf04f49e1b64bd47576e7204601ef126
 
 ## Feature flags
 * https://github.com/togglz/togglz

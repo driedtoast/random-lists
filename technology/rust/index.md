@@ -12,6 +12,7 @@
 * https://github.com/RazrFalcon/resvg
 * https://github.com/discord/metal-rs
 * https://rx.cloudhead.io/
+* https://github.com/leetvr/hotham - vr 
 
 ## UI 
 * https://tauri.studio/
@@ -25,3 +26,8 @@
 ## Crypto
 * https://github.com/openethereum/parity-ethereum
 * https://github.com/gakonst/foundry
+
+## Web frameworks
+* https://www.arewewebyet.org/
+* https://www.arewewebyet.org/topics/frameworks/#pkg-actix-web
+* https://www.arewewebyet.org/topics/web-apis/#pkg-rusoto_core

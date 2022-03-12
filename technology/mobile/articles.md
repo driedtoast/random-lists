@@ -7,3 +7,7 @@
 * https://medium.com/@ozgurmacit/injecting-force-update-mechanism-to-a-flutter-app-e9d9561923c3
 * https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/
 * https://blog.gskinner.com/archives/2022/01/flutter-easily-add-ci-testing-with-github-actions.html
+* https://medium.com/flutter-community/build-a-marketplace-in-your-flutter-app-and-accept-payments-using-stripe-and-firebase-72f3f7228625
+
+### Crypto
+* https://blog.logrocket.com/building-dapp-flutter-solidity/

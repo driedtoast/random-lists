@@ -11,6 +11,10 @@
 * https://www.sherylyapsl.com/
 * https://www.kaylahua.art/
 * http://www.chelseablecha.com/
+* https://www.rodrigobastosdidier.com/portfolio
+* https://eileenkaihingkwan.co.uk/
+* http://ryanwoodwardart.com/
+* https://www.freelanced.com/ - list, freelance and marketplace
 
 ## Comic Artists
 * https://www.upstartcomics.com/salome - Marisa Brignole

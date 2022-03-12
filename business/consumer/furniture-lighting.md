@@ -11,12 +11,13 @@
 
 ## Houseware
 * https://www.arc-intl.com/en/
+* https://aravalii.com/
 
 ## Furniture
 * https://www.kathykuohome.com/
 * https://www.burkedecor.com/
 * https://www.tomraffield.com/ - and lighting
-
+* https://www.sutherlandfurniture.com/
 
 ## Furniture supplies
 * https://fagasstraps.com/

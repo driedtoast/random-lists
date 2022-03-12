@@ -39,6 +39,7 @@
 * https://pipedream.com/
 * https://reflector.io/
 * https://nussknacker.io/
+* https://www.stedi.com/ - data transformation
 
 ## Microservices 
 * https://temporal.io/
@@ -71,7 +72,7 @@
 * https://aiven.io/ - time series
 * https://min.io/ - object
 * https://firebase.google.com/ 
-
+* https://planetscale.com/ - mysql servless
 * https://pganalyze.com/ - postgres analysis
 
 ## Data processing

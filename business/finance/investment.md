@@ -45,6 +45,10 @@
 * https://linksdao.io/ - golf
 * https://88mph.app/
 * https://balancer.fi/
+* https://www.cryptovoxels.com/map
+* https://www.bitdao.io/
+* https://www.superlayer.io/
+* https://tokenist.com/ - news
 
 ## NFT
 * https://www.samuraicats.io/
@@ -64,6 +68,9 @@
 * https://nftfi.com/
 * https://www.azuki.com/
 * https://www.cerealclub.io/ - hmm ideas
+* https://luckygoat.org/
+* https://pieceofpi.eth.link/ - an oddity
+* https://www.magiceden.io/ - sol based open sea
 
 ## Early stage / Equity
 * https://www.startengine.com/

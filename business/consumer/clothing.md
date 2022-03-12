@@ -5,10 +5,14 @@
 * https://www.teepublic.com/ - sell your art through it
 * https://wohven.com/ - also could sell your are through it
 * https://inkwellprintco.com/
+* https://www.threadsy.com/ - wholesale pricing
 
 ## Outdoor clothing and gear
 * https://wandernorthgeorgia.com/ 
     * https://wandernorthgeorgia.com/our-story/  - cool story 
+
+## Watches
+* https://mrjoneswatches.com/
 
 ## Artistic merchandise
 * https://pretty-useful.co/
@@ -32,4 +36,5 @@
 * https://www.printful.com/
 * https://www.gelato.com/en-US/integrations/
 * https://wunderlabel.com/ - clothing labels
+* https://goldengoodsusa.com/ - old do shirts
   

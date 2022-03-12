@@ -19,3 +19,4 @@
 * https://tuffgrowth.com/growth-guide/
 * https://rockcontent.com/blog/saas-marketing/
 * https://www.advanceb2b.com/blog/brand-the-forgotten-ingredient-in-b2b-saas-growth
+* https://www.indiehackers.com/post/tiktok-works-for-acquiring-saas-users-12df8b5396

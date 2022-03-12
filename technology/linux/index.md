@@ -5,3 +5,5 @@
 
 ## Bash
 * https://linuxize.com/post/bash-if-else-statement/
+* https://github.com/junegunn/fzf
+* https://github.com/sharkdp/fd

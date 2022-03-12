@@ -1,5 +1,6 @@
 ## General app
 * https://github.com/securingsincity/react-ace-create-react-app-example
+* https://github.com/umstek/parcel-typescript-react-tailwind
 
 ## Bot creation / editor
 * https://github.com/botfront/botfront/tree/master/botfront
@@ -16,7 +17,8 @@
 ## Diagramming
 * https://github.com/projectstorm/react-diagrams/tree/master/diagrams-demo-project
 
-
+## Graphics
+* https://github.com/wizpanda/super-gif - gif parsing
 
 ## Design Kits
 

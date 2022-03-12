@@ -18,3 +18,5 @@
 ## Web comics
 * https://thelittlestviking.com/
 
+## Interesting illustrated books
+* https://www.thesquickerwonkers.com/

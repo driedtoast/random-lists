@@ -65,3 +65,6 @@
 
 ## Video editing
 * https://shotcut.org/
+
+## Fonts
+* https://www.atipofoundry.com/fonts/strawford

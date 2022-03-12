@@ -7,3 +7,13 @@
 
 ## State machines
 * https://github.com/checkr/states-language-cadence
+
+## Algorithms
+* https://github.com/TheAlgorithms/Go
+
+## Feature flags
+* https://checkr.github.io/flagr/#/
+
+## Crypto (without the ology)
+* https://geth.ethereum.org/
+    * https://github.com/ethereum/go-ethereum

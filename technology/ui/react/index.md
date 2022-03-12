@@ -17,8 +17,7 @@
 
 ## Random
 * https://github.com/vmarchesin/react-konami-code
-
-
+* https://github.com/nfl/react-helmet
 
 ## UI Component Lib
 * https://headlessui.dev/
@@ -48,9 +47,11 @@
 * https://baseweb.design/
 * https://ebay.github.io/nice-modal-react
 
+
 ## Documentation
 * https://github.com/pocotan001/react-styleguide-generator 
 * https://www.docz.site/
+* https://mdxjs.com/
 
 ## Social Buttons
 * https://www.npmjs.com/package/react-social-login-buttons
@@ -90,6 +91,7 @@
 * https://github.com/kenneth1003/react-render-ctrl
 * https://github.com/reduxjs/reselect
 * https://redux-toolkit.js.org/
+* https://github.com/luisanton-io/recoil-nexus
 
 ## Text editor
 * https://docs.slatejs.org/

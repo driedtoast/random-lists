@@ -20,9 +20,11 @@
 ## Producers
 * https://www.animalalternativetechnologies.com/ - cultured meat
 * https://huel.com/ - drink meals
+* https://www.angelinaparisusa.com/nationwide-shipping/p/hot-chocolate - best hot chocolate
 
 ## Coffee
 * https://cometeer.com/
+* https://www.saintfrankcoffee.com/
 
 ## Cooking Gear
 * https://anovaculinary.com/anova-precision-oven/

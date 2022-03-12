@@ -4,9 +4,11 @@
 * https://css-tricks.com/cash-tiny-jquery-alternative/
 * https://www.infoworld.com/article/3646195/a-simple-automated-build-pipeline-for-nodejs.html
 * https://dev.to/luccadumas/building-a-full-api-with-nodejs-strapi-in-5-minutes-or-less-amazing-5dfk
+* https://css-tricks.com/user-registration-authentication-firebase-react/
 
 ## Security
 * https://nordicapis.com/assisted-token-flow-the-answer-to-oauth-integration-in-single-page-applications/
+* https://dev.to/luckynkosi/creating-a-qr-code-with-custom-icon-and-text-using-html-javascript-16gh - qr code
 
 ## Text and Labeling
 * https://dev.to/adrai/how-does-server-side-internationalization-i18n-look-like-5f4c
@@ -18,6 +20,7 @@
 ## Rehydration / Performance
 * https://developers.google.com/web/updates/2019/02/rendering-on-the-web#rehydration
 * https://web.dev/apply-instant-loading-with-prpl/
+* https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3
 
 ## Database
 * https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc

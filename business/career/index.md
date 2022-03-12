@@ -29,6 +29,7 @@
 * https://chatkick.com/
 * https://laskie.com
 * https://www.wonolo.com/
+* https://www.letsdeel.com/
 
 ## HR management
 * https://kinhr.com/
@@ -41,6 +42,7 @@
 * https://symmetrical.ai/ - payroll
 * https://www.mathison.io/
 * https://www.merge.dev/ - payroll integration and such
+* https://tryfinch.com/ - aggregator / payroll
 
 ## HR News
 * https://www.hrgrapevine.com/

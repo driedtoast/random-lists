@@ -8,7 +8,8 @@
 * http://literallycanvas.com/ - whiteboarding
 * https://www.vimcal.com/
 * https://mymind.com/
-* https://setapp.com/ 
+* https://setapp.com/
+* https://logsnag.com/ - stream of events 
 
 
 ## Annotating
@@ -38,8 +39,10 @@
 * https://crowd.inc/
 * https://kern.al/
 
-## Culture
+## Culture / Goals
 * https://conscious.org/
+* https://www.cascade.app/
+* https://slab.com/ - collaborative docs
 
 ## Franchises
 * https://americasbestfranchises.com/

@@ -3,6 +3,7 @@
 ## Event tracking
 * https://plausible.io/
 * https://snowplowanalytics.com/
+* https://www.sessionstack.com/
 
 ## Tracking / Site
 * https://pirsch.io/
@@ -12,6 +13,7 @@
 * https://nozzle.io/
 * https://www.hotjar.com/
 * https://www.funnelbranch.com/ - funnel based
+* https://confection.io/
 
 ## Sales tracking
 * https://inaccord.com/
@@ -44,7 +46,8 @@
 * https://www.grow.com/
 * https://supermetrics.com/
 * https://www.knowi.com/
-
+* https://www.yellowfinbi.com/
+* https://canvasapp.com/
 
 ## Manufacturing / Process
 * https://www.seeq.com/

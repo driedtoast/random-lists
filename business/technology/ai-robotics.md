@@ -18,4 +18,6 @@
 * https://www.seldon.io/
 * https://www.perceptilabs.com/
 * https://www.watchful.io/
+* https://jina.ai/
 * https://wandb.ai/ - infrastructure for it too
+* https://www.upsolver.com/

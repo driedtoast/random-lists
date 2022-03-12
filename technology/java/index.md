@@ -12,6 +12,13 @@
 * https://www.payara.fish/
 * https://www.kivakit.org/
 * https://sparkjava.com/
+* https://github.com/xmolecules/jmolecules
+* https://github.com/moduliths/moduliths
+* https://curator.apache.org/index.html - zookeeper framework
+
+### CLI
+* https://picocli.info/
+* https://www.jbang.dev/
 
 ## Labels and text
 * https://unicode-org.github.io/icu/userguide/icu4j/
@@ -25,6 +32,7 @@
 ## Monitoring
 * https://micrometer.io/
 * https://github.com/p6spy/p6spy
+* https://github.com/apereo/inspektr
 
 ## Builds
 * https://saker.build/index.html
@@ -34,12 +42,14 @@
 * https://github.com/j-easy/easy-states
 * https://github.com/Beh01der/EasyFlow
 * https://github.com/NitorCreations/nflow - micro service style
+    * https://github.com/NitorCreations/nflow/wiki/Getting-Started
 
 ## Json
 * https://github.com/FasterXML/jackson-datatype-hibernate
 
 ## Feature flags
 * https://github.com/Unleash/unleash
+* https://ff4j.github.io/
 
 ## Transactions / Database
 * https://github.com/snowdrop/narayana-spring-boot
@@ -62,12 +72,19 @@
 * https://github.com/linkedin/Brooklin/
 * https://smallrye.io/smallrye-mutiny/getting-started/creating-unis
 * https://occurrent.org/
+    * https://occurrent.org/documentation#sagas
 * https://ing-bank.github.io/baker
 * https://temporal.io/
+* https://www.jobrunr.io/en/
+* https://github.com/quarkiverse/quarkus-pusher-beams
+* https://github.com/basestar/basestar - data processing
+* https://www.asyncapi.com/
 
 ## Utilities
 * https://projectlombok.org/
 * https://github.com/salesforce/formula-engine
+* https://tika.apache.org/ - content parsing and validation
+* https://github.com/resilience4j/resilience4j - fault tolerance
 
 ## Templates 
 * https://dandelion.github.io/
@@ -78,3 +95,15 @@
 
 ## Integrations
 * https://slack.dev/java-slack-sdk/guides/getting-started-with-bolt - slack
+* https://github.com/sendgrid/sendgrid-java/blob/main/use-cases/personalizations.md - sendgrid
+* https://github.com/sendgrid/sendgrid-java/blob/main/use-cases/twilio-email.md
+* https://github.com/sendgrid/sendgrid-java/blob/main/USAGE.md#senders - private label domains
+
+## Quarkus
+* https://github.com/smallrye/smallrye-fault-tolerance
+* https://quarkus.io/guides/container-image
+* https://github.com/eclipse/lsp4mp/tree/master/microprofile.ls - language server
+
+## Testing 
+* https://github.com/madhead/aws-junit5
+* https://github.com/localstack/localstack-java-utils

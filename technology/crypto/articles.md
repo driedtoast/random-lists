@@ -2,6 +2,8 @@
 * https://www.theblockcrypto.com/
 * https://medium.com/1kxnetwork
 * https://jacob.energy/hyperstructures.html - hyperstructures
+* https://twitter.com/metabeaconxyz/status/1483894687866007556?t=HG-rh6bDni__PA6P3fkkLg&s=09
+* https://tante.cc/2021/12/17/the-third-web/
 
 ## crypto 
 * https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd078
@@ -25,6 +27,7 @@
 * https://uxdesign.cc/designing-for-web-3-0-53ea939ac66
 * https://decentpatterns.xyz/report/#2.-design.-new-user-experience-patterns
 * https://blog.colony.io/clny-supply/ - coin supply
+* https://blog.logrocket.com/how-to-build-secure-smart-contracts-using-vyper/ 
 
 
 ## Daos
@@ -33,6 +36,9 @@
 * https://coopahtroopa.mirror.xyz/7bfK9st2mvhxlla4XKotRjetq5-YhaiwqRwS8DhkD-o
 * https://medium.com/metacartel
 * https://whitepaper.axieinfinity.com/ - game concept
+* https://hackernoon.com/social-daos-an-essential-guide
+* https://llama.mirror.xyz/q1hcX8cbL3RGjUCETxlf6GyEURnQCHa_-rQqJ2yN8ng
+* https://blog.aragon.org/incentive-design-tooling-for-daos/
 
 ## Blockchain
 * https://medium.com/design-ibm/blockchain-design-principles-599c5c067b6e
@@ -40,6 +46,13 @@
 * https://thenewstack.io/how-blockchain-startups-think-about-databases-and-dapp-efficiency/
 * https://blog.logrocket.com/substrate-blockchain-framework-core-concepts/
 * https://blog.logrocket.com/polkadot-blockchain-app-development-deployment/ 
+
+### Domains
+* https://www.tooploox.com/blog/customize-address-management-for-smart-contracts-with-ens
+* https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc-721-nft - nft too
+* https://docs.unstoppabledomains.com/domain-registry-essentials/uns-vs-cns-comparison/architecture-overview
+* https://giters.com/ilyapt/erc721-dns
+* https://academy.moralis.io/blog/non-fungible-tokens-explaining-nfts-erc-721-and-erc-1155 - nfts too
 
 
 ## How to 
@@ -62,6 +75,8 @@
 * https://hackernoon.com/how-to-build-an-ethereum-transaction-app-with-react-and-solidity-part-2
 * https://hackernoon.com/how-to-hack-smart-contracts-self-destruct-and-solidity
 * https://blog.logrocket.com/using-moralis-nextjs/
+* https://www.tooploox.com/blog/challenges-unique-to-dapps-development
+* https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application
 
 ## Nft how to
 * https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum
@@ -73,6 +88,7 @@
 * https://docs.x.immutable.com/docs/partner-nft-minting-setup
 * https://www.azuki.com/erc721a - gas saving 
 * https://blog.colony.io/token-sale-guide/ - token launching
+* https://levelup.gitconnected.com/which-one-to-choose-erc-20-vs-erc-721-vs-erc-1155-ethereum-token-smart-contract-red-pill-9bb827148671
 
 ### Solara
 * https://hackmd.io/@levicook/HJcDneEWF

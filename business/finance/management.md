@@ -40,6 +40,10 @@
 * https://www.petalcard.com/
 * https://www.redcarpetup.com/
 * https://www.eco.com/
+* https://taekus.com/
+
+## Fraud detection
+* https://www.sperta.com/
 
 ## Rewards
 * https://www.getkard.com/
@@ -48,6 +52,7 @@
 * https://www.figure.com/
 * https://kanmonhq.com/ - commercial
 * https://koodoo.io/
+* https://risika.dk/ - risk eval
 
 ### Crypto
 * https://drops.co/
@@ -72,9 +77,14 @@
 * https://www.tesorio.com/
 * https://productiv.com/ - saas spend
 * https://humcapital.com/ - capital funding
+* https://tratta.io/
+* https://unrival.net/
+
 
 ## Expense mgmt
 * https://www.fylehq.com/
+* https://www.pleo.io/en
+* https://www.appzen.com/
 
 ## Forecasting / Predictions / Decision
 * https://www.mosaic.tech/ - financial decisions
@@ -83,11 +93,13 @@
 * https://www.alloy.com/
 * https://www.abacum.io/
 * https://www.thescienceofrevenue.com/
+* https://pry.co/ - forecasting and decisions
 
 ## Accounting / Bookkeeping
 * https://bench.co/
 * https://pilot.com/
     * https://pilot.com/rd-credit
+* https://www.photoncommerce.com/
 
 * https://www.taxaroo.com/ - virtual tax 
 

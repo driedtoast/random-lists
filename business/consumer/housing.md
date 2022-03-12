@@ -14,6 +14,7 @@
 * https://www.studio-shed.com/
 * https://www.agaveapi.com/  - contractor management integrations
 * https://www.wood-venture.com/
+* https://www.yankodesign.com/2021/12/11/top-10-tiny-homes-of-2021/
 
 ### Fencing
 * https://foreverbamboo.com/natural-black-bamboo-fence-1-d-x-6-h-x-8-l

@@ -8,6 +8,8 @@
 ## ECS Setup
 * https://medium.com/@paweldudzinski/creating-aws-ecs-cluster-of-ec2-instances-with-terraform-893c15d1116
 * https://hyperscience.com/tech-blog/running-scheduled-jobs-in-aws/
+* https://cadu.dev/easy-deploy-your-docker-applications-to-aws-using-ecs-and-fargate/
+* https://github.com/duduribeiro/terraform_ecs_fargate_example - code reference
 
 ## VPCs
 * https://www.linkedin.com/pulse/creating-infrastructure-aws-custom-vpc-subnet-nat-gateway-agarwal?trk=public_profile_article_view

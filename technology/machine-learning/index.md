@@ -16,6 +16,12 @@
 ## Regression and Classification 
 * https://docs.seldon.io/projects/alibi/en/latest/
 
+## Data analysis
+* https://github.com/motherjones/georgia_mail_voting
+* https://facebookresearch.github.io/hiplot/
+* https://facebook.github.io/prophet/
+    * https://github.com/artefactory/streamlit_prophet
+
 ## GPT-2
 * https://github.com/NVIDIA/Megatron-LM
 * https://www.deepspeed.ai/
@@ -28,3 +34,12 @@
 ## Langauge Modeling
 * https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/
 * https://github.com/RasaHQ - chatbot platform
+    * https://github.com/RasaHQ/rasalit
+
+## Libraries
+* https://github.com/facebookresearch/moolib
+* https://www.heatonresearch.com/encog/
+* https://docs.jina.ai/
+
+## Code generation
+* https://github.com/salesforce/CodeT5

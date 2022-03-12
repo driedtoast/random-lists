@@ -4,6 +4,9 @@
 * https://www.yesware.com/
 * https://www.endgame.io/ - data integration
 * https://attio.com/ - new approach 
+* https://www.businessfriend.com/ - communication 
+* https://www.highways.io/
+* https://www.ctd.ai/ - network sort of 
 
 ## Lead gen / Deal management
 * https://www.drift.com/ - through bots
@@ -33,6 +36,7 @@
 * https://www.pocus.com/ - product led sales
 * https://www.revgenius.com/
 * https://www.gopinata.com/
+* https://www.gradient.works/
 
 ### Ad Management
 * https://gumgum.com/
@@ -66,6 +70,11 @@
 * https://cloudindex.bvp.com/companies
 * https://peersignal.org/b2b-growth - example pricing pages
 * https://www.swantide.com/ - salesforce setup
+* https://www.datanyze.com/
+* https://www.rudderstack.com/
+* https://www.newtonx.com/
+* https://www.clay.com/
+* https://www.lob.com/
 
 ## Decisioning
 * https://peak.ai/us/
@@ -104,6 +113,7 @@
 * https://www.monetizenow.io/
 * https://www.salesbricks.com/
 * https://termly.io/ - terms generator
+* https://www.m3ter.com/ - usage pricing
 
 ## Integration Tooling
 * https://www.odoo.com/
@@ -117,6 +127,7 @@
 * https://confect.io/
 * https://fameswap.com/ - buy instagram accounts with followers
 * https://ahrefs.com/ - seo growth
+* https://www.foo.software/ - seo growth
 * https://jellop.com/ - for kickstarter projects
 * https://www.wishpond.com/
 * https://truenorth.io/
@@ -124,6 +135,8 @@
 * https://www.productwind.com/
 * https://www.ninjacat.io/
 * https://www.ubiquitousinfluence.com/
+* https://www.lytics.com/
+* https://www.attentivemobile.com/ - conversational
 
 ### Content
 * https://writersperhour.com/
@@ -144,7 +157,7 @@
 * https://www.varicent.com/
 * https://www.captivateiq.com/
 * http://profit.co/ - okr
-
+* https://www.alyce.com/ - gifting
 
 ## App Store / Private Labeling
 * https://openchannel.io/

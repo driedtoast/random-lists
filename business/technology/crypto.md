@@ -22,6 +22,7 @@
 * https://www.wonder.fi/
 * https://gnosis-safe.io/
 * https://moralis.io/ - free to start blockchain dev
+* https://www.metis.io/
 
 ## Contract nodes
 * https://infura.io/
@@ -64,6 +65,7 @@
 * https://commonwealth.im/ - platformy
 * https://linksdao.io/
 * https://edgeandnode.com/ - vc ish
+* https://www.bitdao.io/
 
 ## Outsource development
 * https://edgeandnode.com/ 

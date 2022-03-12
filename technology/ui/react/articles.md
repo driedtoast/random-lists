@@ -15,6 +15,8 @@
 * https://dev.to/localpathcomp/opinionated-project-structures-in-react-js-without-a-framework-13m
 * https://reactjsexample.com/a-simple-todo-app-with-react/amp/
 * https://reactjsexample.com/a-simple-mock-up-of-square-dashboard-using-react-and-firebase/amp/  - with firebase
+* https://medium.com/nfl-engineers/nfl-react-84e9cd11d384
+* https://medium.com/@dtkatz/use-the-blazing-fast-parcel-bundler-to-build-and-test-a-react-app-e6972a2587e1
 
 ## Component 
 * https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/
@@ -65,6 +67,7 @@
 ## Animation
 * https://dev.to/elvis2280/scroll-reveal-with-framer-motion-224
 * https://dev.to/thatanjan/top-animation-libraries-for-react-2elh
+* https://konvajs.org/docs/react/
 
 ## React Query
 * https://github.com/tannerlinsley/react-query-cached-in-60-minutes
@@ -98,3 +101,6 @@
 ## Mocking
 * https://jasonwatmore.com/post/2020/03/10/react-fetch-fake-backend-example-for-backendless-development
 * https://reactjs.org/docs/thinking-in-react.html
+
+## Crypto
+* https://blog.logrocket.com/interacting-smart-contracts-via-nodejs-api/

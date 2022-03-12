@@ -7,6 +7,7 @@
 * https://aws.amazon.com/amplify/
 * https://runlet.app/
 * https://harvesterhci.io/
+* https://fly.io/ - easy to run and deploy
 
 ## AWS
 * https://duo-labs.github.io/detail.html?parliament
@@ -17,6 +18,7 @@
 * https://github.com/bottlerocket-os/bottlerocket
 * https://github.com/stelligent/mu
 * https://github.com/askwonder/wonqa
+* https://policysim.aws.amazon.com/
 
 ## Diagramming
 * https://github.com/lyft/cartography
@@ -39,6 +41,7 @@
 * https://janusgraph.org/ - graph
 * https://www.eventstore.com/eventstoredb - events
 * http://seastar.io/
+* https://www.arangodb.com/ - graph db
 
 ### Migrations
 * https://www.skeema.io/
@@ -57,6 +60,7 @@
 * https://devshawn.github.io/kafka-gitops/#/ - gitops for kafka
 * https://nats.io/
 * https://kesque.com/
+* https://cadenceworkflow.io/ 
 
 ## Kubernetes
 * https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/
@@ -70,9 +74,11 @@
 * https://k8syaml.com/ - yaml generator
 * https://rancher.com/products/longhorn/
 * https://karpenter.sh/
+* https://nats.io/
 
 ## Storage
 * https://github.com/features/packages
+* https://min.io/ - s3 compatable 
 
 ## Proxy / Load Balancer
 * https://www.nginx.com/
@@ -85,6 +91,7 @@
 * https://github.com/simonschwartz/cloudwatch-synthetics-boilerplate
 * https://cloudcustodian.io/ - security / policy auditing
 * https://riemann.io/
+* https://fluentbit.io/ - log streams
 
 ### Open telemetry
 * https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/overview.md#baggage-signal
@@ -96,6 +103,7 @@
 * https://github.com/jsha/minica - key gen
 * https://github.com/FiloSottile/mkcert - key gen
 * https://github.com/pantsbuild/pants - build system
+* https://localstack.cloud/
 
 ## Docker / Containers
 * https://podman.io/getting-started/ 
@@ -103,6 +111,7 @@
 * https://buildah.io/
 * https://github.com/containers/podman-compose
 * https://github.com/containers/youki
+* https://github.com/lima-vm/lima
 
 ## Serverless / Workflow
 * https://cadenceworkflow.io/
@@ -146,6 +155,7 @@
 * https://github.com/aws-actions/setup-sam
 * https://github.com/aws-actions/amazon-ecs-deploy-task-definition
 * https://tekton.dev/
+* https://www.jeffgeerling.com/blog/2020/running-github-actions-workflow-on-schedule-and-other-events
 
 ### MKS
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/msk_cluster

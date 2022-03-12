@@ -15,6 +15,8 @@
 * https://govclab.com/2021/09/27/cornerstone-limited-partner-agreement/ - docs for vc funding
 * https://www.tiny.cloud/blog/saas-iterative-testing/ - onboarding tips
 * https://www.conversion-uplift.co.uk/glossary-of-conversion-marketing/iterative-testing/
+* https://blossomstreetventures.medium.com/net-dollar-retention-at-91-saas-ipos-1a82f28ead1
+* https://www.aakashg.com/2021/12/11/bill-dot-com/
 
 ## Bootstrap tips
 * https://www.indiehackers.com/post/how-do-you-market-a-non-sexy-saas-fd497b10c9
@@ -26,3 +28,5 @@
 * https://www.indiehackers.com/post/everything-i-ve-learned-from-growing-my-product-to-10-million-users-with-0-in-funding-925777ba88
 * https://www.indiehackers.com/post/bootstrapping-a-personal-productivity-saas-to-10k-mrr-cac5dfe318
 * https://www.indiehackers.com/post/how-we-got-267-beta-users-in-4-hours-for-our-saas-9f6e0c6043
+* https://www.indiehackers.com/post/i-built-and-sold-2-small-saas-products-and-quit-my-job-in-the-last-two-years-ama-e532f8d7bf
+* https://www.indiehackers.com/post/building-my-3rd-saas-in-public-buildinpublic-b889817536

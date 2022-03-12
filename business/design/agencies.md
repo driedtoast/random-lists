@@ -15,6 +15,7 @@
 * https://www.superside.com/
 * https://www.brud.fyi/
 * https://www.thrasio.com/
+* https://hovercraftstudio.com/
 
 ## Application and UI Design
 * https://www.bostonux.com/
@@ -46,6 +47,9 @@
 * https://dribbble.com/fhlcreative - in athens area?
 * https://dribbble.com/venncollective/ - in athens area?
 * https://www.mcwhortercreative.com/ - in athens area?
+* https://cacheflowe.com/code/games 
+
+* https://www.creativecircle.com/ - find designers
 
 ## Book and publishing
 * https://thebrightagency.com/us

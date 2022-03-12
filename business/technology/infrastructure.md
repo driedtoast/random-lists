@@ -5,10 +5,12 @@
 * https://www.cloudcraft.co/ - visualization
 * https://www.section.io/
 
-## API management
+## API management / Load Balancer
 * https://konghq.com/
 * https://www.plasmic.app/
 * https://crossplane.io/
+* https://www.snapt.net/platforms/aria-adc
+* https://dapr.io/
 
 ## Diagramming
 * https://www.hava.io/
@@ -16,10 +18,12 @@
 * https://www.cloudockit.com/
 * https://www.totalcloud.io/
 * https://duo-labs.github.io/cloudmapper/
+* https://www.hava.io/
 
 ## Data Storage / Management
 * https://mindsdb.com/
 * https://hyperscience.com/
+* https://www.influxdata.com/time-series-platform/telegraf/
 
 ## Embedded Systems
 * https://www.luos.io/
@@ -50,6 +54,7 @@
 * https://qumulo.com/
 * https://www.montecarlodata.com/ - data analysis
 * https://stackify.com/
+* https://logentries.com/
 
 
 ## CI / Deployment
@@ -72,6 +77,8 @@
 * https://www.runx.dev/ 
 * https://aiven.io/ - db / kafka / etc...
 * https://spacelift.io/
+* https://www.cycloid.io/
+* https://cto.ai/
 
 ## Queues / Streams
 * https://strimzi.io/

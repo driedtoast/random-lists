@@ -18,11 +18,14 @@
 * https://en.wikipedia.org/wiki/L'H%C3%B4pital's_rule
 * https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 * https://0a.io/chapter1/calculus-explained.html
+* https://the-algorithms.com/ - in each language
 
 ## Protocols / Design Patterns
 * https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/ 
 * https://microservices.io/patterns/data/saga.html
 * https://microservices.io/patterns/data/cqrs.html
+* https://github.com/cloudevents/spec/blob/v1.0.1/json-format.md - cloud events
+* https://w3c.github.io/trace-context/#design-overview
 
 ## Specs
 * https://unicode-org.github.io/icu/userguide/format_parse/messages/ - i18n format / icu
@@ -33,6 +36,7 @@
 * https://www.w3.org/TR/json-ld11/ - data linking in json
 * https://www.w3.org/TR/turtle/
 * http://specification.sifassociation.org/Implementation/Infrastructure/3.3/infrastructures/
+
 
 ### Finance
 * https://financialdataexchange.org//ofx
@@ -73,6 +77,9 @@
 * https://esolangs.org/wiki/Main_Page
     * https://bigzaphod.github.io/COW/
 * https://cfwheels.org/ - cold fusion rails like framework, right?
+
+## Upcoming languages
+* https://gleam.run/documentation/
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example

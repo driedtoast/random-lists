@@ -16,3 +16,12 @@
 * https://github.com/public-apis/public-apis
 * https://github.com/forcedotcom/postman-salesforce-apis
 
+
+## Regex
+* https://www.debuggex.com/
+* https://regexr.com/
+* https://www.regextester.com/
+* https://regex101.com/
+* https://www.regexpal.com/
+* https://www.regexplanet.com/advanced/java/index.html
+* https://pythex.org/

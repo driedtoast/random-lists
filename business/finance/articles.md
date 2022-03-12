@@ -44,3 +44,4 @@
 * https://bitcoinist.com/four-venture-capitalists-just-over-subscribed-erthas-seed-funding-round-in-one-day/
 * https://alts.co/a-look-at-nouns-dao/
 * https://decrypt.co/? - news
+* https://www.ledger.com/ - hardware wallet

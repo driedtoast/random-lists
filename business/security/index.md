@@ -33,6 +33,7 @@
 * https://frontegg.com/
 * https://www.propelauth.com/
 * https://sgnl.ai/
+* https://www.propelauth.com/
 
 ## Identity verification / Know your customer (kyc)
 * https://withpersona.com/
@@ -61,3 +62,4 @@
 * https://www.lacework.com/
 * https://www.intruder.io/
 * https://www.silentpush.com/ - threat alerting
+* https://www.intruder.io/

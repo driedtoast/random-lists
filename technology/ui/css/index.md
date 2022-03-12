@@ -14,6 +14,13 @@
 * https://unocss.antfu.me/
 * https://windicss.org/
 
+### For email
+* https://github.com/soheilpro/mailwind - for email
+* https://mjml.io/
+    * https://github.com/mjmlio/mjml
+* https://github.com/nicoavila/mjml-sendgrid-tutorial
+* https://github.com/sendgrid/email-templates
+
 ## SVG Icons
 * https://heroicons.com/
 * https://remixicon.com/

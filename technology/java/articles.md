@@ -1,5 +1,6 @@
 
-
+## Event / Reactive
+* https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
 
 ## State Machines
 * https://stackoverflow.com/questions/13221168/how-to-implement-a-fsm-finite-state-machine-in-java
@@ -14,6 +15,16 @@
 * https://quarkus.io/quarkus-workshops/super-heroes/
 * https://quarkus.io/guides/cdi
 * https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#the_modular_monolith
+* https://piotrminkowski.com/2022/01/31/distributed-tracing-with-istio-quarkus-and-jaeger/
+* https://www.codingame.com/playgrounds/1676/scheduling-tasks-with-eclipse-vert-x/periodic-tasks
+* https://smallrye.io/smallrye-reactive-messaging/smallrye-reactive-messaging/3.4/model/model.html#processing-streams
+* https://quarkus.io/guides/context-propagation
+* https://quarkus.io/guides/mutiny-primer
+* https://smallrye.io/smallrye-reactive-messaging/3.14.1/
+* https://smallrye.io/smallrye-reactive-messaging/3.14.0/concepts/emitter/#emitter-and-channel
+* https://smallrye.io/smallrye-reactive-messaging/smallrye-reactive-messaging/3.4/concepts.html
+* https://smallrye.io/smallrye-reactive-messaging/smallrye-reactive-messaging/3.4/concepts.html#connectors
+* https://smallrye.io/smallrye-mutiny-vertx-bindings/2.18.1/
 
 ## Spring boot
 
@@ -24,6 +35,10 @@
 * https://dzone.com/articles/a-simple-state-machine-for-spring-boot-projects
 * https://reflectoring.io/spring-boot-conditionals/
 * https://codingfullstack.com/java/spring-boot/docker-spring-boot-guide/
+* https://psamsotha.github.io/jersey/2017/01/07/jersey-pagination-with-spring-data.html
+
+### Queuing
+* https://nickolasfisher.com/blog/How-to-Setup-a-Reactive-SQS-Listener-Using-the-AWS-SDK-and-Spring-Boot 
 
 ### Caching
 * https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.caching
@@ -50,6 +65,9 @@
 * https://www.fabiomaffioletti.me/blog/2014/04/15/distributed-transactions-multiple-databases-spring-boot-spring-data-jpa-atomikos/
 * https://www.jpa-buddy.com/blog/soft-deletion-in-hibernate-things-you-may-miss/
 
+## Feature flags
+* https://reflectoring.io/java-feature-flags/
+
 ### Cache
 * https://auth0.com/blog/spring-boot-caching-101/
 
@@ -68,4 +86,5 @@
 ## Testing
 * https://karuppiah7890.github.io/blog/posts/testcontainers-part-2-testcontainers-in-java-for-your-tests-with-junit-5/
 * https://dev.to/jhonifaber/building-testing-and-publishing-your-java-project-with-github-actions-3j17
+* https://cloud.spring.io/spring-cloud-contract/1.2.x/multi/multi__spring_cloud_contract_stub_runner.html
 * https://medium.com/@dzivet/email-integration-in-spring-boot-with-a-fake-smtp-service-ethereal-677937bad4bf - email testing

@@ -9,6 +9,7 @@
 * https://www.creative-tim.com/
 
 
+
 ## Work Management
 * https://kitchen.co/
 * https://talebook.io/ - discovery
@@ -20,3 +21,7 @@
 
 ## Data visualization
 * https://webkid.io/
+
+## Inspiration
+* http://freebbble.com/
+* https://www.designspiration.com/

@@ -32,6 +32,10 @@
 * https://www.profitwell.com/
 * https://rev.io/
 * https://mrr.io/
+* https://unlock-protocol.com/ - for websites
+* https://www.rev-lock.com/
+* https://brightback.com/
+* https://metronome.com/ - usage billing
 
 ### Checkout flow
 * https://heyflow.app/
@@ -105,6 +109,8 @@
 * https://www.sequoir.com/
 * https://www.moonpay.com/
 * https://groundhog.network/ - subscription support
+* https://www.drips.network/ - reoccurring revenue
+* https://www.andsub.com/ - nft subs
 
 ### DAO
 * https://sharkdao.community/

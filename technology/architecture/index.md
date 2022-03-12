@@ -2,6 +2,8 @@
 ## General / Patterns
 * https://decentpatterns.xyz/library/
 * https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/
+* https://solidproject.org/
+* https://eventmodeling.org/
 
 ## Icons and Diagramming
 * https://aws.amazon.com/architecture/icons/
@@ -14,4 +16,5 @@
 
 ## Infrastructure
 * https://openinfra.dev/
+* https://www.starlingx.io/
 

@@ -1,4 +1,4 @@
-# Docker / Podman
+## Docker / Podman
 * https://www.redhat.com/sysadmin/replace-docker-podman-macos
 * https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
 * https://www.cloudassembler.com/post/podman-machine-mac-m1/
@@ -6,6 +6,8 @@
 * https://iximiuz.com/en/
 * https://forums.docker.com/t/restart-docker-from-command-line/9420/8
 
+## Networking
+* https://blog.devgenius.io/tired-of-the-modern-web-try-the-gemini-protocol-ba847f102fe6
 
 ## GIT
 * https://gitea.io/en-us/
@@ -114,6 +116,10 @@
 * https://support.hashicorp.com/hc/en-us/articles/360043550953-Selecting-a-workspace-when-running-Terraform-in-automation
 * https://docs.servicestack.net/mix-github-actions-aws-ecs
 * https://mechanicalrock.github.io/2020/01/06/github-actions-for-sam.html
+* https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
+* https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+* https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/
+* https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment - only for public right now
 
 # Local Dev
 * https://medium.com/@ThomasTan/installing-nginx-in-mac-os-x-maverick-with-homebrew-d8867b7e8a5a
@@ -139,6 +145,7 @@
 * https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#the_modular_monolith
 * https://blog.nelhage.com/post/declarative-configuration-management/
 * https://github.com/damikun/trouble-training/blob/main/Doc/OpenTelemetry.md
+* https://medium.com/hashicorp-engineering/how-to-implement-a-zero-trust-lab-with-hashicorp-in-an-hour-5934f5697d24
 
 ## Kubernetes
 * https://github.com/cloudogu/k8s-diagrams

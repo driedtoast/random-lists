@@ -26,6 +26,9 @@
 * https://axieinfinity.com/
 * https://www.crabada.com/
 * https://pegaxy.io/
+* https://www.necofun.com/
+* https://bridgeworld.treasure.lol/
+* https://theremnantsnft.com/ - nft based / sol 
 
 ## Indie titles
 * https://en.m.wikipedia.org/wiki/Psychonauts

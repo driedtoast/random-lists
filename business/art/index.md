@@ -7,6 +7,7 @@
 * https://orlincultureshop.com/ - illustration
 * https://hicetnunc.art/random_combo
 
+
 ## Art auctions / investments
 * https://www.invaluable.com/
 * https://www.lot-art.com/
@@ -30,6 +31,7 @@
 * https://make8bitart.com/
 * https://www.larvalabs.com/
 * https://discourse.nouns.wtf/t/100-days-of-nouns-coloring-book/468
+* https://burnttoastcreative.com/
 
 
 ## Generative
@@ -48,6 +50,8 @@
 * https://www.larvalabs.com/autoglyphs
     * https://etherscan.io/address/0xd4e4078ca3495de5b1d4db434bebc5a986197782#code
 * https://www.shadertoy.com/ - shading try out 
+* https://aiartists.org/helena-sarin
+    * http://www.neuralbricolage.com/
 
 ## Architecture
 * http://komainc.com/

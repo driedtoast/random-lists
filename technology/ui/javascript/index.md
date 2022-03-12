@@ -5,6 +5,10 @@
 * https://nx.dev/
 * https://rushjs.io/
 * https://github.com/scurker/quilted - style coverage
+* https://turborepo.org/
+    * https://github.com/vercel/turborepo
+* https://pnpm.io/
+
 
 ## Components / Frameworks
 * https://mitosis.builder.io/?outputTab=vue - write once and port
@@ -17,6 +21,11 @@
 * https://nextjs.org/
 * https://www.meteor.com/
 * http://perkframework.com/
+* https://www.prisma.io/ - with orm
+* https://www.fastify.io/
+* https://feathersjs.com/
+* https://kenwheeler.github.io/slick/ - carousel
+
 
 ## JQuery
 * https://github.com/techlab/jquery-smartwizard 
@@ -30,6 +39,7 @@
 * https://github.com/discord/focus-rings - focus areas
 * https://getanalytics.io/ - tracking 
 * https://zizzamia.github.io/perfume/ - page speed
+* https://plausible.io/ - google analytics replacement
 
 ## Charts
 * https://apexcharts.com/
@@ -58,6 +68,7 @@
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
 * http://numeraljs.com/ - number formatting
 * http://mikemcl.github.io/big.js/
+* https://github.com/lob/address-elements
 
 
 ## Music
@@ -76,6 +87,7 @@
 * https://prosemirror.net/
 * https://tiptap.dev/ - nice editor for embedded changes
 * https://quilljs.com/ - lots of support
+* https://prosemirror.net/
 
 ## Code quality
 * https://flow.org/
@@ -102,6 +114,7 @@
 * https://www.babylonjs.com/ - 3d
 * https://github.com/sebmarkbage/art/
 * https://github.com/aheckmann/gm
+* https://github.com/AnimaApp - sketch file app
 
 ## Phaser
 * https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
@@ -127,6 +140,7 @@
 * https://www.fastify.io/
     * https://github.com/fastify/aws-lambda-fastify
 * https://cheerio.js.org/ 
+* https://pm2.keymetrics.io/
 
 ## Storage
 * https://localforage.github.io/localForage/
@@ -136,6 +150,9 @@
 * https://www.prisma.io/
 * https://sequelize.org/
 
+## Handlebars
+* https://zordius.github.io/HandlebarsCookbook/0006-raw.html
+
 ## Testing
 * https://github.com/avajs/ava
 * https://github.com/substack/tape
@@ -143,6 +160,7 @@
 * https://github.com/sharkdp/hyperfine
 * https://slimerjs.org/
 * https://www.casperjs.org/
+* https://playwright.dev/
 * https://github.com/postmanlabs/newman
     * https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
 

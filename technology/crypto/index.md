@@ -11,6 +11,15 @@
 * https://www.azuki.com/updates
 * https://aragon.org/
 * https://www.breederdao.io/ 
+* https://www.lobby3.io/ - political one 
+
+### Management
+* https://rabbithole.gg/
+* https://top.gg/bot/617037497574359050
+* https://collab.land/
+* https://www.coinvise.co/dashboard
+* https://sourcecred.io/
+* https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created - dao based opportunities
 
 ## Wallets
 * https://walletconnect.com/
@@ -41,7 +50,6 @@
     * https://github.com/ExistentialEnso/dasduk-contract/blob/master/ERC721A.sol
     * https://etherscan.io/address/0x5472896e283ebcb13924c659c9db594aa9dc05a4#code
 
-
 ## ML
 * https://github.com/bcjgit/nounsanalytics/blob/main/nouns_voting.ipynb
 
@@ -56,8 +64,11 @@
     * https://royaltyregistry.xyz/
 * https://aragon.org/blog/snapshot - off chain sync
 * https://aleph.im/
+* https://www.kilt.io/
+    * https://dev.kilt.io/
+* https://github.com/ava-labs/subnet-evm - vm for the blockchain
 
-## Gas monitoring
+## Gas monitoring / analytics
 * https://ethgasstation.info/
 * https://etherchain.org/ - has gas api
   * https://etherchain.org/api/gasnow
@@ -71,9 +82,28 @@
 * https://gwei.io/
 * https://ic.rocks/ - compute power
 * https://github.com/gasdao/gasdao
+* https://dune.xyz/home
+
+
+## Specs
+* https://www.erc721a.org/
+* https://weth.io/ - wrapped ethereum
+* https://tokenallowance.io/
+* https://relayer.network/ - trading approaches 
+* https://eips.ethereum.org/EIPS/eip-721
+* https://solana.io/solana-whitepaper.pdf
+* https://github.com/markrussinovich/btcgraffiti
+
+### Protocols
+* https://0x.org/ - protocol 
+* https://github.com/aave/aave-v3-core
+* https://ipfs.io/ - protocol
+* https://github.com/jbx-protocol/juice-interface
+* https://minaprotocol.com/
+* https://zebec.io/ - solara protocol for money movement
+* https://faucet.rinkeby.io/
 
 ## APIS / Development
-* https://ipfs.io/ - protocol
 * https://thegraph.com/en/
 * https://docs.aave.com/developers/
 * https://moonbeam.network/networks/moonriver/
@@ -84,15 +114,9 @@
 * https://www.alchemy.com/build
 * https://infura.io/product/overview
 * https://tributedao.com/docs/tutorial/dao/interacting/
-* https://docs.ipfs.io/how-to/command-line-quick-start/#take-your-node-online
-* https://docs.solana.com/developing/on-chain-programs/developing-rust
-* https://github.com/hicetnunc2000/hicetnunc/wiki/Getting-Started-with-Tezos
 * https://github.com/scaffold-eth/scaffold-eth
-* https://eth.build/ - educational 
 * https://cryptozombies.io/
-* https://buildspace.so/
 * https://hash.ai/models?sort=popularity
-* https://minaprotocol.com/
 * https://docs.reflexer.finance/
 * https://beaconcha.in/
 * https://ethermine.org/
@@ -104,23 +128,43 @@
 * https://github.com/validitylabs/EthereumDB
 * https://sandwich.network/
 * https://openzeppelin.com/contracts/
-* https://trufflesuite.com/ 
-    * https://github.com/trufflesuite/truffle
-    * https://trufflesuite.com/boxes/arbitrum/
-* https://weth.io/ - wrapped ethereum
-* https://tokenallowance.io/
-* https://relayer.network/ - trading approaches 
-* https://0x.org/ - protocol 
 * https://etherscan.io/apis
-* https://ceramic.network/ - kind of like a servless paas
-* https://github.com/jbx-protocol/juice-interface
-* https://zebec.io/ - solara protocol for money movement
 * https://github.com/FuelLabs/yulp
 * https://docs.soliditylang.org/en/v0.8.11/yul.html
 * https://yulp.fuel.sh/ - low level langauge ethereum
 * https://www.bigchaindb.com/ - db
 * https://github.com/ZeframLou/foundry-template
 * https://github.com/gakonst/foundry - rust based
+
+### Development
+* https://trufflesuite.com/ 
+    * https://github.com/trufflesuite/truffle
+    * https://trufflesuite.com/boxes/arbitrum/
+* https://thefullstack.network/ - dev network
+* https://buildspace.so/
+    * https://buildspace.so/polygon
+* https://ceramic.network/ - kind of like a servless paas
+* https://monkeyfest.dev/ - conference
+* https://eth.build/ - educational 
+* https://hardhat.org/ - toolkit
+* https://docs.ipfs.io/how-to/command-line-quick-start/#take-your-node-online
+* https://docs.solana.com/developing/on-chain-programs/developing-rust
+* https://github.com/hicetnunc2000/hicetnunc/wiki/Getting-Started-with-Tezos
+* https://kernel.community/en/ - dev resources
+   * https://atlantisworld.notion.site/atlantisworld/Atlantis-World-Wiki-6b0ce5cb1992482f8b6eb8c667a542e5
+* https://docs.flashbots.net/  - communication channel to miners
+   * https://github.com/flashbots/pm
+
+## Domains
+* https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Blockchain-registered
+* https://handshake.org/
+* https://www.opennic.org/
+* https://www.namecoin.org/
+* https://github.com/namecoin/proposals
+* https://github.com/unstoppabledomains/dot-crypto/blob/master/contracts/IResolver.sol
+* https://docs.unstoppabledomains.com/domain-registry-essentials/namehashing
+* https://metadata.ens.domains/docs
+* https://github.com/ethereum/EIPs/blob/master/EIPS/eip-137.md
 
 ## Examples
 * https://github.com/hicetnunc2000/wuwei/tree/16d9a33624ae12e92be30b6d802ef7192f98609c
@@ -137,11 +181,22 @@
 * https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js - online editor
 * https://github.com/Psychedelic/dab
 * https://github.com/ourzora/create-auction-house
+* https://github.com/Drips-Ethereum/drips-contracts - drip approach
+* https://github.com/unlock-protocol/unlock - subscription / nft 
+* https://github.com/Neco-Fun/neco-fun-contracts -  fishing game (https://www.necofun.com/)
+* https://etherscan.io/address/0x283af0b28c62c092c9727f1ee09c02ca627eb7f5#code - ens contract
+* https://etherscan.io/address/0xe540204af3a5d77419552b35aead5453a477a7da#code - address to wallet
+* https://github.com/tooploox/ens-tagged-resolver
+* https://etherscan.io/address/0x3a91eaacd2d5d5b7e102e17ca8bd467b79139ed5 - auctions
+
 
 ### Nouns
 * https://sourcegraph.com/github.com/nounsDAO/nouns-monorepo/-/blob/packages/nouns-contracts/contracts/NounsToken.sol?L151
 * https://github.com/ensdomains/reverse-records/blob/master/contracts/Namehash.sol
 * https://github.com/nounsDAO/nouns-monorepo/pull/280
+
+## Metaverse
+* https://mferverse.com/
 
 ## Resources
 * https://github.com/bkrem/awesome-solidity
@@ -154,8 +209,9 @@
 * https://github.com/tarun-soni/web3-resources
 * https://github.com/SHAKOTN/awesome-web3
 * https://snapshot.org/#/
+* https://web3isgoinggreat.com/
 
-
-
-### Solara
+### Solana
 * https://github.com/exiled-apes/candy-machine-mint
+* https://github.com/solana-labs
+* https://www.magiceden.io/ - open sea equiv
