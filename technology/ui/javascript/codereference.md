@@ -13,3 +13,7 @@
 ## Various
 * https://dested.com/
 * https://github.com/trekhleb/javascript-algorithms
+
+## Monorepos
+* https://github.com/mbarzeev/pedalboard
+* https://github.com/mkocik/yarn-monorepo-example

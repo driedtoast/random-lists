@@ -9,6 +9,10 @@
 ## Security
 * https://nordicapis.com/assisted-token-flow-the-answer-to-oauth-integration-in-single-page-applications/
 * https://dev.to/luckynkosi/creating-a-qr-code-with-custom-icon-and-text-using-html-javascript-16gh - qr code
+* https://bluepnume.medium.com/turn-your-web-app-into-a-cross-domain-component-with-5-lines-of-code-ced01e6795f9#.w8ea7h6ky - cross domain
+    * https://github.com/krakenjs/zoid/blob/main/docs/example.md
+* https://javascript.info/cross-window-communication - cross window communication
+* https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
 
 ## Text and Labeling
 * https://dev.to/adrai/how-does-server-side-internationalization-i18n-look-like-5f4c
@@ -21,6 +25,7 @@
 * https://developers.google.com/web/updates/2019/02/rendering-on-the-web#rehydration
 * https://web.dev/apply-instant-loading-with-prpl/
 * https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3
+* https://css-tricks.com/send-an-http-request-on-page-exit/ - on page exit script
 
 ## Database
 * https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc
@@ -32,6 +37,13 @@
 * https://github.com/webpack/docs/wiki/list-of-plugins#defineplugin
 * https://www.techrepublic.com/article/gatsby-makes-a-new-approach-to-web-development-easy/
 * https://simonsmith.io/organising-webpack-config-environments
+* https://dev.to/mbarzeev/5-resources-to-get-your-monorepo-off-the-ground-3mlp
+* https://nx.dev/getting-started/nx-and-typescript
+* https://classic.yarnpkg.com/en/docs/workspaces/
+* https://leerob.io/blog/monorepo-lerna-yarn-workspaces
+* https://blog.ah.technology/a-guide-through-the-wild-wild-west-of-setting-up-a-mono-repo-with-typescript-lerna-and-yarn-ed6a1e5467a
+* https://css-tricks.com/comparing-the-new-generation-of-build-tools/#wmr
+* https://vitejs.dev/guide/comparisons.html#snowpack
 
 ## Api integration
 * https://dev.to/j471n/how-to-share-anything-from-your-website-by-web-share-api-1h5g - sharing buttons
@@ -61,6 +73,11 @@
 * https://github.com/kittykatattack/learningPixi - pixijs 
 * https://www.codeandweb.com/physicseditor/tutorials/phaser-p2-physics-example-tutorial 
 * https://blog.logrocket.com/processing-images-sharp-node-js/
+* https://threejs.org/manual/?q=mul#en/multiple-scenes - 3d modeling
+* https://css-tricks.com/easing-animations-in-canvas/
+
+## Phaser
+* https://www.html5gamedevs.com/topic/3052-phaser-and-2d-lighting/
 
 ## Video processing
 * https://redstapler.co/realtime-video-processing-javascript-tutorial/

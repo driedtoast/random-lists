@@ -4,6 +4,8 @@
 * https://jacob.energy/hyperstructures.html - hyperstructures
 * https://twitter.com/metabeaconxyz/status/1483894687866007556?t=HG-rh6bDni__PA6P3fkkLg&s=09
 * https://tante.cc/2021/12/17/the-third-web/
+* https://web3isgoinggreat.com/
+* https://www.matthewball.vc/all/csametaverse
 
 ## crypto 
 * https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd078
@@ -77,6 +79,7 @@
 * https://blog.logrocket.com/using-moralis-nextjs/
 * https://www.tooploox.com/blog/challenges-unique-to-dapps-development
 * https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application
+* https://dri.es/my-first-web3-webpage
 
 ## Nft how to
 * https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum
@@ -88,6 +91,7 @@
 * https://docs.x.immutable.com/docs/partner-nft-minting-setup
 * https://www.azuki.com/erc721a - gas saving 
 * https://blog.colony.io/token-sale-guide/ - token launching
+* https://venturebeat.com/2022/02/28/how-to-create-a-sustainable-nft-game-economy/ - gaming / crypto
 * https://levelup.gitconnected.com/which-one-to-choose-erc-20-vs-erc-721-vs-erc-1155-ethereum-token-smart-contract-red-pill-9bb827148671
 
 ### Solara

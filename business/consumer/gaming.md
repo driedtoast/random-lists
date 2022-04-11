@@ -35,6 +35,7 @@
 
 ## Game servers
 * https://heroiclabs.com/
+* https://www.worldanvil.com/ - for rpg type games and novels
 
 ## Toys
 * https://pixiespix.com.au/collections/fidgets - started by a 15 yr old, tactile toys

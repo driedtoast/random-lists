@@ -7,8 +7,9 @@
 ## Building
 * https://github.com/spicypixel/build-kit-js
 
-## Shell projects
+## Shell projects / example projects
 * https://github.com/umstek/parcel-typescript-react-tailwind
+* https://github.com/johanneslumpe/typescriptle
 
 ## Slack
 * https://github.com/slackapi/node-tasks-app

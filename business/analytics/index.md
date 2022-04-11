@@ -48,6 +48,7 @@
 * https://www.knowi.com/
 * https://www.yellowfinbi.com/
 * https://canvasapp.com/
+* https://hex.tech/ - pipe connection process
 
 ## Manufacturing / Process
 * https://www.seeq.com/

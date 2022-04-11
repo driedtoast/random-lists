@@ -12,6 +12,7 @@
 * https://aragon.org/
 * https://www.breederdao.io/ 
 * https://www.lobby3.io/ - political one 
+* https://monkedao.io/ - on solarano
 
 ### Management
 * https://rabbithole.gg/
@@ -49,6 +50,9 @@
     * https://github.com/ExistentialEnso/dasduk-contract
     * https://github.com/ExistentialEnso/dasduk-contract/blob/master/ERC721A.sol
     * https://etherscan.io/address/0x5472896e283ebcb13924c659c9db594aa9dc05a4#code
+* https://www.creco.xyz/drops/preview/rate
+* https://generator.nftchef.dev/
+    * https://github.com/nftchef/art-engine/tree/nested-folder-structure
 
 ## ML
 * https://github.com/bcjgit/nounsanalytics/blob/main/nouns_voting.ipynb
@@ -67,6 +71,7 @@
 * https://www.kilt.io/
     * https://dev.kilt.io/
 * https://github.com/ava-labs/subnet-evm - vm for the blockchain
+* https://grapes.network/ - solano
 
 ## Gas monitoring / analytics
 * https://ethgasstation.info/
@@ -83,6 +88,7 @@
 * https://ic.rocks/ - compute power
 * https://github.com/gasdao/gasdao
 * https://dune.xyz/home
+* https://watchtheburn.com/
 
 
 ## Specs
@@ -194,6 +200,7 @@
 * https://sourcegraph.com/github.com/nounsDAO/nouns-monorepo/-/blob/packages/nouns-contracts/contracts/NounsToken.sol?L151
 * https://github.com/ensdomains/reverse-records/blob/master/contracts/Namehash.sol
 * https://github.com/nounsDAO/nouns-monorepo/pull/280
+* https://nounsense.wtf/
 
 ## Metaverse
 * https://mferverse.com/

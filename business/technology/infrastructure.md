@@ -4,6 +4,7 @@
 * https://tailscale.com/ - vpn alternative
 * https://www.cloudcraft.co/ - visualization
 * https://www.section.io/
+* https://subspace.com/
 
 ## API management / Load Balancer
 * https://konghq.com/
@@ -55,6 +56,7 @@
 * https://www.montecarlodata.com/ - data analysis
 * https://stackify.com/
 * https://logentries.com/
+* https://lightrun.com/ 
 
 
 ## CI / Deployment
@@ -79,6 +81,7 @@
 * https://spacelift.io/
 * https://www.cycloid.io/
 * https://cto.ai/
+* https://www.faros.ai/ - analysis / metrics on ci process
 
 ## Queues / Streams
 * https://strimzi.io/

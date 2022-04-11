@@ -13,6 +13,8 @@
 * https://www.pecan.ai/
 * https://www.mage.ai/ - api based
 * https://askwonder.com/ - with analysts as well mechanical turk like
+* https://www.data.ai/en/
+* https://www.altaml.com/
 
 ## Machine learning 
 * https://www.seldon.io/
@@ -21,3 +23,4 @@
 * https://jina.ai/
 * https://wandb.ai/ - infrastructure for it too
 * https://www.upsolver.com/
+* https://www.decipad.com/ - no code ml 

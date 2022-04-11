@@ -39,6 +39,7 @@
 * https://react-iconly.jrgarciadev.com/
 * https://react-icons-kit.vercel.app/iconset/entypo - for episode planner
 * https://css.gg/ - css only?
+* https://www.streamlinehq.com/icons
 
 ## CSS Specs
 * https://www.w3.org/TR/css-flexbox-1/

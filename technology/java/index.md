@@ -1,4 +1,9 @@
+## Coding Styles
+* https://google.github.io/styleguide/javaguide.html
 
+## Native integration
+* https://foojay.io/today/project-panama-for-newbies-part-4/ -  c binding approaches
+    * https://github.com/openjdk/panama-foreign/blob/d8c0fe5918cb1c6c744eb26797ea4fa04142c237/doc/panama_ffi.md#c-linker
 
 ## Redis integration
 * https://lettuce.io/
@@ -107,3 +112,15 @@
 ## Testing 
 * https://github.com/madhead/aws-junit5
 * https://github.com/localstack/localstack-java-utils
+
+## PDF / HTML processing
+* https://github.com/flyingsaucerproject/flyingsaucer
+* https://jsoup.org/
+* http://dynamicjasper.com/
+* https://github.com/danfickle/openhtmltopdf
+* https://github.com/LibrePDF/OpenPDF
+* https://github.com/jfree/orsonpdf
+* https://github.com/jfree/jfreepdf
+
+## Security
+* https://github.com/esig/dss

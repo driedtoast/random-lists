@@ -36,6 +36,7 @@
 * https://fettblog.eu/typescript-react/events/
 * https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e
 * https://reactjsexample.com/minesweeper-game-written-in-react-with-hooks-and-typescript/amp/
+* https://dev.to/nyctonio/all-react-hooks-and-concepts-in-a-single-post-1daf
 
 ## Tracing
 * https://blog.logrocket.com/react-tracked-manage-state-prevent-excessive-re-rendering/
@@ -68,6 +69,7 @@
 * https://dev.to/elvis2280/scroll-reveal-with-framer-motion-224
 * https://dev.to/thatanjan/top-animation-libraries-for-react-2elh
 * https://konvajs.org/docs/react/
+* https://konvajs.org/docs/react/Simple_Animations.html
 
 ## React Query
 * https://github.com/tannerlinsley/react-query-cached-in-60-minutes

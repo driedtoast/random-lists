@@ -20,6 +20,7 @@
 * https://clutter.co/
 * https://www.myplasticheart.com/
 * https://sofubiki.com/en/sofubi
+* https://www.inkedbrands.com/ - promotional marketing as well for creators
 
 ## Toy making
 * http://www.happyworker.com/custom-toys

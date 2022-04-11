@@ -6,6 +6,7 @@
 * https://www.andrewkaysculpture.co.uk/product/watchful-stag/
 * https://orlincultureshop.com/ - illustration
 * https://hicetnunc.art/random_combo
+* https://www.instagram.com/willisart_/?hl=en
 
 
 ## Art auctions / investments

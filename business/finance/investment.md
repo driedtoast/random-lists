@@ -13,6 +13,19 @@
 * https://revogain.com/
 * https://wealthie.app/
 * https://www.oliveinvest.com/ - option data
+* https://www.tastytrade.com/ - news and ideas
+* https://www.whalestream.com/
+* https://unusualwhales.com/
+* https://whalewisdom.com/
+* https://trendspider.com/
+* https://www.mometic.com/tradeideasalternative.html
+* https://marketchameleon.com/
+* https://www.tradingview.com/markets/stocks-usa/market-movers-oversold/
+* https://finviz.com/
+* https://stock-screener.org/rsi-oversold.aspx
+* https://www.finscreener.org/
+* https://indibot.io/ - interesting approach 
+
 
 ## Management
 * https://www.getcoconut.com/ - for sole traders
@@ -22,7 +35,7 @@
 * https://www.treasurefi.com/
 * https://www.rocketdollar.com/ - 401k with alternatives
 * https://www.optionsai.com/
-
+* https://tastyworks.com/
 
 ## Social Investing
 * https://sweater.gg/
@@ -30,6 +43,8 @@
 * https://www.hervest.ng/home
 * https://public.com/
 * https://app.capitoltrades.com/ - political trades
+* https://snappykraken.com/ - marketing for financial advisors
+* https://waxinvest.com/
 
 ## Crypto
 * https://www.ambergroup.io/
@@ -91,6 +106,7 @@
 * https://www.dnb.com/
 * https://datafiniti.co/ - really general data
 * https://www.fiscally.io/ - fiscal calendars
+
 
 ## Equity Capital / VC
 * https://airspeedequity.com/

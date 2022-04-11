@@ -53,6 +53,8 @@
 * https://kanmonhq.com/ - commercial
 * https://koodoo.io/
 * https://risika.dk/ - risk eval
+* https://www.milocredit.com/ - crypo mortgages
+* https://www.slope.so/
 
 ### Crypto
 * https://drops.co/
@@ -85,6 +87,8 @@
 * https://www.fylehq.com/
 * https://www.pleo.io/en
 * https://www.appzen.com/
+* https://www.glean.ai/ - for subscription buying tracking
+* https://ramp.com/ - card expensing
 
 ## Forecasting / Predictions / Decision
 * https://www.mosaic.tech/ - financial decisions

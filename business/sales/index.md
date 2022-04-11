@@ -37,6 +37,9 @@
 * https://www.revgenius.com/
 * https://www.gopinata.com/
 * https://www.gradient.works/
+* https://www.proposify.com/ - proposal flow
+* https://www.honeybook.com/ - invoice flow
+* https://www.getvymo.com/us/ - financial vertical sales
 
 ### Ad Management
 * https://gumgum.com/
@@ -137,6 +140,8 @@
 * https://www.ubiquitousinfluence.com/
 * https://www.lytics.com/
 * https://www.attentivemobile.com/ - conversational
+* https://www.demandjump.com/
+* https://www.community.com/businesses
 
 ### Content
 * https://writersperhour.com/

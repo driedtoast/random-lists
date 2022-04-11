@@ -14,6 +14,8 @@
 * https://usehooks-typescript.com/react-hook/use-on-click-outsidesear{}
 * https://github.com/typescript-cheatsheets/react
 * https://refine.dev/ - framework
+* https://github.com/airbnb/react-sketchapp - component design
+* https://github.com/ice-lab/icestark - multi app
 
 ## Random
 * https://github.com/vmarchesin/react-konami-code
@@ -85,17 +87,25 @@
 * https://github.com/reactjs/react-art
 * https://konvajs.org/docs/react/
     * https://github.com/konvajs/react-konva
+* https://github.com/pmndrs
+* https://github.com/FarazzShaikh/react-three-scissor - react graphics / multi-scene
+* https://github.com/josesoal/react-animation-canvas
+
 
 ## State
 * https://recoiljs.org/
 * https://github.com/kenneth1003/react-render-ctrl
 * https://github.com/reduxjs/reselect
 * https://redux-toolkit.js.org/
+* https://cycle.js.org/
 * https://github.com/luisanton-io/recoil-nexus
+* https://github.com/web-ridge/react-ridge-state
+* https://github.com/nanostores/nanostores
 
 ## Text editor
 * https://docs.slatejs.org/
 * https://draftjs.org/
+* https://github.com/zenoamaro/react-quill
 
 
 ## Labels and Text

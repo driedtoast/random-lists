@@ -43,6 +43,7 @@
 * https://conscious.org/
 * https://www.cascade.app/
 * https://slab.com/ - collaborative docs
+* https://www.achieveit.com/
 
 ## Franchises
 * https://americasbestfranchises.com/
@@ -61,6 +62,7 @@
 * https://www.usemotion.com/
 * https://fibery.io/
 * https://poap.xyz/ - bookmark management
+* https://basehq.com/
 
 ## Feature priortizing
 * https://storiesonboard.com/
@@ -81,3 +83,7 @@
 ## Data
 * https://www.census.gov/naics/ - naics
 * https://datablocks.pro/ - visualization workflow
+
+## ESignature
+* https://www.onespan.com/products/electronic-signature
+* https://www.hellosign.com/

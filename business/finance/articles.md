@@ -2,6 +2,7 @@
 
 ## Theories
 * https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money
+* https://www.finops.org/introduction/what-is-finops/
 
 ## Investing
 * https://thegeneralist.substack.com/p/cream-part-i-c80

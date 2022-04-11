@@ -27,3 +27,4 @@
 * https://bonsaibrowser.com/
 * https://david-peter.de/ - tools and such
 * https://endurance22.org/
+* https://museumofmediahistory.com/ - history of the internet

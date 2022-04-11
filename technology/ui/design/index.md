@@ -11,6 +11,8 @@
 ## Design Systems
 * https://github.com/NewThingsCo/hands-on-design-system
 * https://atlassian.design/
+* https://baseweb.design/
+* https://airbnb.design/building-a-visual-language/
 
 ## Color
 * https://usbrandcolors.com/
@@ -37,6 +39,11 @@
 * https://github.com/rkjones4/GANGogh
 * https://github.com/neelts/nft-tiny-device-01 - nft
 * https://www.shadertoy.com/
+* https://garden.georgefrancis.dev/
+* https://openprocessing.org/crayon/28
+    * https://openprocessing.org/crayon/28
+* https://openprocessing.org/crayon/#projects
+* https://openprocessing.org/sketch/1525688
 
 ## Game development
 * https://spicyyoghurt.com/

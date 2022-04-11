@@ -9,6 +9,7 @@
 * https://github.com/slatedocs/slate
 * https://docusaurus.io/
 * https://hoppscotch.io/ - and building
+* https://datahub.io/core/country-list 
 
 ## Collaboration
 * https://code.visualstudio.com/learn/collaboration/live-share

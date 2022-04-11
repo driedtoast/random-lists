@@ -4,6 +4,10 @@
 * https://www.kaleido.ai/
   * https://www.remove.bg/
 
+## Design system / Branding
+* https://specifyapp.com/
+* https://design-tokens.github.io/community-group/format/
+
 ## Mockups and Flows
 * https://www.figma.com/wireframe-tool/
 * https://balsamiq.com/

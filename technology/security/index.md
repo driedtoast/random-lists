@@ -3,6 +3,7 @@
 ## General
 * https://duo-labs.github.io/detail.html?secret-bridge
 * https://duo-labs.github.io/detail.html?cloudtracker
+* https://ssbc.github.io/scuttlebutt-protocol-guide/ - p2p protocols
 
 ## Investigations
 * https://github.com/Netflix-Skunkworks/diffy

@@ -17,6 +17,7 @@
 * https://www.conversion-uplift.co.uk/glossary-of-conversion-marketing/iterative-testing/
 * https://blossomstreetventures.medium.com/net-dollar-retention-at-91-saas-ipos-1a82f28ead1
 * https://www.aakashg.com/2021/12/11/bill-dot-com/
+* https://thenewstack.io/entrepreneurship-for-engineers-how-to-build-a-community/
 
 ## Bootstrap tips
 * https://www.indiehackers.com/post/how-do-you-market-a-non-sexy-saas-fd497b10c9

@@ -23,6 +23,15 @@
 * https://fidel.uk/
 * https://fragment.dev/
 
+## Orchestration
+* https://www.tokenex.com/
+* https://www.spreedly.com/
+* https://www.checkalt.com/
+* https://tink.com/
+
+### Contractors
+* https://www.siteline.com/
+
 ## Mobile
 * https://www.usebutton.com/
 
@@ -36,6 +45,7 @@
 * https://www.rev-lock.com/
 * https://brightback.com/
 * https://metronome.com/ - usage billing
+* https://www.ariasystems.com/
 
 ### Checkout flow
 * https://heyflow.app/
@@ -57,6 +67,7 @@
 * https://www.viacustomers.com/
 * https://briqpay.com/
 * https://www.faire.com/ - wholesaling
+* https://www.rutterapi.com/ - api for data around commerce (eg. plaid)
 
 ## Invoicing
 * https://craterapp.com/ - open source and mobile app
@@ -71,7 +82,6 @@
 * https://www.payoneer.com/
 * https://clear.co/ - capital
 * https://www.capchase.com/
-* https://www.slope.so/
 * https://www.hokodo.co/
 * https://maple.finance/ - with crypto bent
 * https://higo.io/
@@ -98,6 +108,7 @@
 * https://www.strac.io/
 * https://pagos.ai/ - infrastructure for cards
 * https://griffin.sh/ - banking as a service
+* https://www.gsma.com/mobilefordevelopment/mobile-money/mobile-money-api/ - m2m / mobile money payments
 
 ## Crypto / Ledgers
 * https://www.diem.com/en-us/

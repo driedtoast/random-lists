@@ -20,5 +20,8 @@
 
 ## Generative art
 * https://tylerxhobbs.com/essays/2017/a-generative-approach-to-simulating-watercolor-paints
+* https://tylerxhobbs.com/essays/2020/how-to-hack-a-painting
 * https://tylerxhobbs.com/essays/2019/code-goes-in-art-comes-out
 * https://www.youtube.com/watch?v=Ml6tpyTyXhM
+* https://gorillasun.de/
+  * https://gorillasun.de/blog/Making-of-Behind-the-Canvas

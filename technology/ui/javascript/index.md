@@ -8,7 +8,11 @@
 * https://turborepo.org/
     * https://github.com/vercel/turborepo
 * https://pnpm.io/
-
+* https://nixos.org/ - package creator / universal
+* https://github.com/changesets/changesets - for versioning
+* https://github.com/krakenjs/grumbler
+* https://www.skypack.dev/ - cdn for packages
+* https://esm.sh/ - cdn for packages
 
 ## Components / Frameworks
 * https://mitosis.builder.io/?outputTab=vue - write once and port
@@ -25,6 +29,14 @@
 * https://www.fastify.io/
 * https://feathersjs.com/
 * https://kenwheeler.github.io/slick/ - carousel
+* https://minze.dev/ - universal component approach
+* https://krakenjs.com/
+* https://github.com/paypal/paypal-checkout-components - checkout components
+* https://alpinejs.dev/
+* https://unpoly.com/
+* https://cycle.js.org/
+* https://preactjs.com/
+* https://riot.js.org/
 
 
 ## JQuery
@@ -52,7 +64,10 @@
 * https://www.passportjs.org/docs/login/
 * https://github.com/discord/qrcodejs - qr codes
 * https://www.sniptt.com/ - secret management / cli 
+* https://github.com/krakenjs/zoid - cross domain 
 
+## Events
+* https://github.com/cujojs/most/
 
 ## Utilities
 * https://immutable-js.com/
@@ -69,7 +84,10 @@
 * http://numeraljs.com/ - number formatting
 * http://mikemcl.github.io/big.js/
 * https://github.com/lob/address-elements
-
+* https://github.com/zendesk/cross-storage
+* http://turfjs.org/ - geo
+* https://zelark.github.io/nano-id-cc/ - id gen
+* https://cerebraljs.com/
 
 ## Music
 * https://github.com/ghaiklor/icecast-parser
@@ -88,6 +106,9 @@
 * https://tiptap.dev/ - nice editor for embedded changes
 * https://quilljs.com/ - lots of support
 * https://prosemirror.net/
+* https://github.com/bytedance/bytemd - markdown
+* https://milkdown.dev/ - has a component approach could do fountain with this 
+* https://mermaid-js.github.io/mermaid/#/  - diagramming tool
 
 ## Code quality
 * https://flow.org/
@@ -115,12 +136,19 @@
 * https://github.com/sebmarkbage/art/
 * https://github.com/aheckmann/gm
 * https://github.com/AnimaApp - sketch file app
+* https://github.com/FarazzShaikh/react-three-scissor - react graphics / multi-scene
 
 ## Phaser
 * https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
 * https://github.com/photonstorm/phaser3-docs
 * https://phasereditor2d.com/ - phaser editor
 * https://github.com/samme/phaser-parcel
+* https://github.com/azerion/phaser-spine
+
+## Gaming
+* https://bitsy.org/
+* https://excaliburjs.com/
+
 
 ## Physics
 * https://github.com/schteppe/p2.js
@@ -142,13 +170,18 @@
 * https://cheerio.js.org/ 
 * https://pm2.keymetrics.io/
 
-## Storage
+## Storage / state
 * https://localforage.github.io/localForage/
+* https://github.com/nanostores/nanostores
+* https://github.com/nanostores/persistent
+* https://github.com/web-ridge/react-ridge-state
+
 
 
 ## Database 
 * https://www.prisma.io/
 * https://sequelize.org/
+* http://vincit.github.io/objection.js/
 
 ## Handlebars
 * https://zordius.github.io/HandlebarsCookbook/0006-raw.html
@@ -178,3 +211,7 @@
 * http://openexchangerates.github.io/money.js/
 * https://dinerojs.com/ - most updated
 * https://nashdot.github.io/accounting-js/
+
+## PDF generation
+* http://pdfkit.org/
+

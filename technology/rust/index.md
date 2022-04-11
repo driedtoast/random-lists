@@ -8,6 +8,10 @@
 ## Machine Learning
 * https://github.com/diffeo/kodama
 
+## Algos
+* https://github.com/TheAlgorithms/Rust
+* https://exercism.org/tracks/rust
+
 ## Graphics
 * https://github.com/RazrFalcon/resvg
 * https://github.com/discord/metal-rs

@@ -3,7 +3,7 @@
 * https://formsubmit.co/
 * https://aws.amazon.com/ses/
 
-## GUI App Builders
+## GUI App Builders / Low code
 * https://www.anymo.app/
 * https://www.plantanapp.com/
 * https://quarkly.io/
@@ -20,6 +20,7 @@
 * https://debuild.co/ - through just english wording
 * https://www.minimum.run/
     * https://www.indiehackers.com/post/how-we-scaled-a-no-code-agency-from-50k-to-500k-in-revenue-in-1-year-fa4ad56d56
+* https://www.wavemaker.com/ - low code
 
 ## Components 
 * https://www.tiny.cloud/ - rich text editor
@@ -40,6 +41,7 @@
 * https://reflector.io/
 * https://nussknacker.io/
 * https://www.stedi.com/ - data transformation
+* https://www.make.com/en - connecting tools and such
 
 ## Microservices 
 * https://temporal.io/

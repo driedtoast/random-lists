@@ -123,6 +123,8 @@
 
 # Local Dev
 * https://medium.com/@ThomasTan/installing-nginx-in-mac-os-x-maverick-with-homebrew-d8867b7e8a5a
+* https://nkhilv.medium.com/how-to-create-a-new-bucket-and-add-files-to-a-specific-folder-using-local-stack-using-docker-414a1d035d19
+
 
 ## DNS 
 * https://blog.xoxzo.com/2020/11/17/fake-domain-setup-for-local-development/

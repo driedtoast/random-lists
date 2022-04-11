@@ -19,6 +19,7 @@
 * https://github.com/stelligent/mu
 * https://github.com/askwonder/wonqa
 * https://policysim.aws.amazon.com/
+* https://getcommandeer.com/
 
 ## Diagramming
 * https://github.com/lyft/cartography
@@ -42,6 +43,7 @@
 * https://www.eventstore.com/eventstoredb - events
 * http://seastar.io/
 * https://www.arangodb.com/ - graph db
+* https://ksqldb.io/  - layer over kafka as well
 
 ### Migrations
 * https://www.skeema.io/
@@ -75,6 +77,7 @@
 * https://rancher.com/products/longhorn/
 * https://karpenter.sh/
 * https://nats.io/
+* https://selkies.io/
 
 ## Storage
 * https://github.com/features/packages
@@ -92,6 +95,7 @@
 * https://cloudcustodian.io/ - security / policy auditing
 * https://riemann.io/
 * https://fluentbit.io/ - log streams
+* https://github.com/ivbeg/awesome-status-pages - status pages
 
 ### Open telemetry
 * https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/overview.md#baggage-signal
@@ -104,6 +108,8 @@
 * https://github.com/FiloSottile/mkcert - key gen
 * https://github.com/pantsbuild/pants - build system
 * https://localstack.cloud/
+    * https://github.com/localstack/awscli-local
+* https://github.com/Createdd/Writing/blob/master/2022/articles/setupNewMac.md
 
 ## Docker / Containers
 * https://podman.io/getting-started/ 

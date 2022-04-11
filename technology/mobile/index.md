@@ -2,6 +2,7 @@
 
 ## Frameworks
 * https://flutter.dev/
+* https://www.kiwicode-service.com/waitlist - flutter generator
 
 ## Platforms
 * https://github.com/appwrite/appwrite
