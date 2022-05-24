@@ -2,6 +2,9 @@
 
 ## Electric
 
+### Tracking 
+* https://smartcar.com/
+
 ### Trucks
 * https://www.atlismotorvehicles.com/
 * https://rivian.com/
@@ -17,6 +20,7 @@
 
 ### Conversion
 * https://cascadiamotion.com/
+* https://www.swytchbike.com/ - bikes
 
 
 ## Apps

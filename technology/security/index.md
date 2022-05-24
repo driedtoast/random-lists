@@ -4,6 +4,11 @@
 * https://duo-labs.github.io/detail.html?secret-bridge
 * https://duo-labs.github.io/detail.html?cloudtracker
 * https://ssbc.github.io/scuttlebutt-protocol-guide/ - p2p protocols
+* https://www.whitesourcesoftware.com/free-developer-tools/renovate/ - updated dependencies in git actions
+* https://www.freeipa.org/page/Main_Page
+* https://openauthentication.org/
+* https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+* https://www.openpolicyagent.org/ - policy agent
 
 ## Investigations
 * https://github.com/Netflix-Skunkworks/diffy
@@ -12,6 +17,8 @@
 ## W3Specs / Specs
 * https://w3c.github.io/webappsec-cspee/
 * https://www.cisa.gov/uscert/bsi/articles/best-practices/requirements-engineering/the-common-criteria
+* https://www.ietf.org/rfc/rfc4226.txt - HOTP
+* https://www.ietf.org/rfc/rfc6238.txt - TOTP
 
 
 ## Open connect
@@ -39,6 +46,8 @@
 ## WebAuthn
 * https://duo-labs.github.io/detail.html?webauthn.io
 * https://webauthn.io/
+* https://www.privacyidea.org/ - otp
+* https://github.com/google/google-authenticator - otp
 
 
 ## Cryptography
@@ -51,3 +60,12 @@
 * https://datatracker.ietf.org/doc/html/rfc2104
 * https://www.freeformatter.com/hmac-generator.html
 * https://github.com/coinbase/kryptology - lib
+* https://chriszarate.github.io/supergenpass/
+
+## Authorization
+* https://github.com/ory/keto - google Zanzibar implementation
+* https://github.com/authzed/spicedb
+* https://zanzibar.academy/
+* https://www.ory.sh/
+* https://github.com/authorizer-tech/access-controller
+* https://github.com/josephglanville/zanzibar-pg/blob/master/zanzibar.sql

@@ -11,6 +11,7 @@
 ## General design
 * https://journal-du-design.fr/art/holes-in-the-wall-1010-36134/
 * https://blog.printsome.com/vintage-t-shirts-look/
+* https://www.vis4.net/blog/2013/09/mastering-multi-hued-color-scales/ - color scales
 
 ## web3
 * https://decentpatterns.xyz/report/#2.-design.-new-user-experience-patterns
@@ -25,3 +26,10 @@
 * https://www.youtube.com/watch?v=Ml6tpyTyXhM
 * https://gorillasun.de/
   * https://gorillasun.de/blog/Making-of-Behind-the-Canvas
+
+## Motion 
+* https://uxdesign.cc/a-guide-to-motion-design-principles-7f05f10ccd79
+* https://frankandollie.com/PhysicalAnimation.html
+* https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+* https://screenlane.com/?ref=uimovement
+* https://www.nngroup.com/articles/visibility-system-status/#:~:text=Definition%3A%20The%20visibility%20of%20system,appropriate%20feedback%20within%20reasonable%20time.

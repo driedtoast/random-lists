@@ -7,6 +7,7 @@
 * https://orlincultureshop.com/ - illustration
 * https://hicetnunc.art/random_combo
 * https://www.instagram.com/willisart_/?hl=en
+* https://www.liamwong.com/ - inspirational asian art
 
 
 ## Art auctions / investments
@@ -34,7 +35,6 @@
 * https://discourse.nouns.wtf/t/100-days-of-nouns-coloring-book/468
 * https://burnttoastcreative.com/
 
-
 ## Generative
 * https://www.artxcode.io/
 * https://www.playform.io/
@@ -53,6 +53,10 @@
 * https://www.shadertoy.com/ - shading try out 
 * https://aiartists.org/helena-sarin
     * http://www.neuralbricolage.com/
+* https://larswander.com/
 
 ## Architecture
 * http://komainc.com/
+
+## Magazines
+* https://leonardo.info/

@@ -8,6 +8,7 @@
 
 ## Networking
 * https://blog.devgenius.io/tired-of-the-modern-web-try-the-gemini-protocol-ba847f102fe6
+* https://osmocom.org/projects/retronetworking/wiki/
 
 ## GIT
 * https://gitea.io/en-us/
@@ -120,6 +121,8 @@
 * https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 * https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/
 * https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment - only for public right now
+* https://yonatankra.com/7-github-actions-tricks-i-wish-i-knew-before-i-started/
+* https://blog.marcnuri.com/triggering-github-actions-across-different-repositories
 
 # Local Dev
 * https://medium.com/@ThomasTan/installing-nginx-in-mac-os-x-maverick-with-homebrew-d8867b7e8a5a

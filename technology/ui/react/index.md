@@ -9,6 +9,8 @@
 * https://github.com/kevinomyonga/R3F-CRA-Starter
 * https://www.copycat.dev/ - from figma
 * https://github.com/NitzanHen/agrippa - cli for creating components
+* https://github.com/wtchnm/Vitamin
+* https://redwoodjs.com/ - sort of a consultancy and a framework
 
 ## General
 * https://usehooks-typescript.com/react-hook/use-on-click-outsidesear{}
@@ -20,6 +22,7 @@
 ## Random
 * https://github.com/vmarchesin/react-konami-code
 * https://github.com/nfl/react-helmet
+* https://github.com/focus-trap/focus-trap-react - focus traps
 
 ## UI Component Lib
 * https://headlessui.dev/
@@ -35,6 +38,7 @@
 * https://rebassjs.org/
 * https://atlassian.design/components
 * https://v2.grommet.io/
+    * https://v2.grommet.io/stack - components on top of each other / layers
 * https://blueprintjs.com/
 * http://bluekit.blueberry.io/
 * https://mui.com/ 
@@ -48,31 +52,65 @@
 * https://refine.dev/
 * https://baseweb.design/
 * https://ebay.github.io/nice-modal-react
+* https://material-tailwind.com/
+* https://denali.design/
+* https://github.com/davesnx/taco
 
+
+## Icons
+* https://github.com/iconify/icon-sets 
+    * https://iconify.design/
+* https://react-svgr.com/ - svg to react components
+* https://github.com/jkphl/node-iconizr
+* https://www.npmjs.com/package/vite-svg-loader
+* https://github.com/lucsky/vite-plugin-svgr
+* https://github.com/antfu/unplugin-icons
+* https://petershaggynoble.github.io/MDI-Sandbox/light/
+* https://github.com/iconfu/svg-inject
+* https://react-icons.github.io/react-icons/
 
 ## Documentation
 * https://github.com/pocotan001/react-styleguide-generator 
 * https://www.docz.site/
 * https://mdxjs.com/
+* https://www.mkdocs.org/
+* https://vitebook.dev/
+* https://seek-oss.github.io/braid-design-system/guides/playroom-prototyping
 
 ## Social Buttons
 * https://www.npmjs.com/package/react-social-login-buttons
 
 ## Drag and Drop
 * https://react-dnd.github.io/react-dnd/about
+* https://interactjs.io/
+
+## Drawing
+* https://embiem.github.io/react-canvas-draw/
+* https://vinoth.info/react-sketch-canvas/ - pen support
+* https://github.com/DellGarcia/react-symbol-recognizer
+* https://github.com/tldraw/tldraw
+* https://github.com/tldraw/core
+* https://github.com/tbolis/react-sketch
 
 ## Diagramming
 * https://github.com/projectstorm/react-diagrams
 * https://reactflow.dev/
+* https://interactjs.io/
+* https://github.com/MadAppGang/react-selections
+* https://github.com/krismuniz/proto-arrows
+* https://github.com/dragonman225/curved-arrows
 
 ## Charting Libs / Dashboards
 * https://recharts.org/en-US
 * https://www.admin-dashboards.com/react-berry-dashboard-complete-review/
+* http://borisyankov.github.io/react-sparklines/
 
 ## Style
 * https://styled-components.com/
 * https://vanilla-extract.style/
 * https://vanilla-extract.style/documentation/sprinkles-api/
+* https://github.com/huibizhang/vitawind
+* https://github.com/creativetimofficial/tailwind-starter-kit
 
 ## Animation / Graphics
 * https://react-spring.io/
@@ -82,6 +120,7 @@
 * https://github.com/facebook/react/tree/main/packages/react-art
 * https://github.com/pmndrs/react-three-fiber
 * https://www.framer.com/docs/
+    * https://www.framer.com/legacy/docs/stack/
 * https://reactcommunity.org/react-transition-group/
 * https://react-move.js.org/#/
 * https://github.com/reactjs/react-art
@@ -90,6 +129,9 @@
 * https://github.com/pmndrs
 * https://github.com/FarazzShaikh/react-three-scissor - react graphics / multi-scene
 * https://github.com/josesoal/react-animation-canvas
+* https://github.com/rive-app/rive-react
+* https://github.com/automerge/pixelpusher - collaborative
+* https://github.com/davidfig/pixi-viewport
 
 
 ## State
@@ -106,12 +148,15 @@
 * https://docs.slatejs.org/
 * https://draftjs.org/
 * https://github.com/zenoamaro/react-quill
+* https://github.com/inkandswitch/peritext - with editing
 
 
 ## Labels and Text
 * https://github.com/i18next/react-i18next/tree/master/example/v9.x.x/react-fluent
 * https://www.downshift-js.com/ - auto complete and such
 * https://react.i18next.com/
+
+
 
 ## API Clients
 * https://axios-http.com/
@@ -122,6 +167,7 @@
 * https://emileber.github.io/axios-middleware/#/
 * https://github.com/svrcekmichal/redux-axios-middleware
 * https://relay.dev/
+
 
 ## Security
 * https://www.npmjs.com/package/react-query-auth
@@ -144,6 +190,7 @@
 
 ## Devs 
 * https://github.com/tannerlinsley?tab=repositories
+* https://clarklab.com/
 
 ## Routing
 * https://github.com/remix-run/history

@@ -20,10 +20,16 @@
 * https://mono.co/
 * https://www.qapital.com/
 
+
+## FinOps
+* https://www.recko.io/
+* https://www.revenue.io/
+
 ## General 
 * https://boardable.com/ - board management
 * https://www.fincen.gov/ - verification
 * https://ofac-api.com/ - verification
+* https://www.cascade.app/ - goal coordination
 
 
 ## Consumer cards
@@ -54,7 +60,6 @@
 * https://koodoo.io/
 * https://risika.dk/ - risk eval
 * https://www.milocredit.com/ - crypo mortgages
-* https://www.slope.so/
 
 ### Crypto
 * https://drops.co/
@@ -85,6 +90,7 @@
 
 ## Expense mgmt
 * https://www.fylehq.com/
+* https://www.creditbook.pk/ - smb / personal
 * https://www.pleo.io/en
 * https://www.appzen.com/
 * https://www.glean.ai/ - for subscription buying tracking
@@ -98,12 +104,14 @@
 * https://www.abacum.io/
 * https://www.thescienceofrevenue.com/
 * https://pry.co/ - forecasting and decisions
+* https://elliottwave-forecast.com/elliott-wave-theory/
 
 ## Accounting / Bookkeeping
 * https://bench.co/
 * https://pilot.com/
     * https://pilot.com/rd-credit
 * https://www.photoncommerce.com/
+* https://www.joinheard.com/
 
 * https://www.taxaroo.com/ - virtual tax 
 

@@ -4,6 +4,7 @@
 * https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/
 * https://solidproject.org/
 * https://eventmodeling.org/
+* https://dl.acm.org/doi/10.1145/74851.74870 - lease locks
 
 ## Icons and Diagramming
 * https://aws.amazon.com/architecture/icons/

@@ -15,12 +15,14 @@
 * https://www.joinpapa.com/
 * https://www.manyver.se/
 * https://racket.com/ - story telling
+* https://bere.al/en - everyone at once during the day
 
 ## Salon booking
 * https://www.getshortcut.co/
 
 ## Design
 * http://komakoma.org/en/
+* https://rive.app/
 
 ## Chat and Communication
 * https://fluffychat.im/

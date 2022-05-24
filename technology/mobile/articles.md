@@ -8,6 +8,10 @@
 * https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/
 * https://blog.gskinner.com/archives/2022/01/flutter-easily-add-ci-testing-with-github-actions.html
 * https://medium.com/flutter-community/build-a-marketplace-in-your-flutter-app-and-accept-payments-using-stripe-and-firebase-72f3f7228625
+* https://www.filledstacks.com/
+* https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1
+* https://fidev.io/tickets-challenge-parallax/
+
 
 ### Crypto
 * https://blog.logrocket.com/building-dapp-flutter-solidity/

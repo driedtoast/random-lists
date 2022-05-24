@@ -13,6 +13,8 @@
 * https://atlassian.design/
 * https://baseweb.design/
 * https://airbnb.design/building-a-visual-language/
+* https://www.componentdriven.org/ - component design 
+* https://design-system.hpe.design/
 
 ## Color
 * https://usbrandcolors.com/
@@ -27,6 +29,8 @@
 * https://pttrns.com/ - mobile flow patterns
 * https://deepwork.studio/case-studies - web3 bent
 * https://ui8.net/
+* https://picsum.photos/ - mocking images
+* https://web.dev/variable-fonts/
 
 ## Generative Art
 * https://github.com/gengeomergence/GenArt
@@ -45,9 +49,15 @@
 * https://openprocessing.org/crayon/#projects
 * https://openprocessing.org/sketch/1525688
 
+
 ## Game development
 * https://spicyyoghurt.com/
 * https://www.codeandweb.com/texturepacker
+* https://defold.com/   
 
 ## Tools
 * https://github.com/goabstract/Awesome-Design-Tools
+
+## Sketch
+* https://github.com/sketch-hq/sketch-document - file format
+* https://developer.sketch.com/file-format/

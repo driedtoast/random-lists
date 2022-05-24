@@ -6,10 +6,25 @@
 * https://wohven.com/ - also could sell your are through it
 * https://inkwellprintco.com/
 * https://www.threadsy.com/ - wholesale pricing
+* https://goodlifeclothing.com/collections/mens-soft-t-shirts/products/supima-classic-crew-black
+* https://www.dickies.com/shirts/short-sleeve-heavyweight-crew-neck-t-shirt/WS480BK++L.html
+* https://trueclassictees.com/collections/crew-neck-tees/products/black-crew-neck-tee
+
+### Heavyweight
+* https://allusaclothing.com/camber-301-max-weight-heavyweight-t-shirt-usa-made.html
+* https://www.3sixteen.com/collections/tees/products/heavyweight-plain-t-shirt-heather-grey-2-pack
+* https://www.everlane.com/products/mens-surplus-tee-black
+* https://richer-poorer.com/collections/mens-t-shirts/products/mens-weighted-tee?variant=39311976169568&sscid=51k6_d7r5s
+* https://www.american-giant.com/collections/mens-tees-1#mens-heavyweight-t-shirts
+* https://spoke-london.com/us/products/grey-marl-organic-t-shirts
 
 ## Outdoor clothing and gear
 * https://wandernorthgeorgia.com/ 
     * https://wandernorthgeorgia.com/our-story/  - cool story 
+
+## General
+* https://www.tentree.com/
+* https://www.hockerty.com/en-us/men/linen-suits/ - suits
 
 ## Watches
 * https://mrjoneswatches.com/
@@ -38,4 +53,5 @@
 * https://www.gelato.com/en-US/integrations/
 * https://wunderlabel.com/ - clothing labels
 * https://goldengoodsusa.com/ - old do shirts
+* https://www.realthread.com/
   

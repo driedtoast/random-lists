@@ -17,6 +17,8 @@
 * https://reactjsexample.com/a-simple-mock-up-of-square-dashboard-using-react-and-firebase/amp/  - with firebase
 * https://medium.com/nfl-engineers/nfl-react-84e9cd11d384
 * https://medium.com/@dtkatz/use-the-blazing-fast-parcel-bundler-to-build-and-test-a-react-app-e6972a2587e1
+* https://miyauchi.dev/posts/lib-vite-tailwindcss/ 
+* https://epicreact.dev/articles
 
 ## Component 
 * https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/
@@ -70,6 +72,9 @@
 * https://dev.to/thatanjan/top-animation-libraries-for-react-2elh
 * https://konvajs.org/docs/react/
 * https://konvajs.org/docs/react/Simple_Animations.html
+* https://roxgarage.medium.com/react-pixi-pt-2-viewport-5b7de9a1ea57
+* https://www.framer.com/docs/layoutcamera/
+* https://medium.com/ux-in-motion/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86
 
 ## React Query
 * https://github.com/tannerlinsley/react-query-cached-in-60-minutes

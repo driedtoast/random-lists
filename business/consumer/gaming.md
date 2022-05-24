@@ -29,6 +29,8 @@
 * https://www.necofun.com/
 * https://bridgeworld.treasure.lol/
 * https://theremnantsnft.com/ - nft based / sol 
+* https://www.minesofdalarnia.com/
+* https://citadel.pm/
 
 ## Indie titles
 * https://en.m.wikipedia.org/wiki/Psychonauts

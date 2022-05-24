@@ -2,6 +2,7 @@
 
 ## Patterns
 * https://www.codit.eu/blog/the-routing-slip-pattern/#:~:text=A%20routing%20slip%20is%20a,and%20invoke%20the%20next%20service.
+* https://redis.io/docs/reference/patterns/distributed-locks/
 
 ## Stack compositions
 * https://creativedesignsguru.com/dern-stack-alternative-mern/

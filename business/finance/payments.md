@@ -62,18 +62,26 @@
 ## Collections / Dunning
 * https://www.gravysolutions.io/
 * https://stunning.co/
+* https://www.churpy.co/
+* https://www.january.com/
+
+## Taxes
+* https://www.quaderno.io/
+* https://www.taxjar.com/solutions/saas
 
 ## Commerce
 * https://www.viacustomers.com/
 * https://briqpay.com/
 * https://www.faire.com/ - wholesaling
 * https://www.rutterapi.com/ - api for data around commerce (eg. plaid)
+* https://www.violet.io/ - cart integrations
 
 ## Invoicing
 * https://craterapp.com/ - open source and mobile app
 * https://tropicapp.io/
 * https://www.hellobonsai.com/
 * https://cheddargetter.com/
+* https://dots.dev/ - payouts
 
 ## Financing / Pay Later
 * https://www.wisetack.com/
@@ -109,6 +117,8 @@
 * https://pagos.ai/ - infrastructure for cards
 * https://griffin.sh/ - banking as a service
 * https://www.gsma.com/mobilefordevelopment/mobile-money/mobile-money-api/ - m2m / mobile money payments
+* https://column.com/ - money movement
+* https://staxpayments.com/
 
 ## Crypto / Ledgers
 * https://www.diem.com/en-us/
@@ -126,3 +136,11 @@
 ### DAO
 * https://sharkdao.community/
 * https://juicebox.money/#/
+
+## Bin lookups
+* https://www.freebinchecker.com/united-states_prepaid-bin-list-brand
+* https://www.bindb.com/identify-prepaid-cards
+    * https://www.bindb.com/bin-database
+* https://binlist.net/
+* https://github.com/binlist/data
+* https://github.com/iannuttall/binlist-data

@@ -17,3 +17,6 @@
 ## Crypto (without the ology)
 * https://geth.ethereum.org/
     * https://github.com/ethereum/go-ethereum
+
+## Developers
+* https://crazymax.dev/

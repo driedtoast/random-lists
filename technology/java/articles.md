@@ -26,6 +26,9 @@
 * https://smallrye.io/smallrye-reactive-messaging/smallrye-reactive-messaging/3.4/concepts.html#connectors
 * https://smallrye.io/smallrye-mutiny-vertx-bindings/2.18.1/
 
+### Redis
+* https://developers.redhat.com/articles/2022/03/29/develop-basic-rate-limiter-quarkus-and-redis#implement_rate_limiting
+
 ## Spring boot
 
 * https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html#application-properties.core

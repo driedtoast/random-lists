@@ -17,6 +17,7 @@
 * https://www.thrasio.com/
 * https://hovercraftstudio.com/
 * https://thelemonadstand.com/
+* https://dribbble.com/enginedigital
 
 ## Application and UI Design
 * https://www.bostonux.com/
@@ -34,6 +35,8 @@
 * https://rangle.io/
 * https://hellotonic.com/
 * https://tigerspike.com/
+* https://gskinner.com/ - has a great site too
+* https://www.awsmd.com/
 
 ## Designers
 * https://dribbble.com/mikekus
@@ -49,6 +52,13 @@
 * https://dribbble.com/venncollective/ - in athens area?
 * https://www.mcwhortercreative.com/ - in athens area?
 * https://cacheflowe.com/code/games 
+* https://dribbble.com/KenChen
+* https://dribbble.com/RomainPSD - interface techniques
+* https://dribbble.com/ColinGarven
+* https://pasquale.cool/
+* https://dribbble.com/kadaayoub - interface, very clean style with motion
+* https://dribbble.com/Ariuka_dsgn - interface
+* https://owenkhang.com/ - animator / nfts
 
 * https://www.creativecircle.com/ - find designers
 

@@ -3,6 +3,8 @@
 * https://tailwindcss.com/
     * https://github.com/aniftyco/awesome-tailwindcss
     * https://tailwindcomponents.com/
+    * https://github.com/creativetimofficial/tailwind-starter-kit - starter templates
+    * https://www.creative-tim.com/templates/tailwind
 * https://tailwindcss-glassmorphism.vercel.app/ - tailwindcss
 * https://daisyui.com/
 * https://jointswp.com/ - for wordpress
@@ -10,9 +12,25 @@
 * https://builtwithtailwind.com/
 * https://flowbite.com/
 * https://tailwindui.com/
+    * https://tailwind-elements.com/docs/standard/components/stepper/
+    * https://tailwind-elements.com/
 * https://www.pollen.style/
 * https://unocss.antfu.me/
 * https://windicss.org/
+* https://www.agnosticui.com/ - use in react etc... almost bootstrap like
+* https://open-props.style/ 
+* https://infima.dev/
+* https://tachyons.io/
+* https://yeun.github.io/open-color/
+* https://theme-ui.com/
+* https://azouaoui-med.github.io/css-pro-layout/
+* https://semantic-ui.com/
+* https://github.com/oxalorg/sakura - based on tags only
+
+## Design examples
+* https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white
+* https://hihayk.github.io/modulator/
+* https://hihayk.github.io/wheel/ - color wheel
 
 ### For email
 * https://github.com/soheilpro/mailwind - for email
@@ -48,6 +66,7 @@
 
 ## Resources
 * https://www.samanthaming.com/
+* https://hayk.design/#/
 
 ## Graphics / Animation 
 * https://css-homer-sprites.netlify.app/styles.css

@@ -14,6 +14,8 @@
 * https://www.hotjar.com/
 * https://www.funnelbranch.com/ - funnel based
 * https://confection.io/
+* https://posthog.com/ - also feature flags
+* https://mouseflow.com/
 
 ## Sales tracking
 * https://inaccord.com/
@@ -25,6 +27,7 @@
 * https://www.subscript.com/ - subscription metrics
 * https://www.is.com/ - also mobile monetization
 * https://www.woopra.com/solutions/saas-analytics
+* https://churnzero.net/
 
 
 ## AB testing / feature flags
@@ -49,6 +52,7 @@
 * https://www.yellowfinbi.com/
 * https://canvasapp.com/
 * https://hex.tech/ - pipe connection process
+* https://canvasapp.com/ - drag and drop
 
 ## Manufacturing / Process
 * https://www.seeq.com/

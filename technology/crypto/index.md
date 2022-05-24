@@ -26,6 +26,7 @@
 * https://walletconnect.com/
 * https://guarda.com/
 * https://www.starname.me/ - name to wallet
+* https://giddy.co/
 
 ## NFT
 * https://tokenspy.org/
@@ -54,6 +55,12 @@
 * https://generator.nftchef.dev/
     * https://github.com/nftchef/art-engine/tree/nested-folder-structure
 
+## NFT promotion
+* https://www.giglabs.io/
+* https://www.bueno.art/ - helps to create it 
+* https://icy.tools/ - trending nft
+* https://www.nftconstructer.com/ - website promotions 
+
 ## ML
 * https://github.com/bcjgit/nounsanalytics/blob/main/nouns_voting.ipynb
 
@@ -72,6 +79,9 @@
     * https://dev.kilt.io/
 * https://github.com/ava-labs/subnet-evm - vm for the blockchain
 * https://grapes.network/ - solano
+* https://www.hyperledger.org/use/fabric
+* https://consensys.net/quorum/
+* https://tendermint.com/
 
 ## Gas monitoring / analytics
 * https://ethgasstation.info/
@@ -89,6 +99,8 @@
 * https://github.com/gasdao/gasdao
 * https://dune.xyz/home
 * https://watchtheburn.com/
+* https://www.notion.so/aerial/Aerial-API-343ebee875784ca18c244a5aae9fa7d3 - offsets
+* https://docs.diadata.org/ 
 
 
 ## Specs
@@ -108,6 +120,10 @@
 * https://minaprotocol.com/
 * https://zebec.io/ - solara protocol for money movement
 * https://faucet.rinkeby.io/
+* https://www.metis.io/ - nft + fees + web3
+    * https://docs.metis.io/
+* https://www.diadata.org/ - cross chain network to build on
+* https://indexcoop.com/ - cross wallet
 
 ## APIS / Development
 * https://thegraph.com/en/
@@ -194,6 +210,7 @@
 * https://etherscan.io/address/0xe540204af3a5d77419552b35aead5453a477a7da#code - address to wallet
 * https://github.com/tooploox/ens-tagged-resolver
 * https://etherscan.io/address/0x3a91eaacd2d5d5b7e102e17ca8bd467b79139ed5 - auctions
+* https://ethfiddle.com/recent_fiddles
 
 
 ### Nouns
@@ -217,8 +234,14 @@
 * https://github.com/SHAKOTN/awesome-web3
 * https://snapshot.org/#/
 * https://web3isgoinggreat.com/
+* https://cryptozombies.io/ - learning to dapp
+* https://cleverflare.com/ - learning
+
 
 ### Solana
 * https://github.com/exiled-apes/candy-machine-mint
 * https://github.com/solana-labs
 * https://www.magiceden.io/ - open sea equiv
+
+## People
+* https://www.kevinrose.com/

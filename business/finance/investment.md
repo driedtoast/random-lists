@@ -36,6 +36,7 @@
 * https://www.rocketdollar.com/ - 401k with alternatives
 * https://www.optionsai.com/
 * https://tastyworks.com/
+* https://www.realizefi.com/ - api for linking them together
 
 ## Social Investing
 * https://sweater.gg/
@@ -45,6 +46,7 @@
 * https://app.capitoltrades.com/ - political trades
 * https://snappykraken.com/ - marketing for financial advisors
 * https://waxinvest.com/
+* https://fetch.ai/ - crypto bent
 
 ## Crypto
 * https://www.ambergroup.io/
@@ -64,6 +66,12 @@
 * https://www.bitdao.io/
 * https://www.superlayer.io/
 * https://tokenist.com/ - news
+* https://cookie3.co/ - crypto analytics
+* https://moonwell.fi/
+* https://kyber.network/
+* https://www.maple.finance/ - capital markets
+* https://onjuno.com/ - bank account
+
 
 ## NFT
 * https://www.samuraicats.io/
@@ -99,6 +107,9 @@
 * https://www.avenirgrowth.com/
 * https://govclab.com/
 * https://www.coughdropcapital.com/
+* https://www.bananacapital.vc/
+* https://tinyseed.com/ - for bootstrappers
+* https://founderpath.com/
 
 ## Investment data
 * https://plaid.com/products/investments/
@@ -106,6 +117,8 @@
 * https://www.dnb.com/
 * https://datafiniti.co/ - really general data
 * https://www.fiscally.io/ - fiscal calendars
+* https://www.currentmarketvaluation.com/models/buffett-indicator.php
+* https://www.visualcapitalist.com/
 
 
 ## Equity Capital / VC

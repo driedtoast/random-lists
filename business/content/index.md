@@ -1,6 +1,7 @@
 
 ## Localization Services
 * https://locize.com/
+* https://phrase.com/
 
 ## Documentation
 * https://docusaurus.io/

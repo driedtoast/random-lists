@@ -13,6 +13,14 @@
 * https://github.com/krakenjs/grumbler
 * https://www.skypack.dev/ - cdn for packages
 * https://esm.sh/ - cdn for packages
+* https://esbuild.github.io/
+* https://astro.build/ - staticy sites
+* https://www.aemvite.dev/
+* https://polyfill.io/v3/
+* https://www.npmjs.com/package/svg-sprite - svg sprite management
+* https://github.com/google/traceur-compiler
+
+
 
 ## Components / Frameworks
 * https://mitosis.builder.io/?outputTab=vue - write once and port
@@ -37,6 +45,26 @@
 * https://cycle.js.org/
 * https://preactjs.com/
 * https://riot.js.org/
+* https://tropical.js.org/ - hydration
+* https://www.componentdriven.org/
+* https://lwc.dev/
+    * https://github.com/Templarian/lwc-ui
+
+## Plugin utils
+* https://pnp.github.io/pnpjs/
+
+## Threading
+* https://github.com/tinylibs/tinypool
+
+## Component Docs
+* https://components.studio/
+* https://www.docz.site/
+* https://stenciljs.com/
+* https://github.com/ComponentDriven/csf
+
+## Styling
+* https://twind.dev/ - tailwind in js
+* https://stitches.dev/
 
 
 ## JQuery
@@ -75,6 +103,7 @@
 * https://cnpmjs.org/package/dotenv
 * https://github.com/nippur72/ifdef-loader - build time instructions
 * https://www.skypack.dev/view/git-oneflow - one flow
+    * https://docs.skypack.dev/
 * http://bluebirdjs.com/ - promise lib
 * https://date-fns.org/ - date utility
 * https://github.com/jessym/react-seo-tools
@@ -88,6 +117,8 @@
 * http://turfjs.org/ - geo
 * https://zelark.github.io/nano-id-cc/ - id gen
 * https://cerebraljs.com/
+* https://fela.js.org/ - css atomic
+* https://github.com/micromatch/micromatch - glob matching
 
 ## Music
 * https://github.com/ghaiklor/icecast-parser
@@ -130,6 +161,7 @@
 * https://popmotion.io/ - animation
 * https://mojs.github.io/ - animation
 * https://barba.js.org/ - animation
+* https://github.com/rive-app/rive-wasm - animation
 * https://sarcadass.github.io/granim.js/ - gradient
 * https://shelly.dev/
 * https://www.babylonjs.com/ - 3d
@@ -137,6 +169,9 @@
 * https://github.com/aheckmann/gm
 * https://github.com/AnimaApp - sketch file app
 * https://github.com/FarazzShaikh/react-three-scissor - react graphics / multi-scene
+* https://github.com/veltman/flubber - smooth animations
+* https://interactjs.io/ - drawring lib
+* https://github.com/aheckmann/gm
 
 ## Phaser
 * https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/candy-crush
@@ -161,6 +196,7 @@
 
 ## Debugging / Monitoring
 * https://github.com/watson/console-log-level
+* https://www.stacktracejs.com/
 * https://github.com/open-telemetry/opentelemetry-js 
 
 ## Servers
@@ -176,7 +212,8 @@
 * https://github.com/nanostores/persistent
 * https://github.com/web-ridge/react-ridge-state
 
-
+## Search
+* https://lunrjs.com/
 
 ## Database 
 * https://www.prisma.io/
@@ -187,6 +224,7 @@
 * https://zordius.github.io/HandlebarsCookbook/0006-raw.html
 
 ## Testing
+* https://vitest.dev/
 * https://github.com/avajs/ava
 * https://github.com/substack/tape
 * https://github.com/substack/faucet
@@ -194,6 +232,7 @@
 * https://slimerjs.org/
 * https://www.casperjs.org/
 * https://playwright.dev/
+* https://istanbul.js.org/
 * https://github.com/postmanlabs/newman
     * https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
 
@@ -215,3 +254,9 @@
 ## PDF generation
 * http://pdfkit.org/
 
+## Multi Player / Collaboration
+* https://yjs.dev/
+
+## Art 
+* https://github.com/LingDong-/shan-shui-inf/blob/master/README.md
+* https://github.com/LingDong-/nonflowers

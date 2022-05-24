@@ -1,6 +1,10 @@
 ## General app
 * https://github.com/securingsincity/react-ace-create-react-app-example
 * https://github.com/umstek/parcel-typescript-react-tailwind
+* https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate
+* https://github.com/lmachens/vite-boilerplate
+* https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter
+* https://github.com/pchmn/vite-react-ts-ghactions-template
 
 ## Bot creation / editor
 * https://github.com/botfront/botfront/tree/master/botfront
@@ -19,6 +23,7 @@
 
 ## Graphics
 * https://github.com/wizpanda/super-gif - gif parsing
+* https://codesandbox.io/s/react-pixi-viewport-9ngfd?from-embed=&file=/src/Viewport.tsx 
 
 ## Design Kits
 

@@ -5,6 +5,7 @@
 * https://www.infoworld.com/article/3646195/a-simple-automated-build-pipeline-for-nodejs.html
 * https://dev.to/luccadumas/building-a-full-api-with-nodejs-strapi-in-5-minutes-or-less-amazing-5dfk
 * https://css-tricks.com/user-registration-authentication-firebase-react/
+* https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
 ## Security
 * https://nordicapis.com/assisted-token-flow-the-answer-to-oauth-integration-in-single-page-applications/
@@ -16,6 +17,7 @@
 
 ## Text and Labeling
 * https://dev.to/adrai/how-does-server-side-internationalization-i18n-look-like-5f4c
+* https://scully.io/docs/Reference/utilities/prism-js/
 
 ## Monitoring
 * https://dev.to/damikun/export-request-traces-from-react-spa-to-backend-opentelemetry-collector-4kb4
@@ -75,6 +77,7 @@
 * https://blog.logrocket.com/processing-images-sharp-node-js/
 * https://threejs.org/manual/?q=mul#en/multiple-scenes - 3d modeling
 * https://css-tricks.com/easing-animations-in-canvas/
+* http://templarian.com/2020/02/13/svg-to-animated-gif/
 
 ## Phaser
 * https://www.html5gamedevs.com/topic/3052-phaser-and-2d-lighting/
@@ -89,3 +92,11 @@
 
 ### Unity
 * https://gamedevelopment.tutsplus.com/tutorials/creating-dynamic-2d-water-effects-in-unity--gamedev-14143
+
+## Vite
+* https://divotion.com/blog/creating-a-component-library-with-vite-and-storybook
+
+
+## Dev blogs
+* https://kamranicus.com/ - nice design
+* http://templarian.com/ - material icons

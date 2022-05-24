@@ -2,6 +2,9 @@
 
 ## Resources
 * https://mlcourse.ai/
+* https://the-environmental-ds-book.netlify.app/welcome.html
+* https://github.com/stfc-sciml/sciml-workshop
+* https://samueljackson92.github.io/
 
 ## Theories
 * https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
@@ -13,12 +16,14 @@
 * https://mlflow.org/ - mlops
 * https://www.kubeflow.org/
 
+
 ## Regression and Classification 
 * https://docs.seldon.io/projects/alibi/en/latest/
 
 ## Data analysis
 * https://github.com/motherjones/georgia_mail_voting
 * https://facebookresearch.github.io/hiplot/
+* https://www.mantidproject.org/
 * https://facebook.github.io/prophet/
     * https://github.com/artefactory/streamlit_prophet
 
@@ -33,6 +38,7 @@
 
 ## Langauge Modeling
 * https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/
+* https://github.com/dwyl/english-words - word list 
 * https://github.com/RasaHQ - chatbot platform
     * https://github.com/RasaHQ/rasalit
 

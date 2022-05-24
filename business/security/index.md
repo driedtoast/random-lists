@@ -5,6 +5,7 @@
 * https://dualitytech.com/
 * https://www.ketch.com/
 * https://habu.com/
+* https://basistheory.com/
 * https://www.imperva.com/
 
 ## Infrastructure
@@ -34,6 +35,10 @@
 * https://www.propelauth.com/
 * https://sgnl.ai/
 * https://www.propelauth.com/
+* https://stytch.com/
+* https://www.twilio.com/authy  - sms, etc...
+* https://saaspass.com/ - otp
+* https://everify.dev/ - sms, etc...
 
 ## Identity verification / Know your customer (kyc)
 * https://withpersona.com/
@@ -63,3 +68,13 @@
 * https://www.intruder.io/
 * https://www.silentpush.com/ - threat alerting
 * https://www.intruder.io/
+
+## Authorization
+* https://www.osohq.com/
+* https://warrant.dev/
+* https://www.permit.io/
+    * https://github.com/permitio/opal
+    * https://www.opal.ac/
+* https://www.styra.com/
+* https://authzed.com/ - zanibar impl
+* https://www.hanko.io/

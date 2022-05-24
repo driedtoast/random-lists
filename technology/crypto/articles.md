@@ -80,6 +80,8 @@
 * https://www.tooploox.com/blog/challenges-unique-to-dapps-development
 * https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application
 * https://dri.es/my-first-web3-webpage
+* https://twitter.com/VittoStack/status/1524273223508049921/photo/1
+* https://www.learnweb3.io/ - courses
 
 ## Nft how to
 * https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum

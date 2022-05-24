@@ -18,6 +18,7 @@
 * https://www.burkedecor.com/
 * https://www.tomraffield.com/ - and lighting
 * https://www.sutherlandfurniture.com/
+* https://liveouter.com/ - outdoor
 
 ## Furniture supplies
 * https://fagasstraps.com/

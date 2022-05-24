@@ -9,6 +9,10 @@
 * https://getir.com/us/
 * https://www.flytrex.com/
 * https://www.hungryroot.com/
+* https://www.farmsteadapp.com/
+
+## Random Apps
+* https://www.zerolongevity.com/
 
 ## Order / Supplies management
 * https://choco.com/
@@ -24,6 +28,7 @@
 
 ## Coffee
 * https://cometeer.com/
+* https://www.bottomless.com/
 * https://www.saintfrankcoffee.com/
 
 ## Cooking Gear

@@ -11,6 +11,9 @@
 * https://developers.google.com/api-client-library/java/google-api-java-client/oauth2
 * https://cloud.google.com/identity-platform/docs/use-rest-api
 
+## PKCE
+* https://dropbox.tech/developers/pkce--what-and-why-
+
 ## Proxy
 * https://oauth2-proxy.github.io/oauth2-proxy/
 

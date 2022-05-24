@@ -16,6 +16,8 @@
 * http://ryanwoodwardart.com/
 * https://www.freelanced.com/ - list, freelance and marketplace
 * https://www.loganhendry.com/illustrations.html - atl
+* https://dribbble.com/DKNG - retro poster style
+* http://www.kyletwebster.com/
 
 ## Comic Artists
 * https://www.upstartcomics.com/salome - Marisa Brignole
@@ -26,3 +28,9 @@
 * https://comicsandlithium.com/about-me
 * https://www.caldwellcartoons.com/
 * https://onceourland.com/ - nice comic promotion idea
+* https://matlopes.com/ - colorist, great colors 
+    * https://www.instagram.com/matlopes/
+* http://www.sarahstern.com/ - colorist
+* https://www.nolongermint.com/comic-pages - colorist
+* https://twitter.com/ChrisSamnee/status/1518683047469670406
+* https://nguyeningit.com/

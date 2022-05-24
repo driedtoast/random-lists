@@ -10,6 +10,9 @@
 * https://css-tricks.com/css-based-fingerprinting/ - fingerprinting
 * https://css-tricks.com/dont-fight-the-cascade-control-it/
 * https://blog.logrocket.com/purgecss-remove-unused-css-code/
+* https://css-tricks.com/open-props-and-custom-properties-as-a-system/
+* https://www.falldowngoboone.com/blog/share-variables-between-javascript-and-css/ - sharing stuff 
+* https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/
 
 ## Sizing
 * https://zellwk.com/blog/rem-vs-em/ - rem vs em

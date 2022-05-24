@@ -10,6 +10,11 @@
 * https://docusaurus.io/
 * https://hoppscotch.io/ - and building
 * https://datahub.io/core/country-list 
+* https://commonmark.org/
+* https://mrin9.github.io/RapiDoc/
+* https://tabatkins.github.io/bikeshed/ - spec generator
+* https://github.com/w3c/specberus - spec validator
+* https://markdoc.io/ - markdown docs
 
 ## Collaboration
 * https://code.visualstudio.com/learn/collaboration/live-share
@@ -20,6 +25,7 @@
 * https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 * https://0a.io/chapter1/calculus-explained.html
 * https://the-algorithms.com/ - in each language
+* https://en.wikipedia.org/wiki/Okapi_BM25 - ranking algorithm
 
 ## Protocols / Design Patterns
 * https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/ 
@@ -27,6 +33,7 @@
 * https://microservices.io/patterns/data/cqrs.html
 * https://github.com/cloudevents/spec/blob/v1.0.1/json-format.md - cloud events
 * https://w3c.github.io/trace-context/#design-overview
+* https://apiguide.readthedocs.io/en/latest/index.html
 
 ## Specs
 * https://unicode-org.github.io/icu/userguide/format_parse/messages/ - i18n format / icu
@@ -37,7 +44,9 @@
 * https://www.w3.org/TR/json-ld11/ - data linking in json
 * https://www.w3.org/TR/turtle/
 * http://specification.sifassociation.org/Implementation/Infrastructure/3.3/infrastructures/
-
+* https://www.openapis.org/
+* https://commonmark.org/
+* https://docs.1010data.com/1010dataReferenceManual/DataTypesAndFormats/currencyUnitCodes.html - data specs for iso data
 
 ### Finance
 * https://financialdataexchange.org//ofx
@@ -73,6 +82,8 @@
 * https://www.samanthaming.com/ - front end tips
 * https://www.thiscodeworks.com/ - code ref with nice design
 * https://devhints.io/ - code reference
+* https://www.inkandswitch.com/ - interesting ideas and process of them
+* https://redmonk.com/jgovernor/ - industry trends
 
 ## Odd languages
 * https://esolangs.org/wiki/Main_Page
@@ -84,6 +95,8 @@
 
 ## How to ask
 * https://stackoverflow.com/help/minimal-reproducible-example
+* https://danger.systems/js/ - automate reviews
+* https://github.com/bamlab/dev-standards
 
 ## Open source management
 * https://issuehunt.io/
@@ -91,6 +104,7 @@
 * https://openbase.com/
 * https://libraries.io/ - package search
 * https://www.libhunt.com/
+* https://graphite.dev/ - pr review
 
 ## Bots
 

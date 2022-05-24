@@ -4,6 +4,8 @@
 * https://thenewstack.io/appwrite-a-cloud-native-backend-as-a-service/
 * https://www.indiehackers.com/post/i-bootstrapped-a-landing-page-saas-to-10-000-mrr-ama-01d388527b
 * https://medium.com/@fusionhq.co/y-combinator-rejection-to-new-saas-launch-f04060ab683d
+* https://turner.substack.com/p/the-rise-of-tiktok-and-understanding?s=r
+* https://justinjackson.ca/bootstrap-reality
 
 ## Startup Info
 * https://blog.pragmaticengineer.com/equity-for-software-engineers/
@@ -18,6 +20,7 @@
 * https://blossomstreetventures.medium.com/net-dollar-retention-at-91-saas-ipos-1a82f28ead1
 * https://www.aakashg.com/2021/12/11/bill-dot-com/
 * https://thenewstack.io/entrepreneurship-for-engineers-how-to-build-a-community/
+* https://markmcgranaghan.com/alt-vc-math
 
 ## Bootstrap tips
 * https://www.indiehackers.com/post/how-do-you-market-a-non-sexy-saas-fd497b10c9

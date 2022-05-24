@@ -16,3 +16,4 @@
 * https://learning.postman.com/docs/writing-scripts/script-references/variables-list/
 * https://learning.postman.com/docs/sending-requests/variables/#using-dynamic-variables
 * https://learning.postman.com/docs/running-collections/working-with-data-files/
+* https://dev.to/enbis/setting-up-github-actions-workflows-to-automate-the-api-tests-56m8

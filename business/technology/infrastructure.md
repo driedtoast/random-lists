@@ -12,6 +12,12 @@
 * https://crossplane.io/
 * https://www.snapt.net/platforms/aria-adc
 * https://dapr.io/
+* https://stoplight.io/
+* https://www.krakend.io/
+
+## Infrastructure in a box
+* https://getzero.dev/
+* https://lambdalabs.com/
 
 ## Diagramming
 * https://www.hava.io/
@@ -25,6 +31,7 @@
 * https://mindsdb.com/
 * https://hyperscience.com/
 * https://www.influxdata.com/time-series-platform/telegraf/
+* https://www.nasuni.com/ - file system
 
 ## Embedded Systems
 * https://www.luos.io/
@@ -105,6 +112,7 @@
 * https://www.sunlight.io/
 * https://www.stellarhosting.com/
 * https://www.deta.sh/ - paas / free
+* https://render.com/ - heroku like
 
 ## Kubernetes
 * https://jaas.ai/

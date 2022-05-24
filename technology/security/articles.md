@@ -3,6 +3,10 @@
 ## SCIM
 * https://developers.onelogin.com/scim/create-app#connectscim
 
+## Identity
+* https://www.inkandswitch.com/backchannel/#
+* http://www.erights.org/elib/capability/pnml.html
+* https://wiki.p2pfoundation.net/Zooko%27s_Triangle
 
 ## OAuth Flows
 * https://goteleport.com/blog/how-oidc-authentication-works/
@@ -25,9 +29,33 @@
 
 ## Zero Trust
 * https://www.paloaltonetworks.com/cyberpedia/what-is-a-zero-trust-architecture
+* https://magic-wormhole.readthedocs.io/en/latest/attacks.html
 
 ## Cryptography
 * https://www.javamex.com/tutorials/cryptography/ciphers.shtml
 * https://www.nayuki.io/page/native-hash-functions-for-java
 * https://asecuritysite.com/encryption/whirl
 * https://cryptobook.nakov.com/mac-and-key-derivation/hmac-and-key-derivation
+* https://resources.infosecinstitute.com/topic/random-number-generation-java/ 
+
+## OTP
+* https://www.baeldung.com/spring-security-two-factor-authentication-with-soft-token
+* https://stytch.com/docs/api/authenticate-otp
+* https://privacyidea.readthedocs.io/en/latest/modules/api/validate.html#post--validate-check
+* https://github.com/google/google-authenticator-android/blob/master/java/com/google/android/apps/authenticator/barcode/BarcodeCaptureActivity.java 
+
+## Google auth implementation
+* https://github.com/google/google-authenticator-android/blob/6f65e99fcbc9bbefdc3317c008345db595052a2b/java/com/google/android/apps/authenticator/AuthenticatorActivity.java#L952
+* https://github.com/google/google-authenticator-android/blob/6f65e99fcbc9bbefdc3317c008345db595052a2b/java/com/google/android/apps/authenticator/otp/CheckCodeActivity.java#L105
+`"otpauth://hotp/issuer?secret=ABCDEFGHIJKLMNOP&algorithm=SHA1&digits=6&counter=8237&issuer=blah"`
+ ```
+final byte[] keyBytes = Base32String.decode(secret);
+Mac mac = Mac.getInstance("HMACSHA1");
+mac.init(new SecretKeySpec(keyBytes, ""));
+PasscodeGenerator pcg = new PasscodeGenerator(mac);
+return pcg.generateResponseCode(0L);
+```
+
+## Authorization
+* https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574
+* https://www.osohq.com/post/zanzibar

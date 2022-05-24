@@ -7,6 +7,9 @@
 ## Design system / Branding
 * https://specifyapp.com/
 * https://design-tokens.github.io/community-group/format/
+* https://www.supernova.io/ 
+* https://backlight.dev/
+
 
 ## Mockups and Flows
 * https://www.figma.com/wireframe-tool/
@@ -26,6 +29,10 @@
 * https://www.sketch.com/
 * https://www.fluidui.com/
 * https://www.framer.com/
+* https://origami.design/ - free from facebook more mobile focus
+* https://principleformac.com/
+* https://penpot.app/ - fun site
+* https://zeplin.io/
 
 ### With code
 * https://www.knapsack.cloud/ - design systems
@@ -35,6 +42,8 @@
 * https://dorik.com/
 * https://backendless.com/
 * https://bubble.io/
+* https://flutterflow.io/ - mobile designer
+* https://pinegrow.com/
 
 
 ## Diagramming
@@ -47,9 +56,17 @@
 * https://www.gliffy.com/
 * https://www.mindmeister.com/
 * https://cacoo.com/
+* https://wireflow.co/
+
+## Architecture
+* https://www.infurnia.com/
 
 ## Illustration
 * https://venngage.com/
+* https://justsketch.me/ - digital poses
+
+## Animation
+* https://rive.app/
 
 ## Hosting / Portfolios
 * https://www.format.com/
@@ -72,3 +89,7 @@
 
 ## Fonts
 * https://www.atipofoundry.com/fonts/strawford
+
+## User tours
+* https://stonly.com/
+* https://userflow.com/

@@ -21,9 +21,12 @@
 * https://www.minimum.run/
     * https://www.indiehackers.com/post/how-we-scaled-a-no-code-agency-from-50k-to-500k-in-revenue-in-1-year-fa4ad56d56
 * https://www.wavemaker.com/ - low code
+* https://bubble.io/ - pretty full stack
 
 ## Components 
 * https://www.tiny.cloud/ - rich text editor
+* https://automatio.co/ - extract from any website
+* https://liveblocks.io/ - multi-player type blocks, collaboration platform api
 
 ## Learning 
 * https://www.educative.io/
@@ -33,6 +36,7 @@
 
 ## Workflow / Automation
 * https://go.decisions.com/
+* https://www.fivetran.com/
 * https://www.nylas.com/
 * https://tonkean.com/
 * https://kaholo.io/ - deploy automation
@@ -76,6 +80,8 @@
 * https://firebase.google.com/ 
 * https://planetscale.com/ - mysql servless
 * https://pganalyze.com/ - postgres analysis
+* https://directus.io/
+* https://www.crunchydata.com/ - postgress management
 
 ## Data processing
 * https://openrefine.org/
@@ -83,3 +89,6 @@
 
 ## Machine Learning
 * https://www.spotml.io/
+
+## Agencies
+* https://pineview.io/

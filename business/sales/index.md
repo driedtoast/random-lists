@@ -8,6 +8,9 @@
 * https://www.highways.io/
 * https://www.ctd.ai/ - network sort of 
 
+## Communication 
+* https://www.daily.co/ - developer api
+
 ## Lead gen / Deal management
 * https://www.drift.com/ - through bots
 * https://www.outreach.io/
@@ -40,9 +43,11 @@
 * https://www.proposify.com/ - proposal flow
 * https://www.honeybook.com/ - invoice flow
 * https://www.getvymo.com/us/ - financial vertical sales
+* https://www.saleswhale.com/
 
 ### Ad Management
 * https://gumgum.com/
+* https://www.bannerbear.com/ - create ads programmatically
 
 ## Data
 * https://www.validity.com/
@@ -98,6 +103,9 @@
 * https://www.bluecore.com/ - targeted marketing and commerce
 * https://www.forest-inc.jp/
 * https://pattern.com/
+* https://www.salsify.com/ - management
+* https://thearriveplatform.com/ - with rental spin
+* https://www.tulip.com/
 * https://saleor.io/ 
     * https://github.com/saleor/saleor 
 
@@ -105,28 +113,36 @@
 * https://www.sendle.com/
 * https://www.ketchcommerce.com/ 
 * https://getfabric.com/ - automation
+* https://www.tryoto.com/
 
 ## Contract Management
 * https://www.buyer.co/ - price negotiation 
 * https://ironcladapp.com/
 * https://www.revops.io/
 * https://www.clio.com/ - with legal features
-* https://ironcladapp.com/
 * https://www.captego.com/
 * https://www.monetizenow.io/
 * https://www.salesbricks.com/
 * https://termly.io/ - terms generator
 * https://www.m3ter.com/ - usage pricing
+* https://juro.com/
+* https://www.plexus.co/
+
+## Revops
+* https://revpartners.io/
+* https://www.denamico.com/
 
 ## Integration Tooling
 * https://www.odoo.com/
 * https://www.smartkarrot.com/
 * https://www.rudderstack.com/
+* https://breadwinner.com/
 
 ## Product Discovery Hubs
 * https://www.saashub.com/
 
 ## Marketing
+* https://www.klasserfunnels.com/ - cold email service
 * https://confect.io/
 * https://fameswap.com/ - buy instagram accounts with followers
 * https://ahrefs.com/ - seo growth
@@ -142,6 +158,11 @@
 * https://www.attentivemobile.com/ - conversational
 * https://www.demandjump.com/
 * https://www.community.com/businesses
+* https://mountain.com/ - targeted ads
+* https://www.lob.com/ - direct mail
+* https://instreamly.com/ - via streamers
+* https://coschedule.com/
+* https://webspotter.io/plaid-email-format-wb1u1y - email scanning
 
 ### Content
 * https://writersperhour.com/
@@ -154,6 +175,7 @@
 * https://biteable.com/
 * https://www.navattic.com/
 * https://www.getreprise.com/reprise-for-sales/
+* https://www.demostack.com/
 
 
 ## Commissions / Awards / Sales Plans

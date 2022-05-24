@@ -3,6 +3,7 @@
 ## Theories
 * https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money
 * https://www.finops.org/introduction/what-is-finops/
+* https://elliottwave-forecast.com/elliott-wave-theory/
 
 ## Investing
 * https://thegeneralist.substack.com/p/cream-part-i-c80
@@ -19,6 +20,10 @@
 * https://nbt.substack.com/p/all-wedges-are-not-created-equal
 * https://thegeneralist.substack.com/p/affirm-the-morality-of-money
 * https://techcrunch.com/2021/10/10/baas-served-three-ways-a-closer-look-at-a-rapidly-evolving-market/
+* http://fbobankaccount.com/2019/01/08/fbo-bank-account-what-is-it/
+* https://www.agilepayments.com/ach-payment-integration
+* https://www.venable.com/insights/publications/2018/06/money-transmission-in-the-payment-facilitator-mode
+* https://www.infinicept.com/what-is-a-payment-facilitator/ - payment facilitator model 
 
 ## Verification
 * https://www.thalesgroup.com/en/markets/digital-identity-and-security/banking-payment/issuance/id-verification/know-your-customer

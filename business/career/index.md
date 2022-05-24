@@ -11,6 +11,7 @@
 * https://www.joincontinuum.com/how-it-works
 * https://www.strive.co/ - training
 * https://practice.do/ - coach management app
+* https://www.joinskillful.com/ - mentorships
 
 ## Benefits
 * https://www.ease.com/
@@ -43,6 +44,7 @@
 * https://www.mathison.io/
 * https://www.merge.dev/ - payroll integration and such
 * https://tryfinch.com/ - aggregator / payroll
+* https://www.pinwheelapi.com/ - direct deposit via api
 
 ## HR News
 * https://www.hrgrapevine.com/

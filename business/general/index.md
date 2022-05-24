@@ -10,7 +10,8 @@
 * https://mymind.com/
 * https://setapp.com/
 * https://logsnag.com/ - stream of events 
-
+* https://almanac.io/
+* https://onsched.com/ - scheduling
 
 ## Annotating
 * https://markuphero.com/
@@ -64,6 +65,14 @@
 * https://poap.xyz/ - bookmark management
 * https://basehq.com/
 
+### Agile
+* https://metroretro.io/
+* https://www.goretro.ai/
+* https://www.retrium.com/
+* https://reetro.io/
+* https://easyretro.io/
+* https://www.range.co/
+
 ## Feature priortizing
 * https://storiesonboard.com/
 * https://www.savio.io/
@@ -72,6 +81,8 @@
 ## Insurance
 * https://clearcover.com/
 * https://www.policygenius.com/
+* https://www.heraldapi.com/ - quote api 
+* https://rootplatform.com/
 
 ### Platforms
 * https://www.sureapp.com/

@@ -19,6 +19,7 @@
 
 ## API integrations
 * https://www.tweepy.org/
+* https://fastapi.tiangolo.com/
 
 ## Build
 * https://gyp.gsrc.io/index.md
@@ -27,3 +28,7 @@
 * https://github.com/facebookresearch/moolib
 * https://github.com/domoritz/streamlit-vega-lite
 * https://github.com/tvst/st-annotated-text
+
+## Image processing
+* https://opencv.org/
+    * https://docs.opencv.org/4.x/index.html

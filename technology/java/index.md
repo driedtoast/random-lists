@@ -20,6 +20,8 @@
 * https://github.com/xmolecules/jmolecules
 * https://github.com/moduliths/moduliths
 * https://curator.apache.org/index.html - zookeeper framework
+* https://elide.io/ - graphql and such
+* https://helidon.io/
 
 ### CLI
 * https://picocli.info/
@@ -38,6 +40,7 @@
 * https://micrometer.io/
 * https://github.com/p6spy/p6spy
 * https://github.com/apereo/inspektr
+* https://github.com/openzipkin/brave
 
 ## Builds
 * https://saker.build/index.html
@@ -51,6 +54,12 @@
 
 ## Json
 * https://github.com/FasterXML/jackson-datatype-hibernate
+* http://jsonpath.com/
+* http://www.crnk.io/features/ - json api approach
+    * http://jsonpatch.com/
+    * https://github.com/abdulhaq-e/ngrx-json-api
+* https://github.com/stoplightio/spectral - linter
+* https://raml.org/
 
 ## Feature flags
 * https://github.com/Unleash/unleash
@@ -90,6 +99,7 @@
 * https://github.com/salesforce/formula-engine
 * https://tika.apache.org/ - content parsing and validation
 * https://github.com/resilience4j/resilience4j - fault tolerance
+* https://github.com/alfasoftware/astra - refactoring
 
 ## Templates 
 * https://dandelion.github.io/
@@ -103,6 +113,7 @@
 * https://github.com/sendgrid/sendgrid-java/blob/main/use-cases/personalizations.md - sendgrid
 * https://github.com/sendgrid/sendgrid-java/blob/main/use-cases/twilio-email.md
 * https://github.com/sendgrid/sendgrid-java/blob/main/USAGE.md#senders - private label domains
+* https://pushy-apns.org/ - push notifications
 
 ## Quarkus
 * https://github.com/smallrye/smallrye-fault-tolerance
@@ -112,6 +123,7 @@
 ## Testing 
 * https://github.com/madhead/aws-junit5
 * https://github.com/localstack/localstack-java-utils
+* https://www.archunit.org/
 
 ## PDF / HTML processing
 * https://github.com/flyingsaucerproject/flyingsaucer
@@ -124,3 +136,12 @@
 
 ## Security
 * https://github.com/esig/dss
+* https://github.com/BastiaanJansen/otp-java
+* https://github.com/google/google-authenticator-android/
+
+## Analytics
+* https://yavin.dev/
+* https://stargate.io/ - data access through db
+
+## OTP
+* https://github.com/wstrange/GoogleAuth

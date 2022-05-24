@@ -8,6 +8,8 @@
 * https://runlet.app/
 * https://harvesterhci.io/
 * https://fly.io/ - easy to run and deploy
+* https://render.com/
+* https://www.deta.sh/
 
 ## AWS
 * https://duo-labs.github.io/detail.html?parliament
@@ -78,6 +80,10 @@
 * https://karpenter.sh/
 * https://nats.io/
 * https://selkies.io/
+* https://lagoon.sh/
+    * https://github.com/uselagoon/lagoon
+* https://cert-manager.io/docs/
+* https://kyma-project.io/ - setup and such
 
 ## Storage
 * https://github.com/features/packages
@@ -110,6 +116,7 @@
 * https://localstack.cloud/
     * https://github.com/localstack/awscli-local
 * https://github.com/Createdd/Writing/blob/master/2022/articles/setupNewMac.md
+* https://www.telepresence.io/ - kubernetes development
 
 ## Docker / Containers
 * https://podman.io/getting-started/ 
@@ -118,6 +125,10 @@
 * https://github.com/containers/podman-compose
 * https://github.com/containers/youki
 * https://github.com/lima-vm/lima
+* https://github.com/docker/buildx
+    * https://github.com/docker/buildx/blob/master/docs/reference/buildx.md#builder
+* https://github.com/moby/buildkit
+* https://github.com/docker/build-push-action
 
 ## Serverless / Workflow
 * https://cadenceworkflow.io/
@@ -162,6 +173,8 @@
 * https://github.com/aws-actions/amazon-ecs-deploy-task-definition
 * https://tekton.dev/
 * https://www.jeffgeerling.com/blog/2020/running-github-actions-workflow-on-schedule-and-other-events
+* https://github.com/sdras/awesome-actions
+* https://rammusxu.github.io/toolkit/snippets/github-action/
 
 ### MKS
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/msk_cluster

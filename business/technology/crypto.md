@@ -2,6 +2,8 @@
 
 ## Currency
 * https://astrcoin.io/ - really related to space but oh well
+* https://moneyprinter.info/ - monitoring
+* https://www.citycoins.co/ - used as local currency
 
 
 ## Crypto platform provider
@@ -23,6 +25,17 @@
 * https://gnosis-safe.io/
 * https://moralis.io/ - free to start blockchain dev
 * https://www.metis.io/
+* https://brale.xyz/
+* https://www.avalabs.org/
+* https://www.avax.network/build
+* https://alliance.xyz/
+* https://parallel.fi/
+* https://www.tassat.com/ - banking infra
+* https://litprotocol.com/ - protocol
+* https://chain.com/
+* https://tron.network/
+* https://www.mysterium.network/ - but also a vpn? what?
+* https://skale.network/ - eth dapps
 
 ## Contract nodes
 * https://infura.io/
@@ -30,12 +43,15 @@
 * https://ipfs.io/
 * https://www.ethswarm.org/
 * https://js.ipfs.io/
+* https://agoric.com/ - proof of stake creation
 
 ## Wallets
 * https://lobstr.co/
 * https://tor.us/
 * https://celsius.network/
 * https://www.blockfi.com/
+* https://tinyseed.io/ - hardware token
+* https://trezor.io/
 
 ## Ethereum
 * https://etherscan.io/
@@ -43,6 +59,7 @@
 
 ## Alt coins
 * https://angel.ichi.org/
+* https://osmosis.zone/
 
 ## DAOs
 * https://nouns.wtf/
@@ -66,6 +83,9 @@
 * https://linksdao.io/
 * https://edgeandnode.com/ - vc ish
 * https://www.bitdao.io/
+* https://collective.proof.xyz/grails
+* https://collective.proof.xyz/ - membership nft dao
+* https://moonrockdao.com/
 
 ## Outsource development
 * https://edgeandnode.com/ 

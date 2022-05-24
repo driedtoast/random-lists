@@ -28,3 +28,27 @@
 * https://david-peter.de/ - tools and such
 * https://endurance22.org/
 * https://museumofmediahistory.com/ - history of the internet
+* https://www.science.io/ - data service
+
+## Carbon Offsets / Tech
+* https://watershed.com/
+* https://tradewater.us/
+* https://www.heirloomcarbon.com/
+* https://carbonengineering.com/
+* https://climeworks.com/
+* https://cdrprimer.org/
+* https://ghgprotocol.org/
+* https://charmindustrial.com/
+* https://www.carboncapture.com/
+* https://www.wren.co/
+* https://terrapass.com/
+* https://www.arborday.org/carbon/
+* https://www.runningtide.com/
+* https://forterra.org/
+* https://www.carbonfootprint.com/
+* https://onetreeplanted.org/
+* https://landgate.com/ - rent land for offset
+* https://forestcarbonworks.org/ - forest preservation
+* https://pachama.com/
+* https://elementmarkets.com/
+* https://www.hopper.com/trees
