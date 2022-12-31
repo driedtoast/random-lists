@@ -1,2 +1,3 @@
-
-* https://github.com/samueljackson92/coranking
+- https://github.com/samueljackson92/coranking
+- https://colab.research.google.com/drive/1EIS7mAu4qcLsoEzQqREuxxaAX9Vmwt7H?usp=sharing - stable diffusion
+- https://github.com/JournalismAI-2021-Quotes/quote-extraction - content extraction

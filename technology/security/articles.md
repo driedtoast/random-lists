@@ -37,6 +37,7 @@
 * https://asecuritysite.com/encryption/whirl
 * https://cryptobook.nakov.com/mac-and-key-derivation/hmac-and-key-derivation
 * https://resources.infosecinstitute.com/topic/random-number-generation-java/ 
+* https://www.valerionappi.it/brng-en/ - banana random number gen
 
 ## OTP
 * https://www.baeldung.com/spring-security-two-factor-authentication-with-soft-token

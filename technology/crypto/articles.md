@@ -6,6 +6,7 @@
 * https://tante.cc/2021/12/17/the-third-web/
 * https://web3isgoinggreat.com/
 * https://www.matthewball.vc/all/csametaverse
+* https://pastry.xyz/
 
 ## crypto 
 * https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd078

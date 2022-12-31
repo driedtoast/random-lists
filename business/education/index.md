@@ -1,23 +1,31 @@
-
-
 ## k12
-* https://freckle.com/en-us/
-* https://www.enlightapp.co/
-* https://mychalkboard.app/
+
+- https://freckle.com/en-us/
+- https://www.enlightapp.co/
+- https://mychalkboard.app/
+- https://edpuzzle.com/
 
 ## Sports
-* https://www.teambuildr.com/en/
+
+- https://www.teambuildr.com/en/
 
 ## Skill training
-* https://degreed.com/
-* https://passion.io/
-* https://www.townscript.com/
-* https://www.jove.com/ - science / biotech
-* https://testdriven.io/
+
+- https://degreed.com/
+- https://passion.io/
+- https://www.townscript.com/
+- https://www.jove.com/ - science / biotech
+- https://testdriven.io/
 
 ## Tutoring
-* https://papersowl.com/
-* https://membean.com/ - vocabulary
+
+- https://papersowl.com/
+- https://membean.com/ - vocabulary
 
 ## Event management
-* https://bettercast.io/
+
+- https://bettercast.io/
+
+## STEM for kids
+
+- https://upperstory.com/

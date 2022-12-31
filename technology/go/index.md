@@ -1,6 +1,7 @@
 
 ## Financial Libs
 * https://github.com/moov-io/ach
+* https://github.com/moov-io/bai2 - csv normalization 
 
 ## Cryptology 
 * https://github.com/coinbase/kryptology

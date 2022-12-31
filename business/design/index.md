@@ -1,27 +1,29 @@
-
-
 ## Design kits / Stores
-* https://uxstore.com/
-* https://creativemarket.com/
-* https://fontawesome.com/
-* https://designmodo.com/startup/
-* https://appseed.us/
-* https://www.creative-tim.com/
 
-
+- https://uxstore.com/
+- https://creativemarket.com/
+- https://fontawesome.com/
+- https://designmodo.com/startup/
+- https://appseed.us/
+- https://www.creative-tim.com/
 
 ## Work Management
-* https://kitchen.co/
-* https://talebook.io/ - discovery
-* https://usepunchlist.com/ - feedback
 
+- https://kitchen.co/
+- https://talebook.io/ - discovery
+- https://usepunchlist.com/ - feedback
+- https://sidehusl.com/ - side gigs for creatives
+- https://cushionapp.com/ - with forecasting and such
 
-## Domain Name 
-* https://www.namy.ai/
+## Domain Name
+
+- https://www.namy.ai/
 
 ## Data visualization
-* https://webkid.io/
+
+- https://webkid.io/
 
 ## Inspiration
-* http://freebbble.com/
-* https://www.designspiration.com/
+
+- http://freebbble.com/
+- https://www.designspiration.com/

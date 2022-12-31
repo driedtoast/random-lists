@@ -1,24 +1,29 @@
-
-
 ## Issue Tracking
-* https://www.plain.co/ - platform / api
+
+- https://www.plain.co/ - platform / api
 
 ## Customer Engagement
-* https://www.chatwoot.com/
-    * https://github.com/chatwoot/chatwoot
-* https://getstream.io/
-* https://www.servicetitan.com/
-* https://www.gladly.com/
-* https://www.supportninja.com/
-* https://messagebird.com/en/ - sms, whatsapp, etc...
 
-## Live chat 
-* https://www.tawk.to/ - free to start
-* https://respond.io/
-* https://www.olark.com/
+- https://www.chatwoot.com/
+  - https://github.com/chatwoot/chatwoot
+- https://getstream.io/
+- https://www.servicetitan.com/
+- https://www.gladly.com/
+- https://www.supportninja.com/
+- https://messagebird.com/en/ - sms, whatsapp, etc...
+- https://www.braze.com/
+
+## Live chat
+
+- https://www.tawk.to/ - free to start
+- https://respond.io/
+- https://www.olark.com/
 
 ## Chatbots
-* https://botfront.io/
+
+- https://botfront.io/
 
 ## Onboarding
-* https://www.rocketlane.com/
+
+- https://www.rocketlane.com/
+- https://productfruits.com/

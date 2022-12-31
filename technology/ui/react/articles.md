@@ -33,6 +33,9 @@
 ## Routing
 * https://reach.tech/router/api/useLocation
 * https://react-redux.js.org/api/connect#connect-returns
+* https://kentcdodds.com/blog/authentication-in-react-applications
+* https://dev.to/finiam/predictable-react-authentication-with-the-context-api-g10
+* https://reactrouter.com/docs/en/v6/components/outlet
 
 ## Events
 * https://fettblog.eu/typescript-react/events/

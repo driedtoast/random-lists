@@ -7,3 +7,6 @@
 
 ## Health
 * https://scitechdaily.com/not-science-fiction-german-scientists-harness-the-power-of-photosynthesis-for-new-way-to-breathe/amp/
+
+## Paper planes
+* https://www.foldnfly.com/
