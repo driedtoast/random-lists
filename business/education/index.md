@@ -16,6 +16,7 @@
 - https://www.townscript.com/
 - https://www.jove.com/ - science / biotech
 - https://testdriven.io/
+- https://pipdecks.com/ - card decks with tips on different ideas
 
 ## Tutoring
 

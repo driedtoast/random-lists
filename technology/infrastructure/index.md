@@ -7,9 +7,13 @@
 - https://runlet.app/
 - https://harvesterhci.io/
 - https://fly.io/ - easy to run and deploy, postgres
+  - uses https://firecracker-microvm.github.io/ for vms
 - https://render.com/
 - https://www.deta.sh/
 - https://railway.app/
+- https://middlemanapp.com/ - static website
+- https://www.qovery.com/
+- https://piku.github.io/
 
 ## AWS
 
@@ -23,6 +27,7 @@
 - https://github.com/askwonder/wonqa
 - https://policysim.aws.amazon.com/
 - https://getcommandeer.com/
+- https://instances.vantage.sh/ - instances
 
 ## Diagramming
 
@@ -42,6 +47,9 @@
 - https://duo-labs.github.io/
 - https://github.com/features/codespaces - web based ide
 - https://www.airplane.dev/ - infra tools for internal teams
+- https://moss.sh/ - deployment tools
+- https://cipi.sh/  
+- https://litestream.io/ - single server running
 
 ## Networking
 
@@ -62,6 +70,9 @@
 - https://ksqldb.io/ - layer over kafka as well
 - https://impala.apache.org/
 - https://arrow.apache.org/
+- https://www.protondb.com/ - gaming specific from steam
+- https://www.trychroma.com/ - ai database
+- https://neon.tech/ - postgres servlerless
 
 ### Migrations
 
@@ -86,6 +97,7 @@
 - https://cadenceworkflow.io/
 - https://beam.apache.org/get-started/beam-overview/
   - integrates with https://cloud.google.com/dataflow
+- https://vernemq.com/ 
 
 ## Kubernetes
 
@@ -99,7 +111,7 @@
 - https://cri-o.io/ - lightweight container runtime
 - https://k8syaml.com/ - yaml generator
 - https://rancher.com/products/longhorn/
-- https://karpenter.sh/
+- https://karpenter.sh/ - just in time nodes
 - https://nats.io/
 - https://selkies.io/
 - https://lagoon.sh/
@@ -118,7 +130,7 @@
 
 - https://www.nginx.com/
 
-## Monitoring
+## Monitoring / analytics
 
 - https://github.com/getsentry/relay
 - https://github.com/plausible/analytics
@@ -129,6 +141,7 @@
 - https://riemann.io/
 - https://fluentbit.io/ - log streams
 - https://github.com/ivbeg/awesome-status-pages - status pages
+- https://www.metabase.com/ - db docker based analytics service
 
 ### Open telemetry
 
@@ -145,6 +158,12 @@
   - https://github.com/localstack/awscli-local
 - https://github.com/Createdd/Writing/blob/master/2022/articles/setupNewMac.md
 - https://www.telepresence.io/ - kubernetes development
+- https://expose.sh/ - public url
+- https://ngrok.com/
+- https://localtunnel.github.io/www/
+- https://telebit.cloud/
+- https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
+- https://www.vortexhub.io/public-urls
 
 ## Docker / Containers
 

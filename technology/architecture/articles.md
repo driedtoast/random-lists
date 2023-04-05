@@ -3,6 +3,19 @@
 - https://www.codit.eu/blog/the-routing-slip-pattern/#:~:text=A%20routing%20slip%20is%20a,and%20invoke%20the%20next%20service.
 - https://redis.io/docs/reference/patterns/distributed-locks/
 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer
+- https://gist.github.com/jdarcy/60107fe4e653819138396257df302eef
+- https://atproto.com/guides/overview
+- https://c4model.com/
+
+
+## Documentation
+- https://www.thoughtworks.com/radar/byor - technology radar
+- http://opensource.zalando.com/restful-api-guidelines/ - api guideline approach
+- https://cwiki.apache.org/confluence/display/GEODE/Lightweight+RFC+Process
+- https://www.rfc-editor.org/rfc/rfc7990.html
+- https://philcalcado.com/2018/11/19/a_structured_rfc_process.html
+- https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals
+- https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 
 ## Stack compositions
 
@@ -30,3 +43,6 @@
 
 - https://www.sametable.app/blog/how-to-build-your-first-saas/#the-stack
 - http://highscalability.com/blog/category/example
+- https://levelup.gitconnected.com/what-is-cloudflares-supercloud-1dac17cbfa5b
+- https://aruva.medium.com/using-chatgpt-to-build-system-diagrams-part-i-69efc7603926 - chatgpt and system diagrams
+- https://www.codehiddenlanguage.com/ - hardware

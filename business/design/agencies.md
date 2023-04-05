@@ -43,6 +43,10 @@
 - https://redpixel.io/
 - https://tailtemplate.com/service-to-tailwind
 - https://meesh.design/
+- https://divriots.com/ - front end agency, fun site
+- https://shipshape.io/
+- https://www.thisdot.co/
+- https://www.pixelhop.io/ - cool studio like site
 
 ## Designers
 
@@ -82,10 +86,18 @@
 - https://rsms.me/
 - https://dribbble.com/SLRNCL/shots
 - https://www.ryanseslow.com/
-
+- https://www.mikekus.com/
+- https://gwenfred.webflow.io/
+- http://mattchoto.blogspot.com/
 - https://www.creativecircle.com/ - find designers
+- https://www.moritzpetersen.com/ - web flow and developer, decent portfolio
+- https://darrenwall.co/ - book design
+- https://shantiguy.com/ - also comics
+- https://destroytoday.com/ - product designers
+- https://www.imkylelambert.com/ - does a side comic strip too
 
 ## Book and publishing
 
+- https://www.sashamakes.com/ - book designer
 - https://thebrightagency.com/us
 - https://www.organizedhavoc.com/ - comic syndicate

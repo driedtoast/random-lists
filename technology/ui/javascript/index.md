@@ -34,7 +34,8 @@
 - https://www.meteor.com/
 - http://perkframework.com/
 - https://www.prisma.io/ - with orm
-- https://www.fastify.io/
+- https://www.fastify.io/ - web and servless
+  - https://www.fastify.io/docs/latest/Guides/Serverless/
 - https://feathersjs.com/
 - https://kenwheeler.github.io/slick/ - carousel
 - https://minze.dev/ - universal component approach
@@ -48,8 +49,10 @@
 - https://stimulus.hotwired.dev/
 - https://tropical.js.org/ - hydration
 - https://www.componentdriven.org/
+- https://astro.build/ - for island architecture
 - https://lwc.dev/
   - https://github.com/Templarian/lwc-ui
+
 
 ## Plugin utils
 
@@ -136,6 +139,8 @@
 - https://github.com/antoniodeluca/dn2a - neural net
 - https://github.com/karpathy/convnetjs - neural net
 - https://yogalayout.com/ - layout
+- https://conform.guide/ - validation
+
 
 ## Music
 
@@ -169,6 +174,8 @@
 
 - https://cheerio.js.org/
   - https://github.com/cheeriojs/cheerio
+- https://github.com/alixaxel/chrome-aws-lambda - pdf generation lambda
+  - https://github.com/jobinbasani/aws-lambda-website-to-pdf
 
 ## Graphics
 
@@ -200,6 +207,8 @@
 - https://github.com/rive-app/rive-wasm - animation
 - https://github.com/veltman/flubber - smooth animations
 - https://popmotion.io/
+- https://github.com/hakimel/Ladda
+- https://github.com/hakimel/Fokus
 
 ## Phaser
 
@@ -229,6 +238,11 @@
 - https://github.com/watson/console-log-level
 - https://www.stacktracejs.com/
 - https://github.com/open-telemetry/opentelemetry-js
+- https://github.com/unjs/consola - with color
+- https://github.com/xxczaki/xa
+- https://github.com/j0hnm4r5/hagen
+- https://github.com/hansifer/ConsoleFlair
+- https://github.com/kutuluk/loglevel-plugin-prefix
 
 ## Servers
 
@@ -237,6 +251,11 @@
   - https://github.com/fastify/aws-lambda-fastify
 - https://cheerio.js.org/
 - https://pm2.keymetrics.io/
+- https://github.com/dherault/serverless-offline
+- https://www.npmjs.com/package/node-lambda - lambda testing
+  - https://github.com/fogfish/node-lambda-typescript-template
+- https://github.com/lambci/docker-lambda
+- https://github.com/ashiina/lambda-local
 
 ## Storage / state
 
@@ -279,9 +298,11 @@
 - https://istanbul.js.org/
 - https://pptr.dev/ - puppeteer
 - https://codecept.io/
+- https://docs.browserless.io/
 - https://slack.dev/steno/ - slack app testing
 - https://github.com/postmanlabs/newman
   - https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
+- https://istanbul.js.org/ - coverage
 
 ## Crypto
 

@@ -34,6 +34,7 @@
 - https://github.com/roughike/page-transformer
 - https://github.com/JHBitencourt/beautiful_timelines
 - https://github.com/rive-app/rive-flutter
+- https://cjycode.com/flutter_rust_bridge/
 
 ### Starters
 

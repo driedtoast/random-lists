@@ -21,3 +21,7 @@
 
 - https://github.com/mbarzeev/pedalboard
 - https://github.com/mkocik/yarn-monorepo-example
+
+## Plaid
+
+- https://github.com/plaid/pattern

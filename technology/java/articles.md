@@ -1,6 +1,7 @@
 ## Event / Reactive
 
 - https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
+- http://odrotbohm.de/2020/03/Implementing-DDD-Building-Blocks-in-Java/ - arch
 
 ## State Machines
 
@@ -75,6 +76,7 @@
 - https://www.jpa-buddy.com/blog/soft-deletion-in-hibernate-things-you-may-miss/
 - https://www.querifylabs.com/blog/relational-operators-in-apache-calcite
 - https://dev.to/yugabyte/yugabytedb-jdbc-smart-driver-for-proxyless-halb-2k8a
+- https://www.querifylabs.com/blog/memoization-in-cost-based-optimizers
 
 ## Feature flags
 
@@ -103,3 +105,9 @@
 - https://dev.to/jhonifaber/building-testing-and-publishing-your-java-project-with-github-actions-3j17
 - https://cloud.spring.io/spring-cloud-contract/1.2.x/multi/multi__spring_cloud_contract_stub_runner.html
 - https://medium.com/@dzivet/email-integration-in-spring-boot-with-a-fake-smtp-service-ethereal-677937bad4bf - email testing
+
+## PDFs
+- https://apitemplate.io/blog/a-guide-to-generating-pdfs-in-java/
+- https://javadoc.io/static/com.openhtmltopdf/openhtmltopdf-pdfbox/1.0.0/com/openhtmltopdf/pdfboxout/PdfRendererBuilder.html
+- https://medium.com/javarevisited/html-to-pdf-in-java-using-flying-saucer-f73b70d9014d
+- https://stackoverflow.com/questions/47729046/generate-pdf-with-selenium-chrome-driver

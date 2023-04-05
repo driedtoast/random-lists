@@ -32,6 +32,7 @@
 - https://www.checkalt.com/
 - https://tink.com/
 - https://www.tryairpay.com/
+- https://www.volt.io/ - stripe / plaid based in euro
 
 ### Contractors
 
@@ -111,6 +112,7 @@
 - https://www.billie.io/
 - https://www.splitit.com/
 - https://www.milocredit.com/ - crypto
+- https://scratchpay.com/  - for health needs
 
 ## Infrastructure
 

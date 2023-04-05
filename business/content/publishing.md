@@ -5,6 +5,9 @@
 - https://neatlypressed.com/ - wordpress hosting
 - https://www.storyblok.com/
 - https://powder.gg/ - for gamers
+- https://golifelog.com/ - daily writing
+- https://apostrophecms.com/
+- https://www.storyblok.com/
 
 ## Copywrighting
 
@@ -51,6 +54,14 @@
 - https://www.comichron.com/
 - https://crimsonfablestudios.com/ - independant publisher
 - https://www.spacemanproject.com/en - crowd funding for comics specifically
+- https://www.blurb.com/trade-books
+- http://paulcarrollwriter.com/comics/
+- https://raidpress.com/
+- https://astronawt.com/ - space theme
+- https://www.atsanthology.com/ - has submissions as well
+- https://madcavestudios.com/theres-no-planet-b-dont-spit-in-the-wind-by-stefano-cardoselli/
+- https://shapecomics.co/ - cool vintage style
+- http://limitbreakcomics.com/creators/
 
 ### PR
 

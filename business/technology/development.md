@@ -5,6 +5,7 @@
 
 ## GUI App Builders / Low code
 
+- https://carrd.co/build - website single page
 - https://www.anymo.app/
 - https://www.plantanapp.com/
 - https://quarkly.io/
@@ -26,6 +27,14 @@
 - https://bubble.io/ - pretty full stack
 - https://backendless.com/
 - https://appmaster.io/
+- https://www.sweep.io/ - for salesforce
+- https://gearset.com/ - dev ops for salesforce
+- https://www.autorabit.com/ - ci for salesforce
+- https://lwc.studio/ - build components for salesforce
+- https://www.airkit.com/
+- https://www.glideapps.com/ - with ai
+- https://debuild.app/ - with ai conversation
+- https://www.illacloud.com/
 
 ## Components
 
@@ -33,6 +42,10 @@
 - https://automatio.co/ - extract from any website
 - https://liveblocks.io/ - multi-player type blocks, collaboration platform api
 - https://www.stackerhq.com/
+- https://www.portive.com/ - attachment management
+- https://krinql.com/ - porting of code
+- https://speakeasyapi.dev/ - api sdk generation
+  - https://github.com/speakeasy-sdks
 
 ## API docs
 
@@ -55,6 +68,7 @@
 ## Productivity
 
 - https://www.software.com/
+- https://trunk.io/
 
 ## Workflow / Automation
 
@@ -72,9 +86,11 @@
 - https://zapier.com/platform/how-to-build
 - https://www.stedi.com/ - data transformation
 - https://www.make.com/en - connecting tools and such
+- https://merge.dev/ - integration / data sharing service
 
 ## Microservices
 
+- https://www.napkin.io/
 - https://temporal.io/
 - https://camunda.com/
 - https://particular.net/
@@ -106,6 +122,12 @@
 - https://www.rainforestqa.com/
 - https://testcafe.io/
 - https://testomat.io/
+- https://www.qawolf.com/
+- https://www.rainforestqa.com/
+- https://microcks.io/
+- https://www.codium.ai/ - ai genration
+- https://www.tonic.ai/ - data generation
+- https://coveralls.io/
 
 ## Databases
 
@@ -119,16 +141,24 @@
 - https://www.decodable.co/ - realtime data platform
 - https://www.crunchydata.com/ - postgress management
 - https://popsql.com/ - collaborative sql editor
+- https://supabase.com/ - firebase alternative
+- https://www.pinecone.io/ - ai vector db
+- https://restdb.io/
+- https://www.citusdata.com/ - postgres at scale
+- https://nhost.io/ - firebase alternative
 
 ## Data processing
 
 - https://openrefine.org/
 - https://www.druva.com/
 - https://www.zipper.works/ - caching
+- https://www.snaplet.dev/
 
 ## Machine Learning
 
 - https://www.spotml.io/
+- https://livebook.dev/
+- https://www.evidentlyai.com/ - monitoring
 
 ## Agencies
 

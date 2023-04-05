@@ -23,12 +23,15 @@
 - https://remix.run/ - starter and framework
 - https://github.com/enaqx/awesome-react - list of components
 - https://www.reactiflux.com/ - community
+- https://4x.ant.design/docs/react/recommendation - list of various components and libraries
 
 ## Random
 
 - https://github.com/vmarchesin/react-konami-code
 - https://github.com/nfl/react-helmet
 - https://github.com/focus-trap/focus-trap-react - focus traps
+- https://zpao.github.io/qrcode.react/ - qrcode
+- https://github.com/mac-s-g/react-json-view 
 
 ## UI Component Lib
 
@@ -62,6 +65,11 @@
 - https://material-tailwind.com/
 - https://denali.design/
 - https://github.com/davesnx/taco
+- https://www.radix-ui.com/
+- https://refine.dev/
+- https://www.vechaiui.com/
+- https://horizon-ui.com/
+- https://github.com/ben-rogerson/twin.macro - tailwind and style in js
 
 ### Dialogs and overlays
 
@@ -104,6 +112,7 @@
 
 - https://react-dnd.github.io/react-dnd/about
 - https://interactjs.io/
+- https://github.com/atlassian/react-beautiful-dnd/
 
 ## Drawing
 
@@ -171,6 +180,9 @@
 - https://formidable.com/open-source/renature/
 - https://github.com/mkosir/react-parallax-tilt
 - https://motion.ant.design/
+- https://github.com/soulfriend216/react-simple-animate
+- https://github.com/FilipChalupa/collapsible-react-component
+- https://github.com/Abusayid693/react-hamburger-menus
 
 ## State
 
@@ -185,6 +197,8 @@
 - https://zustand-demo.pmnd.rs/ - also cool site
   - https://github.com/pmndrs/zustand
 - https://immerjs.github.io/immer/
+- https://react-tracked.js.org/
+- https://usehooks.com/useScript/
 
 ## Text editor
 
@@ -192,6 +206,15 @@
 - https://draftjs.org/
 - https://github.com/zenoamaro/react-quill
 - https://github.com/inkandswitch/peritext - with editing
+- https://github.com/roast-cms/french-press-editor
+- https://milkdown.dev/react
+- https://plate.udecode.io/ - slate and react
+- https://quilljs.com/
+- https://github.com/jaredreich/pell
+- https://grapesjs.com/ - site generator / website builder gui
+- https://react-page.github.io/ - site builder gui
+
+- https://tiptap.dev/hocuspocus/ - collaborative backend
 
 ## Labels and Text
 
@@ -212,6 +235,7 @@
 - https://github.com/developit/redaxios
 - https://redux-toolkit.js.org/tutorials/rtk-query/
 - https://swr.vercel.app/
+- https://github.com/upmostly/react-query-pagination
 
 ## Presentation / Slides
 
@@ -232,6 +256,8 @@
 - https://reactcosmos.org/
 - https://jestjs.io/
 - https://scup.github.io/atellier/
+- https://enzymejs.github.io/enzyme/
+- https://github.com/ljharb/tape
 
 ## Resources
 

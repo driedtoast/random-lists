@@ -13,6 +13,11 @@
 - https://github.com/TheAlgorithms/Rust
 - https://exercism.org/tracks/rust
 
+## AI Machine learning
+
+- https://www.oxen.ai/
+    - https://github.com/Oxen-AI
+
 ## Graphics
 
 - https://github.com/RazrFalcon/resvg
@@ -23,6 +28,13 @@
 ## UI
 
 - https://tauri.studio/
+- https://linebender.org/druid/
+    - https://github.com/linebender/druid
+- https://docs.rs/cacao/latest/cacao/
+- https://azul.rs/
+- https://crates.io/crates/egui
+- https://cjycode.com/flutter_rust_bridge/ - flutter related
+- https://docs.rs/iced/latest/iced/
 
 ## Events
 

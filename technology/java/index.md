@@ -21,12 +21,13 @@
 - https://www.payara.fish/
 - https://www.kivakit.org/
 - https://sparkjava.com/
-- https://github.com/xmolecules/jmolecules
+- https://github.com/xmolecules/jmolecules - arch rules
 - https://github.com/moduliths/moduliths
 - https://curator.apache.org/index.html - zookeeper framework
 - https://elide.io/ - graphql and such
 - https://helidon.io/
 - https://isis.apache.org/
+- https://vaadin.com/flow
 
 ### CLI
 
@@ -72,6 +73,7 @@
   - https://github.com/abdulhaq-e/ngrx-json-api
 - https://github.com/stoplightio/spectral - linter
 - https://raml.org/
+- https://github.com/typicode/lowdb - local json db
 
 ## Feature flags
 
@@ -94,6 +96,16 @@
 - https://querydsl.com/
 - https://vladmihalcea.com/hypersistence-optimizer/
 - https://prestodb.io/
+- https://calcite.apache.org/
+  - https://calcite.apache.org/docs/algebra.html
+  - https://calcite.apache.org/avatica/docs/
+  - https://calcite.apache.org/javadocAggregate/org/apache/calcite/sql/parser/SqlParser.html
+- https://github.com/JSQLParser/JSqlParser
+- https://github.com/antlr/grammars-v4/tree/master/sql/plsql
+- https://github.com/trinodb/trino/tree/master/core/trino-parser
+- https://trino.io/ - data analytics
+- https://shardingsphere.apache.org/ - data sharding 
+- https://trino.io/ - query engine
 
 ## Event processing
 
@@ -118,11 +130,14 @@
 - https://tika.apache.org/ - content parsing and validation
 - https://github.com/resilience4j/resilience4j - fault tolerance
 - https://github.com/alfasoftware/astra - refactoring
+- https://github.com/open-cli-tools/chokidar-cli - file watcher
+- https://www.burningwave.org/
 
 ## Templates
 
 - https://dandelion.github.io/
 - https://www.thymeleaf.org/
+- http://erraiframework.org/
 
 ## Graphics
 
@@ -143,6 +158,13 @@
 - https://restunited.com/
 - https://www.apimatic.io/
 
+## Object mapping
+- https://mapstruct.org/
+- http://modelmapper.org/
+- https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#core-convert-ConversionService-API
+- https://github.com/DozerMapper/dozer#what-is-dozer
+- https://jmapper-framework.github.io/jmapper-core/
+
 ## Quarkus
 
 - https://github.com/smallrye/smallrye-fault-tolerance
@@ -154,6 +176,10 @@
 - https://github.com/madhead/aws-junit5
 - https://github.com/localstack/localstack-java-utils
 - https://www.archunit.org/
+- https://jsonplaceholder.typicode.com/guide/ - api data
+- https://github.com/typicode/xv
+- https://mockend.com/ - mock backend
+- https://testsigma.com/ - multiple frameworks
 
 ## PDF / HTML processing
 
@@ -175,7 +201,16 @@
 
 - https://yavin.dev/
 - https://stargate.io/ - data access through db
+- https://spark.apache.org/
+- https://joinery.sh/v1.10/api/reference/joinery/DataFrame.html
+- https://github.com/jtablesaw/tablesaw - like pandas
+- https://questdb.io/
 
 ## OTP
 
 - https://github.com/wstrange/GoogleAuth
+
+
+## Machine learning
+
+- https://github.com/flashvayne/chatgpt-spring-boot-starter

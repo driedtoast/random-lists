@@ -21,6 +21,7 @@
 - https://www.masterworks.io/
 - https://www.the-saleroom.com/en-us
 - https://bottleneckgallery.com/
+- https://www.riekeles.com/ - anime architecture
 
 ## Art Supplies
 
@@ -76,12 +77,14 @@
 
 - http://komainc.com/
 - https://www.spfa.com/
+- https://neutra.org/
 
-## Magazines
+## Magazines / Books
 
 - https://leonardo.info/
 - https://www.newamericanpaintings.com/
 - https://thedesignedit.com/
+- https://www.kroneckerwallis.com/ - older books
 
 ## Art reference
 
@@ -90,6 +93,9 @@
 - https://www.wikiart.org/en/leonardo-da-vinci/study-for-the-last-supper
 - https://www.brepols.net/series/hmmima#publications
 - https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en?mode=desktop
+- https://readonlymemory.vg/ - game design art books
+- https://www.vam.ac.uk/collections/paintings
+- https://www.vam.ac.uk/collections/manuscripts
 
 ## Schools
 

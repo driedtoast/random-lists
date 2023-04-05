@@ -5,6 +5,7 @@
 * https://github.com/lmachens/vite-boilerplate
 * https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter
 * https://github.com/pchmn/vite-react-ts-ghactions-template
+* https://github.com/Franklin361/RickAndMortyCards - card display
 
 ## Bot creation / editor
 * https://github.com/botfront/botfront/tree/master/botfront

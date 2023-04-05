@@ -18,6 +18,9 @@
 - https://posthog.com/ - also feature flags
 - https://mouseflow.com/
 - https://www.mutinyhq.com/
+- https://clarity.microsoft.com/ - heat maps and free
+- https://trackingchef.com/
+- https://snowplow.io/ - behavior data
 
 ## Sales tracking
 
@@ -34,6 +37,9 @@
 - https://www.subscript.com/
 - https://splashbi.com/splashcrm/
 - https://rakam.io/
+- https://www.explo.co/
+- https://liveramp.com/
+
 
 ## AB testing / feature flags
 
@@ -63,6 +69,7 @@
 - https://www.pecan.ai/ - and forecasting
 - https://www.exploreomni.com/ - api first
 - https://www.vareto.com/ - finance focused
+- https://rose.ai/
 
 ## Manufacturing / Process
 

@@ -16,6 +16,11 @@
 
 - https://pypi.org/project/yoyo-migrations/
 - https://pypi.org/project/nomad/
+- https://github.com/teapot-co/tempest
+
+## Analytics
+- https://motherduck.com/
+- https://superset.apache.org/
 
 ## Events
 
@@ -25,16 +30,42 @@
 
 - https://www.tweepy.org/
 - https://fastapi.tiangolo.com/
+- https://cumulusci.readthedocs.io/en/latest/intro.html - salesforce ci
+
+## User mgmt 
+- https://fastapi-users.github.io/fastapi-users/10.0/
+- https://www.fief.dev/
+- https://docs.authlib.org/en/latest/client/httpx.html
+- https://github.com/frankie567/httpx-oauth
+- https://pyup.io/packages/pypi/fastapi-cloudauth/
+- https://docs.authlib.org/en/latest/client/fastapi.html
 
 ## Build
 
 - https://gyp.gsrc.io/index.md
+
+## Math
+- https://www.sagemath.org/
+  - https://doc.sagemath.org/html/en/thematic_tutorials/functional_programming.html
 
 ## ML Libs
 
 - https://github.com/facebookresearch/moolib
 - https://github.com/domoritz/streamlit-vega-lite
 - https://github.com/tvst/st-annotated-text
+- https://github.com/clips/pattern/wiki - screen scraping
+- https://github.com/archinetai - audio
+- https://github.com/promptslab/Promptify
+- https://github.com/hwchase17/langchain/ - language model chains
+- https://www.together.xyz/blog/openchatkit - models and training
+  - https://github.com/togethercomputer/OpenChatKit
+- https://www.vocode.dev/
+  - https://github.com/vocodedev
+- https://www.hopsworks.ai/ - feature store
+- https://open-assistant.io/
+  - https://github.com/LAION-AI/Open-Assistant
+- https://docs.fast.ai/
+- https://lets-unify.ai/
 
 ## Image processing
 
@@ -42,3 +73,9 @@
   - https://docs.opencv.org/4.x/index.html
 - https://github.com/fabro66/GAST-Net-3DPoseEstimation - skeletons from video capture
 - http://www.juanrojas.net/gast/ - skeletons from video capture
+- https://github.com/NeuralRealm/StableFusion - ai
+
+## UI libs
+
+- https://pynecone.io/
+  - https://github.com/pynecone-io/pynecone

@@ -1,6 +1,8 @@
 ## Redhat
 
 - https://access.redhat.com/sites/default/files/attachments/rh_yum_cheatsheet_1214_jcs_print-1.pdf - yum cheat sheet
+- https://gist.github.com/lucashenning/8f6807eab8b5d99caafd2a507f770ba1 - running chrome
+- https://gist.github.com/maxrodrigo/9d91e48c19244ead6ef5b466957be0ab
 
 ## Bash
 
@@ -17,3 +19,19 @@
 ## CLI / Terminals
 
 - https://www.warp.dev/
+- https://fig.io/
+- http://eradman.com/entrproject/ - file change command watching
+- https://github.com/debauchee/barrier - kvm
+
+## VM tech
+
+- https://firecracker-microvm.github.io/
+
+## Git
+
+- https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/
+
+## Emulation / Old hardware
+- https://www.retrodev.com/blastem/ - sega
+    - https://github.com/libretro/blastem
+- https://www.libretro.com/ 

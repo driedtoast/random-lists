@@ -15,12 +15,14 @@
 - https://www.lordstownmotors.com/
 - https://www.alphamotorinc.com/ - wish this was in production
 - https://fetchtruck.com/ - rentals
+- https://www.scoutmotors.com/
 
 ## Cars
 
 - https://www.polestar.com/
 - https://aptera.us/
 - https://www.czinger.com/
+- https://www.lotuscars.com/en-US/emira - not electric
 
 ## Motorcycles
 
@@ -33,6 +35,7 @@
 ## Part creation
 
 - https://www.divergent3d.com/
+- https://www.liquidpiston.com/
 
 ### Conversion
 

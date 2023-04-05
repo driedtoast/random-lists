@@ -18,10 +18,12 @@
 - https://claudiocamacho.medium.com/how-to-use-okrs-as-a-leadership-framework-for-growth-marketing-da8f7a43138
 - https://medium.com/kiwicode/insight-saas-27-how-to-carry-out-the-pod-in-saas-78e867c49d53
 - http://home.uchicago.edu/ourminsky/Goal-Gradient_Illusionary_Goal_Progress.pdf
+- https://efficient.app/
 
 ## Data
 
 - https://medium.com/powrbot/the-ultimate-list-of-company-databases-registers-bfd779b4600f
+- https://pbs.twimg.com/media/FkqCdZyUoAQQ3RX?format=jpg&name=4096x4096
 
 ## Marketing
 

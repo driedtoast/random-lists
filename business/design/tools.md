@@ -3,6 +3,7 @@
 - https://rx.cloudhead.io/
 - https://www.kaleido.ai/
   - https://www.remove.bg/
+- https://www.screenstab.com/editor/ - screenshot editor
 
 ## Design system / Branding
 
@@ -11,6 +12,7 @@
 - https://www.supernova.io/
 - https://backlight.dev/
 - https://www.enfoques.net/design-systems
+- https://www.primedesignsystem.com/
 
 ## Mockups and Flows
 
@@ -36,6 +38,7 @@
 - https://penpot.app/ - fun site
 - https://zeplin.io/
 - https://www.devwares.com/windframe/ - for site design
+- https://diagram.com/
 
 ### With code
 
@@ -89,6 +92,8 @@
 - https://getrad.co/ - motion capture
 - https://www.textures.com/ - texture collections
 - https://www.marvelousdesigner.com/
+- https://www.toonboom.com/
+- https://unity.com/
 
 ## Hosting / Portfolios
 
@@ -113,14 +118,32 @@
 ## Video editing
 
 - https://shotcut.org/
+- https://www.genmo.ai/ - via ai
 
 ## Fonts
 
 - https://www.atipofoundry.com/fonts/strawford
 - https://www.comicbookfonts.com/Default.asp - comic fonts
 - https://www.calligraphr.com/en/
+- https://v-fonts.com/ - variable fonts
 
 ## User tours
 
 - https://stonly.com/
 - https://userflow.com/
+
+
+## Hardware
+
+- https://supernote.com/collections/devices/products/supernote
+- https://remarkable.com/
+
+
+## Generation
+
+- https://leonardo.ai/ - crafting worlds
+- https://www.bluewillow.ai/ - image creation
+- https://firefly.adobe.com/generate/images
+- https://docs.midjourney.com/
+- https://www.artssy.co/
+- https://mondayhero.io/

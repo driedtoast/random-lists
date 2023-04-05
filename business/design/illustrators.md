@@ -27,6 +27,23 @@
 - https://www.meanhouseart.com/
 - https://www.mikimontllo.com/ - comic strips
 - https://kareprints.com/ - mac art
+- https://www.instagram.com/claire.an.lin/ - whimsical
+- https://www.instagram.com/danfs/ - concept art scenes and characters
+- https://folio.procreate.art/razum_inc
+- https://www.instagram.com/trevorclareart/
+- https://dongmei.artstation.com/ - perspective, fabric/texture and scenes
+- https://www.oliverjeffers.com/ - children books
+- https://www.kudelkashop.com/ - cartoonist
+- https://maxulichney.com/ - lots of character styles
+- https://lowsunsamurai.com/ - landscapes
+- https://folio.procreate.art/ghandor - painterly
+- https://www.artstation.com/spacegooose - ships and nice design style
+- https://www.artstation.com/alariko - buildings and towns
+- https://www.instagram.com/cybermedievalismartwork/ - cybermedieval
+- https://www.artstation.com/oxanstudio
+- http://jetpacksandrollerskates.com/ - cartoony / skateboard feel
+- https://www.instagram.com/deividipansera/ - cybermedival
+- https://www.lauraswalley.com/ - clean design
 
 ## Comic Artists
 
@@ -48,8 +65,38 @@
 - https://www.lambiek.net/artists/b/battaglia_dino.htm
 - https://www.alexrossart.com/
 - https://www.timmcburnie.com/about-me
-
-* https://www.serkworks.com/
+- http://edensandersart.com/ - some star wars stuff
+  - https://twitter.com/creativemechncs/status/1606720223528505344
+- https://www.serkworks.com/
+- https://www.instagram.com/bbrunoliveira/
+- https://store.mikedelmundo.com/ - 3 moons
+- http://domation.co.uk/
+- https://chriscampana.art/parkerreef/
+- https://formfunction.xyz/@rezaafshar - interesting use of shadows and dark against light
+- https://seangallowayart.gumroad.com/
+  - https://tabletaffy.bigcartel.com/products - cartoony style
+- https://www.dereklaufman.com/ - indie creator, nice style
+- https://www.toonhoundstudios.com/ - cartoonist
+- https://www.calebhenshawdesign.com/
+- https://www.stefanocardoselli.com/
+- https://outlandentertainment.com/collections/comics-1/products/the-bean-volume-one-riddles-shrooms-hardcover-preorder?variant=40800236535944
+- https://www.instagram.com/bonedustuff/?hl=en
+- https://www.mythopoeia.us/store/c1/myth-store
+  - https://www.mythopoeia.us/skiesoffire.html
+  - https://www.kickstarter.com/projects/mythopoeia/skies-of-fire-collected-edition?ref=profile_backed
+- https://www.bandofone.co.uk/
+- https://calebpalmquist.squarespace.com/
+- https://www.kickstarter.com/projects/168318716/space-monkey-knights-go-1?ref=discovery
+- https://karlrichardsonart.bigcartel.com/ - gritty style
+- https://daxgordine.com/ - clean comic style cartoony in nature
+- http://www.daneshm.com/
+- https://www.damiancanta.com/
+- https://anthonyfalcone.ca/
+- https://lukehealy.info/
+- https://michaelwalshcomics.com/
+- https://www.instagram.com/deathstar_soy/
+- http://www.steveellisart.com/
+- https://www.instagram.com/cullyhamner/
 
 ## Animators
 
@@ -66,3 +113,4 @@
 - https://twitter.com/Mrdodobird - vfx / 3d animation
 - http://www.technouveau.net/ - models as well
 - https://www.ordinaryfolk.co/ - studio
+- https://www.wodzgn.com/ - github animator

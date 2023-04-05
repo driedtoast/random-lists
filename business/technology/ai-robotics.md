@@ -30,10 +30,21 @@
 - https://stability.ai/
 - https://snorkel.ai/ - ai labeling
 - https://www.deepset.ai/ - nlp
+- https://cohere.ai/
+- https://rubbrband.com/ - train models in minutes
+- https://jina.ai/ - platform for ai models
+- https://roboflow.com/ - image recognition
+- https://cloudinary.com/ - image and video api
+- https://reviewpad.com/openai-waitlist - code reviews
+- https://www.chatbase.co/
+- https://oasisprotocol.org//blog/oasis-personal-ai-privacy
+- https://www.obviously.ai/ - no code ai
 
 ## Text to speech
 
 - https://deepgram.com/
+- https://www.vocode.dev/ - voice app
+- https://www.neuralspace.ai/ - language mgmt 
 
 ## Machine learning
 
@@ -46,3 +57,7 @@
 - https://www.decipad.com/ - no code ml
 - https://www.datarobot.com/
 - https://www.dominodatalab.com/
+- https://chatthing.ai/ - chatbot creation
+- https://www.anthropic.com/ - safe ai?
+- https://gradio.app/ 
+- https://www.anthropic.com/product

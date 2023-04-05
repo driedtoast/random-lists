@@ -6,6 +6,7 @@
 ## Record making
 * https://www.kindercore.com/
 * https://vnyl.org/ - subscription service
+* https://ecrettmusic.com/ - ai service
 
 ## Discovery
 * https://www.flowstate.fm/

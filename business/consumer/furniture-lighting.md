@@ -15,6 +15,9 @@
 
 - https://www.arc-intl.com/en/
 - https://aravalii.com/
+- https://www.jasoncoyknives.com/ - kitchen knives
+- https://literiecandle.com/ - candles
+- https://ulxstore.com/
 
 ## Furniture
 
@@ -25,6 +28,8 @@
 - https://liveouter.com/ - outdoor
 - https://www.designpublic.com/
 - https://stillwaterswoodworks.com/
+- https://lawsonfenning.com/
+- https://therisingtide.com/
 
 ## Furniture supplies
 

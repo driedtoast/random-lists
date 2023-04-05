@@ -10,10 +10,13 @@
 - https://decentralized.pictures/ - dao films
 - https://www.leagueofbuddies.com/
 - https://filmshape.com/homepage/ - crew management
+- https://www.corridordigital.com/ - tv shows with ai
+- https://mileawayfilms.com/
 
 ### Gear
 
 - https://www.sharegrid.com/
+- https://opalcamera.com/12-little-holes - webcam
 
 ### Articles
 
@@ -41,6 +44,10 @@
 ## Web comics
 
 - https://thelittlestviking.com/
+- https://3w3m.substack.com/ - interesting comic universe approach
+- https://www.bookwyrmscomic.com/go/welcome/
+- https://www.dereklaufman.com/
+
 
 ## Interesting illustrated books
 

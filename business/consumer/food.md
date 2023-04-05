@@ -23,10 +23,13 @@
 - https://www.communitymeatco.com/products - athens area
 - http://www.cornersedgebutchershoppe.com/everyday-deals/ - athens
 - https://www.trappist.be/en/products/
+- https://goodr.co/food-waste-solutions/ - waste related
+
 
 ## Random Apps
 
 - https://www.zerolongevity.com/
+- https://www.automealplanner.com/
 
 ## Order / Supplies management
 
@@ -43,16 +46,19 @@
 - https://www.angelinaparisusa.com/nationwide-shipping/p/hot-chocolate - best hot chocolate
 - https://gourmey.com/ - cell based food
 - https://bettybuzz.com/pages/products - drinks and mixes
+- https://store.wolffer.com/product/Wolffer-Estate-Brandy
 
 ### Farming
 
 - https://www.agtonomy.com/
+- https://pingeorgia.org/ - georgia farming innovation
 
 ## Coffee
 
 - https://cometeer.com/
 - https://www.bottomless.com/
 - https://www.saintfrankcoffee.com/
+- https://customcoffeebrands.com/
 
 ## Cooking Gear
 
@@ -77,3 +83,9 @@
 ## Magazines
 
 - https://imbibemagazine.com/
+- https://www.everydayhealth.com/
+
+
+## Ways to eat / Recipes
+- https://oldwayspt.org/
+- https://www.themediterraneandish.com/

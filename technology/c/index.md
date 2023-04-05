@@ -16,3 +16,8 @@
 ## Logic boards
 * https://github.com/gabonator/LA104
 * https://www.allspice.io/ - github for hardware engineering
+
+## Games
+* https://github.com/zeropolis79/PETSCIIRobots-SDL - for old retro stuff
+* https://github.com/maxlor/PetsciiRobotsMapEditor - map editor
+* https://www.the8bitguy.com/product/petscii-robots/

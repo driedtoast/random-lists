@@ -9,6 +9,7 @@
 - https://basistheory.com/
 - https://www.imperva.com/
 
+
 ## Infrastructure
 
 - https://goteleport.com/ - ssh / tracking
@@ -17,6 +18,7 @@
 - https://trufflesecurity.com/
 - https://logrhythm.com/
 - https://www.calyptix.com/
+- https://indent.com/ - idp for timebased auth
 - https://www.paloaltonetworks.com/prisma/cloud/cloud-security-posture-management
 
 ### VPN
@@ -77,6 +79,9 @@
 - https://hexway.io/ - red and blue team management
 - https://hummingbird.co/
 - https://nonamesecurity.com/
+- https://ofac-api.com/documentation/v3/status.html#structure
+- https://www.chainguard.dev/
+- https://www.tines.com/
 
 ## Authorization
 
@@ -88,3 +93,5 @@
 - https://www.styra.com/
 - https://authzed.com/ - zanibar impl
 - https://www.hanko.io/
+- https://www.permify.co/
+- https://www.gravitee.io/

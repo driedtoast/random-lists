@@ -8,6 +8,7 @@
 - https://openauthentication.org/
 - https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
 - https://www.openpolicyagent.org/ - policy agent
+- https://www.chainguard.dev/
 
 ## Exploits
 
@@ -76,6 +77,9 @@
 - https://chriszarate.github.io/supergenpass/
 - https://www.ockam.io/ - onion layer security
 - https://github.com/ginger-io/jay-z - kms integration
+- https://homomorphicencryption.org/ 
+- https://www.openfhe.org/
+- https://github.com/j2kun/awesome-he
 
 ## Authorization
 

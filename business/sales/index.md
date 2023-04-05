@@ -8,6 +8,14 @@
 - https://www.businessfriend.com/ - communication
 - https://www.highways.io/
 - https://www.ctd.ai/ - network sort of
+- https://www.workbooks.com/us
+- https://www.folk.app/
+- https://www.nutshell.com/
+- https://www.springly.org/
+- https://neonone.com/
+- https://www.method.me/
+- https://rolldog.com/
+- https://bloomerang.co/ 
 
 ## Communication
 
@@ -16,9 +24,13 @@
 - https://languagetool.org/ - language and correction
   - https://dev.languagetool.org/public-http-api
 - https://www.storytell.ai/ - ai based distilling
+- https://announcekit.app/ - announcing product updates
+- https://www.magicbell.com/ - push notifications
+- https://www.lavender.ai/ - ai email sales
 
 ## Lead gen / Deal management
 
+- https://www.workwithpod.com/
 - https://www.drift.com/ - through bots
 - https://www.outreach.io/
 - https://www.gong.io/
@@ -53,6 +65,10 @@
 - https://www.saleswhale.com/
 - https://www.getaccept.com/
 - https://www.stigg.io/ - api based
+- https://www.recapped.io/
+- https://www.mixmax.com/
+- https://www.regie.ai/ - ai lead gen
+- https://fastspring.com/interactive-quotes/ - quotes
 
 ### Ad Management
 
@@ -60,6 +76,8 @@
 - https://www.topsort.com/ - auction based ads, aggregate across channels
 - https://www.bannerbear.com/ - create ads programmatically
 - https://www.sovrn.com/
+- https://durable.co/ - ai site creation and crm
+- https://phrasee.co/ - marketing messages
 
 ## Data
 
@@ -96,6 +114,8 @@
 - https://www.newtonx.com/
 - https://www.clay.com/
 - https://www.lob.com/
+- https://ofac-api.com/documentation/v3/status.html#structure - kyc
+
 
 ## Decisioning
 
@@ -127,6 +147,7 @@
 - https://www.tulip.com/
 - https://saleor.io/
   - https://github.com/saleor/saleor
+- https://www.woflow.com/platform - product imports
 
 ### Shipping / Warehouse management
 
@@ -175,6 +196,7 @@
 ## Marketing
 
 - https://www.klasserfunnels.com/ - cold email service
+- https://www.sendinblue.com/ - sending emails
 - https://confect.io/
 - https://fameswap.com/ - buy instagram accounts with followers
 - https://ahrefs.com/ - seo growth
@@ -195,6 +217,10 @@
 - https://instreamly.com/ - via streamers
 - https://coschedule.com/
 - https://webspotter.io/plaid-email-format-wb1u1y - email scanning
+- https://www.navattic.com/product - static product demos
+- https://www.walnut.io/ - personalized product demos 
+- https://www.mutinyhq.com/ - product demos on site
+- https://www.reprise.com/ - demos
 
 ### Content
 
@@ -213,6 +239,7 @@
 - https://www.navattic.com/
 - https://www.getreprise.com/reprise-for-sales/
 - https://www.demostack.com/
+- https://powermodeai.com/ - ai slides
 
 ## Commissions / Awards / Sales Plans
 

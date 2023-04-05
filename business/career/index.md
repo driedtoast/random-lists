@@ -51,6 +51,7 @@
 - https://www.merge.dev/ - payroll integration and such
 - https://tryfinch.com/ - aggregator / payroll
 - https://www.pinwheelapi.com/ - direct deposit via api
+- https://www.steadyiq.com/ - 1099 work management
 
 ## HR News
 

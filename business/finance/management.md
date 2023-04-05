@@ -21,6 +21,7 @@
 - https://www.qapital.com/
 - https://www.dltjewel.com/ - digital assets bermuda
 - https://teller.io/ - plaid alternative
+- https://copilot.money/ - consumer app
 
 ## FinOps
 
@@ -34,6 +35,8 @@
 - https://www.fincen.gov/ - verification
 - https://ofac-api.com/ - verification
 - https://www.cascade.app/ - goal coordination
+- https://www.oinkching.com/ - instruction
+- https://github.com/moov-io/awesome-fintech
 
 ## Consumer cards
 
@@ -53,6 +56,7 @@
 - https://taekus.com/
 - https://current.com/ - rewards based
 - https://x1creditcard.com/
+- https://web.meetcleo.com/ - account mgmt for gen z
 
 ## Fraud detection
 
@@ -104,6 +108,12 @@
 - https://unrival.net/
 - https://playter.co/
 
+## Personal budget
+
+- https://www.honeydue.com/how-it-works - couple based
+- https://pocketguard.com/
+- https://www.fudget.com/
+
 ## Expense mgmt
 
 - https://www.fylehq.com/
@@ -142,3 +152,4 @@
 ## Real Estate
 
 - https://azibo.com/
+- https://here.co/ - investing 

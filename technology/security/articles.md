@@ -38,6 +38,8 @@
 * https://cryptobook.nakov.com/mac-and-key-derivation/hmac-and-key-derivation
 * https://resources.infosecinstitute.com/topic/random-number-generation-java/ 
 * https://www.valerionappi.it/brng-en/ - banana random number gen
+* https://medium.com/asecuritysite-when-bob-met-alice/cybersecurity-medieval-witcraft-chimeras-and-the-hound-of-hades-cbac8bddecde
+    * https://asecuritysite.com/digitalcert/ker
 
 ## OTP
 * https://www.baeldung.com/spring-security-two-factor-authentication-with-soft-token

@@ -19,7 +19,9 @@
 - https://evergreen.segment.com/
 - https://blueprintjs.com/docs/versions/2/#blueprint
 - https://mantine.dev/
+- https://ux.mailchimp.com/patterns/color
 - https://www.noundation.wtf/
+- https://canvas.hubspot.com/
 
 ## Color
 
@@ -41,6 +43,19 @@
 - https://picsum.photos/ - mocking images
 - https://web.dev/variable-fonts/
 - https://github.com/mona-sans - open source font
+- https://littlebigdetails.com/ - little interactions
+- https://ui-patterns.com/
+- https://www.uxlibrary.org/explore/ui-design/ui-patterns-and-inspiration
+- https://www.uisources.com/
+- https://www.pttrns.com/
+- https://collectui.com/
+- https://uxplanet.org/
+- https://designerup.co/blog/the-best-collections-of-real-ux-design-patterns/
+- https://mobbin.com/browse/ios/apps
+- https://goodux.appcues.com/
+- https://saaspages.xyz/blocks/pricing
+- https://designvault.io/
+- https://www.niceverynice.com/components
 
 ## Generative Art
 
@@ -80,3 +95,7 @@
 
 - https://icons8.com/
 - https://lordicon.com/
+
+## Animation
+
+- https://codepen.io/jkantner/pen/wvXbboe

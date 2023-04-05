@@ -59,6 +59,8 @@
 - https://www.floki.com/
 - https://generator.nftchef.dev/
   - https://github.com/nftchef/art-engine/tree/nested-folder-structure
+- https://lilgerms.com/ - cartoony nfts with games and merc (studio idea)
+  - https://grimsyndicate.com/ - associated
 
 ## NFT promotion
 
@@ -91,6 +93,8 @@
 - https://consensys.net/quorum/
 - https://tendermint.com/
 - https://zora.co/
+- https://tezos.com/ 
+  - https://gitlab.com/tezos/tezos
 
 ## Gas monitoring / analytics
 

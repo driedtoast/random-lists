@@ -24,6 +24,10 @@
 - https://markmcgranaghan.com/alt-vc-math
 - https://www.starterstory.com/
 - https://storytell-ai.notion.site/The-Unicorn-Company-s-Home-Page-f0879668dc4747218d699558d466115c
+- https://every.to/napkin-math/product-led-growth-s-failure
+- https://twitter.com/nikitabier/status/1481118406749220868 - tips on product testing
+- https://www.buzzfeednews.com/article/ryanmac/facebooks-teens-tbh-psychological-trick-memo - stickiness
+- https://summation.net/2021/01/09/eight-napkin-graphs-to-building-a-unicorn/
 
 ## Bootstrap tips
 
@@ -40,3 +44,11 @@
 - https://www.indiehackers.com/post/i-built-and-sold-2-small-saas-products-and-quit-my-job-in-the-last-two-years-ama-e532f8d7bf
 - https://www.indiehackers.com/post/building-my-3rd-saas-in-public-buildinpublic-b889817536
 - https://www.justinwelsh.me/
+- https://entrepreneurlist.io/jim-raptis-lessons - what learned building 2 lifestyle saas companies
+  - https://www.jimraptis.com/blog/from-idea-to-launch-in-16-days
+  - https://www.jimraptis.com/blog/marketing-actions-for-technical-founders
+- https://www.swiftjectivec.com/win-the-week-ios-hack-project/
+
+
+## Thinking
+- https://fs.blog/mental-models/

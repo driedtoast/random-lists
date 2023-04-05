@@ -4,6 +4,10 @@
 - https://dev.to/luccadumas/building-a-full-api-with-nodejs-strapi-in-5-minutes-or-less-amazing-5dfk
 - https://css-tricks.com/user-registration-authentication-firebase-react/
 - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
+- https://www.pixelhop.io/writing/build-a-real-time-game-with-supabase-and-vue/ - gaming
+
+## Events
+- https://medium.com/cstech/javascript-understanding-customevent-and-dispatchevent-a33d10075818
 
 ## Security
 
@@ -85,6 +89,7 @@
 - https://css-tricks.com/easing-animations-in-canvas/
 - http://templarian.com/2020/02/13/svg-to-animated-gif/
 - http://davideyork.com/
+- https://www.pixelhop.io/writing/building-an-animated-svg-logo-with-animejs/
 
 ## Phaser
 
@@ -113,3 +118,4 @@
 - http://templarian.com/ - material icons
 - https://badassjs.com/
 - https://www.spicyweb.dev/ - also css and such
+- https://www.pixelhop.io/writing/

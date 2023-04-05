@@ -1,5 +1,6 @@
 - https://www.typescriptlang.org/play
 - https://github.com/yangshun/lago - algorithms in typescript
+- https://nestjs.com/ - micro services
 
 ## Linting
 
@@ -13,6 +14,8 @@
 - https://tsdx.io/
   - https://github.com/jaredpalmer/tsdx
 - https://rakkasjs.org/ - nextjs with vite
+- https://astro.build/ - static site building / cms
+
 
 ## P2P support
 
@@ -43,7 +46,19 @@
 - https://pptr.dev/
 - https://github.com/lorenzofox3/zora
 - https://vitest.dev/
+- https://miragejs.com/ - complete mocked experience
+- https://github.com/mswjs/msw - api testing
+- https://github.com/anttiviljami/openapi-backend
+- https://reeli.github.io/swagger-faker/
 
 ## API Framework
-
+- https://joi.dev/ - api doc validation
 - https://loopback.io/
+- https://nextlessjs.com/
+
+## validation
+- https://zod.dev/
+
+## AI lib
+
+- https://github.com/yudax42/askai

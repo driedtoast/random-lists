@@ -12,6 +12,13 @@
 - https://almanac.io/
 - https://onsched.com/ - scheduling
 - https://commanddot.com/ - scheduling
+- https://mymind.com/
+- https://mochi.cards/
+- https://obsidian.md/
+- https://reclaim.ai/
+- https://www.getoutline.com/
+- https://www.tape.sh/
+- https://www.jeda.ai/ - ai generated
 
 ## Annotating
 
@@ -44,6 +51,7 @@
 - https://crowd.inc/
 - https://kern.al/
 - https://www.launchhouse.com/
+- https://namy.ai/ - name generator
 
 ## Culture / Goals
 
@@ -51,6 +59,7 @@
 - https://www.cascade.app/
 - https://slab.com/ - collaborative docs
 - https://www.achieveit.com/
+- https://aligntoday.com/
 
 ## Franchises
 
@@ -71,6 +80,9 @@
 - https://fibery.io/
 - https://poap.xyz/ - bookmark management
 - https://basehq.com/
+- https://www.primary.app/ - for agencies
+- https://www.runn.io/ - resource management
+- https://norushapp.com/ - with timer
 
 ### Agile
 
@@ -81,12 +93,15 @@
 - https://easyretro.io/
 - https://www.range.co/
 
-## Feature priortizing
+## Feature priortizing / Roadmap
 
 - https://storiesonboard.com/
 - https://www.savio.io/
 - https://canny.io/
 - https://www.artifact.io/
+- https://www.launchnotes.com/ - roadmap management, rollout
+- https://www.getbeamer.com/ - change log
+- https://releasenotes.io/ - release notes
 
 ## Insurance
 

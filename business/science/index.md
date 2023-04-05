@@ -15,6 +15,8 @@
 - https://www.thebluebox.tech/
 - https://tonicapp.io/
 - https://luminopia.com/ - for lazy eye
+- https://blueprint.bryanjohnson.co/ - health tips
+- https://hubermanlab.com/ - health tips
 
 ## Air tech
 
@@ -71,3 +73,6 @@
 - https://moss.earth/
 - https://www.klimadao.finance/
 - https://cryptoclimate.org/
+
+## Animals 
+- https://explorer.audubon.org/home?legend=collapse&layersPanel=expand - migration paths of birds and lizards

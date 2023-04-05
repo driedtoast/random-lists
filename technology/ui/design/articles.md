@@ -26,6 +26,7 @@
 ## Tooling
 
 - https://uxdesign.cc/trying-no-code-tools-as-a-designer-116c991eb683
+- https://hackdesign.org/toolkit
 
 ## Generative art
 
@@ -36,6 +37,7 @@
 - https://gorillasun.de/
   - https://gorillasun.de/blog/Making-of-Behind-the-Canvas
 - https://github.com/ronikaufman
+- https://github.com/HashLips/hashlips_art_engine
 
 ## Motion
 

@@ -2,6 +2,7 @@
 
 - https://api-platform.com/
 - https://www.admin-dashboards.com/
+- https://www.cursor.so/ - editor with chatgpt
 
 ## API Documentation / Documentation
 
@@ -19,6 +20,8 @@
 - http://dapperdox.io/
 - https://github.com/Mermade/widdershins
 - https://lucybot.com/
+- https://www.designdocs.dev/ - example docs
+- https://hasura.io/
 
 ## Collaboration
 
@@ -33,6 +36,7 @@
 - https://the-algorithms.com/ - in each language
 - https://en.wikipedia.org/wiki/Okapi_BM25 - ranking algorithm
 - https://mathai2022.github.io/papers/ - math ai
+- https://jeremykun.com/primers/
 
 ## Protocols / Design Patterns
 
@@ -42,6 +46,7 @@
 - https://github.com/cloudevents/spec/blob/v1.0.1/json-format.md - cloud events
 - https://w3c.github.io/trace-context/#design-overview
 - https://apiguide.readthedocs.io/en/latest/index.html
+- https://atproto.com/guides/overview
 
 ## Specs
 
@@ -99,6 +104,11 @@
 - https://redmonk.com/jgovernor/ - industry trends
 - https://hanselminutes.com/ - podcasts
 - https://stackabuse.com/
+- https://www.libhunt.com/ - for libraries
+- https://docs.developerhub.io/ - apis and such
+- https://www.toolhunt.dev/ - tooling
+- https://prototypr.io/ - ideas and wisdom
+- https://www.lesswrong.com/ - random articles
 
 ## Odd languages
 
@@ -106,6 +116,7 @@
   - https://bigzaphod.github.io/COW/
 - https://cfwheels.org/ - cold fusion rails like framework, right?
 - https://darklang.com/
+- https://developers.google.com/blockly - scratch like
 
 ## Upcoming languages
 
@@ -152,3 +163,6 @@
 ## Challenges
 
 - https://github.com/samanthaming/awesome-notfancyappchallenge
+
+## General setup
+- https://appseed.us/

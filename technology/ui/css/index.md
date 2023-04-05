@@ -9,6 +9,7 @@
 - https://daisyui.com/
 - https://jointswp.com/ - for wordpress
 - https://usewindy.com/ - convert site to tailwind
+- https://windicss.org/
 - https://builtwithtailwind.com/
 - https://flowbite.com/
 - https://tailwindui.com/
@@ -17,6 +18,7 @@
 - https://www.pollen.style/
 - https://unocss.antfu.me/
 - https://windicss.org/
+- https://stylifycss.com/ - writing css optimized
 - https://www.agnosticui.com/ - use in react etc... almost bootstrap like
 - https://open-props.style/
 - https://infima.dev/
@@ -27,6 +29,11 @@
 - https://semantic-ui.com/
 - https://github.com/oxalorg/sakura - based on tags only
 - https://www.vanillabreeze.dev/ - convert tailwind css to vanilla css
+- https://mambaui.com/ - tailwind
+- https://tailwind-elements.com/ - tailwind
+- https://flowbite-react.com/ - tailwind
+- https://www.material-tailwind.com/ - tailwind
+
 
 ## Design examples
 
@@ -41,6 +48,7 @@
   - https://github.com/mjmlio/mjml
 - https://github.com/nicoavila/mjml-sendgrid-tutorial
 - https://github.com/sendgrid/email-templates
+- https://react.email/
 
 ## SVG Icons
 
@@ -78,3 +86,4 @@
 
 - https://css-homer-sprites.netlify.app/styles.css
 - https://animate.style/
+- https://github.com/LUK3D/CssInMotion

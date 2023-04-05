@@ -12,6 +12,10 @@
 - https://www.supportninja.com/
 - https://messagebird.com/en/ - sms, whatsapp, etc...
 - https://www.braze.com/
+- https://kayako.com/
+- https://www.helpdesk.com/saas-help-desk/
+- https://www.helpscout.com/
+- https://www.bevy.com/
 
 ## Live chat
 

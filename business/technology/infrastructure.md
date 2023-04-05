@@ -15,6 +15,7 @@
 - https://stoplight.io/
 - https://www.krakend.io/
 - https://www.apimatic.io/ - sdk approach
+- https://hasura.io/
 
 ## Api Monitoring
 
@@ -29,6 +30,7 @@
 - https://getzero.dev/
 - https://lambdalabs.com/
 - https://www.upbound.io/ - auto scaling / crossplane
+- https://nextcloud.com/ - on premise deploys
 
 ## Diagramming
 
@@ -37,7 +39,8 @@
 - https://www.cloudockit.com/
 - https://www.totalcloud.io/
 - https://duo-labs.github.io/cloudmapper/
-- https://www.hava.io/
+- https://www.eraser.io/ - dev diagramming
+
 
 ## Data Storage / Management
 
@@ -119,6 +122,8 @@
 - https://kpow.io/
 - https://lenses.io/
 - https://dashbird.io/
+- https://embrace.io/
+- https://www.infracost.io/ = costs
 
 ## Search
 
@@ -129,6 +134,8 @@
 
 - https://www.bluehost.com/
 - https://www.digitalocean.com/
+  - https://www.digitalocean.com/products/app-platform
+- https://azure.microsoft.com/en-us/products/app-service/
 - https://www.sunlight.io/
 - https://www.stellarhosting.com/
 - https://www.deta.sh/ - paas / free
@@ -136,6 +143,26 @@
 - https://www.datapacket.com/
 - https://modal.com/
 - https://railway.app/ - heroku like
+- https://www.cloudflare.com/apps/developer/docs/getting-started - edge service
+  - https://www.cloudflare.com/saas/
+- https://www.back4app.com/
+- https://platform.sh/
+- https://aws.amazon.com/elasticbeanstalk/
+- https://dokku.com/ - paas open source
+- https://deta.space/ - unique
+- https://www.withcoherence.com/ - paas open source
+- https://caprover.com/ - paas open source
+- https://www.microtica.com/ - for deployments
+- https://www.cloud66.com/ - paas like for deploying anywhere
+- https://www.pythonanywhere.com/
+- https://vercel.com/
+- https://porter.run/ - paas manager
+- https://www.qovery.com/
+- https://bunny.net/ - cdn
+- https://www.ssdnodes.com/ - hmm could run dokku on it
+- https://www.hetzner.com/?country=en
+- https://www.vultr.com/
+- https://piku.github.io/ = paas tooling
 
 ## Kubernetes
 

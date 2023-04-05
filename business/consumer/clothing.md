@@ -14,8 +14,10 @@
 - https://kato-brand.com/collections/t-shirts
 - https://www.endclothing.com/us/velva-sheen-regular-tee-161477-ny.html
 - https://www.wyrwear.com/
+- https://ducon.space/
+- https://www.mottandbow.com/collections/mens-tees
 
-Wholesale
+### Wholesale
 
 - https://www.ssactivewear.com/
 - https://www.ssactivewear.com/p/comfort_colors/1717
@@ -56,6 +58,7 @@ Wholesale
 - https://www.thebureaubelfast.com/
 - https://standardandstrange.com/
 - https://www.travismathew.com/TM/BOTTOMS/Pants/c/0142
+- https://huckberry.com/store/flint-and-tinder
 
 ## Watches
 
@@ -69,6 +72,7 @@ Wholesale
 - https://www.myplasticheart.com/
 - https://sofubiki.com/en/sofubi
 - https://www.inkedbrands.com/ - promotional marketing as well for creators
+- https://www.roastar.com/custom-printed-coffee-bags - coffee cans and such
 
 ## Toy making
 
@@ -92,3 +96,7 @@ Wholesale
 - https://www.miir.com/ - yeti like things
 - https://undergroundshirts.com/
 - https://www.micromerch.com/
+
+## Recycling
+- https://www.milehighworkshop.org/
+- https://dashtwo.com/
