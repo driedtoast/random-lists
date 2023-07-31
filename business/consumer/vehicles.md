@@ -120,6 +120,12 @@
 - https://www.volvopartswebstore.com/products/Volvo/240/Headlamp-housing--left-Genuine-Classic-Part/1116936/1234093.html
 - http://cleanflametrap.com/doorHandle.html
 - https://www.volvopartswebstore.com/images/parts/volvo/fullsize/GR-65479.jpg
+- https://www.frontrunneroutfitters.com/en/us/volvo-200-series-4-door-wagon-1974-1993-slimline.html - roof rack
+- https://autoplicity.com/353611-hayden-automotive-hayden-inc-cooling-fan-control
+- https://turbobricks.com/index.php?threads/how-do-i-change-to-blue-snowflake-switch.235421/
+- https://www.rycompressors.com/shop/1991-volvo-240-eg517-316691.html - ac parts
+- https://www.fcpeuro.com/products/volvo-ac-compressor-control-valve-genuine-volvo-31365093 - ac parts
+- http://www.retroturbo.com/
 
 ### Articles
 

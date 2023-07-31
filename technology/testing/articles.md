@@ -17,3 +17,7 @@
 * https://learning.postman.com/docs/sending-requests/variables/#using-dynamic-variables
 * https://learning.postman.com/docs/running-collections/working-with-data-files/
 * https://dev.to/enbis/setting-up-github-actions-workflows-to-automate-the-api-tests-56m8
+
+
+## Karate
+* https://medium.com/@roudra/quarkus-karate-a1377f86d99

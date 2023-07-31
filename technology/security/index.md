@@ -9,6 +9,10 @@
 - https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
 - https://www.openpolicyagent.org/ - policy agent
 - https://www.chainguard.dev/
+- https://onetimesecret.com/ - sending secrets
+- https://docs.kilossl.com/ - ssl
+    - https://kilossl.com/
+- https://approximated.app/
 
 ## Exploits
 
@@ -89,3 +93,7 @@
 - https://www.ory.sh/
 - https://github.com/authorizer-tech/access-controller
 - https://github.com/josephglanville/zanzibar-pg/blob/master/zanzibar.sql
+
+## Captcha
+- https://github.com/patrickhlauke/recaptcha/blob/master/index.html
+- https://developers.google.com/recaptcha/docs/v3

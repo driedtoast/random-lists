@@ -1,6 +1,7 @@
 ## Automation
 
 - https://github.com/intuit/karate
+- https://karatelabs.github.io/karate/
 
 ## Webhook
 

@@ -16,6 +16,13 @@
 - https://www.madmimic.com/
 - https://www.acidnerve.com/ - unity games
 - https://www.devolverdigital.com/ - indie aggregator
+- https://www.happyvolcano.com/games - indie
+- https://www.chuhailabs.com/games
+- https://housefolk.games/#
+- https://coreborn.gg/
+- https://www.fluffydogstudio.com/
+- https://treehousegames.com/
+
 
 ## Keyboards
 
@@ -47,6 +54,8 @@
 
 - https://en.m.wikipedia.org/wiki/Psychonauts
 - https://www.cakeofdoom.com/
+
+- https://www.workwithindies.com/ - indie studio jobs
 
 ## Game servers
 

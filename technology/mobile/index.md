@@ -19,6 +19,7 @@
 ## Icons
 
 - https://phosphoricons.com/
+- https://thenounproject.com/
 
 ## Video / Graphics
 

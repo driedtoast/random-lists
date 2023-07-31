@@ -13,6 +13,7 @@
 - https://jasper.ai/
 - https://feincraft.one/
 - https://www.crear.ai/
+- https://www.frase.io/ - seo content
 - https://writesonic.com/
 
 ## Content filtering

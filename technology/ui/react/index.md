@@ -32,6 +32,7 @@
 - https://github.com/focus-trap/focus-trap-react - focus traps
 - https://zpao.github.io/qrcode.react/ - qrcode
 - https://github.com/mac-s-g/react-json-view 
+- https://www.modulz.app/ - design system
 
 ## UI Component Lib
 
@@ -65,11 +66,15 @@
 - https://material-tailwind.com/
 - https://denali.design/
 - https://github.com/davesnx/taco
-- https://www.radix-ui.com/
+- https://www.radix-ui.com/ - good starting lib with colors and icons
+  - https://stitches.dev/
+- https://www.ripple-ui.com/ - css based
 - https://refine.dev/
 - https://www.vechaiui.com/
 - https://horizon-ui.com/
 - https://github.com/ben-rogerson/twin.macro - tailwind and style in js
+- https://windy-docs.vercel.app/docs/getting_started/start - off tailwind only
+  - https://www.producthunt.com/products/daisyui/alternatives
 
 ### Dialogs and overlays
 
@@ -107,6 +112,7 @@
 ## Social Buttons
 
 - https://www.npmjs.com/package/react-social-login-buttons
+- https://www.npmjs.com/package/react-google-recaptcha
 
 ## Drag and Drop
 

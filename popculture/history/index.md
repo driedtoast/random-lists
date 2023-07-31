@@ -13,7 +13,7 @@
     * https://digital.bodleian.ox.ac.uk/collections/incunabula/
 * https://fragmentarium.ms/search/
 * https://www.e-codices.ch/en
-
+* https://www.medievalists.net/2023/04/the-battle-of-sluys-1340/
 
 ## Historians
 * https://www.thecollector.com/ancient-greek-historians/

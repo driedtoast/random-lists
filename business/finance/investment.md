@@ -37,6 +37,7 @@
 - https://tastyworks.com/
 - https://www.realizefi.com/ - api for linking them together
 - https://www.titan.com/ - pe, vc and stock management
+- https://www.composer.trade/
 
 ## Social Investing
 

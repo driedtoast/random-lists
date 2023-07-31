@@ -15,3 +15,6 @@
 
 ## Song rights
 * https://www.songtrust.com/
+
+## AI 
+* https://google-research.github.io/seanet/musiclm/examples/

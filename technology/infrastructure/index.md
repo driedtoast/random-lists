@@ -73,6 +73,7 @@
 - https://www.protondb.com/ - gaming specific from steam
 - https://www.trychroma.com/ - ai database
 - https://neon.tech/ - postgres servlerless
+- https://github.com/dolthub/dolt - data forking
 
 ### Migrations
 
@@ -142,6 +143,7 @@
 - https://fluentbit.io/ - log streams
 - https://github.com/ivbeg/awesome-status-pages - status pages
 - https://www.metabase.com/ - db docker based analytics service
+- https://github.com/kadira-open/kadira-server
 
 ### Open telemetry
 
@@ -179,6 +181,7 @@
 - https://github.com/abiosoft/colima
 - https://github.com/docker/build-push-action
 
+
 ## Serverless / Workflow
 
 - https://cadenceworkflow.io/
@@ -187,6 +190,7 @@
 - https://github.com/camunda/camunda-bpm-platform
 - https://netflix.github.io/conductor/
 - https://serverlessworkflow.io/
+- https://www.capedwarf.org/ - google app engine replacement
 
 ## Suites
 
@@ -252,3 +256,4 @@
 - https://www.file.io/
 - https://github.com/timvisee/send
 - https://wetransfer.com/
+- https://stateful.com/ - readme as runtime

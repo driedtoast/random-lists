@@ -6,6 +6,8 @@
   - https://github.com/creativetimofficial/tailwind-starter-kit - starter templates
   - https://www.creative-tim.com/templates/tailwind
 - https://tailwindcss-glassmorphism.vercel.app/ - tailwindcss
+- https://preline.co/docs/index.html - built on tailwind
+  - https://preline.co/plugins.html
 - https://daisyui.com/
 - https://jointswp.com/ - for wordpress
 - https://usewindy.com/ - convert site to tailwind
@@ -33,6 +35,8 @@
 - https://tailwind-elements.com/ - tailwind
 - https://flowbite-react.com/ - tailwind
 - https://www.material-tailwind.com/ - tailwind
+- https://www.ripple-ui.com/ - css based
+- https://shuffle.dev/bootstrap - for bootstrap
 
 
 ## Design examples
@@ -40,6 +44,7 @@
 - https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white
 - https://hihayk.github.io/modulator/
 - https://hihayk.github.io/wheel/ - color wheel
+- https://tailgrids.com/ - tailwind layouts
 
 ### For email
 

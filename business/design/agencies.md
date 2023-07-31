@@ -95,6 +95,8 @@
 - https://shantiguy.com/ - also comics
 - https://destroytoday.com/ - product designers
 - https://www.imkylelambert.com/ - does a side comic strip too
+- https://nicoleiliana.com/
+- https://thenounproject.com/imogenoh/
 
 ## Book and publishing
 

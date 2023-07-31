@@ -8,6 +8,7 @@
 - https://github.com/bfortuner/ml-glossary
 - https://www.builtwithai.co/ - tools with ai
 - https://distill.pub/
+- https://www.builtwithai.co/ai-tools
 
 ## Theories
 
@@ -81,6 +82,7 @@
 - https://github.com/allenai/macaw - q & a based
 - https://openai.com/blog/dall-e-api-now-available-in-public-beta/
 - https://openai.com/blog/chatgpt/
+- https://github.com/bitswired/fuseai - chatgpt locally
 - https://www.hpc-ai.tech/blog/colossal-ai-chatgpt
 - https://colossalai.org/
 - https://github.com/hpcaitech/ColossalAI
@@ -129,3 +131,7 @@
 - https://github.com/salesforce/CodeT5
 - https://replit.com/
 - https://github.com/getcursor
+
+## Video generation
+- https://phenaki.github.io/#interactive - google 
+- https://imagen.research.google/

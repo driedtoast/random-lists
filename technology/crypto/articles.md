@@ -83,6 +83,7 @@
 * https://dri.es/my-first-web3-webpage
 * https://twitter.com/VittoStack/status/1524273223508049921/photo/1
 * https://www.learnweb3.io/ - courses
+* https://blog.logrocket.com/building-token-solana/ 
 
 ## Nft how to
 * https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum

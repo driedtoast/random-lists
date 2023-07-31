@@ -20,6 +20,7 @@
 - https://miyauchi.dev/posts/lib-vite-tailwindcss/
 - https://epicreact.dev/articles
 - https://alexsidorenko.com/
+- https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11
 
 ## Component
 
@@ -78,6 +79,11 @@
 - https://dev.to/aspittel/build-a-react-app-with-authorization-and-authentication-1mha
 - https://codesandbox.io/s/3rpq558rv5?file=/src/index.js:133-481
 - https://cretezy.com/2020/react-query-axios-authentication
+- https://reactjsexample.com/email-link-strategy-with-remix-auth/
+
+## SSR / Hydration 
+- https://github.com/remix-run/indie-stack
+- https://www.netlify.com/blog/2021/11/12/ship-javascript-where-it-counts-with-vite-partial-hydration/
 
 ## Diagramming
 
@@ -152,3 +158,6 @@
 
 - https://medium.com/codeclan/testing-react-with-jest-and-enzyme-20505fec4675
 - https://enzymejs.github.io/enzyme/docs/guides/tape-ava.html
+
+## Email
+- https://www.kirandev.com/next-js-react-email-sending

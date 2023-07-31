@@ -122,6 +122,7 @@
 
 - https://gleam.run/documentation/
 - https://ziglang.org/ - low level memory management
+- https://github.com/PlummersSoftwareLLC/Primes
 
 ## How to ask
 

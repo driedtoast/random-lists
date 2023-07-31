@@ -33,3 +33,4 @@
 - https://www.advanceb2b.com/blog/brand-the-forgotten-ingredient-in-b2b-saas-growth
 - https://www.indiehackers.com/post/tiktok-works-for-acquiring-saas-users-12df8b5396
 - https://www.linkedin.com/pulse/checklist-i-use-when-building-startups-marketing-matthew-fitzgerald/
+- https://vadosware.io/post/lets-call-pre-launch-landing-pages-prospecting-pages/

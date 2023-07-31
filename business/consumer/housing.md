@@ -19,6 +19,15 @@
 - https://en.wikipedia.org/wiki/Macadam - road construction technique
 - https://www.trailerdecking.com/Apitong-Shiplap-Trailer-Decking-54x6-3845?ProdID=3845 - decking
 - https://sirewall.com/ - rammed earth walls
+- https://us.ecoflow.com/ - generators
+- https://richsoil.com/wofati.jsp - underground house
+- https://undergroundhousing.com/ - underground home 
+- https://www.span.io/ - smart electrical panel
+
+### Built ins
+- https://www.remodelandolacasa.com/2018/11/fmlyrhdr.html?showComment=1543236113590#c2729776750196433087
+- https://www.thisoldhouse.com/furniture/21018443/7-surprising-built-in-bookcase-designs
+- https://www.etsy.com/listing/616861667/diyhd-rustic-black-industrial-sliding
 
 ### Fencing
 
@@ -88,6 +97,20 @@
 - https://www.youtube.com/channel/UCIix6MklfJFywa_36iDj8Sw
 - https://seedsnflowers.com/
 - https://www.sound.ag/source
+- https://www.swardman.com/en/products/reel-mowers/ - electric reel mower
+- https://permies.com/w/book-reviews - books 
+- https://www.as-motor.com/product/as-63-e-allmaher/
+- https://curlysag.com/cyber-clydesdale-electric-two-wheel-tractor/#top
+- https://www.thegreensmachines.com/electric-tractor-basics
+- https://solectrac.com/cet-electric-tractor
+- https://www.ggmgroundscare.com/koppl-compact-easy-e-drive.html
+- http://www.ferrari-tractors.com/products/walking.htm
+- https://www.koeppl.com/en/produkte/compakt-comfort-edrive
+- https://meangreenproducts.com/
+
+### Articles
+- https://permies.com/t/122765/build-trails-wild-homestead 
+- https://www.wildhomesteading.com/reasons-for-nature-trails/
 
 ## Tents and Rvs
 
@@ -118,3 +141,7 @@
 - https://www.athensarchery.com/    
 - https://www.60xcustomstrings.com/
 - http://compoundbowchoice.com/brands/bowtech/
+- https://www.ashbybowhunting.org/ - broadheads - research
+- https://siriusarchery.com/
+- https://ethicsarchery.com/
+

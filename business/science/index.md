@@ -40,6 +40,9 @@
 - https://www.science.io/ - data service
 - https://www.youtube.com/c/NEOMChannel/featured - crazy city dystopian design
 - https://www.atomwise.com/ - ai for medicine
+- https://www.newphilosopher.com/articles/new-philosopher-celebrates-10-years/ - philosophy
+- https://www.alzabosoup.com/ - authors of books
+
 
 ## Carbon Offsets / Tech
 

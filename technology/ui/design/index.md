@@ -22,6 +22,7 @@
 - https://ux.mailchimp.com/patterns/color
 - https://www.noundation.wtf/
 - https://canvas.hubspot.com/
+- https://uiplaybook.dev/ - design theories
 
 ## Color
 

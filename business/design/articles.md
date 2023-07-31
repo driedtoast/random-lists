@@ -8,6 +8,26 @@
 - https://andrelimaaraujo.substack.com/p/how-much-can-i-get-done-in-3-weeks
 - https://twitter.com/CullyHamner/status/1629181146968870912 - panel tips
 - https://twitter.com/CoolComicArt/status/1215465668406988800
+- https://agent44-gmail-com.ck.page/posts/how-to-paint-like-miyazaki
+- https://www.thedrawingcodex.com/quickstart
+- https://comicsalliance.com/dave-stewart-interview-coloring/ 
+- https://www.creativebloq.com/advice/how-to-colour-comics
+- https://www.creativebloq.com/how-to/how-to-create-a-comic-page
+- https://www.samehat.com/2010/04/steve-oliff-on-early-days-of-comics.html
+- https://www.scribd.com/document/625246089/How-to-Color-Comics-the-Marvel-Way
+- https://simonmaggots.medium.com/a-brief-and-broad-history-of-post-golden-age-pre-digital-comic-book-coloring-9fe9e386149a
+- https://www.thegutterreview.com/coloring-between-the-lines-the-incredible-color-work-of-lynn-varley/
+- https://locustmoon.com/tag/lynn-varley/
+- https://kleinletters.com/Blog/coloring-comics-old-school/
+- https://www.eliotrbrown.com/wp/marvel-behind-the-scenes-beyond-the-behind-chemical-color-plate/
+- https://kleinletters.com/Blog/category/creating-comics/
+- https://www.eliotrbrown.com/wp/comic-book-artwork/
+- https://reaganlodge.com/tools
+- http://www.michaeleregina.com/blog/how-to-finish-graphic-novels-and-have-a-full-time-job/
+- https://dw-wp.com/resources/cartooning-quickguides/quickguides-scanning/ - scanning
+- https://cryptocomics.com/blog/C/2022/01/06/HOW-TO-SCAN-PHYSICAL-ART-FOR-A-DIGITAL-FORMAT-1195 - scanning
+- https://matthewchilders.com/prepping-comic-art/ - scanning
+
 
 ## Design tips
 
@@ -24,6 +44,10 @@
   - https://www.youtube.com/watch?v=RZZ6_F84FIg
 - https://inspiringoddsnsods.tumblr.com/search/cover+copy - lettering
 - https://creativetechnologydigest.substack.com/p/depth2image-ai-use-case-round-up - ai art
+- https://www.page45.com/store/How-To-Create-Graphic-Novels.html
+- https://en.wikipedia.org/wiki/Vaporwave
+- https://www.artistsnetwork.com/art-history/masters-10-great-drawers-and-what-they-teach-us/
+
 
 ## References and photos
 
@@ -39,7 +63,24 @@
 - https://inspiringoddsnsods.tumblr.com/image/145722775803
 - https://inspiringoddsnsods.tumblr.com/image/156221450248
 - https://inspiringoddsnsods.tumblr.com/post/171695408338/original-art-scans-of-the-two-page-hellboy-story
-
+- https://www.lambiek.net/comiclopedia/artist-compendium.html - comic artists
+- https://neal.fun/wonders-of-street-view/ - street view interesting things
+- https://www.posemaniacs.com/poses
+- https://commons.wikimedia.org/wiki/File:A_man_taking_off_his_hat._Photogravure_after_Eadweard_Muybri_Wellcome_V0048631.jpg
+- https://www.gettyimages.com/detail/news-photo/plate-336-from-muybridges-animal-locomotion-eadweard-news-photo/90728244
+- https://es.m.wikipedia.org/wiki/Archivo:A_horse_jumping_a_hurdle._Photogravure_after_Eadweard_Muybri_Wellcome_V0048754.jpg
+- https://line-of-action.com/practice-tools/figure-drawing
+- https://help-me-draw.tumblr.com/post/122443419755/figure-reference-manual
+- https://winmortimertrust.com/examples/
+- http://www.theillustratedpress.com/ - illustration magazine
+- https://designstudiopress.com/ - books
+- https://drawthrough.blogspot.com/
+- https://books.21-draw.com/ - illustrator books
+- http://grizandnorm.squarespace.com/tuesday-tips
+- http://theetheringtonbrothers.blogspot.com/2019/09/how-to-think-when-you-write-instinct.html
+- http://theetheringtonbrothers.blogspot.com/
+- https://www.parkablogs.com/content/instructional-and-reference-art-books
 
 ## Animation
 - https://animationobsessive.substack.com/p/the-violent-beautiful-animation-you
+- https://darren-nemeth.squarespace.com/how-to-film-moving-pictures-in-the-1910s

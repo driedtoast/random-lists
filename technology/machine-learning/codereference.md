@@ -1,6 +1,8 @@
 - https://github.com/samueljackson92/coranking
 - https://colab.research.google.com/drive/1EIS7mAu4qcLsoEzQqREuxxaAX9Vmwt7H?usp=sharing - stable diffusion
 - https://github.com/JournalismAI-2021-Quotes/quote-extraction - content extraction
+- https://github.com/avgupta456/yhack-2022 - graph decisions
+- https://github.com/james-tn/Text_Summarization
 
 ## Chatgpt
 
@@ -27,6 +29,11 @@
 - https://github.com/sirajeddineaissa/aws-openai-instagram-generator
 - https://github.com/bitswired/ai-chat-app - with dalle support
 - https://github.com/mayooear/gpt4-pdf-chatbot-langchain - pdf extraction
+- https://github.com/XingangPan/DragGAN - image manipulation through dragging around
+- https://superagi.com/ - coding agents
+
+## Palm
+- https://github.com/google/paxml
 
 ## Deepmind
 

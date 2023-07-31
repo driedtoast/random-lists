@@ -4,6 +4,8 @@
 - https://www.kaleido.ai/
   - https://www.remove.bg/
 - https://www.screenstab.com/editor/ - screenshot editor
+- https://redketchup.io/ - image tools
+- https://croppola.com/
 
 ## Design system / Branding
 
@@ -75,6 +77,7 @@
 ## Illustration
 
 - https://venngage.com/
+- https://undraw.co/ - open source repo
 - https://justsketch.me/ - digital poses
 - https://girihdesigner.com/ - tiling
 - https://firealpaca.com/
@@ -83,6 +86,9 @@
 - https://openai.com/dall-e-2/ - ai art
 - https://mypaintingclub.com/blog/post/39-The-Gamut-Mask-Tool - color selection
 - https://jamie-rollo.itch.io/gamut-maker
+- https://www.truegrittexturesupply.com/products/krafttone - old comic feel
+- https://www.aige-hipaint.com/ - procreate like
+- https://www.truegrittexturesupply.com/collections/affinity/products/the-rusty-nib-for-photoshop-procreate-clipstudio-affinity
 
 ## Animation
 
@@ -147,3 +153,4 @@
 - https://docs.midjourney.com/
 - https://www.artssy.co/
 - https://mondayhero.io/
+- https://www.fiction.com/

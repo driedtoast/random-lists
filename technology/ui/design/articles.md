@@ -52,3 +52,8 @@
 - https://www.toolfarm.com/tutorial/infinite-zoom/
 - https://sudonull.com/post/123252-Create-Zoomquilt
 - http://jsjoy.com/blog/169/pseudo-quilt-zoom-with-javascript
+
+
+## Inspirational site designs
+- https://livepeer.studio/login?next=%2Fdashboard
+- https://www.composer.trade/

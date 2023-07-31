@@ -52,6 +52,7 @@
 - https://astro.build/ - for island architecture
 - https://lwc.dev/
   - https://github.com/Templarian/lwc-ui
+- https://github.com/hattipjs/hattip
 
 
 ## Plugin utils
@@ -348,3 +349,10 @@
 - https://react-joyride.com/
 - https://get.foundation/sites/docs-v5/components/joyride.html
 - https://github.com/socialtables/react-user-tour
+
+## Emails
+
+- https://github.com/Automattic/juice
+  - https://github.com/Automattic/juice/blob/master/PROJECTS.md
+- https://github.com/notifme/notifme-template
+- https://github.com/maizzle/maizzle

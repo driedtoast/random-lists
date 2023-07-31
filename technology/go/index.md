@@ -24,3 +24,6 @@
 
 ## utilities
 * https://github.com/philhassey/goatlang - scripting language
+
+## Image processing 
+* https://github.com/cshum/imagor

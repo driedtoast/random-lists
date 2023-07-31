@@ -14,3 +14,8 @@
 ## Comics
 
 - https://www.creatorresource.com/
+- https://www.comicsbeat.com/chip-zdarsky-public-domain-comic-series/
+- https://theslingsandarrows.com/category/mystery/ - reviews
+
+## Books
+- https://standardebooks.org/ebooks/e-c-bentley/trents-last-case

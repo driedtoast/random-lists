@@ -44,9 +44,30 @@
 - http://jetpacksandrollerskates.com/ - cartoony / skateboard feel
 - https://www.instagram.com/deividipansera/ - cybermedival
 - https://www.lauraswalley.com/ - clean design
+- https://oliviasullivanillustration.co.uk/ - medieval like art
+  - https://oliviasullivanillustration.co.uk/Illustration/The-Death-of-Dr-Island
+- https://anapenyas.es/los-dias-rojos-de-la-memoria/
+- https://www.joshuahogan.work/
+- https://poqu-a-doodle.com/art/ - anime background art, cartoony
+- https://ma4ps.artstation.com/ - fantasy cartographer
+- https://dwdesign.tumblr.com/ - futuristic stuff
+- https://www.iamag.co/the-fifth-element-40-original-concept-art-gallery/
+- https://www.inprnt.com/gallery/alariko/
+- https://www.redbubble.com/people/japhethsart/shop?asc=u
+- https://haanlee.com/Sad-Vegetables
+- https://www.behance.net/boyanbosilek/projects
+- https://peterhanstyle.artstation.com/ - has a book 
+  - https://superanius.com/products/peter-han
+- https://www.silvertoons.com/store/character-design-handbook
+- https://www.cutterhays.com/
+- https://thelist.thenounproject.com/thelist/helen-lee
 
 ## Comic Artists
 
+- https://www.mrjakeparker.com/
+  - https://www.mrjakeparker.com/characters
+- https://reaganlodge.com/wyit
+  - https://reaganlodge.com/field-art
 - https://www.upstartcomics.com/salome - Marisa Brignole
 - https://www.andersoncarman.com/ - atl
 - https://www.leegatlin.com/ - athens
@@ -97,6 +118,30 @@
 - https://www.instagram.com/deathstar_soy/
 - http://www.steveellisart.com/
 - https://www.instagram.com/cullyhamner/
+- https://www.instagram.com/stefcardoselli/
+- https://www.tomgauld.com/comic-books-v2
+- https://billsienkiewiczart.com/
+- https://www.timmcburnie.com/ - mobius like styling
+  - https://www.timmcburnie.com/pinocchio-2014
+- https://www.olyoptics.com/ 
+- https://twitter.com/josevillarrubia - restores old comic colors / great approach
+- https://www.woodencrown.com/
+- https://super75studios.com/colors/
+- https://whmorris.com/
+- http://www.tommyleeedwards.com/
+- https://www.drawingupastorm.com/ - fun style and coloring
+  - https://www.drawingupastorm.com/spirits-the-soul-collector-2
+- https://brockart.format.com/ - cartoony
+- https://travisbhillcomics.com/work - interesting
+- https://markpate.com/ - teams with ^
+- https://www.sofiedodgson.com/bitterroot - colorist
+- https://www.deviantart.com/greenestreet
+- https://jordilafebre.format.com/ - very clean style 
+- https://www.theshepherdcomic.com/
+- https://benbauchau.com/illustration
+- https://myth.works/ - manga'ish comic
+- https://www.secondatbestpress.com/ 
+- https://www.beanleafpress.com/
 
 ## Animators
 
@@ -114,3 +159,5 @@
 - http://www.technouveau.net/ - models as well
 - https://www.ordinaryfolk.co/ - studio
 - https://www.wodzgn.com/ - github animator
+- https://www.okeefeartist.com/
+- https://mingjuechen.carbonmade.com/projects/5713864

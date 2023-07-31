@@ -13,6 +13,8 @@
 - https://www.elsasalonen.com/ - glass works
 - https://www.carmen-marcos.art/
 - https://jamesgurney.com/
+- https://www.abakanowicz.art.pl/
+- https://www.wikiart.org/en/fra-bartolomeo
 
 ## Art auctions / investments
 

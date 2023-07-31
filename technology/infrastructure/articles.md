@@ -25,6 +25,7 @@
 - https://news.ycombinator.com/item?id=26103776
 - https://deploymentfromscratch.com/
 - https://www.indiehackers.com/post/how-do-you-host-your-saas-eb894f83ea
+- https://microsaashq.com/insights/setup-custom-domain-support-micro-saas
 
 # AWS
 
@@ -182,6 +183,7 @@
 - https://tailscale.com/blog/2021-09-private-dns-with-magicdns/
 - http://neilsmind.com/2016/11/21/docker-config-on-new-macbook.html
   - https://gist.github.com/eloypnd/5efc3b590e7c738630fdcf0c10b68072
+- https://saascustomdomains.com/blog/posts/the-ultimate-guide-to-custom-domains-for-your-saas-app
 
 ## Cert management
 
@@ -212,3 +214,19 @@
 - https://atrium.ai/resources/how-to-implement-salesforce-ci-cd-with-github-actions/ - ci 
 - https://github.com/marketplace/actions/salesforce-deploy-action
 - https://developer.salesforce.com/blogs/2020/01/using-salesforce-dx-with-github-actions
+
+# Image hosting / processing
+- https://imagekit.io/plans/
+- https://kraken.io/
+- https://imageboss.me/
+- https://www.libpixel.com/
+- https://bunny.net/
+- https://www.storyblok.com/docs/image-service
+- https://bunny.net/optimizer/transform-api/
+- https://imgix.com/
+- https://filebase.com/
+- https://uploadcare.com/
+- https://redketchup.io/ - image tools
+- https://iiif.io/api/image/3.0/
+- https://tiny.pictures/
+- https://optimole.com/

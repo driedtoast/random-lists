@@ -6,3 +6,4 @@
 ## Machine learning
 
 * https://github.com/selfint/OpenAIGym-HelloWorld
+* https://github.com/openai/openai-cookbook/blob/main/examples/Semantic_text_search_using_embeddings.ipynb

@@ -30,6 +30,9 @@
 - https://stillwaterswoodworks.com/
 - https://lawsonfenning.com/
 - https://therisingtide.com/
+- https://pedullastudio.com.au/
+- https://therisingtide.com/
+- https://www.thosmoser.com/
 
 ## Furniture supplies
 

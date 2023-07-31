@@ -162,7 +162,9 @@
 - https://www.ssdnodes.com/ - hmm could run dokku on it
 - https://www.hetzner.com/?country=en
 - https://www.vultr.com/
-- https://piku.github.io/ = paas tooling
+- https://piku.github.io/ - paas tooling
+- https://chunk.run/ - paas like with functions
+- https://www.nodechef.com/ - ruby, etc...
 
 ## Kubernetes
 

@@ -83,6 +83,7 @@
 - https://www.primary.app/ - for agencies
 - https://www.runn.io/ - resource management
 - https://norushapp.com/ - with timer
+- https://www.shortcut.com/
 
 ### Agile
 
@@ -102,6 +103,8 @@
 - https://www.launchnotes.com/ - roadmap management, rollout
 - https://www.getbeamer.com/ - change log
 - https://releasenotes.io/ - release notes
+- https://gapscout.com/ - gap analysis
+- https://explodingtopics.com/ - topic analysis
 
 ## Insurance
 

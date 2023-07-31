@@ -36,6 +36,7 @@
 - https://laskie.com
 - https://www.wonolo.com/
 - https://www.letsdeel.com/
+- https://circular.io/
 
 ## HR management
 

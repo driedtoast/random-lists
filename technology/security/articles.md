@@ -46,6 +46,7 @@
 * https://stytch.com/docs/api/authenticate-otp
 * https://privacyidea.readthedocs.io/en/latest/modules/api/validate.html#post--validate-check
 * https://github.com/google/google-authenticator-android/blob/master/java/com/google/android/apps/authenticator/barcode/BarcodeCaptureActivity.java 
+* https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021#authentication-with-magic-links - email links
 
 ## Google auth implementation
 * https://github.com/google/google-authenticator-android/blob/6f65e99fcbc9bbefdc3317c008345db595052a2b/java/com/google/android/apps/authenticator/AuthenticatorActivity.java#L952

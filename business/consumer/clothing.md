@@ -59,6 +59,7 @@
 - https://standardandstrange.com/
 - https://www.travismathew.com/TM/BOTTOMS/Pants/c/0142
 - https://huckberry.com/store/flint-and-tinder
+- https://www.h-gents.com/ - hats
 
 ## Watches
 
@@ -84,9 +85,15 @@
 - https://youtu.be/BL8R5woxyAY -sofubi process
 - http://rampage-toys.blogspot.com/2011/09/making-sofubi-how-it-all-works.html
 - https://duffyspuppets.com/
+- https://super7.com/pages/about-us
 
 ## Print on demand
 
+`on demand t-shirt printing Next Level Jersey T‑shirt`
+
+- https://www.uberprints.com/
+  - https://www.uberprints.com/custom-t-shirts/premium-t-shirts
+- https://www.customink.com/
 - https://launchcart.com/ - commerce setup with printflu
 - https://www.printful.com/
 - https://www.gelato.com/en-US/integrations/

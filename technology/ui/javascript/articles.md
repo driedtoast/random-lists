@@ -90,6 +90,7 @@
 - http://templarian.com/2020/02/13/svg-to-animated-gif/
 - http://davideyork.com/
 - https://www.pixelhop.io/writing/building-an-animated-svg-logo-with-animejs/
+- https://speckyboy.com/8-css-javascript-snippets-for-creating-beautiful-bokeh-effects/
 
 ## Phaser
 
@@ -119,3 +120,4 @@
 - https://badassjs.com/
 - https://www.spicyweb.dev/ - also css and such
 - https://www.pixelhop.io/writing/
+- https://neal.fun/ - has some great simulation fun stuff

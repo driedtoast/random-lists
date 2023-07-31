@@ -8,6 +8,10 @@
 - https://twitter.com/cwolferesearch/status/1631434027662966787
 - https://karpathy.ai/zero-to-hero.html
 - https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/ - task automator agent
+- https://viper.cs.columbia.edu/?utm_source=aibreakfast.beehiiv.com&utm_medium=referral&utm_campaign=vipergpt-ai-avatar-creation-and-how-to-introduce-your-employees-to-ai - viper gpt
+- https://research.google/resources/
+- https://en.wikipedia.org/wiki/Marchetti%27s_constant#:~:text=Marchetti's%20constant%20is%20the%20average,for%20a%20one%2Dway%20trip.
+- https://github.com/zhijing-jin/Causality4NLP_Papers
 
 ## Dashboards
 
@@ -35,6 +39,8 @@
 - https://www.evidentlyai.com/ml-platforms
 - https://github.com/gesiscss/awesome-computational-social-science
 - https://yoheinakajima.com/
+- https://aibreakfast.beehiiv.com/
+- https://www.notboring.co/p/intelligence-superabundance
 
 ## Content Generation
 - https://openai-experiment.vercel.app/resources

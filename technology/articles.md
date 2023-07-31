@@ -5,6 +5,7 @@
 - https://en.wikipedia.org/wiki/Event-driven_finite-state_machine
 - https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
 - https://rapidapi.com/comics - api comic descriptions
+- https://github.com/workos/awesome-developer-experience - developer ex article links
 
 ## Algorithms
 
@@ -13,6 +14,7 @@
 - https://twobithistory.org/2019/11/06/doom-bsp.html
 - https://cgvr.cs.uni-bremen.de/teaching/geom_literatur/A%20Tutorial%20on%20Binary%20Space%20Partitioning%20Trees%20-%20Bruce%20F.%20Naylor.pdf
 - https://github.com/pim-book/programmers-introduction-to-mathematics
+- https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/
 
 ## News
 

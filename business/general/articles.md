@@ -28,6 +28,7 @@
 - https://twitter.com/nikitabier/status/1481118406749220868 - tips on product testing
 - https://www.buzzfeednews.com/article/ryanmac/facebooks-teens-tbh-psychological-trick-memo - stickiness
 - https://summation.net/2021/01/09/eight-napkin-graphs-to-building-a-unicorn/
+- https://blog.getshaped.co/i-asked-100-developers-pms-how-they-build-software-heres-the-results-2a1e3fc9fec0
 
 ## Bootstrap tips
 
@@ -48,7 +49,15 @@
   - https://www.jimraptis.com/blog/from-idea-to-launch-in-16-days
   - https://www.jimraptis.com/blog/marketing-actions-for-technical-founders
 - https://www.swiftjectivec.com/win-the-week-ios-hack-project/
+- https://www.indiehackers.com/post/dont-box-yourself-to-saas-tools-for-passive-income-b908810058
+- https://www.indiehackers.com/post/after-2-years-of-building-saas-ive-quit-my-full-time-job-need-an-advice-on-crowdfunding-de69613bb9
+- https://microsaashq.com/insights
+- https://microsaashq.com/insights/micro-saas-news-june-week3-2023
+- https://microsaashq.com/insights/micro-saas-ideas-recap-2022-plan-2023
+- https://microsaashq.com/insights/saas-startups
+- https://microsaashq.com/insights/setup-custom-domain-support-micro-saas
 
 
 ## Thinking
 - https://fs.blog/mental-models/
+- https://www.browserbear.com/blog/8-boring-but-profitable-saas-ideas/

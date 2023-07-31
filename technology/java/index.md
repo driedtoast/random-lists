@@ -28,6 +28,10 @@
 - https://helidon.io/
 - https://isis.apache.org/
 - https://vaadin.com/flow
+- https://bootique.io/ - spring alternative
+
+## Distributed / Threads
+- https://resilience4j.readme.io/docs/timeout
 
 ### CLI
 
@@ -51,6 +55,7 @@
 - https://github.com/p6spy/p6spy
 - https://github.com/apereo/inspektr
 - https://github.com/openzipkin/brave
+- https://www.hawkular.org/
 
 ## Builds
 
@@ -61,6 +66,8 @@
 - http://www.statefulj.io/fsm/
 - https://github.com/j-easy/easy-states
 - https://github.com/Beh01der/EasyFlow
+- https://www.activiti.org/
+- https://projectreactor.io/
 - https://github.com/NitorCreations/nflow - micro service style
   - https://github.com/NitorCreations/nflow/wiki/Getting-Started
 
@@ -106,6 +113,7 @@
 - https://trino.io/ - data analytics
 - https://shardingsphere.apache.org/ - data sharding 
 - https://trino.io/ - query engine
+- https://elide.io/ - graph db / query
 
 ## Event processing
 
@@ -152,6 +160,13 @@
 - https://pushy-apns.org/ - push notifications
 - https://github.com/dinstone/focus - jrpc
 - https://github.com/dinstone/jrpc - jrpc
+- https://debezium.io/ - stream from db
+- https://kaoto.io/
+
+## rules engines
+- https://kogito.kie.org/
+- https://www.drools.org/
+- https://www.optaplanner.org/
 
 ## SDK generation
 

@@ -6,6 +6,7 @@
 - https://airspacelink.com/ - drone system api
 - https://www.canvas.build/ - construction bots
 - https://www.amprobotics.com/ - recycling
+- https://agentgpt.reworkd.ai/ - bots
 
 ## Robotics
 
@@ -39,6 +40,7 @@
 - https://www.chatbase.co/
 - https://oasisprotocol.org//blog/oasis-personal-ai-privacy
 - https://www.obviously.ai/ - no code ai
+- https://www.paperspace.com/
 
 ## Text to speech
 
@@ -61,3 +63,4 @@
 - https://www.anthropic.com/ - safe ai?
 - https://gradio.app/ 
 - https://www.anthropic.com/product
+- https://superagi.com/ - deployment of ai bots

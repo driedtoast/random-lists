@@ -1,6 +1,7 @@
 - https://www.typescriptlang.org/play
 - https://github.com/yangshun/lago - algorithms in typescript
 - https://nestjs.com/ - micro services
+- https://github.com/produck/svg-captcha - svg captcha
 
 ## Linting
 
@@ -62,3 +63,4 @@
 ## AI lib
 
 - https://github.com/yudax42/askai
+- https://microsoft.github.io/TypeChat/ - structured language models

@@ -24,6 +24,7 @@
 - https://fragment.dev/
 - https://payze.io/ - in soviet union
 - https://www.currencycloud.com/technology/collect/
+- https://kindest.com/ - donations
 
 ## Orchestration
 
