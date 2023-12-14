@@ -6,3 +6,4 @@
 
 ## UI 
 * https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html
+* https://betterprogramming.pub/the-complete-guide-to-building-and-deploying-a-notes-app-with-typescript-rust-postgresql-70b769770000

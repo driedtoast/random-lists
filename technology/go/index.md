@@ -27,3 +27,7 @@
 
 ## Image processing 
 * https://github.com/cshum/imagor
+* https://github.com/bep/goat - ascii diagrams
+
+## Database 
+* https://entgo.io/

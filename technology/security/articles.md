@@ -26,10 +26,20 @@
 
 ### Testing
 * https://jgurda.medium.com/how-to-mock-google-oauth2-api-in-three-easy-steps-28a908563c1e
+* http://www.matthewflickinger.com/lab/whatsinagif/bits_and_bytes.asp - gif with xss
+* https://en.wikipedia.org/wiki/EICAR_test_file
+* https://datatracker.ietf.org/doc/html/rfc7457#section-2.3
+* https://labs.detectify.com/2015/05/28/building-an-xss-polyglot-through-swf-and-csp/
+* https://cspvalidator.org/#url=https://cspvalidator.org/
+* https://observatory.mozilla.org/
+* https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/09-Test_Upload_of_Malicious_Files
+* http://hooked-on-mnemonics.blogspot.com/2011/01/intro-to-creating-anti-virus-signatures.html
 
 ## Zero Trust
 * https://www.paloaltonetworks.com/cyberpedia/what-is-a-zero-trust-architecture
 * https://magic-wormhole.readthedocs.io/en/latest/attacks.html
+* https://content-security-policy.com/
+
 
 ## Cryptography
 * https://www.javamex.com/tutorials/cryptography/ciphers.shtml

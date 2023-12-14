@@ -12,6 +12,8 @@
 - https://redwoodjs.com/ - sort of a consultancy and a framework
 - https://github.com/monstar-lab-oss/reactjs-boilerplate
 - https://github.com/leochoo/notus-react - admin like interface for react
+- https://wasp-lang.dev/ - full stack dev
+  - https://github.com/wasp-lang/wasp
 
 ## General
 
@@ -137,6 +139,7 @@
 - https://github.com/MadAppGang/react-selections
 - https://github.com/krismuniz/proto-arrows
 - https://github.com/dragonman225/curved-arrows
+- https://react-querybuilder.js.org/ - query builder
 
 ## Charting Libs / Dashboards
 
@@ -153,6 +156,13 @@
 - https://software.es.net/react-timeseries-charts/#/guide/intro - clean for time series
 - https://react-charts.tanstack.com/
 - https://github.com/amcharts/amcharts5
+- https://www.tremor.so/
+- https://github.com/0wczar/airframe-react
+- https://berrydashboard.io/
+- https://charts.rsuitejs.com/
+- https://github.com/xavivzla/Funnel-React
+- https://horizon-ui.com/docs-tailwind/docs/react/charts
+- https://github.com/cruip/tailwind-dashboard-template
 
 ## Style
 

@@ -16,6 +16,7 @@
 - https://www.helpdesk.com/saas-help-desk/
 - https://www.helpscout.com/
 - https://www.bevy.com/
+- https://fogbender.com/
 
 ## Live chat
 

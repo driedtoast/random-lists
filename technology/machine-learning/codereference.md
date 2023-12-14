@@ -31,6 +31,7 @@
 - https://github.com/mayooear/gpt4-pdf-chatbot-langchain - pdf extraction
 - https://github.com/XingangPan/DragGAN - image manipulation through dragging around
 - https://superagi.com/ - coding agents
+- https://github.com/LouisShark/chatgpt_system_prompt
 
 ## Palm
 - https://github.com/google/paxml
@@ -38,3 +39,7 @@
 ## Deepmind
 
 - https://github.com/deepmind/dm_control
+
+## Generative art
+
+- https://github.com/MaxHalford/procedural-art

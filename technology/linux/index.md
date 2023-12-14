@@ -30,6 +30,7 @@
 ## Git
 
 - https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/
+- https://git-lfs.com/
 
 ## Emulation / Old hardware
 - https://www.retrodev.com/blastem/ - sega

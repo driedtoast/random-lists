@@ -12,6 +12,7 @@
 - https://css-tricks.com/open-props-and-custom-properties-as-a-system/
 - https://www.falldowngoboone.com/blog/share-variables-between-javascript-and-css/ - sharing stuff
 - https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/
+- https://alvaromontoro.com/projects - css drawings and such
 
 ## Sizing
 
@@ -21,6 +22,7 @@
 ## Animation
 
 - https://cssanimation.rocks/
+- https://blog.openreplay.com/animations-and-transitions-with-tailwind-css/
 
 ## Fonts
 

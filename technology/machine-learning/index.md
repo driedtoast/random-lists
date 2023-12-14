@@ -53,6 +53,9 @@
   - https://github.com/bentoml/
   - https://docs.bentoml.org/en/latest/index.html
 - https://www.datature.io/blog/how-to-use-api-deployment-for-trained-model-inference
+- https://www.deepspeed.ai/ - microsoft
+- https://riverml.xyz/0.19.0/ - online python
+- https://github.com/MaxHalford/naked
 
 ## Regression and Classification
 

@@ -6,6 +6,8 @@
 - https://www.redhat.com/sysadmin/container-image-short-names
 - https://iximiuz.com/en/
 - https://forums.docker.com/t/restart-docker-from-command-line/9420/8
+- https://runfinch.com/docs/getting-started/running-containers/
+- https://evilmartians.com/chronicles/build-images-on-github-actions-with-docker-layer-caching
 
 ## Networking
 
@@ -113,10 +115,12 @@
 - https://minhajuddin.com/2020/05/06/how-to-create-temporary-bastion-ec2-instances-using-terraform/
 - https://www.phillipsj.net/posts/random-things-with-terraform/
 - https://medium.com/hashicorp-engineering/how-to-implement-a-zero-trust-lab-with-hashicorp-in-an-hour-5934f5697d24
+- https://dev.to/rotemtam/creating-terraform-like-configuration-languages-with-hcl-and-go-243l - terraform dsl language approach
 
 ## DB migrations
 
 - https://engineering.instawork.com/elegant-database-migrations-on-ecs-74f3487da99f
+- https://atlasgo.io/guides/deploying/aws-ecs-fargate
 
 ## ECS
 
@@ -230,3 +234,7 @@
 - https://iiif.io/api/image/3.0/
 - https://tiny.pictures/
 - https://optimole.com/
+
+# Security
+
+- https://github.com/prowler-cloud/prowler

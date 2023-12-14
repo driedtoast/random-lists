@@ -53,6 +53,19 @@
 - https://lwc.dev/
   - https://github.com/Templarian/lwc-ui
 - https://github.com/hattipjs/hattip
+- https://umbrellajs.com/ - tiny dom manipulator jquery like
+- https://kickstand-ui.com/ - web component
+- https://rocket.modern-web.dev/
+- https://modern-web.dev/
+- https://enhance.dev/
+- https://begin.com/
+- https://www.11ty.dev/docs/languages/webc/
+- https://ui.shadcn.com/
+- https://www.kuma-ui.com/
+- https://zagjs.com/
+- https://ariakit.org/
+- https://shoelace.style/
+- https://github.com/open-wc/custom-elements-manifest
 
 
 ## Plugin utils
@@ -83,6 +96,7 @@
 ## Site generation
 
 - https://github.com/segmentio/metalsmith
+- https://vitepress.dev/
 
 ## Analytic Library
 
@@ -141,7 +155,11 @@
 - https://github.com/karpathy/convnetjs - neural net
 - https://yogalayout.com/ - layout
 - https://conform.guide/ - validation
-
+- https://just-validate.dev/ - validation
+- https://highlightjs.org/ - code rendering
+- https://www.fusejs.io/ - site search
+- https://lunrjs.com/ - search
+- https://tscanlin.github.io/tocbot/ - create toc based on headers of page
 
 ## Music
 
@@ -166,6 +184,7 @@
 - https://github.com/bytedance/bytemd - markdown
 - https://milkdown.dev/ - has a component approach could do fountain with this
 - https://mermaid-js.github.io/mermaid/#/ - diagramming tool
+- https://trix-editor.org/
 
 ## Code quality
 
@@ -198,6 +217,8 @@
 - https://interactjs.io/ - drawring lib
 - https://github.com/aheckmann/gm
 - https://ricostacruz.com/jquery.transit/#top
+- https://modelviewer.dev/ - 3d model viewer
+- https://villain.js.org/ - comic viewer
 
 ### Animation
 
@@ -210,6 +231,7 @@
 - https://popmotion.io/
 - https://github.com/hakimel/Ladda
 - https://github.com/hakimel/Fokus
+- https://www.tailwindcss-animated.com/ - through css
 
 ## Phaser
 

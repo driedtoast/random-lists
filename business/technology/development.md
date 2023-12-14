@@ -35,6 +35,10 @@
 - https://www.glideapps.com/ - with ai
 - https://debuild.app/ - with ai conversation
 - https://www.illacloud.com/
+- https://www.brevity.io/ 
+- https://stately.ai/ - ai analysis of app
+- https://wappler.io/
+- https://fastgen.com/ - for backend development
 
 ## Components
 
@@ -64,11 +68,13 @@
 ## Learning
 
 - https://www.educative.io/
+- https://fireship.io/
 
 ## Productivity
 
 - https://www.software.com/
 - https://trunk.io/
+- https://gogs.io/ - self service git
 
 ## Workflow / Automation
 
@@ -77,6 +83,8 @@
 - https://www.nylas.com/
 - https://tonkean.com/
 - https://kaholo.io/ - deploy automation
+- https://release.com/
+- https://www.drone.io/ - auto build and deploy
 - https://camunda.com/
 - https://pipedream.com/
 - https://reflector.io/
@@ -87,6 +95,8 @@
 - https://www.stedi.com/ - data transformation
 - https://www.make.com/en - connecting tools and such
 - https://merge.dev/ - integration / data sharing service
+- https://runbear.io/ - ai tech support 
+- https://www.uffizzi.com/ - pr ci builds?
 
 ## Microservices
 
@@ -146,6 +156,7 @@
 - https://restdb.io/
 - https://www.citusdata.com/ - postgres at scale
 - https://nhost.io/ - firebase alternative
+- https://turso.tech/libsql - sqllite on the edge
 
 ## Data processing
 

@@ -21,6 +21,8 @@
 - https://epicreact.dev/articles
 - https://alexsidorenko.com/
 - https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11
+- https://blog.logrocket.com/build-fintech-app-plaid-react-native/
+- https://javascript.plainenglish.io/creating-a-financial-app-with-the-plaid-api-nodejs-express-and-react-4e142066eb6c
 
 ## Component
 
@@ -102,8 +104,9 @@
 - https://reactjs.org/docs/animation.html
 - https://www.atatus.com/blog/react-animation-libraries/
 - https://github.com/codebucks27/react-portfolio-final
-
+- https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects
 - https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
+
 
 ### Framer
 - https://framerbook.com/animation/example-animations/28-variants-staggered-animation/ - framerjs

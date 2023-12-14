@@ -52,6 +52,7 @@
 - https://kern.al/
 - https://www.launchhouse.com/
 - https://namy.ai/ - name generator
+- https://www.bootstrap.company/
 
 ## Culture / Goals
 
@@ -84,6 +85,7 @@
 - https://www.runn.io/ - resource management
 - https://norushapp.com/ - with timer
 - https://www.shortcut.com/
+- https://www.balsa.com/
 
 ### Agile
 

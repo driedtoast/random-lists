@@ -47,6 +47,7 @@
 - https://shipshape.io/
 - https://www.thisdot.co/
 - https://www.pixelhop.io/ - cool studio like site
+- https://www.airdev.co/ - no code agency
 
 ## Designers
 
@@ -97,6 +98,7 @@
 - https://www.imkylelambert.com/ - does a side comic strip too
 - https://nicoleiliana.com/
 - https://thenounproject.com/imogenoh/
+- https://louhuang.com/
 
 ## Book and publishing
 

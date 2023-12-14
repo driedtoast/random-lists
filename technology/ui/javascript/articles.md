@@ -18,6 +18,19 @@
 - https://javascript.info/cross-window-communication - cross window communication
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
 
+## Hugo
+
+- https://nathan.exchange/posts/p5js-background-for-hugo/
+- https://hugomods.com/en/docs/enhancement/aos/
+- https://hugomods.com/en/
+- https://hugomods.com/en/docs/images/
+- https://hugomods.com/en/docs/pwa/
+- https://hugomods.com/en/docs/comment-engines/utterances/
+  - https://utteranc.es/
+- https://josem.co/how-to-render-a-react-component-in-hugo/
+- https://www.thesciencegab.com/posts/hugo--react--babel--github-pages/
+- https://github.com/kaihendry/react-hugo-esbuild
+
 ## Text and Labeling
 
 - https://dev.to/adrai/how-does-server-side-internationalization-i18n-look-like-5f4c
@@ -121,3 +134,15 @@
 - https://www.spicyweb.dev/ - also css and such
 - https://www.pixelhop.io/writing/
 - https://neal.fun/ - has some great simulation fun stuff
+
+
+## Web components
+- https://www.webcomponents.org/
+- https://component.gallery/
+- https://genericcomponents.netlify.app/
+- https://github.com/davatron5000/awesome-standalones
+- https://kinsta.com/blog/web-components/
+- https://github.com/LostInBrittany/web-components-in-2023
+- https://daverupert.com/2023/07/why-not-webcomponents/
+- https://www.builder.io/blog/25-plus-ui-component-libraries
+- https://dev.to/stuffbreaker/seo-and-web-components-2023-edition-3l6i

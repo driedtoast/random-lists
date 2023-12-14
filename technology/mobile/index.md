@@ -6,6 +6,11 @@
 ## Platforms
 
 - https://github.com/appwrite/appwrite
+- https://pocketbase.io/ - database
+    - https://pockethost.io/
+    - https://github.com/tobicrain/pocketbase-react
+    - https://github.com/rohitsangwan01/pocketbase_server_flutter
+    - https://litestream.io/ - backup support
 
 ## Libraries
 
@@ -20,6 +25,7 @@
 
 - https://phosphoricons.com/
 - https://thenounproject.com/
+- https://github.com/louh/semiotic-standard
 
 ## Video / Graphics
 
@@ -36,6 +42,19 @@
 - https://github.com/JHBitencourt/beautiful_timelines
 - https://github.com/rive-app/rive-flutter
 - https://cjycode.com/flutter_rust_bridge/
+- https://github.com/sjhorn/mason_bricks
+- https://github.com/sjhorn/scaffolding
+- https://flame-engine.org/ - game engine
+- https://flutter.dev/games 
+- https://pub.dev/packages/flutter_markdown -  markdown interpreter
+- https://github.com/kurtome/leap
+- https://www.gameuidatabase.com/ - ui elements
+
+### Search
+- https://pub.dev/packages/lunr
+- https://pub.dev/packages/text_search
+- https://pub.dev/packages/fuzzy
+- https://github.com/sjhorn/dbul
 
 ### Starters
 

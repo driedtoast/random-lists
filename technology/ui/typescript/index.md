@@ -16,7 +16,16 @@
   - https://github.com/jaredpalmer/tsdx
 - https://rakkasjs.org/ - nextjs with vite
 - https://astro.build/ - static site building / cms
-
+- https://metalsmith.io/ - static site builder
+- https://getkirby.com/ - cms sort of
+- https://www.storyblok.com/ - cms headless
+- https://www.siteleaf.com/ - static site gen
+- https://www.tiiny.host/ - sharing host / site
+- https://strapi.io/ - cms 
+- https://hexo.io/ - static site gen
+- https://gridsome.org/ - static site gen vue
+- https://tina.io/docs/product-tour/ - small cms
+- https://getpublii.com/ - small cms
 
 ## P2P support
 
@@ -56,6 +65,7 @@
 - https://joi.dev/ - api doc validation
 - https://loopback.io/
 - https://nextlessjs.com/
+- https://gethyas.com/
 
 ## validation
 - https://zod.dev/

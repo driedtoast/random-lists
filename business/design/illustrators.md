@@ -61,6 +61,25 @@
 - https://www.silvertoons.com/store/character-design-handbook
 - https://www.cutterhays.com/
 - https://thelist.thenounproject.com/thelist/helen-lee
+- http://chodrawings.blogspot.com/- also comic book
+- https://www.forrestdickison.com/illustrations
+- https://www.dougjohnmiller.com/
+- https://calumalexanderwatt.com/ - concept artist
+- http://marcosmateu.blogspot.com/ - comic / concept artist
+- https://smalyon.wordpress.com/2011/11/
+- https://fvr.artstation.com/projects/4JVG2
+- https://www.enrique-fernandez.com/home/brigada/
+- https://gwenole.ultra-book.com/
+- https://www.galeriebarbier.com/product/pierre-henry-gomont-tirage-de-luxe-slava-1-apres-la-chute/?from=artist&from_id=112#img-20079
+  - https://www.europecomics.com/album/part-1-4/
+- https://elizaivanova.com/
+- https://karlkopinski.com/
+- https://ulisesfarinas.com/gallery/
+- https://tenhundredart.com/
+- https://mooseboy.co.uk/
+- https://greyhawkins.com/Intro
+- https://franquin.tumblr.com/page/1
+- http://www.roncobb.net/st.html - concept artist
 
 ## Comic Artists
 
@@ -97,6 +116,7 @@
 - https://seangallowayart.gumroad.com/
   - https://tabletaffy.bigcartel.com/products - cartoony style
 - https://www.dereklaufman.com/ - indie creator, nice style
+- https://mateuszurbanowicz.com/
 - https://www.toonhoundstudios.com/ - cartoonist
 - https://www.calebhenshawdesign.com/
 - https://www.stefanocardoselli.com/
@@ -142,6 +162,18 @@
 - https://myth.works/ - manga'ish comic
 - https://www.secondatbestpress.com/ 
 - https://www.beanleafpress.com/
+- http://blogylapiz.blogspot.com/
+- http://www.sergiogerasi.com/
+- https://www.danielhenriques.art/
+- https://maleev.com/wp/
+- https://www.hummingfluff.com/
+- http://matt-illustration.squarespace.com/lake-of-fire-1/
+- https://sarahwebb.site/
+- https://craigthompsonbooks.com/
+- https://www.cokercoop.com/ - outcasts of jupiter
+- http://www.kennyruiz.com/ - nice storyboard style
+- https://www.artstation.com/piazzalunga86 - car chases
+- https://danschkade.com/ - remaking flash gordon into modern style art
 
 ## Animators
 
@@ -161,3 +193,4 @@
 - https://www.wodzgn.com/ - github animator
 - https://www.okeefeartist.com/
 - https://mingjuechen.carbonmade.com/projects/5713864
+- https://www.rezariahi.com/breadwinner

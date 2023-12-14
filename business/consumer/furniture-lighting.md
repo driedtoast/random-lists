@@ -10,6 +10,7 @@
 - https://usa.flos.com/
 - https://mantarlamps.com/products/lantern?variant=42974786191601 - nice ambient desk lamp
 - https://www.gantri.com/
+- https://tru-tone.com/ - christmas lights
 
 ## Houseware
 

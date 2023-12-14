@@ -24,6 +24,7 @@
 - https://saucelabs.com/platform/api-testing
 - https://nonamesecurity.com/ - security for api
 - https://github.com/OWASP/wstg
+- https://bitdrift.io/
 
 ## Infrastructure in a box
 
@@ -138,6 +139,7 @@
 - https://azure.microsoft.com/en-us/products/app-service/
 - https://www.sunlight.io/
 - https://www.stellarhosting.com/
+- https://kinsta.com/ - paas
 - https://www.deta.sh/ - paas / free
 - https://render.com/ - heroku like
 - https://www.datapacket.com/

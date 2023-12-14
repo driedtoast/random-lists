@@ -33,6 +33,9 @@
 - https://nuphy.com/
 - https://www.thepnkstuff.com/
 - https://mechdiy.com/
+- https://www.zsa.io/moonlander/ - ergo 
+- https://keystonejs.com/
+- https://keystatic.com/
 
 ## Crypto
 
@@ -56,6 +59,8 @@
 - https://www.cakeofdoom.com/
 
 - https://www.workwithindies.com/ - indie studio jobs
+- https://www.devolverdigital.com/games/wizard-with-a-gun
+- http://www.traplabs.net/
 
 ## Game servers
 
@@ -79,6 +84,9 @@
 - https://www.worthingtonpublishing.com/
 - https://www.mighty-boards.com/
 - https://www.manticgames.com/
+- https://www.distantrabbitgames.com/
+- https://www.familiargames.net/
+- https://pickpocketgames.com/ - athens i think
 
 ## Hardware
 
@@ -86,3 +94,4 @@
 - https://www.keepretro.com/products/miyoo-mini
 - https://anbernic.com/products/rg35xx
     - https://retrododo.com/garlic-os/
+- https://www.systemtechnologyworks.com/

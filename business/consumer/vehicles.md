@@ -50,7 +50,7 @@
 - https://keep.tech/
 
 ## Bikes
-
+- https://wallkeebike.com/products/wallke-h6
 - https://us.privateerbikes.com/
 
 ## Vehicle upgrades

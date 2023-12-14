@@ -89,6 +89,10 @@
 - https://www.truegrittexturesupply.com/products/krafttone - old comic feel
 - https://www.aige-hipaint.com/ - procreate like
 - https://www.truegrittexturesupply.com/collections/affinity/products/the-rusty-nib-for-photoshop-procreate-clipstudio-affinity
+- https://magma.com/ - collaborating and painting
+- https://www.adobe.com/products/fresco.html - vectorizing art and flat color
+- https://maxhalford.github.io/blog/comic-book-panel-segmentation/ - panel detection
+- https://github.com/njean42/kumiko - comic cutter
 
 ## Animation
 
@@ -125,6 +129,7 @@
 
 - https://shotcut.org/
 - https://www.genmo.ai/ - via ai
+- https://pika.art/ - ai generation
 
 ## Fonts
 
@@ -154,3 +159,21 @@
 - https://www.artssy.co/
 - https://mondayhero.io/
 - https://www.fiction.com/
+
+## colors
+- https://colorhunt.co/palettes/vintage
+- https://www.truegrittexturesupply.com/products/debaser-low-fi-comic-coloring-kit
+- https://scrtwpns.com/mixbox/ - see how colors mix
+- https://www.c82.net/color-printer/
+- https://www.c82.net/color-printer/harmony#pyrenees
+- https://www.c82.net/work/?id=380
+- https://colorproblems.art/ 
+- https://www.c82.net/work/?id=390
+
+## Storage
+- https://mega.io/
+- https://www.playbook.com/blog/the-best-cloud-storage-platforms-for-creatives/
+- https://degoo.com/
+- https://www.idrive.com/
+- https://www.code42.com/products/crashplan/
+

@@ -95,3 +95,4 @@
 - https://www.hanko.io/
 - https://www.permify.co/
 - https://www.gravitee.io/
+- https://substrate.tools/ - aws account management

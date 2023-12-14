@@ -13,6 +13,7 @@
 - https://docs.kilossl.com/ - ssl
     - https://kilossl.com/
 - https://approximated.app/
+- https://www.doppler.com/ - secret storage
 
 ## Exploits
 
@@ -23,6 +24,8 @@
 
 - https://github.com/Netflix-Skunkworks/diffy
 - https://github.com/AppThreat/dep-scan
+- https://github.com/trustedsec/social-engineer-toolkit
+- https://github.com/rapid7/metasploit-framework
 
 ## W3Specs / Specs
 
@@ -97,3 +100,8 @@
 ## Captcha
 - https://github.com/patrickhlauke/recaptcha/blob/master/index.html
 - https://developers.google.com/recaptcha/docs/v3
+
+## Algorithms
+- https://en.wikipedia.org/wiki/String-searching_algorithm
+- https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm
+- https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm

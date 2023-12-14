@@ -37,7 +37,31 @@
 - https://www.material-tailwind.com/ - tailwind
 - https://www.ripple-ui.com/ - css based
 - https://shuffle.dev/bootstrap - for bootstrap
+- https://picocss.com/
+- https://unocss.dev/
+- https://bulma.io/
+- https://taniarascia.github.io/primitive/
+- https://getuikit.com/
+- https://alvaromontoro.github.io/almond.css/demo/
+- https://floating-ui.com/
+- https://opensource.adobe.com/spectrum-css/
+- https://www.postcss.parts/ - utility look up
 
+## Site builders
+
+- https://codestitch.app/app - static site builder 
+- https://www.11ty.dev/ - static site builder
+- https://slinkity.dev/
+- https://astro.build/
+- https://www.gatsbyjs.com/docs/conceptual/react-hydration/
+- https://github.com/kartiknair/dhow
+- https://iles-docs.netlify.app/guide/introduction
+- https://hygraph.com/blog/hugo-static-site
+- https://getpublii.com/
+- https://jamstack.org/generators/
+- https://github.com/natemoo-re/astro-icon/
+- https://github.com/fogbender/b2b-saaskit
+  - https://b2bsaaskit.com/ - sass starter kit
 
 ## Design examples
 
@@ -92,3 +116,4 @@
 - https://css-homer-sprites.netlify.app/styles.css
 - https://animate.style/
 - https://github.com/LUK3D/CssInMotion
+- https://www.tailwindcss-animated.com/

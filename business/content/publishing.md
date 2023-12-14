@@ -8,6 +8,13 @@
 - https://golifelog.com/ - daily writing
 - https://apostrophecms.com/
 - https://www.storyblok.com/
+- https://kdp.amazon.com/en_US/publish-comics-graphic-novels
+- https://www.tiiny.host/ - static site hosting 
+- https://www.contentful.com/ - headless cms
+- https://tiiny.host/host/deploy-publii/ - cms
+- https://getcockpit.com/ - cms 
+- https://buttercms.com/ - cms
+- https://cloudcannon.com/hugo-cms - hugo based cms
 
 ## Copywrighting
 
@@ -37,19 +44,40 @@
 - https://get.independly.io/
 - https://coil.com/
 
+## Publishers
+- https://obviousstate.com/ - art and quotes
+- https://www.movingpicturereprintseries.com/ - old school book publisher
+
 ## Printing
 
 - https://sinalite.com/en_us
-- https://www.movingpicturereprintseries.com/ - old school book publisher
 - https://www.qinprinting.com/blog/low-cost-comic-book-printing/
+- https://www.qinprinting.com/art-book-printing/
+- https://www.mcrlprinting.com/art-book-printing-sevices/
+- https://www.mcrlprinting.com/comic-book-printing/
+- https://pointbsolutions.com/2022/02/24/5580/
 - https://mixam.com/childrensbooks
+    - https://mixam.com/artbooks
+- https://pulsioprint.us/products-2/hardcover-books-printing/
 - https://www.diggypod.com/
 - https://www.bookbaby.com/book-printing/childrens-book-printing
+- https://printninja.com/printing-products/art-book-printing/
+- https://kopa.eu/
+- https://www.sheridan.com/solutions-services/books-journals-magazines-catalogs-commercial/ 
+- https://www.t-productions.com/ - shirts
 
+
+- https://www.grekoprinting-comixwellspring.com/
 - https://brookevitale.com/blog/childrens-book-layout
 - https://www.darcypattison.com/writing/picture-books/picture-book-standards-32-pages/ 
 - https://debbieohi.com/2022/05/faq-beginner-illustrator/
 - https://www.grekoprinting-comixwellspring.com/novels-square-bound-paperbacks-glue-binding/
+- https://www.kickstarter.com/articles/planning-your-photobook-or-art-book
+- https://nonfictionauthorsassociation.com/list-of-book-distributors-and-wholesalers/ - distributors
+- https://www.crwnstudios.com/ - distributors and fulfillment
+- https://bookprinting.com/book-distribution
+
+- https://printify.com/ - products
 
 ## CSS and design
 
@@ -82,6 +110,11 @@
 - https://www.magnetic-press.com/
 - https://shopbestjackett.com/ - scott synder's company
 - https://www.floating-head.com/product/anasazi-harcover-graphic-novel
+- https://www.cavepicturespublishing.com/
+- https://godsdog.com/
+- http://coffeetablecomics.com/
+- https://www.comicbookschool.com/comic-submission-guidelines/ - submissions
+- https://www.loc.gov/exhibitions/comic-art/about-this-exhibition/#explore-the-exhibit - exhibit of the old comics
 
 
 ### PR
@@ -90,3 +123,5 @@
 - https://doomrocket.com/ - comic reviews
 - https://www.youdontreadcomics.com/ - comic reviews
 - https://twitter.com/Tonpa2/status/1656988024239013889
+- https://www.printedmatter.org/services/the-bulletin/artist-opportunities
+- https://www.skysharkpub.com/ - local book publisher

@@ -56,6 +56,7 @@
 - https://microsaashq.com/insights/micro-saas-ideas-recap-2022-plan-2023
 - https://microsaashq.com/insights/saas-startups
 - https://microsaashq.com/insights/setup-custom-domain-support-micro-saas
+- https://www.indiehackers.com/post/i-built-an-ai-startup-in-one-weekend-with-no-code-e766cbec13
 
 
 ## Thinking

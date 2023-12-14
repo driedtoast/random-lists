@@ -11,7 +11,14 @@
 * https://www.filledstacks.com/
 * https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1
 * https://fidev.io/tickets-challenge-parallax/
+* https://medium.com/@info_67212/how-to-perform-a-search-in-flutter-app-1365bd317a0c
+* https://medium.com/@nandhuraj/flutter-markdown-package-simplifying-markdown-parsing-in-your-flutter-app-e33e8698ade1
 
+### Games
+* https://blog.geekyants.com/building-a-2d-game-in-flutter-a-comprehensive-guide-913f647846bc
+* https://www.velotio.com/engineering-blog/flame-engine-unleashing-flutters-game-development-potential
+* https://github.com/flame-engine/awesome-flame
+* https://flutter4fun.com/
 
 ### Crypto
 * https://blog.logrocket.com/building-dapp-flutter-solidity/

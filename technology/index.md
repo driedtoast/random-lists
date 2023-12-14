@@ -37,6 +37,7 @@
 - https://en.wikipedia.org/wiki/Okapi_BM25 - ranking algorithm
 - https://mathai2022.github.io/papers/ - math ai
 - https://jeremykun.com/primers/
+- https://www.c82.net/work/?id=372
 
 ## Protocols / Design Patterns
 
@@ -109,6 +110,10 @@
 - https://www.toolhunt.dev/ - tooling
 - https://prototypr.io/ - ideas and wisdom
 - https://www.lesswrong.com/ - random articles
+- https://jbcodeforce.github.io/ - dev blog on kafka and such
+- https://docs.airdev.co/functionality-reference/
+- https://arvid.xyz/commonplace-book/ - links to various 
+- https://egghead.io/
 
 ## Odd languages
 
@@ -117,6 +122,8 @@
 - https://cfwheels.org/ - cold fusion rails like framework, right?
 - https://darklang.com/
 - https://developers.google.com/blockly - scratch like
+- https://beautifulracket.com/
+- https://docs.racket-lang.org/pollen/
 
 ## Upcoming languages
 
@@ -167,3 +174,4 @@
 
 ## General setup
 - https://appseed.us/
+- https://editorconfig.org/ - editor tools 

@@ -53,6 +53,7 @@
 - https://www.agtonomy.com/
 - https://pingeorgia.org/ - georgia farming innovation
 - https://www.farmbrite.com/ - farm management
+- https://chiktopia.us/shop - automated chicken coops
 
 
 ## Coffee

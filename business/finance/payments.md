@@ -45,6 +45,7 @@
 
 ## Subscription management
 
+- https://www.lemonsqueezy.com/ - for small biz
 - https://www.revenuecat.com/ - for mobile apps
 - https://www.getoptimizer.com/
 - https://www.profitwell.com/

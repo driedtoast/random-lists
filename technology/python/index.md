@@ -66,6 +66,8 @@
   - https://github.com/LAION-AI/Open-Assistant
 - https://docs.fast.ai/
 - https://lets-unify.ai/
+- https://github.com/ToucanToco/weaverbird - visual query builder
+- https://tinyolap.com/ - olap engine
 
 ## Image processing
 
@@ -79,3 +81,4 @@
 
 - https://pynecone.io/
   - https://github.com/pynecone-io/pynecone
+- https://getpelican.com/ - static site gen

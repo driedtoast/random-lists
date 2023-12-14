@@ -20,7 +20,9 @@
 - http://wiremock.org/
 - https://github.com/ovh/venom
 - https://github.com/adrienverge/localstripe
+- https://reqres.in/
 
 ## API testing
 
 - https://github.com/hoppscotch/hoppscotch - postman replacement
+- https://www.usebruno.com/

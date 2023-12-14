@@ -28,6 +28,7 @@
 ## UI
 
 - https://tauri.studio/
+- https://tauri.app/
 - https://linebender.org/druid/
     - https://github.com/linebender/druid
 - https://docs.rs/cacao/latest/cacao/
@@ -36,12 +37,22 @@
 - https://cjycode.com/flutter_rust_bridge/ - flutter related
 - https://docs.rs/iced/latest/iced/
 
+## Search
+- https://0-range.github.io/
+- https://github.com/yiv/full_search 
+- https://github.com/quickwit-oss/tantivy
+- https://tantivy-search.github.io/examples/basic_search.html
+- https://lnx.rs/ - with rest front-end
+- https://github.com/phiresky/tantivy-wasm
+- https://github.com/tvanhens/pathery
+
 ## Events
 
 - https://www.tremor.rs/
 
 ## CLI
 
+- https://github.com/timburks/seahorse
 - https://github.com/warpdotdev/Warp
 
 ## Crypto

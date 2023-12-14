@@ -27,7 +27,12 @@
 - https://dw-wp.com/resources/cartooning-quickguides/quickguides-scanning/ - scanning
 - https://cryptocomics.com/blog/C/2022/01/06/HOW-TO-SCAN-PHYSICAL-ART-FOR-A-DIGITAL-FORMAT-1195 - scanning
 - https://matthewchilders.com/prepping-comic-art/ - scanning
-
+- https://www.jetpens.com/blog/The-Best-Non-Photo-Blue-Pencils-and-Pens/pt/339 - blue lining
+- https://reedart.wordpress.com/2018/03/14/cars-in-comics/ - cars in comics
+  - https://9emeart.tumblr.com/post/76590266939/valhardi-fonce-dans-la-montagne-jij%C3%A9
+- https://pinnguaq.com/learn/krita-for-comics/ - with krita
+- https://inked-dreams.com/2021/09/14/wally-woods-22-panels-with-examples/ - conversations
+- https://www.comicbookscriptarchive.com/ - comic scripts
 
 ## Design tips
 
@@ -47,7 +52,8 @@
 - https://www.page45.com/store/How-To-Create-Graphic-Novels.html
 - https://en.wikipedia.org/wiki/Vaporwave
 - https://www.artistsnetwork.com/art-history/masters-10-great-drawers-and-what-they-teach-us/
-
+- https://artveg.tumblr.com/ - teaching tips
+- https://toward.studio/latest/tools-to-run-a-design-agency - agency tips and tools
 
 ## References and photos
 
@@ -80,7 +86,38 @@
 - http://theetheringtonbrothers.blogspot.com/2019/09/how-to-think-when-you-write-instinct.html
 - http://theetheringtonbrothers.blogspot.com/
 - https://www.parkablogs.com/content/instructional-and-reference-art-books
+- https://www.pexels.com/ - reference photos
+- https://retronaut.com/ - retro photos
+- https://iconicphotos.wordpress.com/ - iconic photos
+- https://www.castles.nl/
+- https://bldgblog.com/
+- http://www.traveladventures.org/
+- https://www.archives.gov/research/american-cities
+- https://pararesearchteam.com/
+- https://www.cartoonbrew.com/wp-content/uploads/2018/02/breadwinner_riahi_11.jpg
+- http://www.charliechaplinarchive.org/en/collection/cerca/e-c-segar-presenta-charlot - old ec segar art
+- http://allthingsger.blogspot.com/ - 50s comic strips
+- http://allthingsger.blogspot.com/2015/06/digging-for-oil.html
+- https://comicskingdom.com/ - comic strip syndications
+- https://public.photos/ray/saigonjapantown/grid
+- https://public.photos/
+- https://kottke.org/17/07/a-timeline-of-womens-fashion-from-1784-1970 
+- https://bestiary.ca/
+- https://gallica.bnf.fr/html/und/litteratures/zig-et-puce?mode=desktop - franco belgium
+- https://pdsoasis.github.io/arzachcomics.html 
+- https://publicdomainreview.org/collection/henrique-alvim-correa-war-of-the-worlds/
+- https://www.openculture.com/2016/09/the-very-first-illustrations-of-h-g-wells-the-war-of-the-worlds-1897.html
 
 ## Animation
 - https://animationobsessive.substack.com/p/the-violent-beautiful-animation-you
 - https://darren-nemeth.squarespace.com/how-to-film-moving-pictures-in-the-1910s
+- https://www.zaiusnation.com/stuff/zaius/moosic1/handicraftoons/handicrafttoons/handicraftguide2.html
+
+## Symbolism
+
+- https://crewsproject.wordpress.com/2017/04/22/aurebesh/
+- Semiotic standard symbols - https://crewsproject.wordpress.com/2017/05/12/aliens-standard-semiotic-pictograms-and-icons/
+- https://www.behance.net/gallery/78297841/Semiotic-Standard?locale=en_US - more of the symbolism
+- https://wharferj.wordpress.com/2012/05/25/ron-cobbs-alien-semiotic-standards/
+- https://typesetinthefuture.com/2014/12/01/alien/
+- https://github.com/louh/semiotic-standard

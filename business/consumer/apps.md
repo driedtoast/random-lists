@@ -50,3 +50,8 @@
 ## Phones
 
 - https://us.nothing.tech/
+- https://techless.com/
+- https://store.mudita.com/all/mudita-bell-minimalist-alarm-clock
+- https://www.amazon.com/gp/aw/d/B0761VVFDX
+- https://dumbwireless.com/collections/phones
+- https://www.thelightphone.com/

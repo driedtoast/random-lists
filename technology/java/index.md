@@ -32,6 +32,7 @@
 
 ## Distributed / Threads
 - https://resilience4j.readme.io/docs/timeout
+- https://bucket4j.com/
 
 ### CLI
 
@@ -140,6 +141,7 @@
 - https://github.com/alfasoftware/astra - refactoring
 - https://github.com/open-cli-tools/chokidar-cli - file watcher
 - https://www.burningwave.org/
+- https://mizosoft.github.io/methanol/ - http client
 
 ## Templates
 
@@ -195,6 +197,14 @@
 - https://github.com/typicode/xv
 - https://mockend.com/ - mock backend
 - https://testsigma.com/ - multiple frameworks
+
+## Formatting 
+
+- https://github.com/openrewrite/rewrite-migrate-java
+  - https://docs.openrewrite.org/recipes/java/spring/boot3/upgradespringboot_3_0 - migrations
+- https://github.com/revelc/formatter-maven-plugin
+- https://spotbugs.readthedocs.io/en/latest/maven.html
+- https://github.com/ec4j/editorconfig-java-domain
 
 ## PDF / HTML processing
 

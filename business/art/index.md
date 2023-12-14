@@ -15,6 +15,13 @@
 - https://jamesgurney.com/
 - https://www.abakanowicz.art.pl/
 - https://www.wikiart.org/en/fra-bartolomeo
+- https://www.verakober.com/?lang=en - lots of texture/flowers
+- https://www.marysanche.com/ - gouache
+- https://www.timlayzell.com/motor_art_originals.htm - car art
+- https://jameshartdyke.com/
+- https://www.jean-pierre-augier.com/index.php/en/ - metal sculptures
+- https://earlthollander.art/
+- https://patrickbergsma.nl/ - exploding pottery / trees
 
 ## Art auctions / investments
 
@@ -29,6 +36,13 @@
 
 - https://studio-six.com/
 - https://blackwing602.com/
+- https://www.naturalpigments.com/introductory-pigment-sampler-2.html
+- https://naturalearthpaint.com/recipes/ - how to make
+- https://www.montmarte.com/blogs/tips-techniques/gouache-techniques
+- https://cecileyadro.com/favorite-gouache-materials/
+- https://www.lostincolours.com/foraging-for-pigments-from-local-rocks/
+- https://bigidesign.com/collections/drawing-aids/
+- https://shop.kremerpigments.com/us/information/recipes/egg-tempera-with-dammar-and-linseed-oil/
 
 ## Zoom quilt animation
 
@@ -87,6 +101,10 @@
 - https://www.newamericanpaintings.com/
 - https://thedesignedit.com/
 - https://www.kroneckerwallis.com/ - older books
+- https://orthodoxartsjournal.org/
+- https://www.basheergraphic.com/collections/sketching
+- https://cuislandora.wrlc.org/islandora/object/cuislandora%3A35271?page=1 - old irish political cartoons
+- https://publicdomainreview.org/shop/affinities/ - public domain art stuff
 
 ## Art reference
 
@@ -98,7 +116,63 @@
 - https://readonlymemory.vg/ - game design art books
 - https://www.vam.ac.uk/collections/paintings
 - https://www.vam.ac.uk/collections/manuscripts
+- https://cuislandora.wrlc.org/islandora/object/achc-strishock%3A1
+- https://erikkwakkel.tumblr.com/ - medieval art
+- https://bibliotheque-numerique.citedulivre-aix.com/records?search=&sort=_score&page=1&refine[Categories][]=Manuscrits#menu-top - medieval art
+- https://rosaliegilbert.com/dyesandcolours.html - medieval color
+- https://www.thisiscolossal.com/2014/05/color-book/ - old school color book
+  - https://bibliotheque-numerique.citedulivre-aix.com/viewer/35315/?offset=#page=108&viewer=picture&o=bookmarks&n=0&q=
+  - https://erikkwakkel.tumblr.com/post/84254152801/a-colourful-book-i-encountered-this-dutch-book
+- https://medievalfragments.wordpress.com/
+- https://digi.vatlib.it/
+- https://www.openculture.com/2017/09/leonardo-da-vincis-bizarre-caricatures-monster-drawings.html
+- https://publicdomainreview.org/collection/the-illuminated-sketchbook-of-stephan-schriber-1494/ - monk sketchbook
+- https://publicdomainreview.org/collections/images/
+- https://www.c82.net/werner/ - colors
+  - https://archive.org/details/gri_c00033125012743312
+- https://publicdomainreview.org/collection/colour-analysis-charts-by-emily-noyes-vanderpoel-1902/
+- https://publicdomainreview.org/collection/the-illuminated-sketchbook-of-stephan-schriber-1494/ - medival sketches
+- https://www.c82.net/blog/?id=92 - making of the color printer  
+- https://publicdomainreview.org/collection/shadows/
+- https://publicdomainreview.org/collection/bonnacons/
+- https://www.digitale-sammlungen.de/en
+  - https://www.digitale-sammlungen.de/en/view/bsb00056556?page=62
+- https://www.bavarikon.de/?lang=en
+- https://bibliotheque-numerique.citedulivre-aix.com/viewer/7799/?offset=3#page=29&viewer=picture&o=info&n=0&q=
+- https://daten.digitale-sammlungen.de/0012/bsb00123822/images/index.html?id=00123822&groesser=&fip=eayaenqrsxdsydewqwxdsydxdsydfsdrxdsydxdsydxs&no=2&seite=4
+- https://mss-cat.trin.cam.ac.uk/Manuscript/R.14.9/UV#?c=0&m=0&s=0&cv=202&r=0&xywh=-1756%2C883%2C7311%2C3978
+- http://www5.kb.dk/permalink/2006/manus/221/dan/10+recto/
+- https://bvmm.irht.cnrs.fr/iiif/11233/canvas/canvas-1308990/view
+- https://bvmm.irht.cnrs.fr/
+- https://mss-cat.trin.cam.ac.uk/
+- https://bestiary.ca/ - medieval beasts
+- https://bjws.blogspot.com/ - historical art
+- https://www.metmuseum.org/toah/hd/book/hd_book.htm
+- http://www.bl.uk/catalogues/illuminatedmanuscripts/TourBestiaryGen.asp
+- https://smarthistory.org/bestiary-book-beasts-medieval-world/ - medieval books of beasts
+  - https://sourcebooks.fordham.edu/source/1180Medievalbestiary-BLAddMs11283.asp
+  - https://www.facsimiles.com/worlds-of-wisdom/genres/bestiaries
+  - https://www.facsimiles.com/facsimiles/vatican-biblia-pauperum
+  - https://www.facsimiles.com/facsimiles/treatise-on-astrology-by-albumazar
+  - https://www.facsimiles.com/facsimiles/macclesfield-alphabet-book
+  - https://www.facsimiles.com/facsimiles/harley-1527-bible-moralisee
+  - https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1527
+- https://www.bibalex.org/en/project/index
+- https://www.bodleian.ox.ac.uk/
+- https://www.pexels.com/ - photos
+- https://www.meisterdrucke.pt/impressoes-artisticas-sofisticadas/School-Russian/1323539/A-Batalha-no-Gelo,-5-de-Abril-de-1242-no-Lago-Peipus-%28Est%C3%B3nia-e-R%C3%BAssia%29-onde-Alexander-Nevsky-derrotou-os-Cavaleiros-Teut%C3%B3nicos,-terminando-a-sua-expans%C3%A3o-para-a-R%C3%BAssia.-Trabalho-an%C3%B3nimo-retirado-de-uma-compila%C3%A7%C3%A3o-de-cr%C3%B3nicas-iluminadas,-aguarela.html - russian art
 
 ## Schools
 
 - https://www.madelineartschool.com/
+
+
+## Writers
+
+- https://nicholaskotar.com/ - russian folk lore
+- https://drmartinshaw.com/ - fantasy
+- https://katysfables.com/ - fable humor
+
+## Bells
+- http://www.brosamersbells.com/
+- https://churchspecialtiesllc.com/about-church-specialties/gallery/

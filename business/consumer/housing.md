@@ -23,6 +23,7 @@
 - https://richsoil.com/wofati.jsp - underground house
 - https://undergroundhousing.com/ - underground home 
 - https://www.span.io/ - smart electrical panel
+- https://www.thebarnyardstore.com/structures/post-and-beam-barn-kits - barn kits
 
 ### Built ins
 - https://www.remodelandolacasa.com/2018/11/fmlyrhdr.html?showComment=1543236113590#c2729776750196433087
@@ -60,6 +61,8 @@
 - https://www.requipd.com/ - bbq tools
 - https://www.everblocksystems.com/
 - https://ycireclaimedhardwood.com/ - reclaimer
+- https://griffinpockettool.com/ - pocket tools
+- https://www.faire.com/
 
 
 ## Driveways
@@ -107,6 +110,9 @@
 - http://www.ferrari-tractors.com/products/walking.htm
 - https://www.koeppl.com/en/produkte/compakt-comfort-edrive
 - https://meangreenproducts.com/
+
+### Mowers
+- https://us.mammotion.com/
 
 ### Articles
 - https://permies.com/t/122765/build-trails-wild-homestead 

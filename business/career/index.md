@@ -37,6 +37,7 @@
 - https://www.wonolo.com/
 - https://www.letsdeel.com/
 - https://circular.io/
+- https://www.coroflot.com/ - for designers
 
 ## HR management
 

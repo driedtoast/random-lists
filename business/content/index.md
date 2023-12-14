@@ -24,7 +24,7 @@
 - https://www.literatureandlatte.com/scrivener/overview - with cards
 - https://roamresearch.com/ - note taking
 - https://skiff.com/
-
+- https://writingbubbles.substack.com/p/the-monthly-free-comic-book-scripts - comic scripts start
 
 ## Books
 - https://www.gutenberg.org/ebooks/bookshelf/57

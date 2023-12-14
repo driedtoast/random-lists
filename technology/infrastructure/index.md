@@ -14,6 +14,8 @@
 - https://middlemanapp.com/ - static website
 - https://www.qovery.com/
 - https://piku.github.io/
+- https://hop.io/ - container hosting
+  - https://www.peeringdb.com/net/26508
 
 ## AWS
 
@@ -81,6 +83,7 @@
 - https://sqitch.org/
 - https://github.com/SplitmediaLabsLimited/supermigration - big table
 - https://shardingsphere.apache.org/ - sharding, distributed
+- https://atlasgo.io/ - db schema management like terraform
 
 ## Streams / Queues / Events
 
@@ -121,6 +124,7 @@
 - https://kyma-project.io/ - setup and such
 - https://kalm.dev/
 - https://cloud.google.com/kubernetes-engine
+- https://github.com/poseidon
 
 ## Storage
 
@@ -144,6 +148,8 @@
 - https://github.com/ivbeg/awesome-status-pages - status pages
 - https://www.metabase.com/ - db docker based analytics service
 - https://github.com/kadira-open/kadira-server
+- https://www.iccube.com/ - reporting and analytics
+- https://kylin.apache.org/
 
 ### Open telemetry
 
@@ -180,7 +186,9 @@
 - https://github.com/moby/buildkit
 - https://github.com/abiosoft/colima
 - https://github.com/docker/build-push-action
-
+- https://elest.io/ - devops platform
+- https://github.com/runfinch/finch
+- https://github.com/containerd/nerdctl
 
 ## Serverless / Workflow
 
@@ -257,3 +265,4 @@
 - https://github.com/timvisee/send
 - https://wetransfer.com/
 - https://stateful.com/ - readme as runtime
+- https://uploadcare.com/products/file-uploader/ - ui upload component

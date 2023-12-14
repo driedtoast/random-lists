@@ -16,6 +16,7 @@
 - https://www.creatorresource.com/
 - https://www.comicsbeat.com/chip-zdarsky-public-domain-comic-series/
 - https://theslingsandarrows.com/category/mystery/ - reviews
+- https://www.altaplana.be/en/start - world of obscure cities
 
 ## Books
 - https://standardebooks.org/ebooks/e-c-bentley/trents-last-case

@@ -7,6 +7,7 @@
 - https://designdetails.fm/ - podcast
 - https://spec.fm/ - podcasts
 - http://www.goodweb.design/
+- https://thinkofacity.tumblr.com/
 
 ## Branding
 

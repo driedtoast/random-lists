@@ -21,6 +21,8 @@
 - https://clarity.microsoft.com/ - heat maps and free
 - https://trackingchef.com/
 - https://snowplow.io/ - behavior data
+- https://withcabin.com/
+- https://usefathom.com/
 
 ## Sales tracking
 
@@ -50,6 +52,7 @@
 - https://www.abtasty.com/
 - https://www.optimizely.com/
 - https://www.getunleash.io/
+- https://posthog.com/ - feature flags + analysis
 
 ## Reporting
 

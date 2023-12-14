@@ -15,6 +15,13 @@
 - https://wonderdynamics.com/ - ai based editing
 - https://koe.ai/ - ai voice overs
 - https://www.kaiber.ai/
+- https://www.backlot.studio/
+- https://storytribeapp.com/ - storyboarding tool
+- https://milanote.com/product/storyboarding
+- https://krock.io/storyboard-ai/
+- https://writeonsaga.com/
+- https://wonderunit.com/storyboarder/
+- https://comicsflow.com/ 
 
 ### Gear
 
@@ -55,6 +62,9 @@
 - https://reaganlodge.com/wyit
 - https://wormworldsaga.com/chapters/chapter01/en/ - amazing painterly style coloring
 - https://reaganlodge.com/wyit - redwall style
+- https://www.sssscomic.com/
+- http://8p.cx/?lang=en - 8 page comics with folding
+- https://www.creatorresource.com/comic-book-printing-templates/ - templates 
 
 ### Old comics
 

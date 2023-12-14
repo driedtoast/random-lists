@@ -19,6 +19,8 @@
 
 ## Stack compositions
 
+- https://www.pankajtanwar.in/blog/system-design-how-to-design-google-drive-dropbox-a-cloud-file-storage-service - drop box clone
+- https://github.com/gitgik/distributed-system-design/blob/master/designing-cloud-storage.ipynb - and other designs
 - https://creativedesignsguru.com/dern-stack-alternative-mern/
 - https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/
 - https://medium.com/codex/create-a-distributed-database-solution-based-on-postgresql-opengauss-b30d0e1ced2c
