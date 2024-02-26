@@ -44,6 +44,8 @@
 
 - https://gyp.gsrc.io/index.md
 
+- https://github.com/bram2w/baserow - no code / platform
+
 ## Math
 - https://www.sagemath.org/
   - https://doc.sagemath.org/html/en/thematic_tutorials/functional_programming.html
@@ -68,6 +70,7 @@
 - https://lets-unify.ai/
 - https://github.com/ToucanToco/weaverbird - visual query builder
 - https://tinyolap.com/ - olap engine
+- https://github.com/FujiwaraChoki/MoneyPrinter - video generator
 
 ## Image processing
 

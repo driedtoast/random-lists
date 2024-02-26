@@ -33,6 +33,7 @@
 ## Bootstrap tips
 
 - https://fs.blog/blog/
+- https://smallbets.com/
 - https://www.indiehackers.com/post/how-do-you-market-a-non-sexy-saas-fd497b10c9
 - https://techcrunch.com/2021/10/08/fintech-founders-can-learn-a-lesson-about-frugality-from-these-industry-leaders/
 - https://uxdesign.cc/how-to-go-from-no-roadmap-to-your-first-product-roadmap-9a32323457a

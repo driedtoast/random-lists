@@ -65,3 +65,4 @@
 - https://www.arewewebyet.org/
 - https://www.arewewebyet.org/topics/frameworks/#pkg-actix-web
 - https://www.arewewebyet.org/topics/web-apis/#pkg-rusoto_core
+- https://github.com/huginn/huginn - zapier alternative

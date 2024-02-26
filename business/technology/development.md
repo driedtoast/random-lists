@@ -50,6 +50,7 @@
 - https://krinql.com/ - porting of code
 - https://speakeasyapi.dev/ - api sdk generation
   - https://github.com/speakeasy-sdks
+- https://cohere.com/ - ai conversation apps
 
 ## API docs
 
@@ -97,6 +98,7 @@
 - https://merge.dev/ - integration / data sharing service
 - https://runbear.io/ - ai tech support 
 - https://www.uffizzi.com/ - pr ci builds?
+- https://buddy.works/
 
 ## Microservices
 

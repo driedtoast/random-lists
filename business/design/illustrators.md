@@ -174,6 +174,10 @@
 - http://www.kennyruiz.com/ - nice storyboard style
 - https://www.artstation.com/piazzalunga86 - car chases
 - https://danschkade.com/ - remaking flash gordon into modern style art
+- https://www.enrique-fernandez.com/previews/
+- https://mattcrotts.com/KYRIE-Book-1-Annotated-Edition
+- https://tennapel.com/comics.html
+- https://www.skottieyoung.com/
 
 ## Animators
 

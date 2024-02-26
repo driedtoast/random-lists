@@ -41,6 +41,7 @@
 - https://oasisprotocol.org//blog/oasis-personal-ai-privacy
 - https://www.obviously.ai/ - no code ai
 - https://www.paperspace.com/
+- https://www.rabbit.tech/research - os type approach
 
 ## Text to speech
 

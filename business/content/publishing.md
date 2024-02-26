@@ -115,6 +115,7 @@
 - http://coffeetablecomics.com/
 - https://www.comicbookschool.com/comic-submission-guidelines/ - submissions
 - https://www.loc.gov/exhibitions/comic-art/about-this-exhibition/#explore-the-exhibit - exhibit of the old comics
+- https://www.excavationcomics.com/ - indy
 
 
 ### PR

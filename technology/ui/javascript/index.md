@@ -66,6 +66,7 @@
 - https://ariakit.org/
 - https://shoelace.style/
 - https://github.com/open-wc/custom-elements-manifest
+- https://htmx.org/
 
 
 ## Plugin utils
@@ -160,6 +161,8 @@
 - https://www.fusejs.io/ - site search
 - https://lunrjs.com/ - search
 - https://tscanlin.github.io/tocbot/ - create toc based on headers of page
+- https://mobx.js.org/ - events
+- https://aws.github.io/jsii/ - for polygot usage
 
 ## Music
 
@@ -299,6 +302,7 @@
 - https://sequelize.org/
 - https://www.chimpjs.com/ - graph ql
 - https://github.com/amark/gun - distributed graph db
+- https://mikro-orm.io/ - typescript based
 
 ## Handlebars
 
@@ -326,6 +330,7 @@
 - https://github.com/postmanlabs/newman
   - https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
 - https://istanbul.js.org/ - coverage
+- https://intuit.github.io/proof/#/ - storybook component testing
 
 ## Crypto
 

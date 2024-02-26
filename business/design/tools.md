@@ -93,6 +93,7 @@
 - https://www.adobe.com/products/fresco.html - vectorizing art and flat color
 - https://maxhalford.github.io/blog/comic-book-panel-segmentation/ - panel detection
 - https://github.com/njean42/kumiko - comic cutter
+- https://octoai.cloud/ - image generation ai
 
 ## Animation
 
@@ -148,6 +149,7 @@
 
 - https://supernote.com/collections/devices/products/supernote
 - https://remarkable.com/
+- https://us.espres.so/products/espresso-pro-and-stand - touch monitor
 
 
 ## Generation

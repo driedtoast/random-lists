@@ -55,3 +55,7 @@
 - https://www.amazon.com/gp/aw/d/B0761VVFDX
 - https://dumbwireless.com/collections/phones
 - https://www.thelightphone.com/
+
+## Kids based
+
+- https://www.getmilo.io/ - story ai generator for bedtime

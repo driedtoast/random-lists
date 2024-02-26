@@ -142,6 +142,7 @@
 - https://github.com/open-cli-tools/chokidar-cli - file watcher
 - https://www.burningwave.org/
 - https://mizosoft.github.io/methanol/ - http client
+- https://github.com/jhalterman/typetools - annotations
 
 ## Templates
 
@@ -152,6 +153,7 @@
 ## Graphics
 
 - http://quil.info/ - well clojure but still
+- https://github.com/haraldk/TwelveMonkeys - image processing
 
 ## Integrations
 
@@ -197,6 +199,7 @@
 - https://github.com/typicode/xv
 - https://mockend.com/ - mock backend
 - https://testsigma.com/ - multiple frameworks
+- https://pact.io/ - api testing
 
 ## Formatting 
 

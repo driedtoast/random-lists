@@ -16,6 +16,7 @@
 
 - https://pub.dev/ - flutter / dart packages
 - https://flame-engine.org/
+    - https://github.com/flame-engine/flame
 
 ## Distributed server support
 
@@ -49,6 +50,10 @@
 - https://pub.dev/packages/flutter_markdown -  markdown interpreter
 - https://github.com/kurtome/leap
 - https://www.gameuidatabase.com/ - ui elements
+- https://github.com/artflutter/reactive_forms_widgets
+
+### Build related
+- https://pub.dev/packages/melos - break up mono repos
 
 ### Search
 - https://pub.dev/packages/lunr
@@ -56,6 +61,26 @@
 - https://pub.dev/packages/fuzzy
 - https://github.com/sjhorn/dbul
 
+### Widgets
+- https://github.com/best-flutter/transformer_page_view
+- https://github.com/firebase/FirebaseUI-Flutter - for firebase
+- https://github.com/aws-amplify/amplify-flutter - for amplify services
+- https://github.com/GetStream/stream-chat-flutter - for stream chats
+- https://getstream.io/chat/sdk/flutter/ - in app chats
+- https://github.com/flutter-stripe/flutter_stripe 
+- https://github.com/flutternetwork/WiFiFlutter
+- https://github.com/artflutter/flutter_typeahead
+
+### Events
+- https://github.com/mobxjs/mobx.dart
+    - https://mobx.netlify.app/
+- https://bloclibrary.dev/#/
+- https://riverpod.dev/
+    - https://pub.dev/packages/riverpod_generator
+    - https://github.com/rrousselGit/flutter_hooks
+    - https://pub.dev/packages/riverpod
+
 ### Starters
 
 - https://github.com/monstar-lab-oss/flutter-template
+- https://github.com/firebase/flutterfire - database

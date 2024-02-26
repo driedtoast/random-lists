@@ -2,6 +2,20 @@
 - https://github.com/yangshun/lago - algorithms in typescript
 - https://nestjs.com/ - micro services
 - https://github.com/produck/svg-captcha - svg captcha
+- https://hono.dev/ - javascript framework
+
+## No code builders
+
+- https://github.com/Budibase/budibase - no code builder
+- https://github.com/saltcorn/saltcorn
+- https://github.com/n8n-io/n8n - workflow tool
+- https://github.com/nocodb/nocodb
+- https://baserow.io/
+  - https://gitlab.com/baserow/baserow - vue based
+- budibase.com
+  - https://github.com/Budibase/budibase
+- https://github.com/GrapesJS/grapesjs - websites
+  - https://grapesjs.com/
 
 ## Linting
 
@@ -74,3 +88,10 @@
 
 - https://github.com/yudax42/askai
 - https://microsoft.github.io/TypeChat/ - structured language models
+
+## Database
+- https://kysely.dev/
+
+## Search
+- https://docs.danswer.dev/introduction
+- https://github.com/danswer-ai/danswer

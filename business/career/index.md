@@ -66,6 +66,7 @@
 - https://joinhomebase.com/
 - https://www.beekeeper.io/
 - https://socialchorus.com/
+- https://www.baconwork.com/
 
 ## Company Research
 

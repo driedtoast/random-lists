@@ -65,6 +65,7 @@
 - https://www.sssscomic.com/
 - http://8p.cx/?lang=en - 8 page comics with folding
 - https://www.creatorresource.com/comic-book-printing-templates/ - templates 
+- https://ratfist.com/ - from artist behind earthworm jim
 
 ### Old comics
 
@@ -90,6 +91,7 @@
 - http://fourcolorshadows.blogspot.com/
 - https://comicbookhistorians.com/gradual-advancement-of-storytelling-in-early-comic-strips-by-alex-grand/
 - http://comicsmakenosense.blogspot.com/ - odd stories
+- https://archive.org/details/brivido-a-monza-page-01-image-0001/BRIVIDO%20A%20MONZA/mode/2up - michel vaillant racing comics
 
 ## Interesting illustrated books
 

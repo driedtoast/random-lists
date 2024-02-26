@@ -21,6 +21,7 @@
 - https://substrait.io/ - query plans
 - https://www.timescale.com/ - time series
 - https://nifi.apache.org/ - distributing data
+- https://github.com/fastmonkeys/stellar - backup and restore?
 
 ## Forks
 

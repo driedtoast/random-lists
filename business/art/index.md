@@ -32,6 +32,7 @@
 - https://bottleneckgallery.com/
 - https://www.riekeles.com/ - anime architecture
 
+
 ## Art Supplies
 
 - https://studio-six.com/
@@ -161,6 +162,7 @@
 - https://www.bodleian.ox.ac.uk/
 - https://www.pexels.com/ - photos
 - https://www.meisterdrucke.pt/impressoes-artisticas-sofisticadas/School-Russian/1323539/A-Batalha-no-Gelo,-5-de-Abril-de-1242-no-Lago-Peipus-%28Est%C3%B3nia-e-R%C3%BAssia%29-onde-Alexander-Nevsky-derrotou-os-Cavaleiros-Teut%C3%B3nicos,-terminando-a-sua-expans%C3%A3o-para-a-R%C3%BAssia.-Trabalho-an%C3%B3nimo-retirado-de-uma-compila%C3%A7%C3%A3o-de-cr%C3%B3nicas-iluminadas,-aguarela.html - russian art
+- https://illustrationchronicles.com/swaying-destiny-with-a-pencil-the-anti-war-cartoons-of-louis
 
 ## Schools
 

@@ -76,6 +76,7 @@
 - https://www.trychroma.com/ - ai database
 - https://neon.tech/ - postgres servlerless
 - https://github.com/dolthub/dolt - data forking
+- https://iceberg.apache.org/ - large data set analytics
 
 ### Migrations
 
@@ -125,6 +126,8 @@
 - https://kalm.dev/
 - https://cloud.google.com/kubernetes-engine
 - https://github.com/poseidon
+- https://lagoon.sh/
+- https://docksal.io/
 
 ## Storage
 
@@ -189,6 +192,8 @@
 - https://elest.io/ - devops platform
 - https://github.com/runfinch/finch
 - https://github.com/containerd/nerdctl
+- https://github.com/docker/awesome-compose - compose examples
+- https://github.com/marketplace/buddy - delivery pipeline
 
 ## Serverless / Workflow
 

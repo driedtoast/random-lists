@@ -111,3 +111,11 @@
 - https://javadoc.io/static/com.openhtmltopdf/openhtmltopdf-pdfbox/1.0.0/com/openhtmltopdf/pdfboxout/PdfRendererBuilder.html
 - https://medium.com/javarevisited/html-to-pdf-in-java-using-flying-saucer-f73b70d9014d
 - https://stackoverflow.com/questions/47729046/generate-pdf-with-selenium-chrome-driver
+
+## File upload
+- https://chidokun.github.io/2021/10/mime-type-and-upload-file-problem/en/
+- https://medium.com/@simonli_18826/apache-tika-code-with-example-walkthroughs-d1b0c18d5b2d
+- https://www.decalage.info/en/file_formats_security
+- https://www.greyhathacker.net/?p=872
+- https://owasp.deteact.com/cheat/cheatsheets/Protect_FileUpload_Against_Malicious_File.html
+- https://www.matthewflickinger.com/lab/whatsinagif/bits_and_bytes.asp

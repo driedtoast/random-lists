@@ -21,6 +21,7 @@
 - https://github.com/ovh/venom
 - https://github.com/adrienverge/localstripe
 - https://reqres.in/
+- https://moqui.org/ - and storage
 
 ## API testing
 

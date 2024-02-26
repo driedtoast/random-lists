@@ -14,6 +14,9 @@
 * https://github.com/flutter/games/tree/main/templates/endless_runner
 * https://github.com/flutter/games/blob/main/templates/basic/README.md
 * https://pub.dev/packages/peanut/install
+* https://github.com/best-flutter
+* https://github.com/artflutter
+* https://github.com/artflutter/layout-demo-flutter
 
 ### Games
 * https://github.com/flutter/super_dash

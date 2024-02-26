@@ -22,6 +22,7 @@
 - https://fig.io/
 - http://eradman.com/entrproject/ - file change command watching
 - https://github.com/debauchee/barrier - kvm
+- https://clig.dev/ - cli guidelines for better cli
 
 ## VM tech
 
@@ -31,8 +32,10 @@
 
 - https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/
 - https://git-lfs.com/
+- https://gitbutler.com/ - branching approach
 
 ## Emulation / Old hardware
 - https://www.retrodev.com/blastem/ - sega
     - https://github.com/libretro/blastem
 - https://www.libretro.com/ 
+

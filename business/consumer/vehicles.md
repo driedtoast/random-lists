@@ -126,6 +126,8 @@
 - https://www.rycompressors.com/shop/1991-volvo-240-eg517-316691.html - ac parts
 - https://www.fcpeuro.com/products/volvo-ac-compressor-control-valve-genuine-volvo-31365093 - ac parts
 - http://www.retroturbo.com/
+- https://whitelandrestorations.com/store/ols/products/volvo-240-hockey-stick-replacement-tape/v/VLV-240-HCK-STC-FRN-RR - bumper parts
+- https://www.hottexhaust.com/magnaflow-23946-volvo-240-242-244-245-2-3l-catalytic-converter-direct-fit-standard-grade-epa/
 
 ### Articles
 

@@ -56,6 +56,11 @@
 - https://www.deepspeed.ai/ - microsoft
 - https://riverml.xyz/0.19.0/ - online python
 - https://github.com/MaxHalford/naked
+- https://metaflow.org/ - netflix ml platform
+- https://cog.run/ - container runtime for machine learning
+  - https://github.com/replicate/cog
+- https://rubra.ai/ - run it locally
+- https://github.com/gptscript-ai/gptscript - scripting   
 
 ## Regression and Classification
 
@@ -114,6 +119,10 @@
 - https://allenai.org/allennlp
 - https://rubbrband.gitbook.io/cli-docs/ - cli took for it  
 - https://github.com/nomic-ai/gpt4all - gpt4
+- https://artemisapp.github.io/ - learning and feedback
+  - https://github.com/ls1intum/Artemis
+  - https://github.com/ls1intum/Ares - testing feedback
+- https://www.langflow.org/ - sharing platform
 
 ## Libraries
 

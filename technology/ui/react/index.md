@@ -36,6 +36,15 @@
 - https://github.com/mac-s-g/react-json-view 
 - https://www.modulz.app/ - design system
 
+## Visual coding
+- https://developers.google.com/blockly - visual coder  
+- https://www.appsmith.com/ 
+  - https://github.com/appsmithorg/appsmith
+- https://www.tooljet.com/
+  - https://github.com/ToolJet/ToolJet
+- https://openblocks.dev/
+  - https://github.com/openblocks-dev/openblocks
+
 ## UI Component Lib
 
 - https://headlessui.dev/
@@ -77,6 +86,7 @@
 - https://github.com/ben-rogerson/twin.macro - tailwind and style in js
 - https://windy-docs.vercel.app/docs/getting_started/start - off tailwind only
   - https://www.producthunt.com/products/daisyui/alternatives
+- https://craft.js.org/ - ui editor drag and drop 
 
 ### Dialogs and overlays
 

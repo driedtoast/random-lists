@@ -34,6 +34,11 @@
 * https://observatory.mozilla.org/
 * https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/09-Test_Upload_of_Malicious_Files
 * http://hooked-on-mnemonics.blogspot.com/2011/01/intro-to-creating-anti-virus-signatures.html
+* https://www.decalage.info/en/file_formats_security
+* https://www.greyhathacker.net/?p=872
+* https://owasp.deteact.com/cheat/cheatsheets/Protect_FileUpload_Against_Malicious_File.html
+* https://www.matthewflickinger.com/lab/whatsinagif/bits_and_bytes.asp
+* https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
 
 ## Zero Trust
 * https://www.paloaltonetworks.com/cyberpedia/what-is-a-zero-trust-architecture

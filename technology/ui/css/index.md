@@ -69,6 +69,7 @@
 - https://hihayk.github.io/modulator/
 - https://hihayk.github.io/wheel/ - color wheel
 - https://tailgrids.com/ - tailwind layouts
+- https://intuit.github.io/design-systems-cli/#/welcome
 
 ### For email
 

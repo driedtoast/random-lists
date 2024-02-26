@@ -134,6 +134,7 @@
 - https://www.visualcapitalist.com/
 - https://www.koyfin.com/
 - https://stocksera.pythonanywhere.com/ticker/
+- https://arrived.com/ - property
 
 ## Equity Capital / VC
 

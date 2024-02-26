@@ -8,6 +8,7 @@
 - https://forums.docker.com/t/restart-docker-from-command-line/9420/8
 - https://runfinch.com/docs/getting-started/running-containers/
 - https://evilmartians.com/chronicles/build-images-on-github-actions-with-docker-layer-caching
+- https://github.com/whalebrew/whalebrew - brew for docker images
 
 ## Networking
 
@@ -18,6 +19,7 @@
 ## GIT
 
 - https://gitea.io/en-us/
+- https://jasonet.co/posts/new-features-of-github-actions/ - git actions
 
 ## Paas
 - https://oliverjam.es/articles/deploying-to-fly
@@ -116,6 +118,7 @@
 - https://www.phillipsj.net/posts/random-things-with-terraform/
 - https://medium.com/hashicorp-engineering/how-to-implement-a-zero-trust-lab-with-hashicorp-in-an-hour-5934f5697d24
 - https://dev.to/rotemtam/creating-terraform-like-configuration-languages-with-hcl-and-go-243l - terraform dsl language approach
+- https://www.jerrychang.ca/writing/amazon-cloudfront-response-header-policy - header policies in aws
 
 ## DB migrations
 

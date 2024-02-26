@@ -24,6 +24,7 @@
 
 ## utilities
 * https://github.com/philhassey/goatlang - scripting language
+* https://pkl-lang.org/index.html - configuration language
 
 ## Image processing 
 * https://github.com/cshum/imagor

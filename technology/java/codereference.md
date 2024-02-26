@@ -2,6 +2,7 @@
 
 - https://gist.github.com/salgmachine/352799a6052b02901982dcbf85d30346
 - https://developer.byu.edu/docs/consume-api/use-api/oauth-20/oauth-20-java-sample-code
+- https://darutk.medium.com/oauth-2-0-client-authentication-4b5f929305d4 - spring setup 
 
 ## Quarkus
 
