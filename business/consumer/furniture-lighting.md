@@ -19,6 +19,7 @@
 - https://www.jasoncoyknives.com/ - kitchen knives
 - https://literiecandle.com/ - candles
 - https://ulxstore.com/
+- https://cedarhouse.co/
 
 ## Furniture
 

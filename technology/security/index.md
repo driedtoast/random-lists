@@ -19,6 +19,8 @@
 
 - https://www.exploit-db.com/google-hacking-database
 - https://github.com/hexway/r00kie-kr00kie
+- https://atomicredteam.io/
+- https://www.open-scap.org/ - auditing
 
 ## Investigations
 
@@ -26,6 +28,16 @@
 - https://github.com/AppThreat/dep-scan
 - https://github.com/trustedsec/social-engineer-toolkit
 - https://github.com/rapid7/metasploit-framework
+- https://atomicredteam.io/
+- https://wazuh.com/ - security platform
+
+## Zero trust
+- https://dadrus.github.io/heimdall/v0.14.1-alpha/ 
+    - https://github.com/dadrus/heimdall
+- https://www.pomerium.com/
+    - https://github.com/pomerium/pomerium
+- https://www.ory.sh/docs/oathkeeper
+
 
 ## W3Specs / Specs
 
@@ -87,6 +99,8 @@
 - https://homomorphicencryption.org/ 
 - https://www.openfhe.org/
 - https://github.com/j2kun/awesome-he
+- https://github.com/juicebox-systems - hsm style
+    - https://docs.juicebox.xyz/whitepapers/juiceboxprotocol_revision7_20230807.pdf
 
 ## Authorization
 

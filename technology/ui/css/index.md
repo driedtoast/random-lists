@@ -17,6 +17,7 @@
 - https://tailwindui.com/
   - https://tailwind-elements.com/docs/standard/components/stepper/
   - https://tailwind-elements.com/
+  - https://nerdcave.com/tailwind-cheat-sheet
 - https://www.pollen.style/
 - https://unocss.antfu.me/
 - https://windicss.org/
@@ -46,6 +47,8 @@
 - https://floating-ui.com/
 - https://opensource.adobe.com/spectrum-css/
 - https://www.postcss.parts/ - utility look up
+- https://picnicss.com/
+- https://clrs.cc/
 
 ## Site builders
 
@@ -62,6 +65,7 @@
 - https://github.com/natemoo-re/astro-icon/
 - https://github.com/fogbender/b2b-saaskit
   - https://b2bsaaskit.com/ - sass starter kit
+- https://lightningcss.dev/ - fast css compiler in rust
 
 ## Design examples
 

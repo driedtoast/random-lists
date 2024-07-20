@@ -87,6 +87,9 @@
 - https://windy-docs.vercel.app/docs/getting_started/start - off tailwind only
   - https://www.producthunt.com/products/daisyui/alternatives
 - https://craft.js.org/ - ui editor drag and drop 
+- https://dndkit.com/ - drag and drop
+- https://github.com/atlassian/react-beautiful-dnd
+- https://react-dnd.github.io/react-dnd/about - drag and drop
 
 ### Dialogs and overlays
 
@@ -209,6 +212,8 @@
 - https://github.com/soulfriend216/react-simple-animate
 - https://github.com/FilipChalupa/collapsible-react-component
 - https://github.com/Abusayid693/react-hamburger-menus
+- https://github.com/latentcat/uvcanvas - canvas
+  - https://uvcanvas.com/
 
 ## State
 
@@ -271,6 +276,7 @@
 ## Security
 
 - https://www.npmjs.com/package/react-query-auth
+- https://github.com/cpunisher/react-qrbtf - qr code gen
 
 ### Testing
 
@@ -306,6 +312,7 @@
 
 - https://www.npmjs.com/package/react-feature-flags
 - https://github.com/sergiodxa/flagged
+- https://github.com/tdeekens/flopflip
 
 ## Tracking
 

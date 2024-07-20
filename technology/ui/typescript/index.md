@@ -9,6 +9,8 @@
 - https://github.com/Budibase/budibase - no code builder
 - https://github.com/saltcorn/saltcorn
 - https://github.com/n8n-io/n8n - workflow tool
+  - https://n8n.io/
+  - https://faircode.io/ - license concept
 - https://github.com/nocodb/nocodb
 - https://baserow.io/
   - https://gitlab.com/baserow/baserow - vue based
@@ -16,6 +18,10 @@
   - https://github.com/Budibase/budibase
 - https://github.com/GrapesJS/grapesjs - websites
   - https://grapesjs.com/
+- https://github.com/airbytehq/airbyte - etl 
+  - https://airbyte.com/
+- https://github.com/NangoHQ/nango
+  - https://www.nango.dev/
 
 ## Linting
 
@@ -74,6 +80,7 @@
 - https://github.com/mswjs/msw - api testing
 - https://github.com/anttiviljami/openapi-backend
 - https://reeli.github.io/swagger-faker/
+- https://github.com/jhnns/rewire - monkey patching 
 
 ## API Framework
 - https://joi.dev/ - api doc validation

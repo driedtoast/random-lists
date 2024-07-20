@@ -30,6 +30,7 @@
 - https://deploymentfromscratch.com/
 - https://www.indiehackers.com/post/how-do-you-host-your-saas-eb894f83ea
 - https://microsaashq.com/insights/setup-custom-domain-support-micro-saas
+- https://world.hey.com/dhh/we-have-left-the-cloud-251760fb  - colo deployments
 
 # AWS
 
@@ -162,6 +163,8 @@
 
 - https://medium.com/@ThomasTan/installing-nginx-in-mac-os-x-maverick-with-homebrew-d8867b7e8a5a
 - https://nkhilv.medium.com/how-to-create-a-new-bucket-and-add-files-to-a-specific-folder-using-local-stack-using-docker-414a1d035d19
+- https://priver.dev/blog/emulating-aws-services-locally-with-localstack-sqs-and-sns/ 
+- https://medium.com/@akilamaxi/introducing-sqs-adminui-for-localstack-a-modern-user-interface-for-amazon-sqs-c12929352d2c 
 
 ## Lambda
 
@@ -241,3 +244,5 @@
 # Security
 
 - https://github.com/prowler-cloud/prowler
+- https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of
+- https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c

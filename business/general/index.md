@@ -19,6 +19,7 @@
 - https://www.getoutline.com/
 - https://www.tape.sh/
 - https://www.jeda.ai/ - ai generated
+- https://www.napkin.ai/ - ai augmentation
 
 ## Annotating
 
@@ -38,6 +39,7 @@
 - https://nbt.substack.com/
 - https://unicorner.news/
 - https://www.todayintabs.com/ - more for humor
+- https://www.killerstartups.com/
 
 ## Startup collaboration
 
@@ -53,6 +55,7 @@
 - https://www.launchhouse.com/
 - https://namy.ai/ - name generator
 - https://www.bootstrap.company/
+- https://hunted.space/ - product hunt tracker
 
 ## Culture / Goals
 
@@ -61,6 +64,8 @@
 - https://slab.com/ - collaborative docs
 - https://www.achieveit.com/
 - https://aligntoday.com/
+- https://modbox.io/ - value prop
+- https://fikrahub.com/ - value props
 
 ## Franchises
 
@@ -107,6 +112,8 @@
 - https://releasenotes.io/ - release notes
 - https://gapscout.com/ - gap analysis
 - https://explodingtopics.com/ - topic analysis
+- https://pitchbob.io/ - ai pitch deck
+- https://onboarding.study/ - onboarding flows
 
 ## Insurance
 

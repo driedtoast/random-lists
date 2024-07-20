@@ -148,6 +148,8 @@
 - https://www.creandum.com/
 - https://www.clocktowerventures.com/
 - https://chainvalley.capital/ - crypto bent
+- https://initialized.com
+- https://www.1517fund.com/
 
 ### Micro PE / Company Acquirers
 

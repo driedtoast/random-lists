@@ -22,6 +22,7 @@
 - https://www.timescale.com/ - time series
 - https://nifi.apache.org/ - distributing data
 - https://github.com/fastmonkeys/stellar - backup and restore?
+- https://github.com/cyralinc/dmap - access assessment tool
 
 ## Forks
 

@@ -7,6 +7,7 @@
 
 - https://www.blloc.com/
 - https://dropshare.app/
+- https://shift.com/ - browser for apps
 
 ## Product discovery / news
 
@@ -22,6 +23,7 @@
 - https://bere.al/en - everyone at once during the day
 - https://www.joinmilo.com/ - parenting app
 - http://www.getbond.co/ - keep up with people
+- https://roll20.net/ - character sheets
 
 ## Salon booking
 
@@ -32,6 +34,7 @@
 - http://komakoma.org/en/
 - https://rive.app/
 - https://linesofzen.com/
+- https://htck.github.io/bayeux/#!/ - medieval design
 
 ## Chat and Communication
 

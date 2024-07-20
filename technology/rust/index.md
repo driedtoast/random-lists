@@ -8,6 +8,10 @@
 - https://github.com/diffeo/kodama
 - https://github.com/harthur/tract
 
+## database
+- https://github.com/launchbadge/sqlx
+- https://github.com/emilpriver/geni
+
 ## Algos
 
 - https://github.com/TheAlgorithms/Rust
@@ -24,6 +28,7 @@
 - https://github.com/discord/metal-rs
 - https://rx.cloudhead.io/
 - https://github.com/leetvr/hotham - vr
+- https://github.com/linebender/vello - rendering
 
 ## UI
 
@@ -45,6 +50,7 @@
 - https://lnx.rs/ - with rest front-end
 - https://github.com/phiresky/tantivy-wasm
 - https://github.com/tvanhens/pathery
+- https://github.com/thesephist - dev that builds some tools for search and such
 
 ## Events
 

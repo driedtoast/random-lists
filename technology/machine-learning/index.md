@@ -61,6 +61,7 @@
   - https://github.com/replicate/cog
 - https://rubra.ai/ - run it locally
 - https://github.com/gptscript-ai/gptscript - scripting   
+- https://developer.nvidia.com/project-gr00t - for robots and humanoids
 
 ## Regression and Classification
 
@@ -123,6 +124,10 @@
   - https://github.com/ls1intum/Artemis
   - https://github.com/ls1intum/Ares - testing feedback
 - https://www.langflow.org/ - sharing platform
+- https://js.langchain.com/docs/get_started/introduction - can use in cloudflare as their vectorize product
+- https://tabloid-thesephist.vercel.app/ - headline generator
+- https://mistral.ai/
+  - https://mistral.ai/news/announcing-mistral-7b/
 
 ## Libraries
 
@@ -137,6 +142,7 @@
 - https://github.com/radtriste/droolsjbpm-build-bootstrap - with drools and optplanner
 - https://www.kie.org/
 - https://github.com/feast-dev/feast - data 
+- https://github.com/HMUNACHI/nanodl
 
 ## Code generation
 
@@ -147,3 +153,5 @@
 ## Video generation
 - https://phenaki.github.io/#interactive - google 
 - https://imagen.research.google/
+- https://www.heygen.com/ - ai 
+- https://www.microsoft.com/en-us/research/project/vasa-1/ - ai tech behind video creation

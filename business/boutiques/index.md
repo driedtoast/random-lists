@@ -9,3 +9,4 @@
 - https://www.hidden-leaders.com/ - interesting card / board game
 - https://thewanderingvillage.com/ - city building style
     - https://strayfawnstudio.com/
+- https://www.yazagames.com/ - medieval margin game

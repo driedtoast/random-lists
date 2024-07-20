@@ -96,3 +96,6 @@
 - https://www.permify.co/
 - https://www.gravitee.io/
 - https://substrate.tools/ - aws account management
+- https://www.sailpoint.com/ - idp
+- https://www.miniorange.com/ - idp
+- https://www.ory.sh/

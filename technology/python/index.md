@@ -17,10 +17,13 @@
 - https://pypi.org/project/yoyo-migrations/
 - https://pypi.org/project/nomad/
 - https://github.com/teapot-co/tempest
+- https://github.com/pynamodb/PynamoDB - dynamo db
+
 
 ## Analytics
 - https://motherduck.com/
 - https://superset.apache.org/
+
 
 ## Events
 
@@ -43,8 +46,21 @@
 ## Build
 
 - https://gyp.gsrc.io/index.md
-
+- https://wagtail.org/ content management
+- https://python-poetry.org/
 - https://github.com/bram2w/baserow - no code / platform
+
+## Fountain parser
+- https://github.com/vilcans/screenplain
+- https://github.com/ludovicchabant/Jouvence
+
+
+## Frameworks
+- https://trypyramid.com/
+- https://www.substanced.net/
+- https://flask.palletsprojects.com/en/3.0.x/
+- https://click.palletsprojects.com/en/8.1.x/
+- https://bottlepy.org/docs/dev/
 
 ## Math
 - https://www.sagemath.org/
@@ -79,9 +95,15 @@
 - https://github.com/fabro66/GAST-Net-3DPoseEstimation - skeletons from video capture
 - http://www.juanrojas.net/gast/ - skeletons from video capture
 - https://github.com/NeuralRealm/StableFusion - ai
+- https://python-pillow.org/
+- https://diagrams.mingrammer.com/ 
 
 ## UI libs
 
 - https://pynecone.io/
   - https://github.com/pynecone-io/pynecone
 - https://getpelican.com/ - static site gen
+
+## Security
+
+- https://lyft.github.io/confidant/ - key management

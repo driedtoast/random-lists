@@ -50,6 +50,7 @@
 
 ## Printing
 
+- https://www.gicleetoday.com/ - high end prints
 - https://sinalite.com/en_us
 - https://www.qinprinting.com/blog/low-cost-comic-book-printing/
 - https://www.qinprinting.com/art-book-printing/
@@ -65,6 +66,13 @@
 - https://kopa.eu/
 - https://www.sheridan.com/solutions-services/books-journals-magazines-catalogs-commercial/ 
 - https://www.t-productions.com/ - shirts
+- https://gorhamprinting.com/
+- https://printninja.com/ - about 11 a book
+- https://shop.paperchasepress.com/
+- https://www.peecho.com/products/books/hardcover
+    - https://www.peecho.com/self-publishing - print on demand style
+- paper - https://www.frenchpaper.com/collections/dur-o-tone
+- paper - https://www.frenchpaper.com/
 
 
 - https://www.grekoprinting-comixwellspring.com/
@@ -78,6 +86,14 @@
 - https://bookprinting.com/book-distribution
 
 - https://printify.com/ - products
+
+### Newspaper printing
+- https://www.newspaperclub.com/choose/paper-types/digital-or-traditional
+- https://adamspg.com/products/printing/
+- https://www.stiglerprinting.com/newspaper-printing/
+- https://www.midwaypress.com/atlanta/newspaper-printing-atlanta-ga/
+- https://www.printivity.com/landing/catalogs
+
 
 ## CSS and design
 
@@ -116,7 +132,7 @@
 - https://www.comicbookschool.com/comic-submission-guidelines/ - submissions
 - https://www.loc.gov/exhibitions/comic-art/about-this-exhibition/#explore-the-exhibit - exhibit of the old comics
 - https://www.excavationcomics.com/ - indy
-
+- https://campfire.co.in/ - classic graphic novels
 
 ### PR
 

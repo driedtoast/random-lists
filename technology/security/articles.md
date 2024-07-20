@@ -55,6 +55,7 @@
 * https://www.valerionappi.it/brng-en/ - banana random number gen
 * https://medium.com/asecuritysite-when-bob-met-alice/cybersecurity-medieval-witcraft-chimeras-and-the-hound-of-hades-cbac8bddecde
     * https://asecuritysite.com/digitalcert/ker
+* https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery
 
 ## OTP
 * https://www.baeldung.com/spring-security-two-factor-authentication-with-soft-token

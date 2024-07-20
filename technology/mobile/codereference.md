@@ -17,6 +17,8 @@
 * https://github.com/best-flutter
 * https://github.com/artflutter
 * https://github.com/artflutter/layout-demo-flutter
+* https://github.com/rive-app/find-the-dog - flutter and rive
+* https://github.com/Spellthorn/pixel_adventure/ - flutter and flame
 
 ### Games
 * https://github.com/flutter/super_dash

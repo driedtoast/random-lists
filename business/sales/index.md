@@ -225,6 +225,8 @@
 - https://build.mmm.page/ - one of page builder
 - https://mangools.com/ - seo tooling
 - https://www.factors.ai/
+- https://microlaunch.net/ - small startup
+- https://burstyai.com/  - create seo blogs and such
 
 ### Content
 
@@ -236,6 +238,7 @@
 
 - https://goread.io/ - buying likes and followers
 - https://narrativ.com/ - for creators to recommend products
+- https://www.madmushroom.gg/ - game publishers
 
 ### Videos / Demos
 
@@ -244,6 +247,7 @@
 - https://www.getreprise.com/reprise-for-sales/
 - https://www.demostack.com/
 - https://powermodeai.com/ - ai slides
+- https://www.daily.co/ - video rtc api
 
 ## Commissions / Awards / Sales Plans
 

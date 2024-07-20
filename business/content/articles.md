@@ -17,6 +17,10 @@
 - https://www.comicsbeat.com/chip-zdarsky-public-domain-comic-series/
 - https://theslingsandarrows.com/category/mystery/ - reviews
 - https://www.altaplana.be/en/start - world of obscure cities
+- https://salgoodsam.com/mc/short-story/ - writing
+- https://timstout.wordpress.com/2011/09/03/how-to-use-3-act-story-structure-in-comic-strips/
+- https://timstout.wordpress.com/graphic-novel-writing/
+- https://timstout.wordpress.com/story-structure/blake-snyders-beat-sheet/
 
 ## Books
 - https://standardebooks.org/ebooks/e-c-bentley/trents-last-case

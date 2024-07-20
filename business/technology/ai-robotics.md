@@ -66,3 +66,6 @@
 - https://www.anthropic.com/product
 - https://superagi.com/ - deployment of ai bots
 - https://www.pachyderm.com/
+- https://claude.ai/ - ai assistant
+- https://deepinfra.com/ - on demand service
+- https://wit.ai/ - platform

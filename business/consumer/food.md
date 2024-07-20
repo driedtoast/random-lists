@@ -62,7 +62,19 @@
 - https://www.bottomless.com/
 - https://www.saintfrankcoffee.com/
 - https://customcoffeebrands.com/
+- https://dillacoffee.com/
+- https://puritycoffee.com/
 - https://www.adastraroasters.com/shop
+- https://brotherandres.org/
+- https://zeliebeanscoffee.com/
+- https://caffesanteustachio.com/
+- https://www.poorrockabbey.com/coffee
+- https://www.holyangelsministries.org/heavenlyroastcoffee
+- https://patrisroasting.com/
+- https://twinpike.com/
+- https://humblehabitscoffee.org/
+- https://www.trailcreekcoffeeroasters.com/
+- https://www.thankgodforcoffee.com/
 
 ## Cooking Gear
 

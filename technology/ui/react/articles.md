@@ -122,6 +122,10 @@
 - https://cretezy.com/2020/react-query-axios-authentication
 - https://tkdodo.eu/blog/react-query-as-a-state-manager
 - https://codeworkshop.dev/blog/2020-04-15-fetching-data-with-react-query-and-suspense/
+- https://www.jeffastor.com/blog/consuming-a-fastapi-backend-from-a-react-frontend/
+- https://dev.indooroutdoor.io/re-doing-the-django-tutorial-with-fastapi-and-react-connecting-a-react-app-to-fastapi
+- https://tkdodo.eu/blog/seeding-the-query-cache
+- https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose
 
 ## State management
 

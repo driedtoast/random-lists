@@ -114,6 +114,7 @@
 - https://docs.airdev.co/functionality-reference/
 - https://arvid.xyz/commonplace-book/ - links to various 
 - https://egghead.io/
+- https://tea.xyz/ - crypto open source contributions
 
 ## Odd languages
 
@@ -144,6 +145,7 @@
 - https://openbase.com/
 - https://libraries.io/ - package search
 - https://www.libhunt.com/
+- https://pkgx.app/
 - https://graphite.dev/ - pr review
 
 ## Bots
@@ -160,6 +162,8 @@
 - https://flagsmith.com/
 - https://featureflags.io/resources/
 - https://www.featurehub.io/
+- https://flagd.dev/
+- https://openfeature.dev/docs/tutorials/open-feature-operator/quick-start/
 
 ## Open APIs
 
@@ -167,6 +171,8 @@
 - https://api.chucknorris.io/
 - https://webhook.site/ - for testing webhook logic
 - http://dapperdox.io/ - docs
+- https://www.webhookrelay.com/ - webhook relay processing
+- https://beeceptor.com/ - mock server testing
 
 ## Challenges
 

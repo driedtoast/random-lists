@@ -16,6 +16,8 @@
 - https://www.alphamotorinc.com/ - wish this was in production
 - https://fetchtruck.com/ - rentals
 - https://www.scoutmotors.com/
+- https://ineosgrenadier.com/en/us/
+- https://www.hyundai-n.com/en/models/rolling-lab/n-vision-74.do - delorean looking modern car, good art ref
 
 ## Cars
 
@@ -29,8 +31,8 @@
 - https://www.classifiedmoto.com/
 - https://www.golfboard.com/ - electric scooter really
 - https://simplyev.com/
-
-* https://www.volcon.com/
+- https://oldsorenmotorcycleco.com/
+- https://www.volcon.com/
 
 ## Part creation
 
@@ -43,6 +45,20 @@
 - https://www.swytchbike.com/ - bikes
 - https://www.ev-power.com.au/ - batteries
 - https://www.instructables.com/Electric-Vehicle-A-simple-lightweight-EV-platform-/
+- https://www.instructables.com/Build-your-own-Electric-Car/ 
+- https://www.ozdiyelectricvehicles.com/ - diy ev parts supplier
+- https://www.diyelectriccar.com/forums/
+- https://goldenmotor.bike/product/48-volt-10kw-bldc-motor-liquid-cooled/
+- https://www.diyelectriccar.com/threads/the-hyper-9-thread.204662/
+- https://www.evwest.com/catalog/product_info.php?cPath=40&products_id=583
+- https://evolveelectrics.com/products/hyper-9-is-motor-kit
+- https://evsource.com/products/motor-hyper-9
+- https://electricgt.com/shop/netgain-motors-hyper-9-systems/
+- https://electricgt.com/mission/
+- https://www.danatm4.com/products/electric-motors/ - all electric parts
+- https://diyev.com/ 
+- https://thegarage.eastwood.com/hot-rod-chassis/
+- https://www.openenergy.co/
 
 ## Apps
 

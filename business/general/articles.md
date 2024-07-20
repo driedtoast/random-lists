@@ -29,6 +29,9 @@
 - https://www.buzzfeednews.com/article/ryanmac/facebooks-teens-tbh-psychological-trick-memo - stickiness
 - https://summation.net/2021/01/09/eight-napkin-graphs-to-building-a-unicorn/
 - https://blog.getshaped.co/i-asked-100-developers-pms-how-they-build-software-heres-the-results-2a1e3fc9fec0
+- https://aatir.substack.com/p/how-did-clickup-become-a-150m-revenue
+- https://kennethlange.com/
+- https://research.contrary.com/reports/statsig
 
 ## Bootstrap tips
 
@@ -58,7 +61,8 @@
 - https://microsaashq.com/insights/saas-startups
 - https://microsaashq.com/insights/setup-custom-domain-support-micro-saas
 - https://www.indiehackers.com/post/i-built-an-ai-startup-in-one-weekend-with-no-code-e766cbec13
-
+- https://www.indiehackers.com/product/flx-websites/how-i-built-and-scaled-a-profitable-web-design-business-selling-to-local-regional-smbs--Nr3T_zPMbik2W5pTQLA
+- https://www.marketingideas.com/ 
 
 ## Thinking
 - https://fs.blog/mental-models/

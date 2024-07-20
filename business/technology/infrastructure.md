@@ -32,6 +32,7 @@
 - https://lambdalabs.com/
 - https://www.upbound.io/ - auto scaling / crossplane
 - https://nextcloud.com/ - on premise deploys
+- https://encore.dev/ - build out api and dev api
 
 ## Diagramming
 
@@ -40,6 +41,7 @@
 - https://www.cloudockit.com/
 - https://www.totalcloud.io/
 - https://duo-labs.github.io/cloudmapper/
+- holori.com
 - https://www.eraser.io/ - dev diagramming
 
 
@@ -84,6 +86,7 @@
 - https://logentries.com/
 - https://lightrun.com/
 - https://vector.dev/
+- https://coroot.com/
 
 ## CI / Deployment
 
@@ -140,6 +143,7 @@
 - https://www.sunlight.io/
 - https://www.stellarhosting.com/
 - https://kinsta.com/ - paas
+- https://www.civo.com/
 - https://www.deta.sh/ - paas / free
 - https://render.com/ - heroku like
 - https://www.datapacket.com/

@@ -146,3 +146,5 @@
 - https://daverupert.com/2023/07/why-not-webcomponents/
 - https://www.builder.io/blog/25-plus-ui-component-libraries
 - https://dev.to/stuffbreaker/seo-and-web-components-2023-edition-3l6i
+- https://blog.logrocket.com/build-web-editor-with-react-monaco-editor/ - web editor
+- https://blog.expo.dev/building-a-code-editor-with-monaco-f84b3a06deaf

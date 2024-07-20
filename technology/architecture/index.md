@@ -7,6 +7,8 @@
 - https://nordicapis.com/ - open banking apis and such
 - https://dl.acm.org/doi/10.1145/74851.74870 - lease locks
 - https://crdt.tech/ - conflict resolution
+- https://openfeature.dev/ - feature flagging 
+    - https://docs.devcycle.com/
 
 ## Icons and Diagramming
 

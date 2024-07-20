@@ -52,6 +52,7 @@
 - https://moss.sh/ - deployment tools
 - https://cipi.sh/  
 - https://litestream.io/ - single server running
+- https://kamal-deploy.org/ - deployments
 
 ## Networking
 
@@ -77,6 +78,10 @@
 - https://neon.tech/ - postgres servlerless
 - https://github.com/dolthub/dolt - data forking
 - https://iceberg.apache.org/ - large data set analytics
+- https://turso.tech/libsql
+- https://github.com/emilpriver/geni - migrations
+- https://www.edgedb.com/ - graph db
+
 
 ### Migrations
 
@@ -85,6 +90,8 @@
 - https://github.com/SplitmediaLabsLimited/supermigration - big table
 - https://shardingsphere.apache.org/ - sharding, distributed
 - https://atlasgo.io/ - db schema management like terraform
+- https://github.com/emilpriver/geni - db migrations
+- https://github.com/amacneil/dbmate - migrations
 
 ## Streams / Queues / Events
 
@@ -144,6 +151,7 @@
 - https://github.com/plausible/analytics
 - https://github.com/grafana/synthetic-monitoring-app
 - https://github.com/grafana/synthetic-monitoring-agent
+- https://vector.dev/ - from data dog
 - https://github.com/simonschwartz/cloudwatch-synthetics-boilerplate
 - https://cloudcustodian.io/ - security / policy auditing
 - https://riemann.io/
@@ -153,6 +161,7 @@
 - https://github.com/kadira-open/kadira-server
 - https://www.iccube.com/ - reporting and analytics
 - https://kylin.apache.org/
+- https://coroot.com/ - new relic like
 
 ### Open telemetry
 
@@ -175,6 +184,9 @@
 - https://telebit.cloud/
 - https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
 - https://www.vortexhub.io/public-urls
+- https://pkgx.sh/ - universal package manager
+- https://nixos.org/
+- https://charm.sh/ - shell
 
 ## Docker / Containers
 
@@ -194,6 +206,7 @@
 - https://github.com/containerd/nerdctl
 - https://github.com/docker/awesome-compose - compose examples
 - https://github.com/marketplace/buddy - delivery pipeline
+- https://github.com/microsoft/Oryx - build system for azure
 
 ## Serverless / Workflow
 
@@ -222,6 +235,11 @@
 - https://infrablocks.io/
 - https://registry.terraform.io/modules/joshuamkite/ssh-bastion-service/aws/latest - bastion host
 - https://jq1.io/posts/tiered_subnet_calculator/ - subnet
+- https://github.com/patrickchugh/terravision - diagramming
+- https://github.com/semnil/tfdiagrams
+- https://www.runatlantis.io/ - pr automation
+- https://github.com/cycloidio/inframap
+- https://github.com/figurate/bedrock
 
 ### AWS
 

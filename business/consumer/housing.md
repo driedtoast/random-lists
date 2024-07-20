@@ -24,6 +24,8 @@
 - https://undergroundhousing.com/ - underground home 
 - https://www.span.io/ - smart electrical panel
 - https://www.thebarnyardstore.com/structures/post-and-beam-barn-kits - barn kits
+- https://www.barnyard.com/structures/pool-houses
+- https://www.heavyhorsewoodworks.com/serviceslist - barn kits
 
 ### Built ins
 - https://www.remodelandolacasa.com/2018/11/fmlyrhdr.html?showComment=1543236113590#c2729776750196433087
@@ -83,6 +85,8 @@
 - https://www.zomes.com/
 - https://wikkelhouse.com/
 - https://hifab.co/
+- https://carfridge.alpicool.com/collections/zcamp-prefab-house
+- https://www.homedepot.com/p/Chill-Out-1-Bed-1-Bath-292-sq-ft-Steel-Frame-plus-Dry-In-Kit-DIY-Assembly-Building-Guest-House-Kit-ADU-Rental-COD281/327991992
 
 ## Contractor apps
 
@@ -123,6 +127,8 @@
 - https://www.boutiquecamping.com/
 - https://bowlus.com/
 - https://www.yankodesign.com/2022/09/16/this-outdoor-tarp-fits-as-many-as-6-people-and-can-fold-down-to-the-size-of-a-duffle-bag/
+- https://eaglesnestoutfittersinc.com/collections/backcountry
+- https://www.hyperlitemountaingear.com/?avad=55097_f3b0241d5&utm_medium=affiliate&@utm_source=skimlinks.com
 
 ## Grills
 

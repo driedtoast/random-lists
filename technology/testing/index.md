@@ -2,6 +2,7 @@
 
 - https://github.com/intuit/karate
 - https://karatelabs.github.io/karate/
+- https://turn.github.io/ - multiple swarms and browsers
 
 ## Webhook
 
@@ -9,6 +10,7 @@
 - https://smee.io/
 - https://hookdeck.com/ - webhook queueing
 - https://requestbin.com/
+- https://beeceptor.com/
 
 ## AWS
 

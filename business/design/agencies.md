@@ -18,6 +18,9 @@
 - https://hovercraftstudio.com/
 - https://thelemonadstand.com/
 - https://dribbble.com/enginedigital
+- https://www.tailwindapp.com/
+- https://www.yozdesigner.com/
+- https://www.logo-archive.org/
 
 ## Application and UI Design
 
@@ -48,6 +51,11 @@
 - https://www.thisdot.co/
 - https://www.pixelhop.io/ - cool studio like site
 - https://www.airdev.co/ - no code agency
+- https://zeplin.io/ - ui mocks
+- https://origami.design/ - ui mocks
+- https://shuffle.dev/ - tailwind designer
+- https://updrafts.app/ - tailwind
+- https://www.uxpin.com/
 
 ## Designers
 
@@ -99,6 +107,9 @@
 - https://nicoleiliana.com/
 - https://thenounproject.com/imogenoh/
 - https://louhuang.com/
+- https://rauno.me/ - interaction designer
+- https://www.swimmingdesign.com/
+- https://www.sam-peitz.com/
 
 ## Book and publishing
 

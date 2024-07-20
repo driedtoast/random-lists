@@ -25,6 +25,8 @@
 - https://payze.io/ - in soviet union
 - https://www.currencycloud.com/technology/collect/
 - https://kindest.com/ - donations
+- https://wise.com/us/pricing/
+- https://supertab.co/ - micro payments
 
 ## Orchestration
 
@@ -91,6 +93,7 @@
 - https://www.rutterapi.com/ - api for data around commerce (eg. plaid)
 - https://www.violet.io/ - cart integrations
 - https://www.tremendous.com/
+- https://fixer.io/ - exchange rate api
 
 ## Invoicing
 
@@ -156,6 +159,7 @@
 - https://groundhog.network/ - subscription support
 - https://www.drips.network/ - reoccurring revenue
 - https://www.andsub.com/ - nft subs
+- https://maplebilling.com/ 
 
 ### DAO
 

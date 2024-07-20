@@ -15,6 +15,7 @@
 - https://backlight.dev/
 - https://www.enfoques.net/design-systems
 - https://www.primedesignsystem.com/
+- https://frame.io/ - workflow management
 
 ## Mockups and Flows
 
@@ -94,6 +95,13 @@
 - https://maxhalford.github.io/blog/comic-book-panel-segmentation/ - panel detection
 - https://github.com/njean42/kumiko - comic cutter
 - https://octoai.cloud/ - image generation ai
+- https://www.getillustrations.com/ - generates business like illustrations
+- https://www.sketchlogo.ai/ - logo generation
+- https://www.truegrittexturesupply.com/blogs/news/krafttone-tutorial - comic texture
+- https://github.com/ink-cow/moo?tab=readme-ov-file - krita comic bundles
+- https://www.retrosupply.co/ - vintage feel
+- https://glaze.cs.uchicago.edu/ - protect from ai scraping
+- https://carlosarrojo.bigcartel.com/ - logo design
 
 ## Animation
 
@@ -131,6 +139,7 @@
 - https://shotcut.org/
 - https://www.genmo.ai/ - via ai
 - https://pika.art/ - ai generation
+- https://liveportrait.github.io/ - ai generated faces
 
 ## Fonts
 
@@ -150,6 +159,7 @@
 - https://supernote.com/collections/devices/products/supernote
 - https://remarkable.com/
 - https://us.espres.so/products/espresso-pro-and-stand - touch monitor
+- https://www.wacom.com/en-us/products/pen-displays/wacom-movink - pen display with touch support
 
 
 ## Generation
@@ -166,6 +176,9 @@
 - https://colorhunt.co/palettes/vintage
 - https://www.truegrittexturesupply.com/products/debaser-low-fi-comic-coloring-kit
 - https://scrtwpns.com/mixbox/ - see how colors mix
+- https://github.com/meodai/color-name-lists
+- https://docs.google.com/spreadsheets/d/10w7UebIDqN6ChEpBwLDQmAgVZZhLtKvnrLeNnBjJmsc/edit#gid=0 - normenclature 
+- https://colors.lol/
 - https://www.c82.net/color-printer/
 - https://www.c82.net/color-printer/harmony#pyrenees
 - https://www.c82.net/work/?id=380

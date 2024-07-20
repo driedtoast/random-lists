@@ -3,6 +3,7 @@
 - https://github.com/JournalismAI-2021-Quotes/quote-extraction - content extraction
 - https://github.com/avgupta456/yhack-2022 - graph decisions
 - https://github.com/james-tn/Text_Summarization
+- https://github.com/MaxHalford/taxi-demo-rp-mz-rv-rd-st - with kafka and river
 
 ## Chatgpt
 

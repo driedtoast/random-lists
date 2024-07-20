@@ -54,6 +54,7 @@
 - https://tryfinch.com/ - aggregator / payroll
 - https://www.pinwheelapi.com/ - direct deposit via api
 - https://www.steadyiq.com/ - 1099 work management
+- https://www.joinwarp.com/ - payroll mgmmt
 
 ## HR News
 

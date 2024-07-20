@@ -22,6 +22,11 @@
 - https://www.jean-pierre-augier.com/index.php/en/ - metal sculptures
 - https://earlthollander.art/
 - https://patrickbergsma.nl/ - exploding pottery / trees
+- https://lit.link/en/TTI304 - paper artist
+- https://makotofujimura.com/
+- https://fageras.com/ - stone sculpting
+- https://www.greg-rutkowski.com/ - painting
+- https://margaritaears.com/ - manuscripts
 
 ## Art auctions / investments
 
@@ -106,6 +111,9 @@
 - https://www.basheergraphic.com/collections/sketching
 - https://cuislandora.wrlc.org/islandora/object/cuislandora%3A35271?page=1 - old irish political cartoons
 - https://publicdomainreview.org/shop/affinities/ - public domain art stuff
+- https://www.livingmedieval.com/ - medieval life
+- http://www.kleegestaltungslehre.zpk.org/ee/ZPK/BF/2012/01/01/001/ - paul klee notebooks
+  - https://thecloudgallery.org/visual-diaries/Art-Books/Paul_Klee_Notebooks_Vol_1_The_Thinking_Eye.pdf
 
 ## Art reference
 
@@ -163,6 +171,9 @@
 - https://www.pexels.com/ - photos
 - https://www.meisterdrucke.pt/impressoes-artisticas-sofisticadas/School-Russian/1323539/A-Batalha-no-Gelo,-5-de-Abril-de-1242-no-Lago-Peipus-%28Est%C3%B3nia-e-R%C3%BAssia%29-onde-Alexander-Nevsky-derrotou-os-Cavaleiros-Teut%C3%B3nicos,-terminando-a-sua-expans%C3%A3o-para-a-R%C3%BAssia.-Trabalho-an%C3%B3nimo-retirado-de-uma-compila%C3%A7%C3%A3o-de-cr%C3%B3nicas-iluminadas,-aguarela.html - russian art
 - https://illustrationchronicles.com/swaying-destiny-with-a-pencil-the-anti-war-cartoons-of-louis
+- https://majnouna.com/shop/books/ - book on making inks
+- https://www.teachingmanuscripts.com/post/medieval-ink-on-a-medieval-budget - ink making
+- https://www.teachingmanuscripts.com/colours - medieval colors
 
 ## Schools
 

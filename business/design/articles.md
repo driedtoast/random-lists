@@ -33,6 +33,10 @@
 - https://pinnguaq.com/learn/krita-for-comics/ - with krita
 - https://inked-dreams.com/2021/09/14/wally-woods-22-panels-with-examples/ - conversations
 - https://www.comicbookscriptarchive.com/ - comic scripts
+- https://bluef00t.neocities.org/art/icles/vintagefx - old comic fx
+- https://docs.krita.org/en/tutorials/common_workflows.html - comic krita flows
+- https://www.truegrittexturesupply.com/blogs/news/comic-inking-tutorial - inking and digital work
+
 
 ## Design tips
 
@@ -54,6 +58,9 @@
 - https://www.artistsnetwork.com/art-history/masters-10-great-drawers-and-what-they-teach-us/
 - https://artveg.tumblr.com/ - teaching tips
 - https://toward.studio/latest/tools-to-run-a-design-agency - agency tips and tools
+- https://raghukamath.com/how-to-create-a-seamless-pattern-in-krita/ -  krita tiling
+  - https://raghukamath.com/tag/krita/
+  - https://raghukamath.com/how-to-use-smart-objects-in-krita/ - external file layer
 
 ## References and photos
 
@@ -76,7 +83,11 @@
 - https://www.gettyimages.com/detail/news-photo/plate-336-from-muybridges-animal-locomotion-eadweard-news-photo/90728244
 - https://es.m.wikipedia.org/wiki/Archivo:A_horse_jumping_a_hurdle._Photogravure_after_Eadweard_Muybri_Wellcome_V0048754.jpg
 - https://line-of-action.com/practice-tools/figure-drawing
+- https://help-me-draw.tumblr.com/tagged/composition - layout and concept drawing
+- https://www.rivkah.com/lets-make-magic/camera-conventions-in-graphic-novels/ - camera angles
 - https://help-me-draw.tumblr.com/post/122443419755/figure-reference-manual
+- https://illustrationart.blogspot.com/ - illustrators reference
+- https://www.flickr.com/photos/leifpeng/albums/72157594561923450/ - famous artists course pages
 - https://winmortimertrust.com/examples/
 - http://www.theillustratedpress.com/ - illustration magazine
 - https://designstudiopress.com/ - books

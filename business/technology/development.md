@@ -51,6 +51,8 @@
 - https://speakeasyapi.dev/ - api sdk generation
   - https://github.com/speakeasy-sdks
 - https://cohere.com/ - ai conversation apps
+- https://www.napkin.io/ - api generation
+- https://www.permit.io/ - permission / role approach
 
 ## API docs
 
@@ -99,6 +101,7 @@
 - https://runbear.io/ - ai tech support 
 - https://www.uffizzi.com/ - pr ci builds?
 - https://buddy.works/
+- https://kamal-deploy.org/ - deployments
 
 ## Microservices
 
@@ -159,6 +162,11 @@
 - https://www.citusdata.com/ - postgres at scale
 - https://nhost.io/ - firebase alternative
 - https://turso.tech/libsql - sqllite on the edge
+- https://cloud.ravendb.net/ - no sql
+- https://www.couchbase.com/products/capella/
+- https://www.cockroachlabs.com/pricing/
+- https://www.dragonflydb.io/ - redis alternative
+- https://cyral.com/ - database control
 
 ## Data processing
 

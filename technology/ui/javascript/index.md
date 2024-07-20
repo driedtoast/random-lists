@@ -20,6 +20,7 @@
 - https://www.npmjs.com/package/svg-sprite - svg sprite management
 - https://github.com/google/traceur-compiler
 - https://bun.sh/ - npm start alternative
+- https://reasonml.github.io/
 
 ## Components / Frameworks
 
@@ -67,6 +68,7 @@
 - https://shoelace.style/
 - https://github.com/open-wc/custom-elements-manifest
 - https://htmx.org/
+- https://umbrellajs.com/
 
 
 ## Plugin utils
@@ -88,6 +90,7 @@
 
 - https://twind.dev/ - tailwind in js
 - https://stitches.dev/
+- https://atroposjs.com - parallax
 
 ## JQuery
 
@@ -106,6 +109,7 @@
 - https://getanalytics.io/ - tracking
 - https://zizzamia.github.io/perfume/ - page speed
 - https://plausible.io/ - google analytics replacement
+- https://counterscale.dev/ - google analytics replacement
 
 ## Charts
 
@@ -123,6 +127,7 @@
 - https://github.com/discord/qrcodejs - qr codes
 - https://www.sniptt.com/ - secret management / cli
 - https://github.com/krakenjs/zoid - cross domain
+- https://github.com/ciaochaos/qrbtf - qr codes with design
 
 ## Events
 
@@ -186,8 +191,12 @@
 - https://prosemirror.net/
 - https://github.com/bytedance/bytemd - markdown
 - https://milkdown.dev/ - has a component approach could do fountain with this
+- https://github.com/mattdaly/Fountain.js  - fountain parser
+  - newer one - https://github.com/jonnygreenwald/fountain-js 
 - https://mermaid-js.github.io/mermaid/#/ - diagramming tool
 - https://trix-editor.org/
+- https://github.com/microsoft/monaco-editor - code editor
+- https://ace.c9.io/
 
 ## Code quality
 

@@ -61,6 +61,8 @@
 - https://www.workwithindies.com/ - indie studio jobs
 - https://www.devolverdigital.com/games/wizard-with-a-gun
 - http://www.traplabs.net/
+- https://www.bertramfiddle.com/
+    - https://www.bertramfiddle.com/collections/frontpage/products/100-days-of-mystery-art-book - art related to game
 
 ## Game servers
 
@@ -71,6 +73,7 @@
 
 - https://pixiespix.com.au/collections/fidgets - started by a 15 yr old, tactile toys
 - https://sternpinball.com/
+- https://www.candylabtoys.com/
 
 ## Board games
 

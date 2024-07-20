@@ -28,7 +28,15 @@
 
 ## Image processing 
 * https://github.com/cshum/imagor
+* https://github.com/MaxHalford/halfgone
 * https://github.com/bep/goat - ascii diagrams
 
 ## Database 
 * https://entgo.io/
+
+## Frameworks
+* https://encore.dev/docs/develop/app-structure
+* https://encore.dev/docs/deploy/infra
+
+## Security
+* https://github.com/Permify/permify - Zanzibar implementation / permissions

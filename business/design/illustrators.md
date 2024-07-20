@@ -80,6 +80,13 @@
 - https://greyhawkins.com/Intro
 - https://franquin.tumblr.com/page/1
 - http://www.roncobb.net/st.html - concept artist
+- https://www.behance.net/davsantanaa605
+- https://www.chuckgroenink.com/ 
+- https://www.conornolan.com/
+- https://www.goodbrush.com/
+- https://owenpomery.com/
+- https://www.lancesnider.com/
+
 
 ## Comic Artists
 
@@ -178,6 +185,22 @@
 - https://mattcrotts.com/KYRIE-Book-1-Annotated-Edition
 - https://tennapel.com/comics.html
 - https://www.skottieyoung.com/
+- https://www.brettbean.com/
+- https://jcavia.com/ 
+- https://anandrk.art/
+- https://e-merl.com/ - experimental artist
+- https://www.adamwestbrook.co.uk/
+- https://francismanapul.com/
+- https://aaronlopresti.com/
+- https://www.jaydavidramos.com/ - colorist
+- https://www.artbysanya.com/
+- https://sachinnagar.wixsite.com/ - nice sketchy style
+- https://www.pyeparr.com/ - colorful
+- https://gerardozaffino.bigcartel.com/
+- https://www.juniba.fr/ - great cartooning style / nice vintage coloring
+- https://rnugentcolors.artstation.com/ - colorist
+- https://www.to-zo.com/
+- https://www.lucaselliottart.com/
 
 ## Animators
 

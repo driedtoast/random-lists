@@ -66,6 +66,7 @@
 - http://8p.cx/?lang=en - 8 page comics with folding
 - https://www.creatorresource.com/comic-book-printing-templates/ - templates 
 - https://ratfist.com/ - from artist behind earthworm jim
+- https://4panel.ca/ - 4 panel experiments 
 
 ### Old comics
 
