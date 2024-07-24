@@ -86,7 +86,7 @@
 - https://www.goodbrush.com/
 - https://owenpomery.com/
 - https://www.lancesnider.com/
-
+- https://www.rabbleboy.com/ - children's book illustrator
 
 ## Comic Artists
 

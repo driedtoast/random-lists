@@ -187,6 +187,7 @@
 - https://pkgx.sh/ - universal package manager
 - https://nixos.org/
 - https://charm.sh/ - shell
+- https://github.com/abiosoft/colima - docker
 
 ## Docker / Containers
 
@@ -207,6 +208,8 @@
 - https://github.com/docker/awesome-compose - compose examples
 - https://github.com/marketplace/buddy - delivery pipeline
 - https://github.com/microsoft/Oryx - build system for azure
+- https://docs.orbstack.dev/features - docker and container issues
+- https://github.com/containerd/nerdctl
 
 ## Serverless / Workflow
 

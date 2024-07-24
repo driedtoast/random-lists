@@ -164,3 +164,12 @@
 - https://www.ifixit.com/Device/1986-1993_Volvo_240
 - https://www.prancingmoose.com/doorvinyl.html#installation
 - http://forums.turbobricks.com/showthread.php?t=324191 - racing upgrades
+
+## Acura 2015 mdx
+- https://evolvchips.com/products/performance-chip-for-acura-mdx?variant=4631687806999 - performance chip
+- https://www.youtube.com/watch?v=ETXxRZef2qE
+- https://gromaudio.com/store/vline/honda-acura-2010-2015-vline-carplay-android-auto-infotainment-system-navigation-upgrade.html
+- https://www.mdxers.org/threads/2015-tech-ent-carplay.178609/
+- https://www.aliexpress.us/item/3256803952687646.html?spm=a2g0o.order_list.0.0.76611802JrSUeJ&gatewayAdapt=glo2usa4itemAdapt
+- https://www.alibaba.com/product-detail/Wireless-Car-play-Android-Box-For_1600494125607.html
+- https://www.navtool.com/acura-mdx-2014-2017-apple-carplay.aspx

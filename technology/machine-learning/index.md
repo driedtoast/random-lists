@@ -128,6 +128,7 @@
 - https://tabloid-thesephist.vercel.app/ - headline generator
 - https://mistral.ai/
   - https://mistral.ai/news/announcing-mistral-7b/
+- https://llama.meta.com/
 
 ## Libraries
 
