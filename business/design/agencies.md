@@ -110,6 +110,7 @@
 - https://rauno.me/ - interaction designer
 - https://www.swimmingdesign.com/
 - https://www.sam-peitz.com/
+- https://www.gavinrothery.com/ - sci fi designer
 
 ## Book and publishing
 

@@ -21,6 +21,8 @@
 - https://github.com/hexway/r00kie-kr00kie
 - https://atomicredteam.io/
 - https://www.open-scap.org/ - auditing
+- https://github.com/redcanaryco/atomic-red-team
+- https://github.com/DataDog/stratus-red-team
 
 ## Investigations
 

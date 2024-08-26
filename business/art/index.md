@@ -27,6 +27,8 @@
 - https://fageras.com/ - stone sculpting
 - https://www.greg-rutkowski.com/ - painting
 - https://margaritaears.com/ - manuscripts
+- https://www.anthonyschmidtphotography.com/ - cool toy car photography
+- https://www.sacredmurals.com/
 
 ## Art auctions / investments
 
@@ -174,6 +176,7 @@
 - https://majnouna.com/shop/books/ - book on making inks
 - https://www.teachingmanuscripts.com/post/medieval-ink-on-a-medieval-budget - ink making
 - https://www.teachingmanuscripts.com/colours - medieval colors
+- https://geesebook.asu.edu/volumes.htm 
 
 ## Schools
 

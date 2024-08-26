@@ -69,6 +69,7 @@
 - https://github.com/open-wc/custom-elements-manifest
 - https://htmx.org/
 - https://umbrellajs.com/
+- https://loopback.io/
 
 
 ## Plugin utils
@@ -128,6 +129,14 @@
 - https://www.sniptt.com/ - secret management / cli
 - https://github.com/krakenjs/zoid - cross domain
 - https://github.com/ciaochaos/qrbtf - qr codes with design
+- https://www.passportjs.org/ - authentication
+  - https://github.com/jaredhanson/passport-github
+- https://www.webfirewall.dev/ - waf / application firewall approach 
+  - https://github.com/AikidoSec/firewall-node
+- https://helmetjs.github.io/ - waf for express
+- https://www.npmjs.com/package/ses
+  - https://github.com/endojs/Jessie
+- https://github.com/animir/node-rate-limiter-flexible - rate limiting
 
 ## Events
 
@@ -278,6 +287,7 @@
 - https://github.com/j0hnm4r5/hagen
 - https://github.com/hansifer/ConsoleFlair
 - https://github.com/kutuluk/loglevel-plugin-prefix
+- https://cabinjs.com/ - logging wrapper
 
 ## Servers
 

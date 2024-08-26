@@ -56,6 +56,7 @@
 - https://namy.ai/ - name generator
 - https://www.bootstrap.company/
 - https://hunted.space/ - product hunt tracker
+- https://github.com/cjbarber/ToolsOfTheTrade
 
 ## Culture / Goals
 
@@ -136,6 +137,7 @@
 - https://www.census.gov/naics/ - naics
 - https://datablocks.pro/ - visualization workflow
 - https://www.jointjs.com/ - javascript workflow designer
+- https://www.lido.app/ - google sheets automation
 
 ## ESignature
 

@@ -67,6 +67,7 @@
 - https://www.creatorresource.com/comic-book-printing-templates/ - templates 
 - https://ratfist.com/ - from artist behind earthworm jim
 - https://4panel.ca/ - 4 panel experiments 
+- https://www.themerrymushmen.com/ - gaming books
 
 ### Old comics
 

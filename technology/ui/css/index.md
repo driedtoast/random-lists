@@ -115,6 +115,7 @@
 - https://www.samanthaming.com/
 - https://hayk.design/#/
 - https://tailwindcss-opentype.netlify.app/font-variant-caps/
+- https://lookerstudio.google.com/navigation/reporting - for caching rules and such
 
 ## Graphics / Animation
 

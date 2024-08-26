@@ -176,6 +176,7 @@
 - https://github.com/xavivzla/Funnel-React
 - https://horizon-ui.com/docs-tailwind/docs/react/charts
 - https://github.com/cruip/tailwind-dashboard-template
+- https://www.tremor.so/
 
 ## Style
 

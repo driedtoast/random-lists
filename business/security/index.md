@@ -82,6 +82,7 @@
 - https://ofac-api.com/documentation/v3/status.html#structure
 - https://www.chainguard.dev/
 - https://www.tines.com/
+- https://redcanary.com/
 
 ## Authorization
 

@@ -147,6 +147,7 @@
 - https://www.libhunt.com/
 - https://pkgx.app/
 - https://graphite.dev/ - pr review
+- https://github.com/codemod-com/codemod - upgrade path
 
 ## Bots
 
@@ -181,3 +182,5 @@
 ## General setup
 - https://appseed.us/
 - https://editorconfig.org/ - editor tools 
+- https://zed.dev/ - ai based
+- https://idx.google.com/ - google ai editor

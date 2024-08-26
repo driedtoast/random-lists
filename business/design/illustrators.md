@@ -87,6 +87,7 @@
 - https://owenpomery.com/
 - https://www.lancesnider.com/
 - https://www.rabbleboy.com/ - children's book illustrator
+- https://oliviasullivanillustration.co.uk/ - cool clean illustrations
 
 ## Comic Artists
 
@@ -201,6 +202,7 @@
 - https://rnugentcolors.artstation.com/ - colorist
 - https://www.to-zo.com/
 - https://www.lucaselliottart.com/
+- http://www.jasonhowardart.com/2010/01/processy-stuff.html
 
 ## Animators
 

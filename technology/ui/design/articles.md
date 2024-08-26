@@ -19,6 +19,15 @@
 - https://blog.printsome.com/vintage-t-shirts-look/
 - https://www.vis4.net/blog/2013/09/mastering-multi-hued-color-scales/ - color scales
 - https://lawsofux.com/en/doherty-threshold/
+- https://mayashavin.com/articles/build-accessibile-editable-text-field - input text field
+- https://uxmovement.com/forms/12-unique-ways-to-use-input-icons-in-text-fields/ - input forms
+- https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0 - form design
+- https://designsystem.line.me/LDSM/components/input-ex-en 
+- https://vuetifyjs.com/en/components/text-fields/#anatomy
+- https://uxdesign.cc/58-rules-for-stunning-and-effective-user-interface-design-ea4b93f931f6
+- https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/ 
+- https://uxdesign.cc/user-onboarding-practices-that-you-cannot-miss-dff86a5c966a
+- https://fonts.google.com/knowledge/choosing_type/pairing_typefaces
 
 ## web3
 

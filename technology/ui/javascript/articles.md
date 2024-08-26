@@ -17,6 +17,7 @@
   - https://github.com/krakenjs/zoid/blob/main/docs/example.md
 - https://javascript.info/cross-window-communication - cross window communication
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
+- https://medium.com/deno-the-complete-reference/best-practices-for-securing-node-js-apis-0f3d2cd21e4d
 
 ## Hugo
 
@@ -40,6 +41,7 @@
 
 - https://dev.to/damikun/export-request-traces-from-react-spa-to-backend-opentelemetry-collector-4kb4
 - https://github.com/damikun/trouble-training/blob/main/Doc/OpenTelemetry.md
+- https://raygun.com/blog/improve-node-performance/#caching - debugging 
 
 ## Rehydration / Performance
 

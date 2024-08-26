@@ -63,6 +63,8 @@
 - https://www.indiehackers.com/post/i-built-an-ai-startup-in-one-weekend-with-no-code-e766cbec13
 - https://www.indiehackers.com/product/flx-websites/how-i-built-and-scaled-a-profitable-web-design-business-selling-to-local-regional-smbs--Nr3T_zPMbik2W5pTQLA
 - https://www.marketingideas.com/ 
+- https://www.lux.camera/kino-a-pro-video-camera-in-four-months/ - mobile app
+- https://www.lux.camera/orion-from-idea-to-launch-in-45-days/ - mobile app
 
 ## Thinking
 - https://fs.blog/mental-models/

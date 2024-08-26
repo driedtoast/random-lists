@@ -20,3 +20,4 @@
 
 - https://mezha.media/en/
 - https://www.the8bitguy.com/ - 8bit news
+- https://devurls.com/

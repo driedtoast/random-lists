@@ -8,6 +8,7 @@
 - https://www.blloc.com/
 - https://dropshare.app/
 - https://shift.com/ - browser for apps
+- https://halide.cam/ - mobile camera app
 
 ## Product discovery / news
 

@@ -3,6 +3,7 @@
 - https://nestjs.com/ - micro services
 - https://github.com/produck/svg-captcha - svg captcha
 - https://hono.dev/ - javascript framework
+- http://perkframework.com/ - framework
 
 ## No code builders
 
@@ -22,6 +23,7 @@
   - https://airbyte.com/
 - https://github.com/NangoHQ/nango
   - https://www.nango.dev/
+- https://wappler.io/
 
 ## Linting
 
@@ -46,6 +48,8 @@
 - https://gridsome.org/ - static site gen vue
 - https://tina.io/docs/product-tour/ - small cms
 - https://getpublii.com/ - small cms
+- https://github.com/srcbookdev/srcbook  - rapid prototyping src and documentation
+  - https://srcbook.com/ 
 
 ## P2P support
 
@@ -87,6 +91,7 @@
 - https://loopback.io/
 - https://nextlessjs.com/
 - https://gethyas.com/
+- https://pageclip.co/ - for forms
 
 ## validation
 - https://zod.dev/

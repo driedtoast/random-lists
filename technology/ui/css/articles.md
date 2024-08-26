@@ -13,6 +13,8 @@
 - https://www.falldowngoboone.com/blog/share-variables-between-javascript-and-css/ - sharing stuff
 - https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/
 - https://alvaromontoro.com/projects - css drawings and such
+- https://csswizardry.com/2024/08/cache-grab-how-much-are-you-leaving-on-the-table/ - caching
+- https://web.dev/articles/bfcache - caching
 
 ## Sizing
 
