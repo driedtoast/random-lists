@@ -113,6 +113,11 @@
 - https://www.marvelousdesigner.com/
 - https://www.toonboom.com/
 - https://unity.com/
+- https://www.studiospud.com/ - small studio 2d based
+- https://moho.lostmarble.com/ - 2d animation
+- https://www.synfig.org/
+- https://mangoanimate.com/ - ai based
+- https://www.kestrelmoon.com/creature/creature2D.html
 
 ## Hosting / Portfolios
 

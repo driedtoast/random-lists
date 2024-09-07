@@ -301,6 +301,8 @@
   - https://github.com/fogfish/node-lambda-typescript-template
 - https://github.com/lambci/docker-lambda
 - https://github.com/ashiina/lambda-local
+- https://pm2.io/ - battle hardened node
+- https://coolify.io/
 
 ## Storage / state
 

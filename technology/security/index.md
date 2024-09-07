@@ -14,6 +14,7 @@
     - https://kilossl.com/
 - https://approximated.app/
 - https://www.doppler.com/ - secret storage
+- https://arcjet.com/ - security detection
 
 ## Exploits
 
@@ -23,6 +24,7 @@
 - https://www.open-scap.org/ - auditing
 - https://github.com/redcanaryco/atomic-red-team
 - https://github.com/DataDog/stratus-red-team
+- https://github.com/greshake/llm-security - machine learning / llm security
 
 ## Investigations
 
@@ -112,6 +114,7 @@
 - https://www.ory.sh/
 - https://github.com/authorizer-tech/access-controller
 - https://github.com/josephglanville/zanzibar-pg/blob/master/zanzibar.sql
+- https://logto.io/
 
 ## Captcha
 - https://github.com/patrickhlauke/recaptcha/blob/master/index.html

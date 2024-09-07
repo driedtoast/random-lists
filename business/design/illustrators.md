@@ -88,6 +88,7 @@
 - https://www.lancesnider.com/
 - https://www.rabbleboy.com/ - children's book illustrator
 - https://oliviasullivanillustration.co.uk/ - cool clean illustrations
+- https://www.artstation.com/scottflanders 
 
 ## Comic Artists
 

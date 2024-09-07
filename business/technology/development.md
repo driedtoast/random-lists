@@ -39,6 +39,10 @@
 - https://stately.ai/ - ai analysis of app
 - https://wappler.io/
 - https://fastgen.com/ - for backend development
+- https://anvil.works/
+- https://www.configure.it/
+- https://deco.cx/en/dev
+- https://writer.com/product/ai-studio - ai code builder
 
 ## Components
 
@@ -53,6 +57,7 @@
 - https://cohere.com/ - ai conversation apps
 - https://www.napkin.io/ - api generation
 - https://www.permit.io/ - permission / role approach
+- https://git.market/ - git snippet selling
 
 ## API docs
 
@@ -167,6 +172,11 @@
 - https://www.cockroachlabs.com/pricing/
 - https://www.dragonflydb.io/ - redis alternative
 - https://cyral.com/ - database control
+- https://typedb.com/
+- https://fauna.com/
+- https://dgraph.io/
+- https://www.edgedb.com/
+- https://surrealdb.com/features#surrealml
 
 ## Data processing
 
@@ -180,6 +190,7 @@
 - https://www.spotml.io/
 - https://livebook.dev/
 - https://www.evidentlyai.com/ - monitoring
+- https://aider.chat/ - ai pair programming
 
 ## Agencies
 

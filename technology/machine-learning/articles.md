@@ -46,6 +46,7 @@
 - https://openai-experiment.vercel.app/resources
 - https://www.wired.com/story/ai-generate-convincing-text-anyone-use-it/
 - https://twitter.com/timsoret/status/1634745694618636288 - animation generation
+- https://blog.lancedb.com/
 
 ## Chatbots
 
@@ -82,3 +83,18 @@
 - https://feast.dev/blog/what-is-a-feature-store/ - feature stores
 - https://www.betaworks.com/event/ai-week-generative-storytelling-with-hidden-door-prompt-battle - generative story telling
 - https://ape-ai.com/books/ML/Machine%20Learning%20Interview%20Cheat%20sheets.pdf
+- https://www.acorn.io/resources/tutorials
+- https://www.acorn.io/resources/tutorials/ai-powered-devops-building-a-gcp-assistant
+
+## Model resources
+
+- https://www.aimodels.fyi/
+
+## Prompting
+
+- https://realpython.com/practical-prompt-engineering/#describe-your-task
+- https://www.promptingguide.ai/introduction/examples
+- https://medium.com/the-modern-scientist/best-prompt-techniques-for-best-llm-responses-24d2ff4f6bca
+- https://github.com/dmatrix/genai-cookbook/blob/main/README.md
+- https://ai.gopubby.com/llm-beyond-its-core-capabilities-as-ai-assistants-or-agents-704ffb972934
+- https://ai.gopubby.com/crafting-intelligent-user-experiences-a-deep-dive-into-openai-assistants-api-00439ace108a

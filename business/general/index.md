@@ -20,6 +20,7 @@
 - https://www.tape.sh/
 - https://www.jeda.ai/ - ai generated
 - https://www.napkin.ai/ - ai augmentation
+- https://waitlisteasy.com/ - add waitlist to app
 
 ## Annotating
 
@@ -40,6 +41,7 @@
 - https://unicorner.news/
 - https://www.todayintabs.com/ - more for humor
 - https://www.killerstartups.com/
+- https://indiehackerstacks.com/ - tech stacks
 
 ## Startup collaboration
 
@@ -115,6 +117,7 @@
 - https://explodingtopics.com/ - topic analysis
 - https://pitchbob.io/ - ai pitch deck
 - https://onboarding.study/ - onboarding flows
+- https://www.clevenue.io/ - revenue planning
 
 ## Insurance
 

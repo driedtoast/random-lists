@@ -74,7 +74,8 @@
 - paper - https://www.frenchpaper.com/collections/dur-o-tone
 - paper - https://www.frenchpaper.com/
 
-
+- https://gv-group.it/en/products/ - book printing
+    - lakebook.com
 - https://www.grekoprinting-comixwellspring.com/
 - https://brookevitale.com/blog/childrens-book-layout
 - https://www.darcypattison.com/writing/picture-books/picture-book-standards-32-pages/ 

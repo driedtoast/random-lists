@@ -44,3 +44,10 @@
 - https://github.com/doorkeeper-gem/doorkeeper
     - https://github.com/sethherr/grape-doorkeeper
 - https://github.com/binarylogic/authlogic
+
+## Deployments
+
+- https://kamal-deploy.org/
+- https://github.com/basecamp/kamal
+- https://www.digitalocean.com/
+    - https://www.digitalocean.com/pricing/app-platform

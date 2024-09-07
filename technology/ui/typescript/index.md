@@ -4,6 +4,12 @@
 - https://github.com/produck/svg-captcha - svg captcha
 - https://hono.dev/ - javascript framework
 - http://perkframework.com/ - framework
+- https://fastify.dev/ - http server
+- https://elysiajs.com/ - http server
+- https://github.com/santiq/bulletproof-nodejs
+- https://nitro.unjs.io/
+- https://adonisjs.com/
+- https://koajs.com/
 
 ## No code builders
 
@@ -92,6 +98,8 @@
 - https://nextlessjs.com/
 - https://gethyas.com/
 - https://pageclip.co/ - for forms
+- https://gcanti.github.io/fp-ts/ - function servless
+- https://www.npmjs.com/package/celebrate
 
 ## validation
 - https://zod.dev/
@@ -107,3 +115,8 @@
 ## Search
 - https://docs.danswer.dev/introduction
 - https://github.com/danswer-ai/danswer
+
+## Security
+- https://github.com/foreversd/forever - running process forever
+- https://github.com/lucia-auth/lucia
+  - https://lucia-auth.com/

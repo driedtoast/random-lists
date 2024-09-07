@@ -9,6 +9,8 @@
 - https://www.builtwithai.co/ - tools with ai
 - https://distill.pub/
 - https://www.builtwithai.co/ai-tools
+- https://cog.run/ running ai models
+  - example https://github.com/lucataco/cog-playground-v2.5-1024px-aesthetic?tab=readme-ov-file
 
 ## Theories
 
@@ -62,6 +64,16 @@
 - https://rubra.ai/ - run it locally
 - https://github.com/gptscript-ai/gptscript - scripting   
 - https://developer.nvidia.com/project-gr00t - for robots and humanoids
+- https://dvc.org/ - ml models with git version
+- https://www.comet.com/site/
+  - https://about.gitlab.com/blog/2021/11/08/machine-learning-on-the-gitlab-devops-platform/
+- https://github.com/skypilot-org
+  - https://github.com/skypilot-org/skypilot
+  - https://skypilot.readthedocs.io/en/latest/examples/interactive-development.html#dev-launch
+  - https://skypilot.readthedocs.io/en/v0.2.5/reference/local/index.html
+- https://www.together.ai/ - for hosting llm models
+- https://replicate.com/ - run and retrain a model
+- https://www.acorn.io/
 
 ## Regression and Classification
 
@@ -77,6 +89,8 @@
   - https://github.com/artefactory/streamlit_prophet
 - https://www.trustfinta.com/ - fund raising ai
 - https://github.com/rapidsai/cuml/tree/branch-21.10/python/cuml/fil
+- https://github.com/sfcompute/tinynarrations
+- https://trieve.ai/ - search, discovery, and RAG
 
 ## GPT-2
 
@@ -103,7 +117,7 @@
 - https://www.everyprompt.com/
 - https://wnr.ai/ - templates
 
-## Langauge Modeling
+## Language Modeling
 
 - https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/
 - https://github.com/dwyl/english-words - word list
@@ -129,6 +143,10 @@
 - https://mistral.ai/
   - https://mistral.ai/news/announcing-mistral-7b/
 - https://llama.meta.com/
+- https://cinnamon.github.io/kotaemon/ - document questions
+- https://github.com/jina-ai/thinkgpt -  implementing Chain of Thoughts 
+- https://blog.vllm.ai/2023/06/20/vllm.html
+- https://lmsys.org/
 
 ## Libraries
 
@@ -144,15 +162,33 @@
 - https://www.kie.org/
 - https://github.com/feast-dev/feast - data 
 - https://github.com/HMUNACHI/nanodl
+- https://cloud.google.com/model-garden?hl=en - model browsing
+- https://tools.gptscript.ai/
+- https://github.com/gptscript-ai/clio
 
 ## Code generation
 
 - https://github.com/salesforce/CodeT5
 - https://replit.com/
 - https://github.com/getcursor
+- https://promptvibes.com/ - prompt ideas
+- https://deepseekcoder.github.io/
+
+## Image processing / robotics
+
+- https://covariant.ai/
 
 ## Video generation
 - https://phenaki.github.io/#interactive - google 
 - https://imagen.research.google/
 - https://www.heygen.com/ - ai 
 - https://www.microsoft.com/en-us/research/project/vasa-1/ - ai tech behind video creation
+
+## local dev
+- https://lmstudio.ai/ - model finder and runner 
+- https://github.com/ollama/ollama
+- https://github.com/darrenburns/elia
+- https://msty.app/
+- https://github.com/continuedev/deploy-os-code-llm#lambda
+- https://localai.io/
+- https://www.comfy.org/

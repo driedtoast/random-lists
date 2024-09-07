@@ -28,6 +28,8 @@
 - https://announcekit.app/ - announcing product updates
 - https://www.magicbell.com/ - push notifications
 - https://www.lavender.ai/ - ai email sales
+- https://www.useplunk.com/ - send grid alternative
+- https://deskbox.co/
 
 ## Lead gen / Deal management
 
@@ -127,6 +129,7 @@
 - https://www.journy.io/ - product analytics to deals
 - https://humanic.ai/ - plg crm
 - https://www.pocus.com/ - plg crm
+- https://www.myfoundr.com/
 
 ## PR
 

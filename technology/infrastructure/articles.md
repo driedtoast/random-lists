@@ -9,6 +9,8 @@
 - https://runfinch.com/docs/getting-started/running-containers/
 - https://evilmartians.com/chronicles/build-images-on-github-actions-with-docker-layer-caching
 - https://github.com/whalebrew/whalebrew - brew for docker images
+- https://blog.while-true-do.io/podman-quadlets/
+
 
 ## Networking
 
@@ -219,6 +221,7 @@
 - https://tsuyoshiushio.medium.com/kubernetes-in-three-diagrams-6aba8432541c
 - https://thecloud.christmas/2020/1
 - https://thenewstack.io/testkube-a-new-approach-to-cloud-native-testing/
+- https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner
 
 # Salesforce
 - https://atrium.ai/resources/how-to-implement-salesforce-ci-cd-with-github-actions/ - ci 
@@ -246,3 +249,53 @@
 - https://github.com/prowler-cloud/prowler
 - https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c
+
+# Hosting
+
+- https://ben-makes-stuff.beehiiv.com/p/selfhost-app-2024-right-way
+- https://shipixen.com/tutorials/self-host-web-app-on-a-hetzner-virtual-machine
+- http://batcountrycoding.com/2019/08/18/digitalocean-plus-hatchbox.html
+- https://clevious.com/simplifying-vps-and-vds-management-with-terraform/
+- https://help.ovhcloud.com/csm/en-public-cloud-compute-terraform?id=kb_article_view&sysparm_article=KB0050797
+- https://docs.gandi.net/en/cloud/vps/tutorials/terraform_server_creation.html
+- https://dokku.com/docs/getting-started/install/dreamhost/
+
+# vps management
+- https://pastebin.com/rPiqt8q6
+- https://wazuh.com/
+- https://github.com/Poli-Systems/quick
+- https://github.com/openstack/ansible-hardening
+- https://www.rudder.io/
+- https://github.com/ansible/awx
+- https://github.com/ansible/ansible
+- https://nixos.org/guides/how-nix-works/#:~:text=Declarative%20system%20configuration%20model
+- https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs
+- https://medium.com/@palak.tecsyssolutions/1-introduction-21f7719d10bb
+- https://mileswoodroffe.com/articles/deploying-with-kamal
+- https://nts.strzibny.name/kamal-configuration/
+- https://mileswoodroffe.com/articles/kamal-database-backups
+- https://deploymentfromscratch.com/kamal/running-postgresql-on-kamal/
+- https://www.botzenhart.io/articles/how-to-deal-with-postgresql-backups-using-kamal
+- https://gist.github.com/code-206/682c46bd6414b01f912096b4f8865a4b
+- https://dev.to/tannakartikey/deploy-rails-app-and-postgres-with-mrsk-on-single-digitalocean-server-7e3
+- https://www.programonaut.com/how-to-host-an-application-on-a-server-vps-using-docker/
+- https://medium.com/@wimadev.de/deploy-a-node-js-app-with-docker-on-a-vps-minimal-setup-c28208fc231a
+- https://krystal.io/blog/post/getting-started-with-docker-on-katapult
+- https://guillaumebriday.fr/how-to-deploy-rails-with-kamal-postgresql-sidekiq-and-backups-on-a-single-host
+- https://dennmart.com/articles/hassle-free-automated-postgresql-backups-for-kamal-apps/
+- https://nts.strzibny.name/automating-postgresql-backups-do-spaces-kamal/
+- https://kyrylo.org/rails/kamal/2024/01/17/making-postgresql-work-with-kamal-and-a-new-rails-7-1-application.html
+- https://www.botzenhart.io/articles/how-to-deal-with-postgresql-backups-using-kamal
+- https://lowendtalk.com/ - vps talk
+- https://shape.host/resources/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-20-04
+- https://www.youtube.com/watch?v=uVGo7eZr6wU
+  - https://dennmart.com/articles/get-started-with-hetzner-cloud-and-terraform-for-easy-deployments/
+  - https://dennmart.com/articles/deploy-your-rails-applications-the-easy-way-with-kamal/
+- https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-18-04
+- https://www.talkingquickly.co.uk/deploying-rails-to-a-vps-with-capistrano-v3-and-systemd
+- https://www.talkingquickly.co.uk/setting-up-ubuntu-20-04-focal-fossa-vps-for-rails-app-deployment
+- https://medium.com/@talha.97.mahmood/step-by-step-guide-to-deploying-a-ruby-on-rails-application-with-postgresql-on-vps-using-kamal-6a0f651b7a56
+- https://www.luizkowalski.net/production-grade-ish-deployment-on-hetzner-with-kamal/
+  - https://github.com/luizkowalski/terraform-hetzner?ref=luizkowalski.net
+- https://manufarez.com/kamal
+- https://billyle.dev/posts/self-hosting-your-website-with-coolify-v4-a-step-by-step-guide - setting up coolify

@@ -9,6 +9,7 @@
 - https://crdt.tech/ - conflict resolution
 - https://openfeature.dev/ - feature flagging 
     - https://docs.devcycle.com/
+- https://github.com/kriskowal/gtor - A General Theory of Reactivity
 
 ## Icons and Diagramming
 

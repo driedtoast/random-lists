@@ -16,6 +16,7 @@
 * https://firebase.google.com/codelabs/firebase-get-to-know-flutter#0 
 * https://codewithandrea.com/
 * https://codewithandrea.com/articles/realtime-updates-vs-one-time-reads-flutter/ - on async / state
+* https://medium.com/codex/flutter-user-authentication-part-1-models-and-api-acf33cf42f83 
 
 ### Architecture
 * https://codewithandrea.com/videos/starter-architecture-flutter-firebase/

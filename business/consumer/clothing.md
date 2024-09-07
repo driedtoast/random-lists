@@ -86,6 +86,7 @@
 - http://rampage-toys.blogspot.com/2011/09/making-sofubi-how-it-all-works.html
 - https://duffyspuppets.com/
 - https://super7.com/pages/about-us
+- https://www.bossfightshop.com/pages/about-us
 
 ## Print on demand
 

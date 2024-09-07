@@ -14,8 +14,25 @@
 - https://middlemanapp.com/ - static website
 - https://www.qovery.com/
 - https://piku.github.io/
+  - https://github.com/piku/piku 
+  - https://github.com/piku/cloud-init
 - https://hop.io/ - container hosting
   - https://www.peeringdb.com/net/26508
+- https://www.hostinger.com/
+- https://www.liquidweb.com/vps-hosting/cloud-vps/
+- https://advinservers.com/
+- https://www.latitude.sh/
+- https://dokku.com/ - software for it
+- https://k3s.io/
+- https://github.com/ripienaar/free-for-dev#paas
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/255kb/stack-on-a-budget
+- https://coolify.io/
+- https://caprover.com/
+- https://nixos.org/guides/how-nix-works/
+- https://github.com/Qovery/engine
+- https://commando.io/ - web management online
+- https://github.com/workflows-sh
 
 ## AWS
 
@@ -30,6 +47,7 @@
 - https://policysim.aws.amazon.com/
 - https://getcommandeer.com/
 - https://instances.vantage.sh/ - instances
+- https://www.tigrisdata.com/ - s3 compatible server
 
 ## Diagramming
 
@@ -81,6 +99,14 @@
 - https://turso.tech/libsql
 - https://github.com/emilpriver/geni - migrations
 - https://www.edgedb.com/ - graph db
+- https://www.borgbackup.org/
+- https://github.com/hapostgres/pg_auto_failover
+- https://gist.github.com/Leen15/da42bd23b363867e14a378d824f2064e - backup 
+- https://bucardo.org/Bucardo/ - backup
+- https://github.com/nxt-insurance/bucardo-terraform-archive
+- https://manifest.build/ - simple backend
+- https://www.instantdb.com/
+- https://nocodb.com/ - airtable opensource
 
 
 ### Migrations
@@ -92,6 +118,8 @@
 - https://atlasgo.io/ - db schema management like terraform
 - https://github.com/emilpriver/geni - db migrations
 - https://github.com/amacneil/dbmate - migrations
+- https://www.bytebase.com/
+- https://dbeaver.com/
 
 ## Streams / Queues / Events
 
@@ -135,11 +163,13 @@
 - https://github.com/poseidon
 - https://lagoon.sh/
 - https://docksal.io/
+- https://github.com/cloudfoundry/korifi/
 
 ## Storage
 
 - https://github.com/features/packages
 - https://min.io/ - s3 compatable
+- https://www.tigrisdata.com/?ref=coolify.io
 
 ## Proxy / Load Balancer
 
@@ -210,6 +240,9 @@
 - https://github.com/microsoft/Oryx - build system for azure
 - https://docs.orbstack.dev/features - docker and container issues
 - https://github.com/containerd/nerdctl
+- https://containrrr.dev/watchtower/
+- https://www.redhat.com/sysadmin/quadlet-podman
+- https://clace.io/
 
 ## Serverless / Workflow
 
@@ -268,6 +301,8 @@
 - https://github.com/sdras/awesome-actions
 - https://rammusxu.github.io/toolkit/snippets/github-action/
 - https://github.com/SvanBoxel/organization-workflows
+- https://www.blacksmith.sh/
+- https://www.blacksmith.sh/
 
 ### MKS
 
@@ -278,6 +313,7 @@
 ## API Management
 
 - https://dev.languagetool.org/public-http-api
+- https://caddyserver.com/ - ssl server
 
 ## Sharing files
 
@@ -292,3 +328,16 @@
 - https://wetransfer.com/
 - https://stateful.com/ - readme as runtime
 - https://uploadcare.com/products/file-uploader/ - ui upload component
+
+## Co-location stack
+- https://github.com/cloudflare/cloudflared
+- https://reclaim-the-stack.com/docs/kubernetes-platform/usage
+- https://cloudnative-pg.io/
+- https://reclaim-the-stack.com/docs/talos-manager/introduction
+- https://github.com/reclaim-the-stack/get-started#bootstrap-a-local-cluster
+- https://github.com/reclaim-the-stack/rails-example
+- https://github.com/rcarmo/ground-init
+
+### With nix
+- https://github.com/elitak/nixos-infect/blob/master/nixos-infect
+- https://gbyte.dev/blog/host-drupal-9-10-website-nixos-comprehensive-configuration-example

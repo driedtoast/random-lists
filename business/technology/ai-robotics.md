@@ -42,12 +42,14 @@
 - https://www.obviously.ai/ - no code ai
 - https://www.paperspace.com/
 - https://www.rabbit.tech/research - os type approach
+- https://www.chainguard.dev/ - security
 
 ## Text to speech
 
 - https://deepgram.com/
 - https://www.vocode.dev/ - voice app
 - https://www.neuralspace.ai/ - language mgmt 
+- https://play.ht/ 
 
 ## Machine learning
 
@@ -69,3 +71,7 @@
 - https://claude.ai/ - ai assistant
 - https://deepinfra.com/ - on demand service
 - https://wit.ai/ - platform
+
+## Image generation
+
+- https://civitai.com/

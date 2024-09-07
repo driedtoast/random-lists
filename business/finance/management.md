@@ -22,6 +22,7 @@
 - https://www.dltjewel.com/ - digital assets bermuda
 - https://teller.io/ - plaid alternative
 - https://copilot.money/ - consumer app
+- https://era.app/ - ai wealth app
 
 ## FinOps
 

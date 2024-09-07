@@ -61,6 +61,8 @@
 - https://flask.palletsprojects.com/en/3.0.x/
 - https://click.palletsprojects.com/en/8.1.x/
 - https://bottlepy.org/docs/dev/
+- https://textual.textualize.io/ - for cli
+  - https://www.textualize.io/
 
 ## Math
 - https://www.sagemath.org/

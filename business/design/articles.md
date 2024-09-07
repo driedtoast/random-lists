@@ -61,6 +61,7 @@
 - https://raghukamath.com/how-to-create-a-seamless-pattern-in-krita/ -  krita tiling
   - https://raghukamath.com/tag/krita/
   - https://raghukamath.com/how-to-use-smart-objects-in-krita/ - external file layer
+- https://cushionapp.com/blog/categories/journal - app design tips
 
 ## References and photos
 
@@ -123,6 +124,9 @@
 - https://animationobsessive.substack.com/p/the-violent-beautiful-animation-you
 - https://darren-nemeth.squarespace.com/how-to-film-moving-pictures-in-the-1910s
 - https://www.zaiusnation.com/stuff/zaius/moosic1/handicraftoons/handicrafttoons/handicraftguide2.html
+- https://medium.com/@jiesih/2d-character-animation-part-1-animating-using-a-skeleton-c20a65fd6755
+- https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html
+
 
 ## Symbolism
 

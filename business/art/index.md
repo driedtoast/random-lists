@@ -116,6 +116,7 @@
 - https://www.livingmedieval.com/ - medieval life
 - http://www.kleegestaltungslehre.zpk.org/ee/ZPK/BF/2012/01/01/001/ - paul klee notebooks
   - https://thecloudgallery.org/visual-diaries/Art-Books/Paul_Klee_Notebooks_Vol_1_The_Thinking_Eye.pdf
+- https://cardsofhistory.com/ - history cards
 
 ## Art reference
 

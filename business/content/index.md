@@ -29,3 +29,4 @@
 ## Books
 - https://www.gutenberg.org/ebooks/bookshelf/57
 - https://shop.beehivebooks.com/
+- https://shortstoryproject.com/ - short stories, nice design

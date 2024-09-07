@@ -27,6 +27,7 @@
 - https://kindest.com/ - donations
 - https://wise.com/us/pricing/
 - https://supertab.co/ - micro payments
+- https://www.lightspark.com/ - crypto like based
 
 ## Orchestration
 

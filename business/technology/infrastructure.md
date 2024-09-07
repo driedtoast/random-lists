@@ -33,6 +33,10 @@
 - https://www.upbound.io/ - auto scaling / crossplane
 - https://nextcloud.com/ - on premise deploys
 - https://encore.dev/ - build out api and dev api
+- https://upsun.com/
+- https://cosmos-cloud.io/
+- https://casaos.zimaspace.com/
+- https://freedombox.org/
 
 ## Diagramming
 
@@ -112,6 +116,9 @@
 - https://www.cycloid.io/
 - https://cto.ai/
 - https://www.faros.ai/ - analysis / metrics on ci process
+- https://duplocloud.com/ - ai based
+- https://www.kubiya.ai/ - devops ai
+- https://digital.ai/products/release/
 
 ## Queues / Streams
 
@@ -167,10 +174,42 @@
 - https://bunny.net/ - cdn
 - https://www.ssdnodes.com/ - hmm could run dokku on it
 - https://www.hetzner.com/?country=en
-- https://www.vultr.com/
+- https://www.vultr.com/ - vps
+- https://contabo.com/en-us/ - vps
+  - https://github.com/contabo/terraform-provider-contabo
 - https://piku.github.io/ - paas tooling
 - https://chunk.run/ - paas like with functions
 - https://www.nodechef.com/ - ruby, etc...
+- https://zeabur.com/
+- https://www.hetzner.com/cloud/ - vps good pricing
+- https://clevious.com/high-speed-nvme-vps/
+- https://www.ovhcloud.com/en/
+  - https://www.ovhcloud.com/en/vps/compare/
+  - https://us.ovhcloud.com/
+  - https://registry.terraform.io/providers/ovh/ovh/latest/docs
+- https://domcloud.co/
+- https://www.meteor.com/
+- https://northflank.com/ - aws like
+- https://platformatic.dev/
+- https://www.alwaysdata.com/en/
+- https://qoddi.com/
+- https://patr.cloud/
+- https://www.4everland.org/
+- https://www.latitude.sh/ - bare metal
+- https://polisystems.ch/en/epyc-vps
+- https://www.cloudways.com/en/pricing.php - builds off top digital ocean
+- https://www.ssdnodes.com/pricing/ - sort of mixed reviews
+- https://my.racknerd.com/index.php?rp=/store/shared-hosting
+- https://www.genesiscloud.com/
+- https://cloudzy.com/nixos-vps/
+- https://ultahost.com/shared-hosting
+- https://linksecured.net/
+- https://crunchbits.com/vps/
+- https://www.interserver.net/storage/
+- https://www.clouvider.com/
+- https://www.layer7.net/virtual_server
+- https://hosthatch.com/
+- https://moonqube.com/
 
 ## Kubernetes
 
