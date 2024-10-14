@@ -12,6 +12,7 @@
 - https://research.google/resources/
 - https://en.wikipedia.org/wiki/Marchetti%27s_constant#:~:text=Marchetti's%20constant%20is%20the%20average,for%20a%20one%2Dway%20trip.
 - https://github.com/zhijing-jin/Causality4NLP_Papers
+- https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f - llm explained
 
 ## Dashboards
 
@@ -41,6 +42,7 @@
 - https://yoheinakajima.com/
 - https://aibreakfast.beehiiv.com/
 - https://www.notboring.co/p/intelligence-superabundance
+- https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5 - tooling
 
 ## Content Generation
 - https://openai-experiment.vercel.app/resources
@@ -85,6 +87,11 @@
 - https://ape-ai.com/books/ML/Machine%20Learning%20Interview%20Cheat%20sheets.pdf
 - https://www.acorn.io/resources/tutorials
 - https://www.acorn.io/resources/tutorials/ai-powered-devops-building-a-gcp-assistant
+- https://medium.com/data-science-at-microsoft/harnessing-the-power-of-large-language-models-a-comparative-overview-of-langchain-semantic-c21f5c19f93e
+- https://levelup.gitconnected.com/agentic-workflows-build-a-tech-research-agent-da5e8247e123
+- https://towardsdatascience.com/fine-tune-smaller-transformer-models-text-classification-77cbbd3bf02b
+- https://levelup.gitconnected.com/predicting-tech-trends-with-natural-language-processing-9d9ce1c082d3
+- https://medium.com/data-science-at-microsoft/automating-data-analytics-with-chatgpt-827a51eaa2c - data analytics ai
 
 ## Model resources
 
@@ -98,3 +105,8 @@
 - https://github.com/dmatrix/genai-cookbook/blob/main/README.md
 - https://ai.gopubby.com/llm-beyond-its-core-capabilities-as-ai-assistants-or-agents-704ffb972934
 - https://ai.gopubby.com/crafting-intelligent-user-experiences-a-deep-dive-into-openai-assistants-api-00439ace108a
+
+## Local / client ai 
+
+- https://electric-sql.com/use-cases/state-transfer
+- https://electric-sql.com/use-cases/local-ai

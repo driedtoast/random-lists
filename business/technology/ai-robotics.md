@@ -43,6 +43,7 @@
 - https://www.paperspace.com/
 - https://www.rabbit.tech/research - os type approach
 - https://www.chainguard.dev/ - security
+- https://www.perplexity.ai/
 
 ## Text to speech
 

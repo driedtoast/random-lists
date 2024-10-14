@@ -3,6 +3,7 @@
 - https://github.com/intuit/karate
 - https://karatelabs.github.io/karate/
 - https://turn.github.io/ - multiple swarms and browsers
+- https://github.com/appium/appium - flutter and mobile testing
 
 ## Webhook
 
@@ -29,3 +30,4 @@
 
 - https://github.com/hoppscotch/hoppscotch - postman replacement
 - https://www.usebruno.com/
+- https://github.com/vcr/vcr

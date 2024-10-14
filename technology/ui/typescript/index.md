@@ -10,6 +10,11 @@
 - https://nitro.unjs.io/
 - https://adonisjs.com/
 - https://koajs.com/
+- https://github.com/wasp-lang/open-saas - framework
+  - https://opensaas.sh/
+  - https://wasp-lang.dev/docs/auth/overview
+- https://github.com/janhq/jan - chatgpt
+  - https://jan.ai/
 
 ## No code builders
 
@@ -91,6 +96,7 @@
 - https://github.com/anttiviljami/openapi-backend
 - https://reeli.github.io/swagger-faker/
 - https://github.com/jhnns/rewire - monkey patching 
+- https://github.com/pocketbase/pocketbase
 
 ## API Framework
 - https://joi.dev/ - api doc validation
@@ -120,3 +126,4 @@
 - https://github.com/foreversd/forever - running process forever
 - https://github.com/lucia-auth/lucia
   - https://lucia-auth.com/
+- https://supertokens.com/ - authentication

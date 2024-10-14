@@ -32,6 +32,7 @@
 - https://aatir.substack.com/p/how-did-clickup-become-a-150m-revenue
 - https://kennethlange.com/
 - https://research.contrary.com/reports/statsig
+- https://blog.pre.dev/the-2025-development-bubble-a-looming-crisis-for-startups-and-investors-491c18f93bb7
 
 ## Bootstrap tips
 

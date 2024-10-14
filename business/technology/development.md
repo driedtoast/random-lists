@@ -177,6 +177,7 @@
 - https://dgraph.io/
 - https://www.edgedb.com/
 - https://surrealdb.com/features#surrealml
+- https://database.build/ - ai db creation
 
 ## Data processing
 

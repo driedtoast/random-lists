@@ -10,6 +10,7 @@
 - https://openfeature.dev/ - feature flagging 
     - https://docs.devcycle.com/
 - https://github.com/kriskowal/gtor - A General Theory of Reactivity
+- https://www.toptal.com/developers/sorting-algorithms/quick-sort   
 
 ## Icons and Diagramming
 

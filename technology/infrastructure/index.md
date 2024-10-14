@@ -259,10 +259,30 @@
 - https://www.apicur.io/
 
 ## Email
+- https://bird.com/pricing
+- https://www.mailgun.com/
+  - https://www.mailjet.com/products/email-api/
+- https://www.postfix.org/
+- https://postmarkapp.com/
+- https://mailtrap.io/email-sending/
+- https://www.cloudmailin.com/inbound
+- https://mailchimp.com/developer/transactional/guides/set-up-inbound-email-processing/
+
+## SMS
+- https://developer.telesign.com/enterprise
+- https://www.textrequest.com/
+- https://www.bandwidth.com/
+- https://www.sinch.com/pricing/sms/ - same as mailgun
+- https://try.clicksend.com/us/api/ - part of sinch
+- https://www.twilio.com/en-us/sms/pricing/us
+
 
 ### Testing
 
 - https://ethereal.email/
+- https://mailosaur.com/
+- https://mailtrap.io/ - email testing
+- https://testcafe.io/
 
 ## Terraform
 
@@ -341,3 +361,8 @@
 ### With nix
 - https://github.com/elitak/nixos-infect/blob/master/nixos-infect
 - https://gbyte.dev/blog/host-drupal-9-10-website-nixos-comprehensive-configuration-example
+
+## search
+
+- https://quickwit.io/
+  - https://github.com/quickwit-oss/quickwit

@@ -33,6 +33,11 @@
 - https://github.com/XingangPan/DragGAN - image manipulation through dragging around
 - https://superagi.com/ - coding agents
 - https://github.com/LouisShark/chatgpt_system_prompt
+- https://github.com/ilsilfverskiold/ai-tech-news-bot
+- https://github.com/ilsilfverskiold/smaller-models-docs
+- https://github.com/ilsilfverskiold/cook-book-embeddings
+- https://github.com/ilsilfverskiold/cloudflare-workers-langchain
+- https://huggingface.co/ilsilfverskiold/classify-clickbait-titles
 
 ## Palm
 - https://github.com/google/paxml

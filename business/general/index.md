@@ -59,6 +59,7 @@
 - https://www.bootstrap.company/
 - https://hunted.space/ - product hunt tracker
 - https://github.com/cjbarber/ToolsOfTheTrade
+- https://pre.dev/ - ai product manager
 
 ## Culture / Goals
 

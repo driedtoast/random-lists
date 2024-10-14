@@ -23,6 +23,7 @@
 - https://teller.io/ - plaid alternative
 - https://copilot.money/ - consumer app
 - https://era.app/ - ai wealth app
+- https://oscilar.com/ - risk ai compliance
 
 ## FinOps
 

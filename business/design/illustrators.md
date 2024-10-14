@@ -89,6 +89,7 @@
 - https://www.rabbleboy.com/ - children's book illustrator
 - https://oliviasullivanillustration.co.uk/ - cool clean illustrations
 - https://www.artstation.com/scottflanders 
+- https://dattarajkamat.blogspot.com/ - very dynamic
 
 ## Comic Artists
 
@@ -204,6 +205,9 @@
 - https://www.to-zo.com/
 - https://www.lucaselliottart.com/
 - http://www.jasonhowardart.com/2010/01/processy-stuff.html
+- https://x.com/jj81studios - colorist
+  - https://www.behance.net/gallery/176843071/My-portfolio-of-published-colors-works-with-DC-Comics
+  - https://globalcomix.com/c/the-lump-sum-saga/chapters/en/1/16/1
 
 ## Animators
 

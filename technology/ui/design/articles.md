@@ -67,3 +67,8 @@
 ## Inspirational site designs
 - https://livepeer.studio/login?next=%2Fdashboard
 - https://www.composer.trade/
+
+## AI Design and humans
+- https://www.microsoft.com/en-us/haxtoolkit/
+- https://pair.withgoogle.com/guidebook
+- https://creativity.ucsd.edu/

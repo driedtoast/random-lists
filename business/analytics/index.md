@@ -53,6 +53,8 @@
 - https://www.optimizely.com/
 - https://www.getunleash.io/
 - https://posthog.com/ - feature flags + analysis
+- https://www.growthbook.io/
+    - https://github.com/growthbook/growthbook
 
 ## Reporting
 

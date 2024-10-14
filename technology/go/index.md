@@ -38,6 +38,7 @@
 * https://encore.dev/docs/develop/app-structure
 * https://encore.dev/docs/deploy/infra
 * https://go-fuego.github.io/fuego/docs/guides/openapi/ - api framework
+* https://gotify.net/ - message sending and receiving
 
 ## Security
 * https://github.com/Permify/permify - Zanzibar implementation / permissions

@@ -115,6 +115,7 @@
 - https://shardingsphere.apache.org/ - data sharding 
 - https://trino.io/ - query engine
 - https://elide.io/ - graph db / query
+- https://paraio.org/ - object platform to build off
 
 ## Event processing
 

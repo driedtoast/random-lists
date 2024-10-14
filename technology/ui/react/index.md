@@ -90,6 +90,7 @@
 - https://dndkit.com/ - drag and drop
 - https://github.com/atlassian/react-beautiful-dnd
 - https://react-dnd.github.io/react-dnd/about - drag and drop
+- https://github.com/caseywebdev/react-list
 
 ### Dialogs and overlays
 
@@ -324,3 +325,9 @@
 ## Database 
 
 - https://github.com/instantdb/instant
+- https://github.com/realm/realm-js
+- https://electric-sql.com/docs/quickstart
+
+## Video editor
+
+- https://github.com/designcombo/react-video-editor

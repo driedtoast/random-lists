@@ -3,6 +3,7 @@
 * https://faun.pub/automate-your-build-release-with-github-actions-367c0febf5fd - git actions
 * https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/
 * https://serokell.io/blog/rust-in-production-astropad
+* https://bfnightly.bracketproductions.com/rustbook/chapter_0.html - how too
 
 ## UI 
 * https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html

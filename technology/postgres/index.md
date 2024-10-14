@@ -7,6 +7,8 @@
 
 - https://automerge.org/
   - https://github.com/automerge/automerge
+- https://electric-sql.com/
+- https://www.graphile.org/postgraphile/ - graph ql
 
 ## Paas
 
@@ -24,6 +26,8 @@
 - https://github.com/fastmonkeys/stellar - backup and restore?
 - https://github.com/cyralinc/dmap - access assessment tool
 
+
 ## Forks
 
 - https://www.ferretdb.com/
+- https://pglite.dev/ - run in wasm / browser

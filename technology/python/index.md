@@ -89,6 +89,8 @@
 - https://github.com/ToucanToco/weaverbird - visual query builder
 - https://tinyolap.com/ - olap engine
 - https://github.com/FujiwaraChoki/MoneyPrinter - video generator
+- https://fasttext.cc/ - text classifications
+- https://flowiseai.com/
 
 ## Image processing
 

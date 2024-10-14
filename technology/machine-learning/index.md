@@ -11,6 +11,11 @@
 - https://www.builtwithai.co/ai-tools
 - https://cog.run/ running ai models
   - example https://github.com/lucataco/cog-playground-v2.5-1024px-aesthetic?tab=readme-ov-file
+- https://www.promptingguide.ai/introduction/examples#reasoning - prompting
+- https://github.com/dmatrix/genai-cookbook/blob/main/llm-prompts/1_how_to_use_basic_prompt.ipynb
+- https://llmpricecheck.com/ - llm pricing
+- https://aihorde.net/ - ai workers
+- https://openmodeldb.info/ - model search
 
 ## Theories
 
@@ -23,6 +28,7 @@
 - https://carper.ai/instruct-gpt-announcement/
 - https://github.com/Trusted-AI/AIF360
 - http://aif360.mybluemix.net/
+- https://groq.com/wp-content/uploads/2020/06/ISCA-TSP.pdf - think fast - tensor flow streaming
 
 ## Platform Approaches
 
@@ -74,6 +80,11 @@
 - https://www.together.ai/ - for hosting llm models
 - https://replicate.com/ - run and retrain a model
 - https://www.acorn.io/
+- https://github.com/kyegomez/swarms - agent learning
+- https://langfuse.com/
+- https://github.com/langgenius/dify
+  - https://dify.ai/ - llm ops workspace
+- https://salad.com/ - inference models
 
 ## Regression and Classification
 
@@ -147,6 +158,15 @@
 - https://github.com/jina-ai/thinkgpt -  implementing Chain of Thoughts 
 - https://blog.vllm.ai/2023/06/20/vllm.html
 - https://lmsys.org/
+- https://ai.azure.com/explore/models/microsoft-phi-2/version/4/registry/azureml-msr
+- https://picovoice.ai/picollm/gym/
+- https://docs.safron.io/
+- https://huggingface.co/albert/albert-base-v2 - smaller library
+  - https://huggingface.co/FacebookAI/roberta-large
+- https://haystack.deepset.ai/
+- https://openrouter.ai/models/lynn/soliloquy-l3 - role playing model
+- https://openrouter.ai/
+- https://openrouter.ai/models/nousresearch/hermes-3-llama-3.1-405b:free - role playing model
 
 ## Libraries
 
@@ -165,6 +185,15 @@
 - https://cloud.google.com/model-garden?hl=en - model browsing
 - https://tools.gptscript.ai/
 - https://github.com/gptscript-ai/clio
+- https://cog.run/ - to run models
+- https://github.com/microsoft/promptflow - for prompting
+  - https://microsoft.github.io/promptflow/
+- https://github.com/salesforce/WikiSQL - corpus of various models
+- https://github.com/langchain-ai/langchain = context aware reasoning
+- https://langchain-ai.github.io/langgraph/
+- https://fasttext.cc/ - text classification
+- https://github.com/ollama/ollama-js 
+- https://github.com/meta-llama/llama-stack
 
 ## Code generation
 
@@ -173,6 +202,12 @@
 - https://github.com/getcursor
 - https://promptvibes.com/ - prompt ideas
 - https://deepseekcoder.github.io/
+- https://github.com/All-Hands-AI/OpenHands 
+  - https://www.all-hands.dev/
+  - https://www.cognition.ai/blog/introducing-devin
+- https://github.com/gpt-engineer-org/gpt-engineer
+  - https://gptengineer.app/
+- https://www.chatprd.ai/
 
 ## Image processing / robotics
 
@@ -192,3 +227,13 @@
 - https://github.com/continuedev/deploy-os-code-llm#lambda
 - https://localai.io/
 - https://www.comfy.org/
+- https://github.com/microsoft/semantic-kernel
+- https://github.com/FlowiseAI/Flowise - drag and drop llm model creation
+  - https://flowiseai.com/
+
+## In browser
+
+- https://picovoice.ai/blog/cross-browser-local-llm-inference-using-webassembly/
+- https://github.com/mlc-ai/web-llm/tree/main
+- https://github.com/hrishioa/wasm-ai
+- https://thenewstack.io/demo-use-webassembly-to-run-llms-on-your-own-device-with-wasmedge/

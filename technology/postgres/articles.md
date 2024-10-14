@@ -14,4 +14,3 @@
 ## Fetching
 * https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/
 * https://medium.com/geekculture/dynamic-search-filter-query-based-on-user-inputs-with-hibernate-mysql-spring-boot-85e842dcf8d
-

@@ -136,3 +136,9 @@
 - https://wharferj.wordpress.com/2012/05/25/ron-cobbs-alien-semiotic-standards/
 - https://typesetinthefuture.com/2014/12/01/alien/
 - https://github.com/louh/semiotic-standard
+
+## Comic resources 
+
+- https://www.creatorresource.com/page-rate-finder-comic-book-publishers/
+- https://www.creativecontractconsulting.com/c3blog/2019/5/22/a-simple-guide-to-page-rates-royalties-and-other-work-for-hire-compensation-in-comics
+- https://www.creatorresource.com/tag/printing/ 

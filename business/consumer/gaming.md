@@ -91,6 +91,7 @@
 - https://www.distantrabbitgames.com/
 - https://www.familiargames.net/
 - https://pickpocketgames.com/ - athens i think
+- https://garphill.com/
 
 ## Hardware
 
@@ -99,3 +100,4 @@
 - https://anbernic.com/products/rg35xx
     - https://retrododo.com/garlic-os/
 - https://www.systemtechnologyworks.com/
+- https://soulscircuit.com/pilet - mini computer thing

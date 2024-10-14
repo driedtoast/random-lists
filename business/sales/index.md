@@ -33,6 +33,7 @@
 
 ## Lead gen / Deal management
 
+- https://www.11x.ai/ - ai sales workers
 - https://www.workwithpod.com/
 - https://www.drift.com/ - through bots
 - https://www.outreach.io/
@@ -201,6 +202,8 @@
 
 - https://www.klasserfunnels.com/ - cold email service
 - https://www.sendinblue.com/ - sending emails
+- https://www.mailgun.com/ - sending emails
+- https://bird.com
 - https://confect.io/
 - https://fameswap.com/ - buy instagram accounts with followers
 - https://ahrefs.com/ - seo growth

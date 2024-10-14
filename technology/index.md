@@ -148,6 +148,7 @@
 - https://pkgx.app/
 - https://graphite.dev/ - pr review
 - https://github.com/codemod-com/codemod - upgrade path
+- https://devstarterpack.io/ - dev stack setup
 
 ## Bots
 
@@ -184,3 +185,4 @@
 - https://editorconfig.org/ - editor tools 
 - https://zed.dev/ - ai based
 - https://idx.google.com/ - google ai editor
+- https://asdf-vm.com/ - runtime manager for ruby / node / etc...

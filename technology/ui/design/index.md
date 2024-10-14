@@ -22,7 +22,22 @@
 - https://ux.mailchimp.com/patterns/color
 - https://www.noundation.wtf/
 - https://canvas.hubspot.com/
+  - https://www.uiguideline.com/reference-systems/hubspot-canvas
 - https://uiplaybook.dev/ - design theories
+- https://polaris.shopify.com/
+- https://adele.uxpin.com/
+- https://styleguide.brainly.com/ - has bubbles and speech messages
+- https://anvil.servicetitan.com/web/patterns/forms
+- https://sage.kajabi.com/pages/index
+- https://opensource.adobe.com/spectrum-web-components/
+  - https://spectrum.adobe.com/page/cards/
+- https://react-spectrum.adobe.com/react-spectrum/index.html - react
+- https://anvil.servicetitan.com/docs/getting-started - react
+- https://paste.twilio.design/
+- https://design.gitlab.com/usability/ai-human-interaction - ai system
+- https://pair.withgoogle.com/guidebook - ai and user interactions
+
+
 
 ## Color
 
@@ -102,3 +117,4 @@
 ## Animation
 
 - https://codepen.io/jkantner/pen/wvXbboe
+

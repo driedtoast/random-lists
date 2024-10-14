@@ -17,6 +17,8 @@
 - https://www.primedesignsystem.com/
 - https://frame.io/ - workflow management
 
+
+
 ## Mockups and Flows
 
 - https://www.figma.com/wireframe-tool/
@@ -152,6 +154,20 @@
 - https://www.comicbookfonts.com/Default.asp - comic fonts
 - https://www.calligraphr.com/en/
 - https://v-fonts.com/ - variable fonts
+- https://johnmartz.com/fonts/
+  - https://www.abstractfonts.com/designer/126/john-martz
+- http://www.identifont.com/show?2JH1 - David Kerkhoff
+  - http://www.identifont.com/show?3OBL - Butterfly Ball (comic font)
+  - http://www.identifont.com/show?5H9Y
+  - http://www.identifont.com/show?2JHW
+  - https://www.hanodedfonts.com/fonts/attaboy/
+  - https://www.hanodedfonts.com/fonts/atonement/
+  - https://www.hanodedfonts.com/fonts/harajuku-script/
+  - http://www.identifont.com/show?2JH1+1
+- https://flehatype.com/
+- https://www.youworkforthem.com/font/T3550/doinky?aff=148
+- https://www.t26.com/
+- https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md
 
 ## User tours
 

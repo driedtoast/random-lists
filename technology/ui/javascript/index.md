@@ -395,6 +395,7 @@
   - https://github.com/shipshapecode/react-shepherd
 - https://introjs.com/
 - https://react-joyride.com/
+  - https://github.com/gilbarbara/react-joyride
 - https://get.foundation/sites/docs-v5/components/joyride.html
 - https://github.com/socialtables/react-user-tour
 

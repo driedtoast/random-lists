@@ -111,6 +111,7 @@
 - https://www.swimmingdesign.com/
 - https://www.sam-peitz.com/
 - https://www.gavinrothery.com/ - sci fi designer
+- https://www.kimheeju.com 
 
 ## Book and publishing
 

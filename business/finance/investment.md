@@ -120,6 +120,7 @@
 - https://founderpath.com/
 - https://www.boxgroup.com/
 - https://www.alexandbartangelfund.com/
+- https://notice.co/ - private share funding
 - https://www.january.ventures/
   - https://airtable.com/shrre3Jq7T9JWyvr2/tblY6yI0m9MPlDDUu
 
