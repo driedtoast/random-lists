@@ -56,6 +56,7 @@
 - https://hyperscience.com/
 - https://www.influxdata.com/time-series-platform/telegraf/
 - https://www.nasuni.com/ - file system
+- https://nifi.apache.org/
 
 ## Embedded Systems
 

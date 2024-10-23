@@ -72,6 +72,7 @@
 - https://claude.ai/ - ai assistant
 - https://deepinfra.com/ - on demand service
 - https://wit.ai/ - platform
+- https://nousresearch.com/ - world simulators
 
 ## Image generation
 

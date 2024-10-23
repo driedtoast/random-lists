@@ -17,6 +17,7 @@
 - https://pub.dev/ - flutter / dart packages
 - https://flame-engine.org/
     - https://github.com/flame-engine/flame
+- https://pub.dev/packages/mason - code gen
 
 ## Distributed server support
 

@@ -15,6 +15,7 @@
 - https://approximated.app/
 - https://www.doppler.com/ - secret storage
 - https://arcjet.com/ - security detection
+- https://www.packetfence.org/ - packet / vpn like security
 
 ## Exploits
 

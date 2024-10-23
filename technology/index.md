@@ -185,4 +185,17 @@
 - https://editorconfig.org/ - editor tools 
 - https://zed.dev/ - ai based
 - https://idx.google.com/ - google ai editor
+- https://plopjs.com/ - template generation
+- https://www.yellicode.com/ - code gen
+- https://github.com/jondot/hygen - code generator 
+  - https://www.hygen.io/
+- https://www.telosys.org/ - code gen
+- https://github.com/Rich-Harris/degit - cloning a repo
+
+## Runtime versions
 - https://asdf-vm.com/ - runtime manager for ruby / node / etc...
+- https://mise.jdx.dev/ - works with asdf
+- https://aquaproj.github.io/
+- https://github.com/version-fox/vfox - works with other libs
+- https://moonrepo.dev/proto
+- https://github.com/gvcgo/version-manager

@@ -23,6 +23,7 @@
 - https://dev.to/noruwa/folder-structure-for-modern-web-applications-4d11
 - https://blog.logrocket.com/build-fintech-app-plaid-react-native/
 - https://javascript.plainenglish.io/creating-a-financial-app-with-the-plaid-api-nodejs-express-and-react-4e142066eb6c
+- https://shawnsandy.dev/posts/react-vit-ts/
 
 ## Component
 
@@ -172,3 +173,12 @@
 
 ## Native 
 - https://github.com/Taussy10/HealthMaxx
+
+## Editing
+
+- https://github.com/ueberdosis/tiptap/discussions/4746
+- https://tiptap.dev/docs/examples/experiments/slash-commands
+- https://vikramthyagarajan.medium.com/how-to-build-a-notion-like-text-editor-in-react-and-tiptap-7f394c36ed9d
+- https://github.com/ueberdosis/awesome-tiptap
+- https://maily.to/
+- https://tiptap.dev/docs/hocuspocus/introduction

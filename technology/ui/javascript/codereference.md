@@ -16,6 +16,7 @@
 - https://dested.com/
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/denysdovhan/wtfjs - crazy javascript problems
+- http://genar.me/dev/javascript/index.html
 
 ## Monorepos
 

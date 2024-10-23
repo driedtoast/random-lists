@@ -17,6 +17,10 @@
 - https://github.com/thoughtbot/factory_bot
 - https://github.com/bullet-train-co/magic_test 
 
+## Local
+
+- https://github.com/tako8ki/frum
+
 ## Reference 
 
 - https://github.com/progapandist/anycable_rails_demo

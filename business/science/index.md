@@ -42,6 +42,7 @@
 - https://www.atomwise.com/ - ai for medicine
 - https://www.newphilosopher.com/articles/new-philosopher-celebrates-10-years/ - philosophy
 - https://www.alzabosoup.com/ - authors of books
+- https://draquet.github.io/PolyGlot/ - language creator
 
 
 ## Carbon Offsets / Tech

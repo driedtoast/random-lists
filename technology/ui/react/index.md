@@ -248,8 +248,23 @@
 - https://github.com/jaredreich/pell
 - https://grapesjs.com/ - site generator / website builder gui
 - https://react-page.github.io/ - site builder gui
-
+- https://ui.toast.com/
 - https://tiptap.dev/hocuspocus/ - collaborative backend
+- https://github.com/TypeCellOS/BlockNote
+- https://github.com/facebook/lexical
+- https://github.com/JefMari/awesome-wysiwyg-editors?tab=readme-ov-file#for-react
+- https://remirror.io/
+- https://github.com/curvenote/editor - has lots of features
+- https://github.com/WordPress/gutenberg
+- https://www.blocknotejs.org/docs
+- https://tiptap.dev/
+  - https://github.com/sereneinserenade/notitap
+  - https://github.com/ueberdosis/tiptap/discussions/4746
+- https://yoopta.dev/
+- https://lexical.dev/
+- https://quilljs.com/
+- https://editorjs.io/
+- https://github.com/nytimes/react-prosemirror
 
 ## Labels and Text
 

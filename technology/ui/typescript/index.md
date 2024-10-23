@@ -127,3 +127,8 @@
 - https://github.com/lucia-auth/lucia
   - https://lucia-auth.com/
 - https://supertokens.com/ - authentication
+
+## Code gen
+
+- https://feathers.cloud/pinion/
+  - https://feathers.cloud/

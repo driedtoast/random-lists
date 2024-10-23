@@ -31,3 +31,6 @@
 
 - https://www.ferretdb.com/
 - https://pglite.dev/ - run in wasm / browser
+- https://github.com/orioledb/orioledb
+  - https://www.orioledb.com/
+- https://www.citusdata.com/

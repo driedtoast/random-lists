@@ -33,6 +33,7 @@
 - https://github.com/Qovery/engine
 - https://commando.io/ - web management online
 - https://github.com/workflows-sh
+- https://deco.cx/ - for typescript apps
 
 ## AWS
 
@@ -107,6 +108,9 @@
 - https://manifest.build/ - simple backend
 - https://www.instantdb.com/
 - https://nocodb.com/ - airtable opensource
+- https://orc.apache.org/  - similar to hbase
+- https://hive.apache.org/ - querying against hbase
+- https://iceberg.apache.org/ - for analytics and such
 
 
 ### Migrations

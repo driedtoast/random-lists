@@ -28,6 +28,7 @@
 - https://wise.com/us/pricing/
 - https://supertab.co/ - micro payments
 - https://www.lightspark.com/ - crypto like based
+- https://www.bridge.xyz/ - crypto payment processing
 
 ## Orchestration
 

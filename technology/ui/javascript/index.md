@@ -21,6 +21,10 @@
 - https://github.com/google/traceur-compiler
 - https://bun.sh/ - npm start alternative
 - https://reasonml.github.io/
+- https://moonrepo.dev/ code gen and building 
+- https://github.com/plopjs/plop 
+- https://github.com/jondot/hygen - code generator 
+  - https://www.hygen.io/
 
 ## Components / Frameworks
 
@@ -70,6 +74,7 @@
 - https://htmx.org/
 - https://umbrellajs.com/
 - https://loopback.io/
+- https://fresh.deno.dev/ - fast web framework
 
 
 ## Plugin utils
@@ -102,6 +107,7 @@
 
 - https://github.com/segmentio/metalsmith
 - https://vitepress.dev/
+- https://grapesjs.com/ - site builder
 
 ## Analytic Library
 
@@ -177,6 +183,7 @@
 - https://tscanlin.github.io/tocbot/ - create toc based on headers of page
 - https://mobx.js.org/ - events
 - https://aws.github.io/jsii/ - for polygot usage
+- https://retejs.org/ - pipe charts and drag and drop connections, could use for diagram tool
 
 ## Music
 
