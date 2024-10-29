@@ -196,6 +196,7 @@
 - https://www.iccube.com/ - reporting and analytics
 - https://kylin.apache.org/
 - https://coroot.com/ - new relic like
+- https://www.jit.io/lp/appsec-tools - ci security monitoring
 
 ### Open telemetry
 

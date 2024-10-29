@@ -75,6 +75,7 @@
 - https://umbrellajs.com/
 - https://loopback.io/
 - https://fresh.deno.dev/ - fast web framework
+- https://docs.parseplatform.org
 
 
 ## Plugin utils
@@ -213,6 +214,7 @@
 - https://trix-editor.org/
 - https://github.com/microsoft/monaco-editor - code editor
 - https://ace.c9.io/
+- https://blocksuite.io/
 
 ## Code quality
 

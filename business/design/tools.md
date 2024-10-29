@@ -147,6 +147,7 @@
 - https://www.genmo.ai/ - via ai
 - https://pika.art/ - ai generation
 - https://liveportrait.github.io/ - ai generated faces
+- https://motionarray.com/ - ai tracking and such
 
 ## Fonts
 

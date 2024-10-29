@@ -90,6 +90,9 @@
 - https://oliviasullivanillustration.co.uk/ - cool clean illustrations
 - https://www.artstation.com/scottflanders 
 - https://dattarajkamat.blogspot.com/ - very dynamic
+- https://stefanmarjoram.com/advent-daily-sketches - car illustrator
+- https://www.mikejasnowski.com/ - old school style
+  - https://cara.app/mjasnowski
 
 ## Comic Artists
 
