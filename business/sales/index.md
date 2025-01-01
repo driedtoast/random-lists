@@ -233,6 +233,7 @@
 - https://www.factors.ai/
 - https://microlaunch.net/ - small startup
 - https://burstyai.com/  - create seo blogs and such
+- https://resend.com/pricing - email sending
 
 ### Content
 

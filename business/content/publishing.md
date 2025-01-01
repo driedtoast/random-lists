@@ -85,6 +85,7 @@
 - https://nonfictionauthorsassociation.com/list-of-book-distributors-and-wholesalers/ - distributors
 - https://www.crwnstudios.com/ - distributors and fulfillment
 - https://bookprinting.com/book-distribution
+- https://www.studiocomix.com/ - comic printing based in canada
 
 - https://printify.com/ - products
 
@@ -135,6 +136,7 @@
 - https://www.excavationcomics.com/ - indy
 - https://campfire.co.in/ - classic graphic novels
 - https://www.thelabpress.com/
+- https://www.tribulationtaskforce.com/
 
 ### PR
 

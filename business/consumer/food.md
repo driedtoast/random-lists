@@ -38,6 +38,7 @@
 - https://rekki.com/en-US - ingredient sourcing for restaurants
 - https://www.consentio.co/ - veggie market
 - https://agro.club/ - farm supply management
+- https://www.buffalomarket.com/retailers 
 
 ## Producers
 
@@ -54,6 +55,7 @@
 - https://pingeorgia.org/ - georgia farming innovation
 - https://www.farmbrite.com/ - farm management
 - https://chiktopia.us/shop - automated chicken coops
+- https://www.verdi.ag/
 
 
 ## Coffee

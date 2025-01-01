@@ -21,6 +21,7 @@
 - https://www.tailwindapp.com/
 - https://www.yozdesigner.com/
 - https://www.logo-archive.org/
+- https://variant-01.com/
 
 ## Application and UI Design
 
@@ -56,6 +57,7 @@
 - https://shuffle.dev/ - tailwind designer
 - https://updrafts.app/ - tailwind
 - https://www.uxpin.com/
+- https://sprrrint.com/ - templates
 
 ## Designers
 

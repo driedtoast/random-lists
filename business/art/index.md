@@ -51,6 +51,7 @@
 - https://www.lostincolours.com/foraging-for-pigments-from-local-rocks/
 - https://bigidesign.com/collections/drawing-aids/
 - https://shop.kremerpigments.com/us/information/recipes/egg-tempera-with-dammar-and-linseed-oil/
+- https://alpha6corporation.com/ref/50/ - paints
 
 ## Zoom quilt animation
 

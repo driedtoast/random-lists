@@ -96,6 +96,11 @@
 ## Model resources
 
 - https://www.aimodels.fyi/
+- https://www.redhenlab.org - various analysis tools
+    - https://www.redhenlab.org/home/the-cognitive-core-research-topics-in-red-hen/the-barnyard/christian-iconography-the-emile-male-pipeline
+    - https://github.com/lazyCodes7/Christian-Iconography
+    - https://drive.google.com/drive/folders/1eUQidfNZvzZ5C1MSl8T_FU1KH569X3x7
+
 
 ## Prompting
 

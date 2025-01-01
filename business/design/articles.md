@@ -142,3 +142,5 @@
 - https://www.creatorresource.com/page-rate-finder-comic-book-publishers/
 - https://www.creativecontractconsulting.com/c3blog/2019/5/22/a-simple-guide-to-page-rates-royalties-and-other-work-for-hire-compensation-in-comics
 - https://www.creatorresource.com/tag/printing/ 
+- https://gvaat.com/blog/how-to-draw-the-head-using-the-loomis-method-a-step-by-step-guide/ - head drawing
+- https://medium.com/@ramstudioscomics/how-to-draw-heads-with-the-andrew-loomis-method-78f9d04ab132 - head drawing

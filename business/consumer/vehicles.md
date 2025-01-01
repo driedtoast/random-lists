@@ -166,6 +166,7 @@
 - http://forums.turbobricks.com/showthread.php?t=324191 - racing upgrades
 
 ## Acura 2015 mdx
+
 - https://evolvchips.com/products/performance-chip-for-acura-mdx?variant=4631687806999 - performance chip
 - https://www.youtube.com/watch?v=ETXxRZef2qE
 - https://gromaudio.com/store/vline/honda-acura-2010-2015-vline-carplay-android-auto-infotainment-system-navigation-upgrade.html
@@ -173,3 +174,15 @@
 - https://www.aliexpress.us/item/3256803952687646.html?spm=a2g0o.order_list.0.0.76611802JrSUeJ&gatewayAdapt=glo2usa4itemAdapt
 - https://www.alibaba.com/product-detail/Wireless-Car-play-Android-Box-For_1600494125607.html
 - https://www.navtool.com/acura-mdx-2014-2017-apple-carplay.aspx
+
+## Toyota Tacoma 
+
+- https://www.coastaloffroad.com/product-category/1995-5-2004-tacoma/
+- https://realtruck.com/p/covercraft-carhartt-precision-fit-seat-covers/v/toyota/tacoma/1998/
+- https://realtruck.com/p/n-fab-black-wheel-to-wheel-nerf-bars/v/toyota/tacoma/1998/
+- https://realtruck.com/p/husky-liners-classic-style-floor-liners/v/toyota/tacoma/1998/
+- https://realtruck.com/p/husky-liners-all-weather-floor-mats/v/toyota/tacoma/1998/
+- https://www.srqfabrications.com/collections/1st-gen-tacoma-1996-2004
+- https://www.proimporttuners.com/parts/1998-toyota/tacoma-performance-parts.html
+- https://tacomabeast.com/
+- https://corbeau.com/baja-rs/

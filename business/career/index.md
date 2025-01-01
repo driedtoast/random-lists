@@ -38,6 +38,7 @@
 - https://www.letsdeel.com/
 - https://circular.io/
 - https://www.coroflot.com/ - for designers
+- https://www.torc.dev/
 
 ## HR management
 
@@ -55,6 +56,7 @@
 - https://www.pinwheelapi.com/ - direct deposit via api
 - https://www.steadyiq.com/ - 1099 work management
 - https://www.joinwarp.com/ - payroll mgmmt
+- https://www.rollfi.xyz/ - payroll mgmt
 
 ## HR News
 

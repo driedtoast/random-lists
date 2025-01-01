@@ -93,6 +93,7 @@
 - https://stefanmarjoram.com/advent-daily-sketches - car illustrator
 - https://www.mikejasnowski.com/ - old school style
   - https://cara.app/mjasnowski
+- https://stevecutts.wordpress.com/ - retro style
 
 ## Comic Artists
 

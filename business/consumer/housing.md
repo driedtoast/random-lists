@@ -26,6 +26,7 @@
 - https://www.thebarnyardstore.com/structures/post-and-beam-barn-kits - barn kits
 - https://www.barnyard.com/structures/pool-houses
 - https://www.heavyhorsewoodworks.com/serviceslist - barn kits
+- https://thediydentist.blogspot.com/2015/03/building-outdoor-racquetball-court.html - racketball court
 
 ### Built ins
 - https://www.remodelandolacasa.com/2018/11/fmlyrhdr.html?showComment=1543236113590#c2729776750196433087
@@ -65,6 +66,7 @@
 - https://ycireclaimedhardwood.com/ - reclaimer
 - https://griffinpockettool.com/ - pocket tools
 - https://www.faire.com/
+- https://www.bonushomes.com/how-it-works - sell house equity
 
 
 ## Driveways

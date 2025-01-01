@@ -15,6 +15,7 @@
   - https://wasp-lang.dev/docs/auth/overview
 - https://github.com/janhq/jan - chatgpt
   - https://jan.ai/
+- https://www.convex.dev/ - full stack hosting
 
 ## No code builders
 

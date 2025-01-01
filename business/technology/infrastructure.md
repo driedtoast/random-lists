@@ -212,6 +212,7 @@
 - https://www.layer7.net/virtual_server
 - https://hosthatch.com/
 - https://moonqube.com/
+- https://www.convex.dev/ - typescript app hosting, very interesting
 
 ## Kubernetes
 

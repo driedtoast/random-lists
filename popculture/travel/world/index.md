@@ -8,3 +8,7 @@
 
 ## Switzerland
 - https://en.wikipedia.org/wiki/Gelmer_Funicular
+
+## Portugal
+
+- https://visitmadeira.com/en/

@@ -4,6 +4,9 @@
 - https://www.honeybadger.io/blog/aws-dynamo-db-rails/ 
 - https://www.mintbit.com/blog/writing-to-dynamodb-via-rails-models
 
+## general
+- https://medium.com/rubyinside/a-deep-dive-into-routing-and-controller-dispatch-in-rails-8bf58c2cf3b5 - routing
+
 
 ## Tips and tricks 
 - https://www.honeybadger.io/blog/deploy-rails-render/

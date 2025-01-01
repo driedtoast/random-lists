@@ -21,6 +21,7 @@
 - https://timstout.wordpress.com/2011/09/03/how-to-use-3-act-story-structure-in-comic-strips/
 - https://timstout.wordpress.com/graphic-novel-writing/
 - https://timstout.wordpress.com/story-structure/blake-snyders-beat-sheet/
+- https://fzdschool.com/ - art school
 
 ## Books
 - https://standardebooks.org/ebooks/e-c-bentley/trents-last-case
