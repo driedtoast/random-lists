@@ -17,6 +17,7 @@
 - https://www.helpscout.com/
 - https://www.bevy.com/
 - https://fogbender.com/
+- https://crisp.chat/en/ - pretty clean suite
 
 ## Live chat
 

@@ -7,9 +7,11 @@
 
 ## Health
 * https://scitechdaily.com/not-science-fiction-german-scientists-harness-the-power-of-photosynthesis-for-new-way-to-breathe/amp/
+* https://physiqonomics.com/fat-loss/ 
 
 ## Paper planes
 * https://www.foldnfly.com/
 
 ## Random
 * https://explorabl.es/art/
+

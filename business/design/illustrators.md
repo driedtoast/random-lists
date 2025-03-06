@@ -95,6 +95,7 @@
   - https://cara.app/mjasnowski
 - https://stevecutts.wordpress.com/ - retro style
 
+
 ## Comic Artists
 
 - https://www.mrjakeparker.com/
@@ -212,6 +213,9 @@
 - https://x.com/jj81studios - colorist
   - https://www.behance.net/gallery/176843071/My-portfolio-of-published-colors-works-with-DC-Comics
   - https://globalcomix.com/c/the-lump-sum-saga/chapters/en/1/16/1
+- https://www.carthageworkshop.com/
+- https://oddhops.com/ - illustrative / political comic style
+- https://zacharywhistle.squarespace.com/comics - cartoony style
 
 ## Animators
 

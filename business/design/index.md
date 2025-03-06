@@ -15,6 +15,10 @@
 - https://sidehusl.com/ - side gigs for creatives
 - https://cushionapp.com/ - with forecasting and such
 - https://www.getharvest.com/forecast 
+- https://illustration-jobs.com/ 
+- https://comics-jobs.com/
+
+
 
 ## Domain Name
 

@@ -91,6 +91,9 @@
 - https://github.com/FujiwaraChoki/MoneyPrinter - video generator
 - https://fasttext.cc/ - text classifications
 - https://flowiseai.com/
+- https://github.com/Upsonic/Upsonic - ai framework
+- https://github.com/cagostino/npcsh
+- https://github.com/runvnc/mindroot
 
 ## Image processing
 

@@ -89,6 +89,7 @@
 - https://hifab.co/
 - https://carfridge.alpicool.com/collections/zcamp-prefab-house
 - https://www.homedepot.com/p/Chill-Out-1-Bed-1-Bath-292-sq-ft-Steel-Frame-plus-Dry-In-Kit-DIY-Assembly-Building-Guest-House-Kit-ADU-Rental-COD281/327991992
+- https://www.eastdomes.com/pricing - domes
 
 ## Contractor apps
 

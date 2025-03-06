@@ -68,6 +68,7 @@
 - https://github.com/kawakamimoeki/active_pinecone
 - https://github.com/ankane/tokenizers-ruby  - tokenizer
 - https://www.ruby-toolbox.com/projects/pgvector - pgvector
+- https://www.activeagents.ai/
 
 ## Deployments
 

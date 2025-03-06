@@ -137,6 +137,14 @@
 - https://campfire.co.in/ - classic graphic novels
 - https://www.thelabpress.com/
 - https://www.tribulationtaskforce.com/
+- https://archive.org/details/countdown-and-tv-action/Countdown%20001%20%5B1971-02-20%5D/ - old school tv comics / Polystyle Publications
+    - https://www.comicartfans.com/gallerypiece.asp?piece=1522412
+- https://shop.gerryanderson.com/en-us/collections/books-comics - cool retro comic reprints
+    - https://www.gerryanderson.com/
+    - https://ufocomics.co.uk/category/specials-annuals/
+- https://auk.direct/product/the-tomorrow-people/
+- https://www.carthageworkshop.com/ - small press 
+    - https://theseuscomic.com/
 
 ### PR
 

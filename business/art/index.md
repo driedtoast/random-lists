@@ -29,6 +29,7 @@
 - https://margaritaears.com/ - manuscripts
 - https://www.anthonyschmidtphotography.com/ - cool toy car photography
 - https://www.sacredmurals.com/
+- https://makotofujimura.com/ - abstract
 
 ## Art auctions / investments
 

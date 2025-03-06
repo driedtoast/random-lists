@@ -44,6 +44,7 @@
 - https://www.rabbit.tech/research - os type approach
 - https://www.chainguard.dev/ - security
 - https://www.perplexity.ai/
+- https://www.pulze.ai/ - agents
 
 ## Text to speech
 

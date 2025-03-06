@@ -8,6 +8,7 @@
 
 ## Switzerland
 - https://en.wikipedia.org/wiki/Gelmer_Funicular
+- https://www.myswitzerland.com/en-us/experiences/bernina-express/ - train from italy to switzerland
 
 ## Portugal
 

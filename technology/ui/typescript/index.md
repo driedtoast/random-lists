@@ -115,6 +115,8 @@
 
 - https://github.com/yudax42/askai
 - https://microsoft.github.io/TypeChat/ - structured language models
+- https://www.gensx.com/ - for building agents
+  - https://github.com/gensx-inc/gensx/tree/main/examples/self-modifying-code
 
 ## Database
 - https://kysely.dev/

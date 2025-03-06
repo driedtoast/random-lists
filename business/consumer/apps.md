@@ -2,6 +2,7 @@
 
 - https://reflectly.app/
 - https://www.timewell.io/
+- https://loophabits.org/ - goal tracker
 
 ## General / Mobile
 

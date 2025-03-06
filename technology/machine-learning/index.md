@@ -85,6 +85,7 @@
 - https://github.com/langgenius/dify
   - https://dify.ai/ - llm ops workspace
 - https://salad.com/ - inference models
+- https://github.com/elizaOS/eliza - agent os 
 
 ## Regression and Classification
 

@@ -92,6 +92,10 @@
 - https://towardsdatascience.com/fine-tune-smaller-transformer-models-text-classification-77cbbd3bf02b
 - https://levelup.gitconnected.com/predicting-tech-trends-with-natural-language-processing-9d9ce1c082d3
 - https://medium.com/data-science-at-microsoft/automating-data-analytics-with-chatgpt-827a51eaa2c - data analytics ai
+- https://www.gensx.com/blog/self-modifying-code
+- https://www.gensx.com/blog/why-react-is-the-best-backend-workflow-engine
+- https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents
+- https://www.anthropic.com/engineering/swe-bench-sonnet
 
 ## Model resources
 

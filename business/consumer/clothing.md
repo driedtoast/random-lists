@@ -104,6 +104,11 @@
 - https://www.miir.com/ - yeti like things
 - https://undergroundshirts.com/
 - https://www.micromerch.com/
+- https://www.bonfire.com/ - look very good quality and has custom colors also can do a store
+- https://t-shirtprintingcompany.com/
+- https://one-shot.club/
+- https://www.bluecotton.com/
+
 
 ## Recycling
 - https://www.milehighworkshop.org/
