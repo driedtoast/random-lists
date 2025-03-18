@@ -231,6 +231,17 @@
 - https://github.com/microsoft/semantic-kernel
 - https://github.com/FlowiseAI/Flowise - drag and drop llm model creation
   - https://flowiseai.com/
+- https://cortex.so/docs/
+- https://jan.ai/
+- https://lmstudio.ai/ - can use with continue
+  - https://docs.continue.dev/customize/model-providers/more/lmstudio
+- https://github.com/continuedev/continue
+- https://github.com/cline/cline - claude code / dev
+  - https://docs.cline.bot/getting-started/getting-started-new-coders/our-favorite-tech-stack
+
+## Agents
+
+- https://github.com/dynamiq-ai/dynamiq
 
 ## In browser
 

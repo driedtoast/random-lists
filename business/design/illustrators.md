@@ -216,6 +216,7 @@
 - https://www.carthageworkshop.com/
 - https://oddhops.com/ - illustrative / political comic style
 - https://zacharywhistle.squarespace.com/comics - cartoony style
+- https://kelseyramsay.com/
 
 ## Animators
 

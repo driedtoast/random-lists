@@ -45,6 +45,8 @@
 - https://www.chainguard.dev/ - security
 - https://www.perplexity.ai/
 - https://www.pulze.ai/ - agents
+- https://www.bentoml.com/ - universal inference model 
+- https://t3.chat/chat/
 
 ## Text to speech
 
@@ -74,6 +76,7 @@
 - https://deepinfra.com/ - on demand service
 - https://wit.ai/ - platform
 - https://nousresearch.com/ - world simulators
+
 
 ## Image generation
 

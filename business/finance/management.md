@@ -39,6 +39,7 @@
 - https://www.cascade.app/ - goal coordination
 - https://www.oinkching.com/ - instruction
 - https://github.com/moov-io/awesome-fintech
+- https://www.getlago.com/ - open source billing and invoicing
 
 ## Consumer cards
 

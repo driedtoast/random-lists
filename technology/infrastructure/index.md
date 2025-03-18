@@ -262,6 +262,8 @@
 ## Suites
 
 - https://www.apicur.io/
+- https://github.com/twentyhq/twenty - crm base system
+- https://www.getlago.com/ - billing system
 
 ## Email
 - https://bird.com/pricing

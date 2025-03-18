@@ -39,6 +39,9 @@
 - https://www.consentio.co/ - veggie market
 - https://agro.club/ - farm supply management
 - https://www.buffalomarket.com/retailers 
+- https://www.zouzincense.com/incense-crafting-supplies - incense supplies
+- https://twaromaticsandco.com/collections/wax-melts/products/frankincense-and-myrrh-2-backflow-incense-cones-12-count
+
 
 ## Producers
 

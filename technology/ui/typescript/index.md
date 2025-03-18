@@ -117,6 +117,7 @@
 - https://microsoft.github.io/TypeChat/ - structured language models
 - https://www.gensx.com/ - for building agents
   - https://github.com/gensx-inc/gensx/tree/main/examples/self-modifying-code
+- https://www.gensx.com/ - for building agents
 
 ## Database
 - https://kysely.dev/

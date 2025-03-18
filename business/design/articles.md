@@ -144,3 +144,5 @@
 - https://www.creatorresource.com/tag/printing/ 
 - https://gvaat.com/blog/how-to-draw-the-head-using-the-loomis-method-a-step-by-step-guide/ - head drawing
 - https://medium.com/@ramstudioscomics/how-to-draw-heads-with-the-andrew-loomis-method-78f9d04ab132 - head drawing
+- https://madinkbeard.com/archives/ordinary-victories-2-by-manu-larcenet - coloring
+- https://imagetextjournal.com/four-conceptions-of-the-page/ - pacing
